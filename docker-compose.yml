@@ -1,0 +1,17 @@
+version: '3'
+
+services:
+  build:
+    image: klakegg/hugo:0.73.0
+    volumes:
+      - "./hugo:/src"
+      - "./public:/public"
+    environment:
+      - HUGO_DESTINATION=/public
+  server:
+    image: klakegg/hugo:0.73.0
+    command: server
+    volumes:
+      - "./hugo:/src"
+    ports:
+      - "1313:1313"

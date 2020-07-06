@@ -66,6 +66,7 @@ def main():
             content = page['text']
             content = process_kana_template(content)
             content = process_tiles_template(content)
+            content = process_info_block(content)
             # ":{{<" happens for the start of tiles string
             content = content.replace(':{{<', '{{<')
 
@@ -98,7 +99,6 @@ def main():
             f.write('+++\n\n')
 
             f.write(content)
-
         break
 
 
@@ -120,12 +120,22 @@ def process_tiles_template(content):
     return re.sub(regex, r'{{< t \1 >}}', content)
 
 
+def process_info_block(content):
+    """
+    Replace info block.
+    """
+    regex = r"{{Infobox ([\S\s]*?)}}"
+    return re.sub(regex, r'```\n\1```', content)
+
+
 def remove_escaping(content):
     """
-    Pandoc escaped shortnames that we created before
+    Pandoc escaped shortnames and wiki tags that we created before.
+    We want to revert these escaped symbols.
     """
     content = content.replace('{{\<', '{{<')
     content = content.replace('\>}}', '>}}')
+    content = content.replace('\`\`\`', '```')
     return content
 
 

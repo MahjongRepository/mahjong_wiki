@@ -2,3 +2,6 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Mahjogn Wiki"
 theme = "wiki"
+
+[params]
+  description = "Mahjogn Wiki"

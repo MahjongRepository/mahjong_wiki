@@ -4,3 +4,5 @@ kitchen==1.2.6
 mwclient==0.10.1
 requests==2.24.0
 lxml==4.5.1
+mistune==2.0.0a4
+python-slugify==4.0.1

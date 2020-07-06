@@ -1,3 +1,9 @@
 {{ define "main" }}
   {{ .Content }}
+  <ul>
+    {{ range .Site.RegularPages.ByTitle }}
+    <li><a href="{{ .Permalink }}">{{ .Params.title | humanize }}</a></li>
+    {{ end }}
+  </ul>
 {{ end }}
+

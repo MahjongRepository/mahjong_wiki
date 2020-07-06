@@ -1,7 +1,21 @@
 baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "Mahjogn Wiki"
 theme = "wiki"
 
-[params]
-  description = "Mahjogn Wiki"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 1
+
+    title = "Mahjogn Wiki"
+    description = "Mahjogn Wiki"
+    contentDir = "content/english"
+  [languages.ru]
+    languageName = "Русский"
+    weight = 2
+
+    title = "Маджонг wiki"
+    description = "Маджонг wiki"
+    contentDir = "content/russian"

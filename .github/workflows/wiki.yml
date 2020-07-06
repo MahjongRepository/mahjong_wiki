@@ -1,0 +1,14 @@
+name: Wiki
+on:
+  push:
+    paths:
+      - 'hugo/content/**'
+jobs:
+  run:
+    name: Run markdown linter
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Lint markdown
+        run: make lint-md

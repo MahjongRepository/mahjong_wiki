@@ -1,0 +1,1 @@
+All content of this older belongs to http://arcturus.su/wiki/Main_Page

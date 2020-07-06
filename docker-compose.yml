@@ -22,6 +22,6 @@ services:
       - "./hugo:/src"
   lint-md:
     image: tmknom/prettier:2.0.5
-    command: --parser=markdown --write '/src/content/**/*.md' --print-width 100 --prose-wrap always --check
+    command: --parser=markdown '/src/content/**/*.md' --print-width 100 --prose-wrap always --check
     volumes:
       - "./hugo:/src"

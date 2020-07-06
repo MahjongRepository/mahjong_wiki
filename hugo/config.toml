@@ -2,6 +2,7 @@ baseURL = "http://example.org/"
 theme = "wiki"
 
 defaultContentLanguage = "en"
+enableRobotsTXT = "true"
 
 [languages]
   [languages.en]

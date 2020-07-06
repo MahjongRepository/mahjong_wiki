@@ -1,5 +1,10 @@
 <footer class="footer mt-auto py-3">
-  <div class="container">
-    <span class="text-muted">&copy; {{ .Site.Title }} 2020</span>
+  <div class="container small text-muted">
+    <div class="row">
+      <div class="col">
+        <span>&copy; {{ .Site.Title }} 2020.</span>
+        <span>{{ i18n "licence" | safeHTML }}</span>
+      </div>
+    </div>
   </div>
 </footer>

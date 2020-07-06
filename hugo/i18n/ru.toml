@@ -3,3 +3,6 @@ other = "Переводы этой страницы"
 
 [main_page]
 other = "Главная страница"
+
+[licence]
+other = "Контент доступен по лицензии <a href=\"https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ru\" target=\"_blank\">Creative Commons Attribution Non-Commercial Share Alike</a>"

@@ -1,7 +1,6 @@
 baseURL = "http://example.org/"
 theme = "wiki"
 
-languageCode = "en-us"
 defaultContentLanguage = "en"
 
 [languages]

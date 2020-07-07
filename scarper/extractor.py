@@ -152,6 +152,7 @@ def main():
         u"Kindai Mahjong",
         u"M.League",
         u"Tenhou.net custom rooms",
+        u"Kyoku",
     ]
 
     current_directory = os.path.dirname(os.path.abspath(__file__))
@@ -184,62 +185,66 @@ def main():
     print('pages', len(pages.keys()))
 
     for key, page in pages.items():
+        # for debug
+        # if page['id'] != '3207':
+        #     continue
+
         title = page['title']
+        print(page['title'], page['id'])
 
         file_name = title.replace(' ', '_').replace('/', '__')
         with open(os.path.join(export_dir, '%s.wiki' % file_name), 'w') as f:
             f.write(page['text'].encode('utf-8'))
-        #
-        # slug = slugify(title)
-        # wiki_file_path = os.path.join('%s.wiki' % slug)
-        # md_file_path = os.path.join('%s.md' % slug)
-        # final_md_file_path = os.path.join(current_directory, '..', 'hugo', 'content', 'english', 'riichi', 'wiki', os.path.join('%s.md' % slug))
-        #
-        # print(page['id'], slug, title)
-        #
-        # with open(wiki_file_path, 'w') as f:
-        #     content = page['text']
-        #
-        #     categories, content = process_categories(content)
-        #
-        #     content = process_kana_template(content)
-        #     content = process_tiles_template(content)
-        #     content = process_template_blocks(content)
-        #     # ":{{<" happens for the start of tiles string
-        #     content = content.replace(':{{<', '{{<')
-        #
-        #     f.write(content.encode('utf-8'))
-        #
-        # subprocess.call([
-        #     "docker", "run", "--rm", "--volume", '%s:/data' % current_directory,
-        #     "pandoc/core:2.9.2.1",
-        #     wiki_file_path,
-        #     "-o", md_file_path,
-        #     "-f", "mediawiki",
-        #     "-t", "gfm",
-        #     "--wrap", "preserve"
-        # ])
-        #
-        # os.remove(wiki_file_path)
-        # os.rename(md_file_path, final_md_file_path)
-        #
-        # with open(final_md_file_path, 'r') as f:
-        #     content = f.read()
-        #
-        # content = remove_escaping(content)
-        #
-        # with open(final_md_file_path, 'w') as f:
-        #     content = process_wiki_links(content)
-        #
-        #     # insert header
-        #     f.seek(0, 0)
-        #     f.write('+++\n')
-        #     f.write('title = "%s"\n' % title)
-        #     f.write('id = "%s"\n' % page['id'])
-        #     f.write('categories = "%s"\n' % ", ".join(categories))
-        #     f.write('+++\n\n')
-        #
-        #     f.write(content)
+
+        slug = slugify(title)
+        wiki_file_path = os.path.join('%s.wiki' % slug)
+        md_file_path = os.path.join('%s.md' % slug)
+        final_md_file_path = os.path.join(current_directory, '..', 'hugo', 'content', 'english', 'riichi', 'wiki', os.path.join('%s.md' % slug))
+
+        with open(wiki_file_path, 'w') as f:
+            content = page['text']
+
+            categories, content = process_categories(content)
+
+            content = process_special_cases(content)
+            content = process_kana_template(content)
+            content = process_tiles_template(content)
+            content = process_template_blocks(content)
+            # ":{{<" happens for the start of tiles string
+            content = content.replace(':{{<', '{{<')
+
+            f.write(content.encode('utf-8'))
+
+        subprocess.call([
+            "docker", "run", "--rm", "--volume", '%s:/data' % current_directory,
+            "pandoc/core:2.9.2.1",
+            wiki_file_path,
+            "-o", md_file_path,
+            "-f", "mediawiki",
+            "-t", "gfm",
+            "--wrap", "preserve"
+        ])
+
+        os.remove(wiki_file_path)
+        os.rename(md_file_path, final_md_file_path)
+
+        with open(final_md_file_path, 'r') as f:
+            content = f.read()
+
+        content = remove_escaping(content)
+
+        with open(final_md_file_path, 'w') as f:
+            content = process_wiki_links(content)
+
+            # insert header
+            f.seek(0, 0)
+            f.write('+++\n')
+            f.write('title = "%s"\n' % title)
+            f.write('id = "%s"\n' % page['id'])
+            f.write('categories = "%s"\n' % ", ".join(categories))
+            f.write('+++\n\n')
+
+            f.write(content)
 
 
 def process_kana_template(content):
@@ -248,7 +253,7 @@ def process_kana_template(content):
     With our own shortcode.
     """
     regex = r"{{kana\|(.*?)}}"
-    return re.sub(regex, r'{{< kana \1 >}}', content)
+    return re.sub(regex, r'{{< kana "\1" >}}', content)
 
 
 def process_tiles_template(content):
@@ -256,16 +261,49 @@ def process_tiles_template(content):
     Replace mediawiki "mj" tiles extension
     With our own shortcode.
     """
+
+    # remove space at the start of string
+    content = content.replace('\n {{#mjt:', "\n{{#mjt:")
+
     regex = r"{{#mjt:(.*?)}}"
-    return re.sub(regex, r'{{< t \1 >}}', content)
+    for x in list(re.finditer(regex, content)):
+        group = x.group(0)
+        match = re.findall(regex, group)[0]
+
+        new_string = []
+        for i, symbol in enumerate(match):
+            """
+            replace
+            7'89s
+            with
+            -789s
+            because of difference between tiles hand visualizer
+            """
+            if symbol == "'":
+                new_string.insert(i-1, '-')
+                continue
+
+            new_string.append(symbol)
+
+        content = content.replace(group, ("{{< t %s >}}" % "".join(new_string)).encode('utf-8'))
+
+    return content
 
 
 def process_template_blocks(content):
     """
     Replace mediawiki template block with escaped text.
     """
+
+    # one line
     regex = r"{{(?!<)([\S\s]*?)}}"
-    return re.sub(regex, r'```\1```', content)
+    content = re.sub(regex, r'```\1```', content)
+
+    # multiline
+    regex = r"{{(?!<)([\S\s]*?)}}\n\n"
+    content = re.sub(regex, r'```\1```\n\n', content)
+
+    return content
 
 
 def process_wiki_links(content):
@@ -284,6 +322,11 @@ def process_categories(content):
     categories = re.findall(regex, content)
     content = re.sub(regex, r'', content)
     return categories, content
+
+
+def process_special_cases(content):
+    content = content.replace('|+ Sample successful attempts', '| Sample successful attempts')
+    return content
 
 
 def remove_escaping(content):

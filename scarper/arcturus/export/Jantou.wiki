@@ -1,0 +1,19 @@
+'''Jantou'''{{kana|雀頭}} means the pair in the winning hand.  In English, it can be referred to as "the pair" or the eye.  Every winning hand requires one jantou.  Even the irregular yakuman [[kokushi musou]] requires one jantou.  [[Chiitoitsu]] is a notable yaku, because it requires seven of them.
+
+== Fu ==
+Certain tile pairs produces [[fu]].  Each produces 2 fu.  Any other pair combinations not listed is worth 0 fu.
+
+* [[Sangenpai]] (Dragon)
+* [[Yakuhai|Jikazehai]] (Seat wind)
+* [[Yakuhai|Bakazehai]] (Round wind)
+
+Essentially, if these tiles were completed by drawing a third or [[pon]] was called, then they may qualify for [[yakuhai]], where appropriate.
+
+== Tanki ==
+
+:{{#mjt:234p444m6z}} {{#mjt:1'1155'5z}}  Waiting for: {{#mjt:6z}}
+
+Only one [[machi|wait pattern]] involves the pair directly: [[tanki]].  It is conveniently known in English as the "pair wait".  This pattern only arises, when the hand contains four complete [[tile groups]].
+
+==External links==
+[[Category:Terminology]]

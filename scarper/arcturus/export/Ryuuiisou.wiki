@@ -1,0 +1,54 @@
+{{Infobox yaku
+|type        = Yakuman
+|kanji       = 緑一色
+|english     = All green
+|value       = Yakuman
+|yakuSpeed   = Very slow
+|difficulty  = Very hard
+|yakuCombine = * [[Tenhou]]
+* [[Chihou]]
+* [[Suu ankou]]
+* [[Suu kantsu]]
+|gameExample = * [http://tenhou.net/0/?log=2013112316gm-0089-0000-f1fc96aa&tw=1 Ryuuiisou]
+* [http://tenhou.net/0/?log=2014011323gm-008f-0000-6fb5e4b1&tw=2&ts=0 Ryuuiisou] via [[rinshan]]
+* [http://tenhou.net/0/?log=2014081510gm-008b-0000-2359e4c4&tw=1&ts=7 Ryuuiisou] with [[furiten]]
+* [http://tenhou.net/0/?log=2014073011gm-0009-0000-3245cc77&tw=2&ts=2 Ryuuiisou] with [[suuankou tanki]]
+}}
+'''Ryuuiisou''' {{kana|緑一色}} is one of the standard [[List_of_yaku#Yakuman|yakuman]] hands. This hand consists of any four [[mentsu|tile groups]] and a [[jantou|pair]] that consists of only 2, 3, 4, 6, 8 of souzu and/or the [[hatsu|green dragon tiles]].  Literally, this hand is composed of "all green" painted tiles. This hand may be open or closed.
+
+==Tile diagram==
+{{#mjt: 2233446688s666z}} Winning tile: {{#mjt: 6s}} or {{#mjt: 8s}}
+
+===Open===
+{{#mjt: 2223344488s}} {{#mjt: 6'66s}} Winning tile: {{#mjt: 3s}} or {{#mjt: 8s}}
+
+This example is only possible under the common ruling of optional hatsu.
+
+==Value==
+This hand is a yakuman hand which automatically awards 32000 points to a non-dealer winner, or 48000 points to a dealer winner.
+
+==Formation==
+This yakuman is literally all green, as all the tiles are composed of green tiles.  No markings of other color are applied to these tiles, hence its designation as all green.  With this yakuman, only six tile types are available:
+* {{#mjt:23468s6z}}
+With the four melds and a pair pattern, at least, five out of the six tile types are needed to complete this yakuman.  It is possible to use all six tile types, when 2-3-4 were used as shuntsu.  Given six tile types to work with, it is impossible to form a [[chiitoitsu]] type pattern.  This aspect alone makes ryuuiisou a bit easier than [[chinroutou]], which is limited to the same number of tile types but not able to form shuntsu.
+
+===Furiten===
+[[Image:Ryuuiisou tenpai.png|thumb|250px|right|[http://tenhou.net/0/?log=2015012507gm-0009-7447-af613d7b&tw=1&ts=6 Choice] between [[jigoku]] or furiten.]]
+:{{#mjt:2344466688s666z}} Waiting for: {{#mjt:1s}} - {{#mjt:4s}} or {{#mjt:8s}}
+
+This hand may regularly be subject to [[furiten]], especially around the range of 1, 2, 3, 4, and 5 sou.  While it is necessary to discard 1 sou and 5 sou to build this yakuman, these discarded tiles may lead to a tenpai hand with furiten.  That may be particularly true for above example.
+
+=== Variation ===
+
+Some rules [[Yaku_variations#Ryuuiisou|require hatsu (green dragon)]] in the hand, among them [[JPML|JPML A]]. The more common rule includes hatsu within the hand.
+
+==External links==
+{{jpwiki|緑一色}}
+{{Youtube
+| url         = https://www.youtube.com/watch?v=IeDZ-cV7vQU
+| linkname    = 【麻雀】武中進の緑一色【役満】
+| description = Ryuuiisou at [[Nihon Pro Mahjong]].
+}}
+[[Category: Yaku]]
+
+{{Navbox yaku}}

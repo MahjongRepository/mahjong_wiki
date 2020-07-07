@@ -1,0 +1,19 @@
+Japanese Mahjong can be played on various internet sites.
+
+== Tenhou.net ==
+
+''Main article: [[Tenhou.net]]
+
+[http://tenhou.net Tenhou.net] is the most popular site to play with other people. It's all in Japanese, but there is extensive [http://arcturus.su/tenhou/ English documentation on arcturus.su].
+
+== Other sites ==
+
+* Ron2
+* Mahjong Time
+
+== Single-player games ==
+
+* The [http://www.gamedesign.jp/flash/mahjong/mahjong_e.html Flash game by Gamedesign]
+* On Tenhou, it's possible to play against three computers.
+
+The ever-popular [http://www.gamedesign.jp/flash/bamboo/bamboo.swf Bamboo Game] is a spinoff of Japanese Mahjong, played against a single computer opponent using only the 36 Souzu tiles. All hands are at least Chinitsu.

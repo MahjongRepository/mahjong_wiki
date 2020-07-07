@@ -1,0 +1,322 @@
+[[Tenhou.net]] uses a ranking system, where players are ranking according to two criteria.  The first criteria uses a combination of the '''kyuu ranking''' {{kana|級}} and the '''dan ranking''' {{kana|段}} systems.  The other criteria is the ELO system, indicated as R####.
+
+== Ranking system ==
+Tenhou.net uses two different number systems to determine player ranking: kyuu/dan ranks and the ELO system.  For every game, points may be awarded or deducted based on game placement (1st throught 4th).  The points awarded or deducted are noted in tables below.  Placing 1st or 2nd awards points, while 4th has points deducted.  Prior to the rank of 2級 (2-kyuu), players need not worry about point deductions.  Afterwards, that would no longer be the case.
+
+Every time a player moves up in rank, the points in Tenhou default to the value indicated at '''base points''' {{kana|初期pt}} column.  If those base points fall below zero, then the player drops a rank.  If the player attains enough points to surpass the '''target points''' {{kana|昇段pt}}, then a rank promotion occurs.
+
+===Account sharing policy===
+In general, account sharing is prohibited.  Every Tenhou account code is reserved on an individual player basis.  Any account found to have been shared will be warranted a ban from the ladder system.  However, accounts may be shared for use in private lobbies.
+
+===The R rating===
+At the very beginning, every player begins with a base rating of 1500.  That number increases or decreases based on wins or losses, as well as the relative rating of the other players.  The change in rating after each game is applied as follows:<ref>http://arcturus.su/tenhou/ids-ranks.html</ref>
+
+ Rating_change = Adjustment*(Base+(Average_table_rate - Own_rate)/40)
+ 
+ Adjustment = 1-(Games_played*0.002); if games played < 400, 0.2 if games played >=400
+
+To access the higher two lobbies, both '''tokujou''' {{kana|特上}} and '''houou''' {{kana|鳳凰 }} also require minimum ratings.  For tokujou, a 4-dan {{kana|四段}} may access the lobby with a minimum of 1800.  Houou players are required to retain a rating of 2000 or greater at a rank of 7-dan or better {{kana|七段}}.
+
+===Individual player statistics===
+Players with registered IDs have various statistics tracked by Tenhou.net.  These numbers can be read on the right side of the [[Tenhou.net#Game_lobby|lobby window]].
+[[Image:Tenhoustats.png|thumb|right|250px|Tenhou lobby with statistics.]]
+Statistics:<ref>http://osamuko.com/sex/</ref>
+{| class="wikitable"
+|-
+! English !! Japanese !! Description
+|-
+|colspan=3|''Upper section''
+|-
+|colspan=3|Player username at the top
+|-
+| Yuukoukigen || 有効期限 || Subscription status, for premium users.  Date of expiration shown.
+|-
+|colspan=2|Rank, points, and rate || 
+* Current [[Tenhou.net ranking|Tenhou rank]] displayed here
+* Current points / Points needed to the next rank
+* Current R####
+|-
+| Ichiiritsu  || １位率 || 1st place rate %
+|-
+| Niiritsu || ２位率 || 2nd place rate %
+|-
+| Sanritsu || ３位率 || 3rd place rate %
+|-
+| Yonritsu || ４位率 || 4th place rate %
+|-
+| Tobiritsu || 飛び率 || Negative points rate %
+|-
+|  || 対戦数 || Total number of games played, under the current username.
+|-
+| || 平均得点 || Average point gain
+|-
+| || 平均順位 || Average placement
+|-
+| Agariritsu || 和了率 || Hand win rate %
+|-
+| Houjuuritsu || 放銃率 || Deal in rate %
+|-
+| Nakiritsu || 副露率 || [[Naki|Tile call]] rate %
+|-
+| Riichiritsu|| 立直率 || [[Riichi]] rate %
+|-
+|colspan=3|''Lower section''
+|-
+|colspan=2 align=center|# + # + # + # = #戦 || Game count per month, broken down by 1st, 2nd, 3rd, and 4th places.
+|-
+| || R#### #####位 || Rate position ranking.  The R#### is the same displayed above.  The five digit number is placement relative to others in the same game mode.
+|-
+| Tsuusan<br>Heikin || 通算<br>平均 || Two columns labels for the four rows of statistics below.  Left (Tsuusan) is the raw.  Right (Heikin) is the average.
+|-
+| Tokuten || 得点 || Refers to the sum/average of the [[uma|end game]] +/- scores.
+|-
+| Junii || 通算 || 
+|-
+| || 収支 || Income.  Only for Jansou mode.
+|-
+|-
+| || 祝儀 || Chips.  Only for Jansou mode.
+|-
+| || 総合 || Total
+|-
+| Topritsu || トップ率 || This is the first place rate %.
+|-
+| Rentairitsu || 連対率 || Upper half rate %.  This factors the placement in 1st and 2nd.
+|-
+| Rasuritsu || ラス率|| Rasu, or last, is the rate % at which 4th place is attained.
+|}
+
+== Ladder scale ==
+{| class="wikitable" width=45% align=right
+! colspan=4 | Table key
+|-
+! width=15%| Kanji 
+! width=35%| English
+! width=15%| Kanji 
+! width=35%| English
+|-
+| 位 || Tenhou rank || 1位 || First place points
+|-
+| 初期pt || Base points || 2位 || Second place points
+|-
+| 東風戦 || East only || 3位 || Third place points
+|-
+| 東南戦 || East-South || 4位 || Fourth place points
+|-
+| 昇段pt || Target points  ||colspan=2 align=right|''Rank based on Tenhou points''
+|-
+| ▼ || colspan=3| Tenhou points set to next base points for next rank
+|}
+
+* Tenhou rank
+: Current ranking in Tenhou.net.
+* Base points
+: The starting amount of points for the current rank.
+* East only
+: Ranking columns for [[Tonpuusen|East-only]] games.
+* East-South
+: Ranking columns for [[Hanchan|full East-South]] games.
+* Target points
+: Number of points needed to achieve the next rank.
+* First place points
+: Tenhou points awarded for first place from one game.
+* Second place points
+: Tenhou points awarded for second place from one game.
+* Third place points
+: Tenhou points awarded for third place from one game.
+* Fourth place points
+: Tenhou points awarded for fourth place from one game.
+* Tenhou points set to next base points for next rank
+: Upon achieving the next rank, excess Tenhou points is dropped and reset to the next base points.
+
+=== Four player ===
+{| class="wikitable"
+|-
+! rowspan=2| 位 
+! rowspan=2| 初期pt 
+! colspan = 4| 東風戦
+! colspan = 4| 東南戦
+! rowspan=2| 昇段pt
+|-
+! 1位
+! 2位
+! 3位
+! 4位
+! 1位
+! 2位
+! 3位
+! 4位
+|-
+| align=center| 新人
+| align=center| 0 
+| rowspan=9 align=center| 一般<br>+20
+| rowspan=9 align=center| 一般<br>+10
+| rowspan=20 align=center| +0
+| align=center| 0
+| rowspan=9 align=center| 一般<br>+30
+| rowspan=9 align=center| 一般<br>+15
+| rowspan=20 align=center| +0 
+| align=center| 0 
+| align=center| 20
+|-
+| align=center| ９級 || align=center| 0 || align=center| 0 || align=center| 0 || align=center| 20 
+|-
+| align=center| ８級 || align=center| 0 || align=center| 0 || align=center| 0 || align=center| 20 
+|-
+| align=center| ７級 || align=center| 0 || align=center| 0 || align=center| 0 || align=center| 20 
+|-
+| align=center| ６級 || align=center| 0 || align=center| 0 || align=center| 0 || align=center| 40
+|-
+| align=center| ５級 || align=center| 0 || align=center| 0 || align=center| 0 || align=center| 60
+|-
+| align=center| ４級 || align=center| 0 || align=center| 0 || align=center| 0 || align=center| 80
+|-
+| align=center| ３級 || align=center| 0 || align=center| 0 || align=center| 0 || align=center| 100
+|-
+| align=center| ２級 || align=center| 0 || align=center| -10 || align=center| -15 || align=center| 100
+|-
+| align=center| １級 
+| align=center| 0
+| rowspan=4 align=center| 上級<br>+40
+| rowspan=4 align=center| 上級<br>+10
+| align=center| -20 
+| rowspan=4 align=center| 上級<br>+60
+| rowspan=4 align=center| 上級<br>+15
+| align=center| -30 
+| align=center| 100
+|-
+| align=center| 初段 || align=center| 200 || align=center| -30 || align=center| -45 || align=center| 400▼
+|-
+| align=center| 二段 || align=center| 400 || align=center| -40 || align=center| -60 || align=center| 800▼
+|-
+| align=center| 三段 || align=center| 600 || align=center| -50 || align=center| -75 || align=center| 1200▼
+|-
+| align=center| 四段 
+| align=center| 800 
+| rowspan=3 align=center| 特上<br>+50
+| rowspan=3 align=center| 特上<br>+20
+| align=center| -60 
+| rowspan=3 align=center| 特上<br>+75
+| rowspan=3 align=center| 特上<br>+30 
+| align=center| -90
+| align=center| 1600▼
+|-
+| align=center| 五段 || align=center| 1000 || align=center| -70 || align=center| -105 || align=center| 2000▼
+|-
+| align=center| 六段 || align=center| 1200 || align=center| -80 || align=center| -120 || align=center| 2400▼
+|-
+| align=center| 七段 
+| align=center| 1400
+| rowspan=4 align=center| 鳳凰<br>+60
+| rowspan=4 align=center| 鳳凰<br>+30
+| align=center| -90 
+| rowspan=4 align=center| 鳳凰<br>+90
+| rowspan=4 align=center| 鳳凰<br>+45
+| align=center| -135 
+| align=center| 2800▼
+|-
+| align=center| 八段 || align=center| 1600 || align=center| -100 || align=center| -150 || align=center| 3200▼
+|-
+| align=center| 九段 || align=center| 1800 || align=center| -110 || align=center| -165 || align=center| 3600▼
+|-
+| align=center| 十段 || align=center| 2000 || align=center| -120 || align=center| -180 || align=center| 4000▼
+|-
+| align=center| 天鳳位
+| colspan=10 align=center| Highest rank possible
+|}
+
+=== Three player ===
+{| class="wikitable"
+|-
+! rowspan=2| 位 
+! rowspan=2| 初期pt 
+! colspan = 3| 東風戦
+! colspan = 3| 東南戦
+! rowspan=2| 昇段pt
+|-
+! 1位
+! 2位
+! 3位
+! 1位
+! 2位
+! 3位
+|-
+| align=center| 新人
+| align=center| 0 
+| rowspan=9 align=center| 一般<br>+30
+| rowspan=20 align=center| +0
+| align=center| 0
+| rowspan=9 align=center| 一般<br>+45
+| rowspan=20 align=center| +0 
+| align=center| 0 
+| align=center| 30
+|-
+| align=center| ９級 || align=center| 0 || align=center| 0 || align=center| 0 || align=center| 30 
+|-
+| align=center| ８級 || align=center| 0 || align=center| 0 || align=center| 0 || align=center| 30 
+|-
+| align=center| ７級 || align=center| 0 || align=center| 0 || align=center| 0 || align=center| 60 
+|-
+| align=center| ６級 || align=center| 0 || align=center| 0 || align=center| 0 || align=center| 60
+|-
+| align=center| ５級 || align=center| 0 || align=center| 0 || align=center| 0 || align=center| 60
+|-
+| align=center| ４級 || align=center| 0 || align=center| 0 || align=center| 0 || align=center| 90
+|-
+| align=center| ３級 || align=center| 0 || align=center| 0 || align=center| 0 || align=center| 100
+|-
+| align=center| ２級 || align=center| 0 || align=center| -10 || align=center| -15 || align=center| 100
+|-
+| align=center| １級 
+| align=center| 0
+| rowspan=4 align=center| 上級<br>+50
+| align=center| -20 
+| rowspan=4 align=center| 上級<br>+75
+| align=center| -30 
+| align=center| 100
+|-
+| align=center| 初段 || align=center| 200 || align=center| -30 || align=center| -45 || align=center| 400▼
+|-
+| align=center| 二段 || align=center| 400 || align=center| -40 || align=center| -60 || align=center| 800▼
+|-
+| align=center| 三段 || align=center| 600 || align=center| -50 || align=center| -75 || align=center| 1200▼
+|-
+| align=center| 四段 
+| align=center| 800 
+| rowspan=3 align=center| 特上<br>+70
+| align=center| -60 
+| rowspan=3 align=center| 特上<br>+105
+| align=center| -90
+| align=center| 1600▼
+|-
+| align=center| 五段 || align=center| 1000 || align=center| -70 || align=center| -105 || align=center| 2000▼
+|-
+| align=center| 六段 || align=center| 1200 || align=center| -80 || align=center| -120 || align=center| 2400▼
+|-
+| align=center| 七段 
+| align=center| 1400
+| rowspan=4 align=center| 鳳凰<br>+90
+| align=center| -90 
+| rowspan=4 align=center| 鳳凰<br>+135
+| align=center| -135 
+| align=center| 2800▼
+|-
+| align=center| 八段 || align=center| 1600 || align=center| -100 || align=center| -150 || align=center| 3200▼
+|-
+| align=center| 九段 || align=center| 1800 || align=center| -110 || align=center| -165 || align=center| 3600▼
+|-
+| align=center| 十段 || align=center| 2000 || align=center| -120 || align=center| -180 || align=center| 4000▼
+|-
+| align=center| 天鳳位
+| colspan=8 align=center| Highest rank possible
+|}
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [http://tenhou.net/ranking.html Ranking tables]
+* [http://arcturus.su/tenhou/ids-ranks.html Ranking documentation]
+* [http://arcturus.su/tenhou/ranking/ Tenhou ranking tool]
+
+[[Category:Tenhou.net]]

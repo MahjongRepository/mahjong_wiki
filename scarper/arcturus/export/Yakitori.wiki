@@ -1,0 +1,7 @@
+[[Image:Yakitori.jpg|thumb|right|300px|Yakitori markers.]]
+'''Yakitori''' {{kana|焼き鳥}} is a [[Japanese mahjong|game]] state, where a player failed [[Agari|to win a hand]] during the [[hanchan|course of a game]].  In many cases, this sort of game may leave a player feeling rather "empty".  In some gambling situations, playing a yakitori game may result in a penalty after the game with a specified severity.  Sometimes, players may use specialized "yakitori markers" as indicators.  The instant a player wins a hand, then the marker is flipped over.
+
+Usually, yakitori does not result in a winning game.  A exceptionally rare exception would involve a game with point gains via [[ryuukyoku]] while avoiding any point losses and opposing players won hands with meager gains.
+
+[[Category:Game rules]]
+[[Category:Terminology]]

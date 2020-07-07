@@ -1,0 +1,102 @@
+'''Sekinin barai''' {{kana|責任払い}}, or the rule of '''pao''' {{kana|パオ}}, forces the player whose discard is used to form an apparent [[yakuman]] to be liable for either partial or full payment of the hand if the player who called said discard wins the round. Generally, this applies to aiding the formation of certain [[yakuman]] hands, however, there also exists a variation that applies to [[rinshan kaihou]] after a [[daiminkan]]. The most common occurrence of sekinin barai involves the yakuman, [[daisangen]].
+
+== Sekinin barai for yakuman ==
+[[Image:Pao.png|250px|thumb|right|[http://tenhou.net/0/?log=2012050716gm-0009-0000-85fac029&tw=0&ts=2 Pao rule applied].]]
+
+=== Point exchanges ===
+There are two possible scenarios when it comes to how points are exchanged:
+* If the yakuman is later won by tsumo, the liable player will pay the full amount of the hand, including any extra points for [[honba]]. This is as if ron was called against the liable player.
+* If the yakuman is later won by ron against a non-liable player, that player will pay half the value of the hand, including any extra points for honba. The liable player will pay the other half of the hand.
+
+If playing with rule sets that recognize [[multiple yakuman]], sekinin barai may be invoked only on certain yakuman. Point exchanges happen independently for each yakuman scored with extra points for any honba paid only once. Honba payments are conducted as normal for any normally scored yakuman among the winning hand.
+
+=== Yakumans with sekinin barai ===
+
+==== Daisangen ====
+If a player has called two [[mentsu]] of [[sangenpai|dragon tiles]] calls for a koutsu/kantsu of the third dragon type, upgrading their hand to an apparent daisangen, the player who dealt into the third dragon call is deemed liable for full payment if the calling player later wins the hand.
+
+: {{#mjt:8s}}, last: {{#mjt:777'z}}, formers: {{#mjt:55'5z}} {{#mjt:1'23p}} {{#mjt:6'66z}}
+: Shimocha feeds the last set of dragon-tile triplet, he becomes the liable player.
+
+==== Daisuushi ====
+If a player has called three mentsu of [[kazehai|wind tiles]] calls for a koutsu/kantsu of the fourth wind type, upgrading their hand to an apparent daisuushii,  the player who dealt into the fourth wind call is deemed liable for full payment if the calling player later wins the hand.
+
+: {{#mjt:5p}}, last: {{#mjt:22'2z}}, formers: {{#mjt:1'11z}} {{#mjt:4'44z}} {{#mjt:333"z}}
+: Toimen becomes liable player with confirming the fourth wind-tile triplet.
+
+=== Judgement of liability ===
+A misunderstanding happens frequently when the last required set was melded with a daiminkan, since this seems to suggest that such liability should no longer be applied, due to the fact that the yakuman already exists even without daiminkan. To understand how liability works with "the responsibility of completing an ensured yakuman", it is better to switch to opponent's view: if a yakuman is ensured in opponent's view, the relationship of liability will be established.
+
+'''Example''':
+
+Supposing a player completed a daisangen, and the hand looks like the following one in his view:
+: {{#mjt:1234m}}, last: {{#mjt:666'6z}}, second: {{#mjt:5'55z}}, first: {{#mjt:77'7z}} (Main perspective)
+Toimen becomes the liable player as the fact that he becomes the feeder of last sangenpai set. But one may try to point out that a yakuman is already completed before this daiminkan happens, which looks like in main perspective's view:
+: {{#mjt:1234m666z}}, second: {{#mjt:5'55z}}, first: {{#mjt:77'7z}} (Main perspective)
+Though such proposing is incorrect. The point is, any of other opponents can never know the actual combination of main perspective's hand. In opponent's view, it actually look like:
+: {{#mjt:0000000z}}, second: {{#mjt:5'55z}}, first: {{#mjt:77'7z}} (Opponent's view)
+It is apparently not an "ensured" yakuman (although it may probably be):
+:1. The hand doesn't suggest he "must" have a concealed triplet of hatsu: (This also suggests why kamicha, the feeder of second require set "haku", doesn't need to be liable for the yakuman hand.)
+:: {{#mjt:1234m111z}} {{#mjt:5'55z}} {{#mjt:77'7z}}
+:2. The hand may finally go like this afterwards since the player can discard hatsu and switch his ready tiles (even though this highly seems to not happen):
+:: {{#mjt:12345m66z}} {{#mjt:5'55z}} {{#mjt:77'7z}}
+In this case, since the daiminkan of hatsu finally confirmed an "ensured" daisangen hand in other's view and killed the other possible development of being a non-yakuman:
+: {{#mjt:0000z}}, last: {{#mjt:666'6z}}, formers: {{#mjt:5'55z}} {{#mjt:77'7z}} (Opponent's perspective)
+The relationship of liability is no-doubt established for toimen, for becoming the feeder of last required set.
+
+This rule also implies a useful strategy of gameplay:
+* If a melding confirms an ensured yakuman, the opponents should have avoided discarding such tile to get rid of the liability.
+* If a melding doesn't guarantee a yakuman, the opponents can discard it safely without liability.
+
+=== Yakumans without sekinin barai ===
+In general sekinin barai would not apply to other yakumans, due to the fact that yakuman is not ensured even with all required sets are melded. A common point for these yakuman hands is that they both have some limitation of toitsu (the head pair).
+
+==== Shousuushi ====
+: {{#mjt:4456s}} {{#mjt:4'44z}} {{#mjt:33'3z}} {{#mjt:2'22z}}
+: Honitsu + possible yakuhai hand. Shousuushi is not ensured.
+==== Tsuuiisou ====
+: {{#mjt:2s}} {{#mjt:6'66z}} {{#mjt:3'33z}} {{#mjt:77"7z}} {{#mjt:4'44z}}
+: Toitoi + yakuhai + honitsu hand. Tsuuiisou is not ensured.
+==== Chinroutou ====
+: {{#mjt:8m}} {{#mjt:111"p}} {{#mjt:1'11s}} {{#mjt:999'9m}} {{#mjt:999'p}}
+: Toitoi-nomi hand. Chinroutou is not ensured.
+==== Ryuuiisou ====
+: {{#mjt:1s}} {{#mjt:22'2s}} {{#mjt:4'23s}} {{#mjt:0z88s0z}} {{#mjt:66'6z}}
+: Honitsu + yakuhai hatsu hand. Ryuuiisou is not ensured.
+
+=== Sekinin barai for suukantsu ===
+Uncommonly found in rule sets, sekinin barai may be invoked on the player discarding into a fourth kantsu of a [[suukantsu]] hand: when there's a hand with 3 existed kantsu ([[sankantsu]]) and the player claimed the fourth daiminkan, the feeder of fourth kan becomes liable.
+
+: {{#mjt:3z}}, last: {{#mjt:6666'z}}, formers: {{#mjt:0z22s0z}} {{#mjt:3"33m}} {{#mjt:222'2p}}
+: Shimocha becomes liable for the fact that he completed an ensured suukantsu with his discard.
+
+Due to the criteria for recognizing sekinin barai, the precedential three kans must already exist, and the fourth kan will always be a daiminkan.
+
+: {{#mjt:3s}}, last: {{#mjt:44'44s}}, formers: {{#mjt:11'11s}} {{#mjt:6'666s}} {{#mjt:666'z}}, added kan {{#mjt:6z}} afterwards
+: Toimen doesn't become liable, the melding doesn't confirm a suukantsu at that moment, even with an added kan afterwards which completed suukantsu. <ref group="note" name="note 1">
+Tenhou used to suggest [http://tenhou.net/0/?log=20070224gm-000b-0000-6388336d&tw=3&ts=5 such controversal liability relationship] in early years. This rule was soon deprecated after then.
+</ref>
+
+: {{#mjt:1s}}, last: {{#mjt:2"22p}}, formers: {{#mjt:4444'z}} {{#mjt:0z33p0z}} {{#mjt:22"2s}}
+: Kamicha doesn't become liable, suukantsu is not completed yet at the moment when he discarded 2-pin. It was a pon of 2-pin and the hand is only a sankantsu, even though an added kan of 2-pin happens afterwards.
+
+Though such pao rule is not commonly used, as in fact it's hard for opponents to figure out which tile was exactly needed to complete suukantsu. That being said, even though the opponents clearly know they should prevent to feed a fourth kan by avoiding discarding raw unpaired tiles, this may still lead to a plenty of uncertain choices, while unlike the other yakumans they usually have specific alternatives and can be easily avoided.
+
+== Sekinin barai for rinshan kaihou ==
+Daiminkan pao for [[rinshan kaihou]] is a variation of the rule. Normally, rinshan kaihou would be scored as a regular tsumo, however this variation forces the player whose discard is called to form a daiminkan to be liable for the full amount of the payment in the event the calling player wins by rinshan tsumo. If rinshan tsumo is not achieved, play continues normally with no player being deemed liable for sekinin barai. While uncommon, some professional mahjong associations use this rule.
+
+== References ==
+'''Notes''':
+<references group="note"/>
+
+== External links ==
+{{jpwiki|責任払い}}
+{{jpwiki|四槓子#四槓子の包|Suukantsu's pao rule}}
+===Examples===
+* [http://tenhou.net/0/?log=2012050716gm-0009-0000-85fac029&tw=0&ts=2 daisangen ron pao]
+* [http://tenhou.net/0/?log=2015010313gm-0009-0000-21763319&tw=2&ts=1 daisangen tsumo pao]
+* [http://tenhou.net/0/?log=2015020203gm-0009-0000-83091f89&tw=3&ts=6 daisuushii ron pao]
+* [http://tenhou.net/0/?log=2015012609gm-0089-0000-1956db78&tw=3&ts=10 suukantsu tsumo; no pao]
+
+[[Category:Terminology]]
+[[Category:Game rules]]

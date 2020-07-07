@@ -1,0 +1,10 @@
+'''Futari mahjong''' {{kana|二人麻雀}} may be a number of two-player variants to [[Japanese mahjong]].  At this point, there is no established ruleset governing this mode of game play.  However, some variations do exist, either in modified games or media, like TV shows.
+
+* [[Minefield mahjong|Minefield]]
+* [[Single suit mahjong|Single suit]]
+* [[Single suit modified]]
+
+== External links ==
+* [http://www.gamedesign.jp/flash/bamboo/bamboo.html Bamboo Mahjong]
+
+[[Category:Game rules]]

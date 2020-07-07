@@ -1,0 +1,8 @@
+'''Ryanhan shibari''' {{kana|二飜縛り}} is a [[Rule_variations#Ryanhan_shibari|modified rule]], which increases the [[han]] [[yaku|limit]] to qualify for winning hands.  In this rule, the minimum hand value is two han instead of one.  In addition, dora do not count for the han minimum.  Some [[house rules]] apply this throughout the game.  Others, such as the [[EMA rules]], apply it once the game reaches the fifth [[honba]], to increase the difficulty of [[renchan|dealer continuation]].
+
+==External links==
+[[Category:Terminology]]
+[[Category:Game rules]]
+
+* [https://ja.wikipedia.org/wiki/麻雀のルール#二飜縛り Ryanhan shibari]
+:'''Ryanhan shibari''' in [https://ja.wikipedia.org/ JP Wiki.]

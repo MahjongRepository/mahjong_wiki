@@ -1,0 +1,229 @@
+This is a list of [[Japanese mahjong]] video games.
+
+Template for additional row entries can be found here: [[Template:Videogamerow]]
+
+==List==
+{| class="wikitable sortable"
+|-
+! width=20%|Title
+! width=10%|Platform
+! width=15%|Developer
+! width=40%|Features 
+! width=5%|Year
+! width=5%|Link
+! width=5%|Ref
+<!--end to the table header, new entries below this line-->
+{{videogamerow
+|title     = e-Mahjong
+|platform  = PS4, PS4 Vita
+|developer = Arc System Works
+|year      = 2014
+|features  = 
+|url       = http://www.arcsystemworks.jp/e-mahjong/plus/
+|reference = 
+}}
+{{videogamerow
+|title     = Doman Mahjong
+|platform  = PC
+|developer = SquareEnix
+|year      = 2019
+|features  = Final Fantasy 14 minigame
+|url       = https://www.finalfantasyxiv.com/
+|reference = <ref>https://na.finalfantasyxiv.com/lodestone/playguide/contentsguide/goldsaucer/doman-mahjong/</ref>
+}}
+{{videogamerow
+|title     = [[Janryumon]]
+|platform  = Android, iPhone
+|developer = NCSoft
+|year      = 2007
+|features  = 
+|url       = http://www.ncsoft.jp/janryumon/
+|reference = 
+}}
+{{videogamerow
+|title     = Mahjong Dream Club
+|platform  = PS3, XBox 360
+|developer = D3Publisher
+|year      = 2012
+|features  =
+|url       =
+|reference = <ref>https://www.youtube.com/watch?v=039ElN0tpCM</ref>
+}}
+{{videogamerow
+|title     = [[Mahjong Fight Club]]
+|platform  = PS3, PSP, DS, Wii, arcade
+|developer = Konami
+|year      = 2002-2010
+|features  = Emulated games against featured mahjong pros, particularly from [[JPML]]
+|url       = http://www.konami.jp/products/mfc_vita/info.html
+|reference = <ref>http://www.gamefaqs.com/psp/925178-mahjong-fight-club</ref><ref>http://www.konami-digital-entertainment.co.jp/en/news/release/2013/0830_2/</ref>
+}}
+{{videogamerow
+|title     = [[Mahjong Fight Club|Mahjong Fight Club SP]]
+|platform  = Android, iPhone
+|developer = Konami
+|year      = 
+|features  = 
+|url       = http://www.konami.jp/products/mfc_sp/
+|reference = 
+}}
+{{videogamerow
+|title     = [[Mahjong Pretty Girls Battle]]
+|platform  = PC
+|developer = Zoo Corporation
+|year      = 2015
+|features  = 
+|url       = http://store.steampowered.com/app/338060/
+|reference = 
+}}
+{{videogamerow
+|title     = Maru-jan
+|platform  = PC
+|developer = SignalTalk
+|year      = 2004
+|features  = 
+|url       = http://www.maru-jan.com/
+|reference = 
+}}
+{{videogamerow
+|title     = [[Majsoul]]
+|platform  = PC, Android
+|developer = 
+|year      = 2018
+|features  = 
+|url       = http://www.majsoul.com/
+|reference = 
+}}
+{{videogamerow
+|title     = Maujong
+|platform  = Android
+|developer = Ishihata industry, inc.
+|year      = 2014
+|features  = 
+|url       = https://play.google.com/store/apps/details?id=com.ishihata_tech.android.mj2
+|reference = 
+}}
+{{videogamerow
+|title     = Nagomi Mahjong
+|platform  = Android, iPhone
+|developer = Zoo Corporation
+|year      = 2009
+|features  = 
+|url       = https://play.google.com/store/apps/details?id=jp.co.zoo.mahjong&hl=en
+|reference = <ref>http://geek-woman.com/wordpress/2010/01/14/nagomi-mahjong-lite-game-app-review/</ref>
+}}
+{{videogamerow
+|title     = Pairon
+|platform  = PC
+|developer = Extreme
+|year      = 
+|features  = 
+|url       = http://www.pairon.jp/
+|reference = 
+}}
+{{videogamerow
+|title     = [[R Mahjong]]
+|platform  = Android
+|developer = ARTTECH GAMES
+|year      = 2019
+|features  = Possibility to play with any combination of people and bots (via WIFI)
+|url       = https://play.google.com/store/apps/details?id=com.arttech.rmahjong
+|reference = 
+}}
+{{videogamerow
+|title     = [[Saikyo no Mahjong 3D]]
+|platform  = PC
+|developer = Unbalance
+|features  =
+|year      = 2007
+|url       = http://www.unbalance.co.jp/honkaku/smahjong3d/
+|reference = 
+}}
+{{videogamerow
+|title     = [[Saki]]
+|platform  = Android
+|developer = Neko Onna Games
+|year      = 2011
+|features  = 
+|url       = https://play.google.com/store/apps/details?id=mahjong.riichi&hl=en
+|reference = 
+}}
+{{videogamerow
+|title     = Simple Mahjong Online
+|platform  = Switch
+|developer = Arc System Works
+|year      = 2017
+|features  = 
+|url       = https://www.arcsystemworks.jp/simple_mahjong_online/
+|reference = <reF>https://nintendoeverything.com/tag/simple-mahjong-online</ref>
+}}
+{{videogamerow
+|title     = [[Tanoshii Nihon Mahjong]]
+|platform  = Android, iTunes
+|developer = 
+|year      = 2018
+|features  = 
+|url       = https://play.google.com/store/apps/details?id=com.xsyouxi.ribenmj
+|reference = 
+}}
+{{videogamerow
+|title     = [[Tengokuhai]]
+|platform  = Android
+|developer = Hangame
+|year      = 
+|features  = 
+|url       = https://play.google.com/store/apps/details?id=jp.co.hangame.s_mahjong&hl=en
+|reference = 
+}}
+{{videogamerow
+|title     = [[Tenhou.net|Tenhou]]
+|platform  = PC/Browser
+|developer = C-EGG
+|year      = 2006
+|features  = Free play, [[Tenhou.net ranking|Ranking system]], [[Tenhou.net custom rooms|Custom rooms]], [[Tenhou.net client|Downloadable client]]
+|url       = http://tenhou.net/
+|reference = 
+}}
+{{videogamerow
+|title     = [[Touhou Unreal Mahjong]]
+|platform  = PC
+|developer = D.N.A. Softwares
+|year      = 2009
+|features  = Character abilities, Hand reading quiz
+|url       = http://www.dna-softwares.com/thmj/index.html
+|reference = <ref>http://touhou.wikia.com/wiki/Touhou_Unreal_Mahjong</ref>
+}}
+{{videogamerow
+|title     = [[Touhou Gensou Mahjong]]
+|platform  = Switch
+|developer = D.N.A. Softwares
+|year      = 2019
+|features  = 
+|url       = https://thmj.dna-softwares.com/
+|reference = 
+}}
+
+{{videogamerow
+|title     = [[Yakuman DS]]
+|platform  = DS
+|developer = Intelligent Systems<br>Nintendo
+|year      = 2005
+|features  = Wi-Fi support (2006), Various game modes, Nintendo characters
+|url       = http://www.nintendo.co.jp/ds/amjj/index.html
+|reference = <ref>http://www.mariowiki.com/Yakuman_DS</ref><ref>http://www.gamefaqs.com/ds/924913-yakuman-ds</ref>
+}}
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+[[Category:Games]]
+
+{{jpwiki|麻雀ゲームソフト一覧}}
+{{Youtube
+| url         = https://www.youtube.com/watch?v=inMwG1xVZZ4
+| linkname    = Mahjong Video Games-Part 1: Overview and Tutorial
+| description = Overview at channel Game Escape
+}}
+* [http://mahjong.wikidot.com/video-games Wikidot list]

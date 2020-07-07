@@ -1,0 +1,62 @@
+{{Infobox yaku
+|type        = Yakuman
+|kanji       = 四暗刻<br>四暗刻単騎
+|english     = Four concealed triplets<br>Same with pair wait
+|value       = Yakuman
+|yakuSpeed   = Slow
+|difficulty  = Hard
+|yakuCombine = * [[Daisangen]]
+* [[Chinrotou]]
+* [[Shousuushii]]
+* [[Daisuushii]]
+* [[Ryuuiisou]]
+* [[Tsuuiisou]]
+|gameExample = * [http://tenhou.net/0/?log=2012110819gm-0009-7447-b68a0585&tw=2&ts=4 Not suuankou] <!--Would prefer non-yakuman but similar example here-->
+* [http://tenhou.net/0/?log=2012110112gm-0009-7447-14ec5c8d&tw=0&ts=4 Suuankou] with [[furiten]]
+* [http://tenhou.net/0/?log=2013061419gm-0089-0000-x0710ddfe09ea&tw=0&ts=8 Suuankou] via [[rinshan]]
+* [http://tenhou.net/0/?log=2014010419gm-0009-8919-926c60fa&tw=3 Suuankou tanki]
+}}
+
+'''Suuankou''' {{kana|四暗刻}} is one of the standard [[yakuman]] hands. As a direct translation, this hand consists of four concealed [[Mentsu#Ankou|triplets]] and a pair.  It is one of the three '''yakuman gosanke''' {{kana|役満御三家}}, or "the three big families of yakuman".  If the hand is on a [[shanpon]] wait, the winning tile must be a [[tsumo|self-drawn]] and not as a [[ron|discard]] of another player.  A win by discard may render the fourth triplet as an "open" triplet.  Thus, the condition for the yakuman would not be met.
+
+Then there is '''suuankou tanki''' {{kana|四暗刻単騎}}, which features the hand with a [[tanki]] [[Machi|wait]].  The hand in this state may win from another player's discard, and it'll still count for the yakuman.  In this case, all four triplets are present in the hand.  A hand of this pattern may count [[Multiple yakuman|double yakuman]], as an added [[Yaku_variations#Multiple_yakuman|variation]].
+
+For either type of suuankou, either the shanpon or the tanki variety, the hand must be closed only in order to count for yakuman.  So, none of the triplets must have been claimed from other players' discards.  An "all triplet" hand with open calls would then either count for [[toi toi]], [[sanankou]], or both.
+
+==Tile diagram==
+{{#mjt: 55666p11188s666z}} Agari: {{#mjt: 5p}} or {{#mjt: 8s}}. 
+
+Either tile must be won by tsumo.  Otherwise, this hand is [[toitoi]] and [[sanankou]].
+
+===Tanki===
+'''Example 1:'''
+:{{#mjt: 888p333444s9m222z}} Agari: {{#mjt:9m}}
+
+This wait is sometimes considered to be worth [[multiple yakuman|double yakuman]], if won by [[tsumo|self-draw]].  Either way, yakuman is likely guaranteed with the winning tile.  If the tanki wait is combined with [[Complex_machi#Ryanmen_with_tanki|additional patterns]], then the yakuman may not be guaranteed.
+
+'''Example 2'''
+
+:{{#mjt:333p2223777s}} {{#mjt:0z11s0z}} Agari: {{#mjt:1s}} (unavailable), {{#mjt:3s}}, and {{#mjt:4s}} <ref>http://tenhou.net/0/?log=2014120608gm-00c1-0000-0d17db7f&tw=0&ts=6</ref>
+
+Even with [[takame and yasume|multiple waits allowing the hand to win]], only one produces the yakuman.
+
+==Value==
+
+This hand is automatically a [[Scoring table|yakuman hand]], won by [[mentsumo|tsumo]] using a [[shanpon]] (tenpai holding two pairs) or any win if using a [[tanki]] (one tile waiting for a duplicate).  Variable rules may allow the tanki version to count double that of the yakuman points, if won via tsumo.
+
+==Formation==
+[[Image:Real suuankou.jpg|thumb|right|250px|Suuankou tsumo on 9-sou.]]
+
+All four of the triplets must be concealed for this hand to be counted as a yakuman.  [[Naki|Tile calls]] of [[kan|closed kans]] are acceptable, as the closed kan also counts as a closed triplet.  The difficulty of this yakuman stems from the need to draw at least 3 out of 4 of a single tile type, for four different tile types.  [[Naki|Discard calling]] to attain tiles immediately removes any chance of forming this yakuman.
+
+With a [[shanpon]] wait, one of the pairs is upgraded into a triplet.  If this method of completion is done by discard, then that fourth triplet is considered to be "open".  So instead of yakuman, the hand would instead be counted as a combination of [[toitoi]] and [[sanankou]], at least.
+
+==References==
+{{references}}
+
+==External links==
+{{jpwiki|四暗刻}}
+
+[[Category:Yakuman]]
+
+{{Navbox yaku}}

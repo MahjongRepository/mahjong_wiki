@@ -1,0 +1,1 @@
+'''Iikyokuen''' is a game mode, where game play is limited to a single hand.  This operates as a standard four player game, except there are no wind rotations.  Only one player is given the position of dealer; and the game ends upon the conclusion of the hand.

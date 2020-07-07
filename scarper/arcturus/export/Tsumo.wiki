@@ -1,0 +1,8 @@
+'''Tsumo''' may have several meanings.
+
+* Tsumo is the act of drawing a tile.
+* In [[paifu]] (play records) or hand patterns, tsumo may refer to a drawn tile or a winning drawn tile.
+* [[Naki|Tsumo]] is called to declare a win on a self-drawn tile.
+* [[Menzenchin tsumohou]] is usually shortened to ''tsumo'', referring to the [[List of yaku|yaku]] worth 1 han achieved by self-drawing with a closed hand.
+
+[[Category:Terminology]]

@@ -1,0 +1,147 @@
+'''Yaku''' {{kana|役}} are [[List of yaku|specific hand patterns or conditions]] needed in order to score a hand.  In a sense, they are synonymous to "poker hands".  Yet, unlike poker hands, yaku are worth specific "[[scoring|han values]]"; and various yaku may be combined together into one hand.  basic mahjong knowledge involves learning the yaku, but it is not expected of new players to know them.  '''Most importantly, every hand must include at least one yaku, in order to count as a winning hand'''.
+
+==Han==
+{{main|Scoring}}
+
+Each yaku is assigned han values.  Most have static values, regardless of the hand being closed or open.  However, some decrease in han value while being open.  Furthermore, some also require hands to remain closed in order to count.  For hands to maximize the total han value, different yaku may be combined into a single hand.
+
+===Open vs closed===
+{{main|Kuisagari}}
+
+Various yaku are affected by the hand's state of being open or closed.  After using the different [[naki|tile calls]], a yaku may be affected in terms of han value or even validity.  Various yaku, and even yakuman, are restricted to be closed only.  Others, they remain valid but their value is decreased by 1-han.  As for the rest, it is irrelevant whether the hand is open or closed.
+
+==Nomi==
+'''Nomi''' {{kana|ノミ}} is the state of the hand which contains only one yaku and no dora.  In other words, it is the lowest value (or second lowest value) for that particular yaku possible.  In general, this term can be appended to any of the yaku names as a suffix.  For example, '''riichi nomi''' {{kana|リーチノミ}} meaning "riichi only".  Usually, winning hands in this state are [[scoring|cheap low value hands]] worth only 1 or 2 [[han]].  Though, the term used for higher valued yaku, such as [[ryanpeikou]] or [[chinitsu]], are acceptable; but it's not generally used.  When [[dora]] is included in the hand, then the term is not applicable.  As for yakuman, the term nomi is not appended, due to the high scoring value.
+
+== Yaku types ==
+[[Image:Yaku example 00.png|right|250px]]
+[[Image:Yaku example 01.png|right|250px]]
+[[Image:Yaku example 02.png|right|250px]]
+[[Image:Yaku example 03.png|right|250px]]
+[[Image:Yaku example 04.png|right|250px]]
+[[Image:Yaku example 05.png|right|250px]]
+[[Image:Yaku example 06.png|right|250px]]
+[[Image:Yaku example 07.png|right|250px]]
+The different yaku focus on different types of patterns and circumstances.  They are mostly derived from the tiles within one's hand.  A number of yaku also involve the state of one's hand pertaining to the timing of certain tile draws and discards.
+
+=== Discard based ===
+These two are yaku because the hand is tenpai during specific discard timings.  Likewise, these two yaku can never be won via drawing a tile.
+
+* [[Chankan]]
+:Winning with a tile used for an [[shouminkan|added kan]] by another player.
+* [[Houtei raoyui]]
+:Winning off of the last possible discarded tile for the hand.
+
+=== Discretionary ===
+* [[Riichi]]
+: This is the only yaku, by which players have the option to declare or not.  Otherwise, hands may possibly [[damaten|win without it]], if it remains closed with other valid yaku.
+* [[Double riichi]]
+:This is essentially riichi, but with the added luck of the hand being tenpai upon the [[haipai|initial tile deal]], or the opening hand.
+
+=== Draw based ===
+These are yaku by virtue of the drawn tile.  Thus, these three can never be won [[Ron|directly from other players]].
+
+* [[Haitei raoyue]]
+:Winning with the last tile draw.
+* [[Menzenchin tsumohou]]
+:Drawing the winning tile with a closed hand.
+* [[Rinshan kaihou]]
+:Drawing a winning tile after a kan call.
+
+=== Honor based ===
+Honor based tiles depends on the use of honor tile groups.  Each of these cases also are mixed with the numbered tiles.
+
+* [[Honitsu]]
+:Honor tiles with one suit.
+* [[Honroutou]]
+:Honor tiles with terminals.
+* [[Shousangen]]
+:Specific collection of all three [[sangenpai|dragon types]].
+* [[Tanyao]]
+:No honors or (terminal) are used.
+* [[Yakuhai]]
+:Specific collection of any dragon, [[Jikaze|seat wind]], or round wind tiles.
+
+=== Riichi dependent ===
+Ippatsu cannot occur without a call for riichi.
+
+* [[Ippatsu]]
+:Winning on or before the next tile draw after riichi.
+
+=== Sequential ===
+These yaku either require [[shuntsu|sequential]] tile groups.
+
+* [[Iipeikou]]
+: By definition, this yaku uses two-identical sequences.
+* [[Ittsu]]
+: A complete string of 1-9 tile naturally use sequences.
+* [[Pinfu]]
+: Every tile group must be a sequence.
+* [[Ryanpeikou]]
+: By definition, this yaku uses two-identical sequences two times.
+* [[Sanshoku]]
+: By definition, this yaku uses three identically numbered sequences across the three suits.
+
+=== Terminal based ===
+These yaku revolve around [[routouhai|terminals]], or complete lack thereof.
+
+* [[Chanta]]
+:Every tile group with an honor or terminal.
+* [[Honroutou]]
+:Only honor and terminal groups.
+* [[Junchan]]
+:Every tile group with a terminal.
+* [[Nagashi mangan]]
+:Every discarded tile is either a [[terminal]] or [[honor]]
+* [[Tanyao]]
+:No terminals (or honors) are used.
+
+=== Triplet based ===
+These yaku require at least one [[Koutsu|triplet]] in order to be valid.
+* [[Sanankou]]
+: Three closed triplets.
+* [[Sankantsu]]
+: Requires three [[kan|quads]], which are considered as triplets plus one extra.
+* [[Sanshoku doukou]]
+: Needs three identically numbered triplets across the three suits.
+* [[Shousangen]]
+: Triplets of [[sangenpai|dragon tiles]].
+* [[Toitoi]]
+: Every tile group is a triplet.
+* [[Yakuhai]]
+: Counted when the hand contains a triplet of a valid honor tile, namely: any dragon triplet, appropriate [[Jikaze|seat wind]], or the current [[Jikaze|round wind]].
+
+=== Suit based ===
+
+* [[Honiisou]]
+: All tiles are the same suit or honor tiles.
+* [[Chiniisou]]
+: All tiles are the same suit.
+
+=== Yakuman ===
+{{main|Yakuman}}
+Yakuman is a special class of yaku, by which the pattern itself is awarded the maximum point limit for a single hand pattern.  These are among the most difficult to complete; and players may treat them as special.
+
+== Combining yaku ==
+{{main|Yaku compatability}}
+Different yaku may be implemented into a single hand.  By doing so, the values applied to the different yaku also combine.  In short, they stack.  This aspect of the game is key towards developing larger scoring hands.  With [[dora]], the stacking effect becomes even greater.
+
+== Optional yaku ==
+{{main|Optional yaku}}
+
+A list of '''optional yaku''' exist due to the game's complexity, which can further explore possible tile combinations and patterns.  Regardless, the yaku list noted above is the more commonly accepted list.
+
+==External links==
+{{jpwiki|役_(麻雀)}}
+* [https://en.wikipedia.org/wiki/Japanese_Mahjong_yaku Japanese mahjong yaku]
+: Wikipedia listing
+* [http://tenhou.net/sc/prof.html Yaku frequency among Tenhou.net players] ''(Japanese)''
+:Lists all the yaku occurrences in [[Tenhou.net]] by percentages and by room
+* [http://www.osamuko.com/top-10-hands-you-should-re-memorize-if-you-ever-lose-your-memory/ Yaku short list]
+: Pointing out which yaku to learn first
+
+[[Category:Terminology]]
+[[Category:Yaku]]
+[[Category:Scoring]]
+{{Navbox yaku}}
+{{Navbox yaku replays}}

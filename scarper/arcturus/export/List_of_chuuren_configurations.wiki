@@ -1,0 +1,61 @@
+This is a list of various iterations and permutations for the [[yakuman]], [[chuuren poutou]].  Only the pure chuuren produces a multiple tile wait, where the result produces yakuman.  For all others, a single tile type completes the yakuman, while any other waiting tiles results in [[chiniisou]].
+
+===Tenpai configurations===
+{| class="wikitable" width=100%
+|-
+! Row<br>(Agari-Extra) !! Tenpai !! Yakuman !! Chiniisou !! Machi
+|-
+|colspan=5 bgcolor="#AFCDFC" |
+|-
+| Pure ||align=center| {{#mjt:1112345678999m}} || Any numbered 1-9<br>(same suit) || None || [[Shanpon]], [[Tanki]], [[Penchan]], [[Ryanmen]]
+|-
+|colspan=5 bgcolor="#AFCDFC" |
+|-
+| 1-1 ||align=center| {{#mjt:1123345678999m}} || {{#mjt:1m}} || {{#mjt:24m}} || [[Kanchan]], Ryanmen
+|-
+|colspan=5 bgcolor="#AFCDFC" |
+|-
+| 1-2 ||align=center| {{#mjt:1122345678999m}} || {{#mjt:1m}} || {{#mjt:23m}} || Shanpon, Penchan
+|-
+|colspan=5 bgcolor="#AFCDFC" |
+|-
+| 1-3 ||align=center| {{#mjt:1123345678999m}} || {{#mjt:1m}} || {{#mjt:24m}} || Tanki, Kanchan, Ryanmen
+|-
+|colspan=5 bgcolor="#AFCDFC" |
+|-
+| 1-4 ||align=center| {{#mjt:1123445678999m}} || {{#mjt:1m}} || {{#mjt:369m}} || Shanpon, [[Ryanmenten]]
+|-
+|colspan=5 bgcolor="#AFCDFC" |
+|-
+| 1-5 ||align=center| {{#mjt:1123455678999m}} || {{#mjt:1m}} || {{#mjt:5m}} || Shanpon
+|-
+|colspan=5 bgcolor="#AFCDFC" |
+|-
+| 1-6 ||align=center| {{#mjt:1123456678999m}} || {{#mjt:1m}} || {{#mjt:47m}} || Tanki, Ryanmenten
+|-
+|colspan=5 bgcolor="#AFCDFC" |
+|-
+| 1-7 ||align=center| {{#mjt:1123456778999m}} || {{#mjt:1m}} || {{#mjt:45679m}} || Kanchan, Ryanmen, [[Sanmentan]]
+|-
+|colspan=5 bgcolor="#AFCDFC" |
+|-
+| 1-8 ||align=center| {{#mjt:1124356788999m}} || {{#mjt:1m}} || {{#mjt:8m}} || Shanpon
+|-
+|colspan=5 bgcolor="#AFCDFC" |
+|-
+| 1-9 ||align=center| {{#mjt:1123456789999m}} || {{#mjt:1m}} || {{#mjt:47m}} || Tanki, Ryanmenten
+|-
+|colspan=5 bgcolor="#AFCDFC" |
+|-
+| 3-4 ||align=center| {{#mjt:1112445678999m}} || {{#mjt:3m}} || None || Kanchan
+|-
+|colspan=5 bgcolor="#AFCDFC" |
+|-
+| 5-2 ||align=center| {{#mjt:1112234678999m}} || {{#mjt:5m}} || {{#mjt:23m}} || Ryanmen, [[Harabote]]
+|-
+|}
+
+The remaining configurations are all mirrors of the ones listed above.
+
+== External links ==
+[[Category:Yakuman]]

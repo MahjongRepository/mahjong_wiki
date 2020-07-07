@@ -1,0 +1,60 @@
+'''Atozuke''' {{kana|後付け}} is the state of a "yakuless" [[tenpai]] hand, that gains [[yaku]] upon the claim of a winning tile.  In other words, the current state of the hand does not produce yaku while tenpai.  It is also called '''sakizuke''' {{kana|先付け}}.
+
+The hand's [[machi|waiting patterns]] includes tiles which do produce valid hands.  Normally, this situation involves [[naki|open hands]].  These typically involve [[yakuhai]]; and naturally, other yaku may be involved as well.   The term may apply to closed hands, until it wins on a tile draw for [[mentsumo]].  The use of atozuke is subject to a variable rule, which may or may not allow its use.  That decision falls on a league, organization, or house rule.
+
+[[Rule variations#Atozuke|Rule variations]] allow organizations and/or tournament hosts to use atozuke.  More commonly, atozuke is allowed.
+
+== Cases ==
+Atozuke may be employed in a number of hands while in tenpai.  
+
+=== Examples ===
+For all these examples, the yaku of [[haitei]], [[houtei]], or even [[rinshan]], would render atozuke as moot, as yaku may apply to any needed winning tile.  So, if the hand draws the lesser desired tile, then the hand may not qualify for a win.  The same case applies for discards.  If a win is declared on the improper tile, then the penalty of [[chombo]] is invoked for winning a hand without a yaku.
+
+ {{#mjt:111m456789s99p55z}}  Agari: {{#mjt:9p}} or {{#mjt:5z}}
+
+This hand uses a [[shanpon]] tenpai for two tiles.  One may produce a yaku, while the other does not.  With [[mentsumo|tsumo]], then it does not matter as a closed tsumo is a yaku on its own.
+
+ {{#mjt:111m456s99p55z}} {{#mjt:7'89s}}  Agari: {{#mjt:9p}} or {{#mjt:5z}}
+
+This time, the same tiles from the above hand has an [[chii|open call]].  At it stands, it needs the haku in order to win.
+
+ {{#mjt:1112s111678p}} {{#mjt:11'1m}}  Agari: {{#mjt:2s}} or {{#mjt:3s}}
+
+This hand has an apparent yaku of [[sanshoku doukou]].  However, the latter wait of 3-sou would create a sequence of 1-2-3 sou, as it triggers the effect applied by [[yasume|the lesser valued tile]].  Suddenly, the required triplet of the three 1-sou disqualifies the apparent yaku.
+
+ {{#mjt:1234567s123p}} {{#mjt:2'13m}}  Agari: {{#mjt:1s}} or {{#mjt:4s}} or {{#mjt:7s}}
+
+[[Sanshoku]] is hinted at, however, the extended nobetan wait of 1-4-7s in the hand can ignore sanshoku on a 1s wait.
+
+=== Counter examples ===
+In these examples, atozuke is not used.  In these cases, the hands may win on any of the waiting tiles without the enforcement of the [[chombo]] penalty.  They each have valid yaku already embedded into the hand, regardless of their winning tiles.
+
+ {{#mjt:333m45678s99p}} {{#mjt:6'66z}}  Agari: {{#mjt:3s}} or {{#mjt:6s}} or {{#mjt:9s}}
+
+The open call on the [[hatsu|green dragon]] instantly gives the hand a yaku via [[yakuhai]]. 
+
+ {{#mjt:123s4567m123p}} {{#mjt:2'13m}}  Agari: {{#mjt:4m}} or {{#mjt:7m}}
+
+[[Sanshoku]] is already embedded in the hand.
+
+ {{#mjt:23444m33344z}} {{#mjt:11'1m}}  Agari: {{#mjt:1m}} or {{#mjt:4m}} or {{#mjt:4z}}
+
+This hand employs [[honitsu]].
+
+== Strategy ==
+[[Image:Atozuke risk.png|thumb|right|250px|"Wrong" tile drawn while using [http://tenhou.net/0/?log=2014081312gm-0089-0000-f23fb075&tw=2&ts=7 atozuke].]]
+
+Looking at the [[haipai|starting hand]], players may deliberately use atozuke.  Typically, open calls are used during [[tile efficiency|hand development]].
+
+=== Risk of furiten ===
+:{{#mjt:111m456s99p55z}} {{#mjt:7'89s}}  Draw: {{#mjt:9p}}
+Particularly, open yakuless hands run the risk of [[furiten]].  That is especially true if the above example draws a 9-pin during the course of the hand, when additional tile draws remain in the wall.  In this case, a player cannot declare a win and must discard any tile in the hand.  Upon doing so, the player becomes furiten and must work around it, by changing its hand composition with the remaining tile draws or other player discards.  Otherwise, the player needs to retain the hand at tenpai waiting for the appropriate winning tile or to let the hand end with [[ryuukyoku]].
+
+== External links ==
+<!-- {{jpwiki|完全先付け}} -->
+
+{{Navbox strategy}}
+
+[[Category:Terminology]]
+[[Category:Strategy]]
+[[Category:Game rules]]

@@ -1,0 +1,41 @@
+{{Infobox yaku
+|type        = Yaku
+|kanji       = 対々和<br>対々
+|english     = All triplets
+|value       = 2 han
+|yakuSpeed   = Medium
+|difficulty  = Easy
+|gameExample = * [http://tenhou.net/0/?log=2014080608gm-0089-0000-c7c0bd29&tw=0&ts=8 Toitoi] with [[sanshoku doukou]]
+}}
+'''Toitoihou''' {{kana|対々和}}, often shortened to '''toitoi''' {{kana|対々}} is a standard yaku.  In English, it is referred as "all triplets".  That's due in part with every [[mentsu|tile group]] to be composed of [[Mentsu#Koutsu|triplets]].  This hand is immune to any requirement involving the numbered suits or [[Jihai|honor tiles]].  Simply, any group of triplets would suffice.  In terms of [[han]], this yaku is [[kuisagari|not devalued while open]].  Players, whose hands containing multiple pairs, may be encouraged to call on tiles to complete triplets.  With in mind, this yaku also acquired the nickname of "pon palace".
+
+==Tile pattern==
+:{{#mjt:111444p88s77z}} {{#mjt:33'3z}} Agari: {{#mjt:8s}} or {{#mjt:7z}}
+
+===Closed toitoi===
+
+:{{#mjt:444z333p666s77m66z}} Agari: {{#mjt:7m}} or {{#mjt:6z}}
+
+If this hand wins by [[Menzenchin tsumohou|tsumo]], then it counts for the [[suuankou]] yakuman.  Otherwise, it's a toitoi mixed with [[sanankou]].
+
+==Formation==
+As the name implies, this yaku requires [[Mentsu#Koutsu|koutsu]].  Usually, this yaku is called open due to the ability for [[pon]] to claim discarded tiles from any player.
+
+=== Compatability ===
+{{main|Yaku compatability}}
+
+{{Yaku compatibility table|TOI}}
+
+Toitoi with [[mentsumo]] and [[junchan]] actually form yakuman, as [[suuankou]] and [[chinroutou]] respectively.  Toitoi with [[chanta]] forms [[honroutou]] instead.
+
+Toitoit is incompatible with any yaku requiring a sequence, meaning [[pinfu]], [[iipeikou]], [[ittsu]], [[sanshoku doujun]], [[ryanpeikou]], and [[chankan]] (since it can only win on a sequence wait). It also cannot be combined with [[chiitoitsu]], since it doesn't use [[mentsu]].
+
+=== Viability ===
+Naturally, this yaku can be developed when the [[haipai|start hand]], or later subsequent tile draws, produces a number of pairs or even triplets.  As the yaku requires, every tile group must be a triplet, which may be acquired via the tile draws or player discards (pon).  However, if the hand happens to develop with a concentration of pairs (normally 4 or 5 pairs), then a player may actually opt to develop [[chiitoitsu]] instead.  A hand with 6 pairs is already tenpai for chiitoitsu, which renders a chase for toitoi to be rather pointless.
+
+==External links==
+{{jpwiki|対々}}
+
+[[Category:Yaku]]
+
+{{Navbox yaku}}

@@ -1,0 +1,27 @@
+{{Infobox video game
+|image     = [[Image:Saikyo.PNG|250px]]
+|caption   = Game menu
+|publisher = Unbalance
+|developer = Unbalance
+|platform  = PC
+|year      = 2007<ref>http://nihonsphere.blogspot.com/2012/04/pc-gameunbalance-saikyo-no-mahjong-3d_03.html</ref>
+}}
+
+'''Saikyo no Mahjong 3D''' is a PC based [[Japanese mahjong]] software game by the company, Unbalance.
+
+== AI characters ==
+
+== Game features ==
+
+=== Controls ===
+
+== Options menu ==
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [http://www.unbalance.co.jp/honkaku/smahjong3d/ Official site]
+* [http://ininblog.blogspot.com/2012/11/lets-play-japanese-mahjong-riichi.html Blog entry]
+
+[[Category:Games]]

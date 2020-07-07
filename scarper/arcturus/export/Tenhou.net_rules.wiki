@@ -1,0 +1,260 @@
+The following is a translation of the rules used in [[Tenhou.net]].
+
+==The rules==
+{{jptranslationrow 
+| Japanese = 25000点開始の30000点返し
+| English  = Players start with 25000 points and must return 30000 points
+}}
+{{jptranslationrow 
+| Japanese = ウマ10-20
+| English  = [[Uma|Rank bonus]] of 10-20 
+}}
+{{jptranslationrow 
+| Japanese = 後付けあり
+| English  = [[Atozuke]] ari (in use)
+}}
+{{jptranslationrow 
+| Japanese = 喰い替えなし
+| English  = [[Kuikae]] nashi (not in use/banned)
+}}
+{{jptranslationrow 
+| Japanese = 喰い断なし/あり選択
+| English  = [[Kuitan]] ari or nashi option
+}}
+{{jptranslationrow 
+| Japanese = 赤なし/あり選択（五萬1枚/五筒1枚/五索1枚）
+| English  = [[Dora|Red dora]] ari or nashi option (1 of each of 5-man, 5-pin and 5-sou)
+}}
+{{jptranslationrow 
+| Japanese = ノーテン親流れ、聴牌連荘
+| English  = Noten dealers lose the dealership. Known as [[Renchan|tenpai renchan]].
+}}
+{{jptranslationrow 
+| Japanese = 東風戦の南入、東南戦の西入あり、以降誰かが30000点(供託未収)以上になった時点で終了(サドンデスルール)
+| English  = Sudden death brings the game into the next wind. As soon as someone attains 30,000 points (riichi deposits are removed from players' scores), the game ends.
+}}
+{{jptranslationrow 
+| Japanese = サドンデスの最大局は東風戦は南場まで、東南戦は西場まで
+| English  =  Sudden death in East Round only goes until South Round ends, in hanchan only goes until West Round ends.
+}}
+{{jptranslationrow 
+| Japanese = 飛びあり。点数がマイナスで飛び終了、マイナス点数も集計
+| English  = Busting out ends the game. Having a negative score ends the game. Negative scores are recorded as such.
+}}
+{{jptranslationrow 
+| Japanese = ラス親トップの自動和了り止め、自動聴牌止めあり
+| English  = In all-last hands, if the dealer is winning, the game automatically stops on both dealer wins and dealer tenpai hands.
+}}
+{{jptranslationrow 
+| Japanese = 終了時の得点は1000点未満を四捨五入
+| English  = At the end of a game, points are rounded to the closest thousand, "4 down, 5 up".
+}}
+{{jptranslationrow 
+| Japanese = 終了時の供託はトップ取り
+| English  = At the end of the game, riichi deposits go to 1st place.
+}}
+{{jptranslationrow 
+| Japanese = 終了時に同点の場合は東1局の風順で順位を決定
+| English  = At the end of the game, if there is a tie, the tie is broken in favor of the person having the earlier dealership.
+}}
+{{jptranslationrow 
+| Japanese = 連風牌は４符
+| English  = A pair of a double wind is worth 4 fu.
+}}
+{{jptranslationrow 
+| Japanese = 嶺上ツモも２符加算
+| English  = Winning with the rinshan tsumo tile is also worth 2 fu (same as self-pick, not extra).
+}}
+{{jptranslationrow 
+| Japanese = 2飜縛りなし/常に1飜縛り
+| English  = [[Ryanhan shibari|No 2-han minimum rule]]. Hands always require a 1-han yaku or better.
+}}
+{{jptranslationrow 
+| Japanese = 途中流局(九種九牌/四家立直/三家和了/四槓散了/四風連打)あり。すべて連荘
+| English  = Abortive draws (Nine terminals abortion, four riichi calls, three ron calls, four kans (separate), four same wind discards) allowed. All count as renchan.
+}}
+{{jptranslationrow 
+| Japanese = 九種九牌はポン/カン/チー/暗槓のない第1ツモで幺九牌が9種以上
+| English  = Nine terminals abortive draw requires 9 or more different terminals, on the first turn before any pon, kan, chii calls or ankan formed.
+}}
+{{jptranslationrow 
+| Japanese = 流し満貫あり。聴牌清算を満貫清算に代替。親の聴牌で連荘。
+| English  = [[Nagashi mangan]] allowed. Tenpai payments are replaced by the mangan payment. Dealer tenpai counts as renchan.
+}}
+{{jptranslationrow 
+| Japanese = 流し満貫は、自分の河が鳴かれていない場合に成立。自分が鳴いた場合でも成立。
+| English  = Nagashi mangan: No one can call from your tile, but you can call other people's tiles.
+}}
+{{jptranslationrow 
+| Japanese = ダブロンあり。積み棒/供託は上家取り。
+| English  = [[Double ron|Double rons]] allowed. Repeats and deposits go to the next closest player.
+}}
+{{jptranslationrow 
+| Japanese = ダブロンは親が含まれれば連荘
+| English  = Double rons occuring with the dealer winning are counted as [[renchan]]. 
+}}
+{{jptranslationrow 
+| Japanese = 大三元/大四喜のパオあり。複合役満を含む得点を、ツモ＝全額・ロン＝折半で支払う。積み棒は包。
+| English  = [[Pao]] is enforced on [[daisangen]] and [[daisuushii]]. Multiple yakuman still count. Tsumo win  responsible player pays all, ron win  responsible player pays half. Related repeats also paid by the responsible player ([http://tenhou.net/0/?log=2014102312gm-00c1-0000-afb21fa5&tw=3&ts=2 example]).
+}}
+{{jptranslationrow 
+| Japanese = 四槓子のパオなし
+| English  = No pao on [[suukantsu]].
+}}
+{{jptranslationrow 
+| Japanese = 形式聴牌あり。5枚目を待つ聴牌あり(打牌選択可能な手牌で4枚使用している牌を除く)。
+| English  = [[Keishiki tenpai]] ari. Your tenpai may include a wait for a "5th tile" (however, this does not include the case when the 4 available tiles for said wait are included in your hand).
+}}
+{{jptranslationrow 
+| Japanese = リーチ宣言は得点が1000点以上でツモ巡がある場合に可能
+| English  = You need at least 1000 points and a next turn to pick (4 or more tiles in the wall) to declare riichi.
+}}
+{{jptranslationrow 
+| Japanese = リーチ宣言牌で放銃した場合は供託料は発生しない
+| English  = If the tile that was used to declare riichi is won off, no deposit is given out.
+}}
+{{jptranslationrow 
+| Japanese = 振聴リーチあり
+| English  = Furiten riichi allowed. 
+}}
+{{jptranslationrow 
+| Japanese = リーチ後の当たり牌見逃しは以降振聴
+| English  = After riichi, letting a winning tile pass makes the hand furiten.
+}}
+{{jptranslationrow 
+| Japanese = リーチ後の縛りをクリアしない和了型になる牌は常に見逃し以降振聴(二飜以上縛り時)
+| English  = In shibari rulesets, a passed tile that doesn't clear the shibari restriction while in riichi, furiten is applied.
+}}
+{{jptranslationrow 
+| Japanese = リーチ後の待ちが変わる暗槓不可、送り槓不可、牌姿が変わる暗槓あり。
+| English  = Waits cannot be changed by ankan, while in riichi.
+}}
+{{jptranslationrow 
+| Japanese = カンドラ/カン裏あり
+| English  = Kan dora and kan ura dora allowed.
+}}
+{{jptranslationrow 
+| Japanese = カンドラは、暗槓は即乗り、明槓/加槓は後めくり（打牌または続く嶺上の直前）
+| English  = Kan dora are flipped as follows: from ankan immediately, from minkan and from kakan are shown after discarding or picking a new replacement tile. 
+}}
+{{jptranslationrow 
+| Japanese = 純正巡消しは発声＆和了打診後（加槓のみ)、嶺上ツモの前（連続する加槓の２回目には一発は付かない）
+| English  = When a call is made, normal turn order is interrupted after a possible ron declaration (in case of kakan) but before a replacement tile draw. (In case of consecutive kan, ron on the second kakan does not award ippatsu.)
+}}
+{{jptranslationrow 
+| Japanese = 同一巡内の選択ロン和了なし(加槓牌を含む)
+| English  = In the same turn, sniping for ron (aiming for a player who discarded in second) is not allowed. This includes extended kan tiles.
+}}
+{{jptranslationrow 
+| Japanese = 同巡振聴の解消は打牌時、逆巡副露では解消しない。
+| English  = Same-round furiten removal is at discarding a tile, claiming a tile in the reverse order does not remove it.
+}}
+{{jptranslationrow 
+| Japanese = 海底牌は鳴けない
+| English  = The last tile discarded cannot be called.
+}}
+{{jptranslationrow 
+| Japanese = 八連荘/人和/三連刻/一色三順/十三不塔/…なし 
+| English  = No [[paarenchan]], [[renhou]], [[sanrenkou]], [[iisou sanjun]], [[shiisanputa]], and any other [[optional yaku]].
+}}
+{{jptranslationrow 
+| Japanese = 追いつき有利は不採用
+| English  = Chasing riichi has no priority.
+}}
+
+===Added rules===
+'''Date:''' 2007/03/01
+{{jptranslationrow 
+| Japanese = 「5本場から二飜縛り」 「四槓子の包」を廃止
+| English  = Ryanhan shibari from 5 honba and four-kan responsibility have been abolished.
+}}
+
+'''Date:''' 2007/07/17
+{{jptranslationrow 
+| Japanese =  赤五筒を2枚から1枚に変更
+| English  = Two red 5-pin has been replaced with one red 5-pin.
+}}
+'''Date:''' 2007/11/29
+{{jptranslationrow 
+| Japanese =  「喰い替え」「リーチ後の送り槓」を禁止
+| English  = Kuikae (pick-and-switch) and using a kan post-riichi to shift waits are both forbidden.
+}}
+'''Date:''' 2009/07/04
+{{jptranslationrow 
+| Japanese =  局の最大を東風戦は南場まで、東南戦は西場までに変更
+| English  = Games are limited to one extra wind. East-wind games stop after South Round, hanchan games stop after West Round. (Previous limit was until the second North Round.)
+}}
+'''Date:''' 2009/08/01
+{{jptranslationrow 
+| Japanese =  順位ウマを10-20に統一
+| English  = Rank bonus has been consolidated to 10-20. (Previously, East-wind games were 5-10.)
+}}
+'''Date:''' 2010/06/01
+{{jptranslationrow 
+| Japanese =  ラス親トップの自動聴牌止めを導入
+| English  = Tenpai-yame (stopping the game with the lead after a tenpai settlement) has been introduced.
+}}
+
+==Three-player rules==
+These are the rules Tenhou uses for [[Sanma]].
+{{jptranslationrow 
+| Japanese = 35000開始の40000点返し
+| English  = Players start with 35000 points and must return 40000 points
+}}
+{{jptranslationrow 
+| Japanese = 順位ウマ +20, 0, -20 (東風戦/東南戦共通)
+| English  = [[Oka|Point spread]] is applied as +20 / 0 / -20
+}}
+{{jptranslationrow 
+| Japanese = 嶺上牌は8枚
+| English  = There are eight extra replacement tiles.
+}}
+{{jptranslationrow 
+| Japanese = 二萬～八萬を使用しない
+| English  = The character tiles from 2 to 8 are removed.
+}}
+{{jptranslationrow 
+| Japanese = ドラ表示「一萬」のドラは「九萬」、「九萬」のドラは「一萬」
+| English  = If the dora indicator is the 1 of characters, the dora is the 9 of characters, and vice versa.
+}}
+{{jptranslationrow 
+| Japanese = チーはできない
+| English  = You cannot call chii.
+}}
+{{jptranslationrow 
+| Japanese = 北は抜きドラ
+| English  = A called North counts as a dora.
+}}
+{{jptranslationrow 
+| Japanese = ポンの直後は抜けない
+| English  = You cannot call kita immediately after calling pon.
+}}
+{{jptranslationrow 
+| Japanese = 抜きは鳴きと同じ扱い(一発/地和/九種/両立直は消える)
+| English  = Calling kita counts as a call for disabling [[Ippatsu]], [[Chiihou]], [[Kyuushu kyuuhai]], and [[Daburu riichi|Double Riichi]].
+}}
+{{jptranslationrow 
+| Japanese = 抜いた北は役満以外でも和了可能
+| English  = You can call ron on a called North.
+}}
+{{jptranslationrow 
+| Japanese = 北を面子で使用した場合はオタ風
+| English  = North winds count as guest winds (for [[fu]]).
+}}
+{{jptranslationrow 
+| Japanese = 純正巡消しは発声＆和了打診後（加槓/抜き)、嶺上ツモの前とする
+| English  = If you call ron on a called North, you still get [[Ippatsu]]. Ippatsu is disabled after drawing the replacement tile.
+}}
+
+===Added rules===
+'''Date:''' 2008/02/25
+{{jptranslationrow 
+| Japanese = 沈みウマを廃止
+| English  = [[Uma]] has been abolished.
+}}
+
+==External links==
+*[http://tenhou.net/man/#RULE Tenhou manual page] (Japanese)
+
+[[Category:Game rules]]
+[[Category:Rule sets]]

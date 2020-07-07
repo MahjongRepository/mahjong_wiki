@@ -1,0 +1,1073 @@
+{{Infobox video game
+|image     = [[Image:Mahjsoullogo.png|250px]]
+|caption   = Majsoul logo
+|publisher = Yostar
+|developer = CATFOOD STUDIO
+|platform  = Browser
+|year      = 2018
+}}
+'''Majsoul''' (aka '''Mahjong Soul''', '''Jantama''') is a [[Japanese mahjong]] game platform developed by CATFOOD STUDIO and distributed by Yostar. The game has some resemblance to [[Janryumon]], in terms of graphics. The tile layout and graphical hands, as in "physical" hands, are displayed during game play.
+
+The platform functions as a gacha game.  Players may use in game currency to access various functions, such as items and ingame characters.  On occasion, periodical events are available for special items, characters, and/or bonuses.
+
+A tournament suite is available for users to become hosts and create their own tournaments.  The interface allows hosts to set up tournament systems and custom rules not available in the main platform.
+
+[[Image:Nekoface.png|250px|right|thumb|Emoticon panel used during games.]]
+== Ladder ==
+=== Rooms ===
+{| class="wikitable"
+|-
+! rowspan=2 | Room !! rowspan=2 | Required Rank !! colspan=2 | Required Copper Coins<br/>(Entry Limit / Entry Fee)
+|-
+! East !! South
+|-
+| Bronze Room || Novice, Adept || 0 / 0 || 0 / 0
+|-
+| Silver Room || Adept, Expert || 2500 / 500 || 3500 / 700
+|-
+| Gold Room || Expert, Master || 5000 / 1000 || 7000 / 1400
+|-
+| Jade Room || Master, Saint || rowspan="2" | 10000 / 2000 || rowspan="2" | 14000 / 2800
+|-
+| Throne Room || Saint, Celestial
+|- style="border-top: 3px double #aaa;"
+| Special Rooms || colspan="3" | <small style="color:#999;">(Depends on room requirements)</small>
+|}
+'''Notes''':
+* The coin requirement is applied as follows:
+** Entry Limit is the minimum coin permission to enter into a specific room.
+** Entry Fee is the actual cost when a match is started.
+* Players are not allowed to stream Jade Room / Throne Room matches in real-time. A delay of 5 minutes should be applied when performing a stream.
+* In-game Hints are disabled in Throne Room.
+* Matches in Special Rooms are not recorded in player's statistics and do not affect to player's rank.
+* Depends on room description, some special room matches may require copper coins. If required, requirement of copper coins is usually applied identically to Silver Room. Meanwhile, the progression of special room chests will be activated.
+
+=== Rank Upgrade ===
+{| class="wikitable" style="display:inline-table; margin-right:8px; white-space:nowrap;"
+|-
+! colspan=2 | Rank !! style="white-space:normal;" | Initial Pts !! style="white-space:normal;" | Upgrading Pts !! colspan=2 | Penalty of Last Place<br>(East / South)
+|-
+| rowspan=3 | Novice <br/> <small style="color:#999;">Shoshin</small> || ★ || rowspan=3 | 0 || 20 || rowspan=3 colspan=2 | 0 / 0
+|-
+| ★★ || 80
+|-
+| ★★★ || 200
+|-
+| rowspan=3 | Adept <br/> <small style="color:#999;">Janshi</small> || ★ || 300 || 600 || colspan=2 | 10 / 20
+|-
+| ★★ || 400 || 800 || colspan=2 | 20 / 40
+|-
+| ★★★ || 500 || 1000 || colspan=2 | 30 / 60
+|-
+| rowspan=3 | Expert <br/> <small style="color:#999;">Janketsu</small> || ★ || 600 || 1200 || colspan=2 | 40 / 80
+|-
+| ★★ || 700 || 1400 || colspan=2 | 50 / 100
+|-
+| ★★★ || 1000 || 2000 || colspan=2 | 60 / 120
+|-
+| rowspan=3 | Master <br/> <small style="color:#999;">Jangou</small> || ★ || 1400 || 2800 || colspan=2 | 80 / 165
+|-
+| ★★ || 1600 || 3200 || 90 / 180 <small style="color:#999;">(4P)</small> || 95 / 190 <small style="color:#999;">(3P)</small>
+|-
+| ★★★ || 1800 || 3600 || 100 / 195 <small style="color:#999;">(4P)</small> || 110 / 215 <small style="color:#999;">(3P)</small>
+|-
+| rowspan=3 | Saint <br/> <small style="color:#999;">Jansei</small> || ★ || 2000 || 4000 || 110 / 210 <small style="color:#999;">(4P)</small> || 125 / 240 <small style="color:#999;">(3P)</small>
+|-
+| ★★ || 3000 || 6000 || 120 / 225 <small style="color:#999;">(4P)</small> || 140 / 265 <small style="color:#999;">(3P)</small>
+|-
+| ★★★ || 4500 || 9000 || 130 / 240 <small style="color:#999;">(4P)</small> || 160 / 290 <small style="color:#999;">(3P)</small>
+|-
+| colspan=2 | Celestial <small style="color:#999;">Tamaten</small> || 10000 || - || 140 / 255 <small style="color:#999;">(4P)</small> || 175 / 320 <small style="color:#999;">(3P)</small>
+|}
+'''Notes''':
+* Players will not be downgraded in Novice rank, but will still lose upgrading points.
+* Players will not be downgraded in Celestial rank. The ranking is sorted by the current points.
+
+=== Calculations ===
+==== Calculation of End-Score Points ====
+* [[Oka_and_uma|Oka]] Points: Not applied
+* [[Oka_and_uma|Uma]] Points:
+** '''4P''': 1st <code>+15</code>, 2nd <code>+5</code>, 3rd <code>-5</code>, 4th <code>-15</code>
+** '''3P''': 1st <code>+15</code>, 2nd <code>±0</code>, 3rd <code>-15</code>
+* Starting Points: '''4P''' <code>25000</code>; '''3P''' <code>35000</code>
+
+Formula: <code><nowiki>
+EndScore = (MatchResult - StartingPts) / 1000 + UmaPts
+</nowiki></code>
+
+==== Calculation of Rank Points ====
+Formula: <code><nowiki>
+PtsGain = EndScore + RankPts
+</nowiki></code>
+
+The result is always rounded up to an integer. (e.g. +68.2 → <code>+69</code>, -1.9 → <code>-1</code>)
+
+{| class="wikitable" style="display:inline-table; margin-right:8px; white-space:nowrap;"
+|+ Rank Points
+|-
+! rowspan=2 | Room !! colspan=4 | 4P (East / South) !! colspan=3 | 3P (East / South)
+|-
+! 1st !! 2nd !! 3rd !! 4th !! 1st !! 2nd !! 3rd
+|-
+| Bronze Room || +10 / +20 || +5 / +10 || rowspan=5 | ±0 || rowspan=5 style="width:80px; white-space:normal;" | According to [[Majsoul#Rank Upgrade|Penalty]] on corresponding rank
+|| +15 / +30 || rowspan=5 | ±0 || rowspan=5 style="width:80px; white-space:normal;" | According to [[Majsoul#Rank Upgrade|Penalty]] on corresponding rank
+|-
+| Silver Room || +20 / +40 || +10 / +20 || +30 / +60
+|- 
+| Gold Room || +40 / +80 || +20 / +40 || +55 / +105
+|-
+| Jade Room || +55 / +110 || +30 / +60 || +75 / +160
+|-
+| Throne Room || +60 / +120 || +30 / +60 || +120 / +240
+|}
+
+==== Calculation of Copper Coins ====
+[[Image:Majsoul Calculation Copper-coins.png|250px|right|thumb|An example of Copper-coin's calculation]]
+The calculation of copper coins is a bit complex.
+
+The Entry Fee is always applied as long as a match is taken successfully, although it's not shown in the final result.
+
+For the Gain/Lost of match, the whole procedure is listed as follows:
+<ol>
+<li> Calculate End Score based on final point results.
+<li> Calculate Copper-coin lost for negative End Scores based on the exchange rate. The lost is always capped to a maximum lost (<code><nowiki>MaximumLost = EntryLimit - EntryFee</nowiki></code>) if exceeded the limit (<code><nowiki>EndScore < -40</nowiki></code>).
+{| class="wikitable" style="min-width:460px;"
+|-
+! colspan=2 | Room !! style="width:100px;" | Entry Limit / Entry Fee !! style="width:80px;" | Maximum Lost !! style="width:80px;" | Exchange Rate
+|-
+| colspan=2 | Bronze Room || 0 / 0 || - || -
+|-
+| Silver Room || East <br/> South || 2500 / 500 <br/> 3500 / 700 || 2000 <br/> 2800 || 50 <br/> 70
+|-
+| Gold Room || East <br/> South || 5000 / 1000 <br/> 7000 / 1400 || 4000 <br/> 5600 || 100 <br/> 140
+|-
+| Jade Room || East <br/> South || 10000 / 2000 <br/> 14000 / 2800 || 8000 <br/> 11200 || 200 <br/> 280
+|-
+| Throne Room || East <br/> South || 10000 / 2000 <br/> 14000 / 2800 || 8000 <br/> 11200 || 200 <br/> 280
+|- style="border-top: 3px double #aaa;"
+| Special Rooms <br/> <small style="color:#999;">(if necessary)</small> || East <br/> South || 2500 / 500 <br/> 3500 / 700 || 2000 <br/> 2800 || 50 <br/> 70
+|}
+<p>Formula: <code><nowiki>
+CoinsLost = EndScore<-40 ? MaximumLost : EndScore*ExchangeRate
+</nowiki></code></p>
+<li> Sum up the total lost.
+<li> Distribute the coins proportionally to other players based on End Score.
+<p>Formula: <code><nowiki>
+CoinsGain = Sum(CoinsLosts) * EndScore / Sum(PositiveEndScores)
+</nowiki></code></p>
+</ol>
+
+=== Chests ===
+{| class="wikitable"
+|-
+! rowspan=2 | Room !! rowspan=2 | Chest Name !! colspan=4 | 4P East !! colspan=4 | 4P South !! colspan=3 | 3P East !! colspan=3 | 3P South !! rowspan=2 | Required Pts<br/>to Open
+|-
+! 1st !! 2nd !! 3rd !! 4th !! 1st !! 2nd !! 3rd !! 4th !! 1st !! 2nd !! 3rd !! 1st !! 2nd !! 3rd
+|-
+| Silver Room || Silver Chest || +260 || +130 || +95 || +60 || +360 || +180 || +130 || +80 || +170 || +100 || +40 || +240 || +135 || +50 || 1000
+|-
+| Gold Room || Gold Chest || +260 || +130 || +95 || +60 || +360 || +180 || +130 || +80 || +170 || +100 || +40 || +240 || +135 || +50 || 1000
+|-
+| Jade Room || Jade Chest || +260 || +130 || +95 || +60 || +360 || +180 || +130 || +80 || +170 || +100 || +40 || +240 || +135 || +50 || 1000
+|-
+| Throne Room || Throne Chest || +260 || +130 || +95 || +60 || +360 || +180 || +130 || +80 || +170 || +100 || +40 || +240 || +135 || +50 || 1000
+|- style="border-top: 3px double #aaa;"
+| Special Rooms || Ichihime's Gift Box || +260 || +130 || +95 || +60 || +360 || +180 || +130 || +80 || +170 || +100 || +40 || +240 || +135 || +50 || 1000
+|}
+
+=== Chest Items ===
+{| class="wikitable"
+|-
+! Room !! Chest Name !! Available Items !! Quantity
+|-
+| Silver Room || Silver Chest || Green Presents, Spheres, rarely Blue Presents || 1-2
+|-
+| Gold Room || Gold Chest || Green Presents, Spheres, rarely Blue Presents || 1-2 
+|-
+| Jade Room || Jade Chest || Blue Presents, Spheres, sometimes Green Presents || 2 
+|-
+| Throne Room || Throne Chest || ? || ?
+|- style="border-top: 3px double #aaa;"
+| Special Rooms || Ichihime's Gift Box || ? || ?
+|}
+
+== Characters ==
+Currently there're 27 characters in game, including 19 females and 8 males.
+
+=== Available Characters ===
+==== Females ====
+<ul style="
+    display: grid;
+    grid-gap: 2em 1em;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    list-style: none;
+    /*width: -moz-fit-content; width: -webkit-fit-content; width: fit-content;*/
+    max-width: 2100px;
+    margin-top: 1em;
+    margin-left: 0;
+">
+
+<li>
+{{Majsoul/Character images|Ichihime|cos1=summer|cos2=spring}}
+'''Ichihime''' (一姫) <small style="color:#999;">(Default)</small>
+* Height: 154cm
+* Birth Date: ''January 11th''
+* Age: Unknown
+* Blood Type: A
+* Vocal: [[wikipedia:Maaya_Uchida|Maaya Uchida]] (内田真礼)
+* Interest: Food, Sleep
+<hr style="
+    width: calc(100% - 1.6em * 2);
+    height: 0;
+    margin: .2em auto 0;
+    border-top: 1px dashed #ccc;
+    background-color: transparent;
+"/>
+* Preferred Gifts: Cookies
+* Spheres for Bond: Innocence, Hope
+</li>
+
+<li>
+{{Majsoul/Character images|Miki Nikaidou|cos1=halloween|cos2=spring}}
+'''Miki Nikaidou''' (二階堂美樹) <small style="color:#999;">(Free)</small>
+* Height: 168cm
+* Birth Date: ''February 14th''
+* Age: 24
+* Blood Type: A
+* Vocal: [[wikipedia:Chiwa_Saitō|Chiwa Saitou]] (斎藤千和)
+* Interest: Gems, Hedgehog pets
+<hr style="
+    width: calc(100% - 1.6em * 2);
+    height: 0;
+    margin: .2em auto 0;
+    border-top: 1px dashed #ccc;
+    background-color: transparent;
+"/>
+* Preferred Gifts: Gems
+* Spheres for Bond: Love, Wisdom
+</li>
+
+<li>
+{{Majsoul/Character images|Chiori Mikami|cos1=christmas}}
+'''Chiori Mikami''' (三上千織)
+* Height: 143cm
+* Birth Date: ''May 23rd''
+* Age: 14
+* Blood Type: B
+* Vocal: [[wikipedia:Yuka Iguchi|Yuka Iguchi]] (井口裕香)
+* Interest: Teddy bears
+<hr style="
+    width: calc(100% - 1.6em * 2);
+    height: 0;
+    margin: .2em auto 0;
+    border-top: 1px dashed #ccc;
+    background-color: transparent;
+"/>
+* Preferred Gifts: Dolls
+* Spheres for Bond: Honesty, Innocence
+</li>
+
+<li>
+{{Majsoul/Character images|Kana Fujita|cos1=christmas}}
+'''Kana Fujita''' (藤田佳奈)
+* Height: 159cm
+* Birth Date: ''April 27th''
+* Age: 17
+* Blood Type: B
+* Vocal: [[wikipedia:Maaya_Uchida|Maaya Uchida]] (内田真礼)
+* Interest: Gaming
+<hr style="
+    width: calc(100% - 1.6em * 2);
+    height: 0;
+    margin: .2em auto 0;
+    border-top: 1px dashed #ccc;
+    background-color: transparent;
+"/>
+* Preferred Gifts:
+** Gaming devices <small style="color:#999;">(Gifting)</small>
+** Paints <small style="color:#999;">(Bond)</small>
+* Spheres for Bond: Honesty, Innocence
+</li>
+
+<li>
+{{Majsoul/Character images|Mai Aihara|cos1=summer}}
+'''Mai Aihara''' (相原舞)
+* Height: 165cm
+* Birth Date: ''June 26th''
+* Age: 18
+* Blood Type: O
+* Vocal: [[wikipedia:Yuka Iguchi|Yuka Iguchi]] (井口裕香) 
+* Interest: Reading
+<hr style="
+    width: calc(100% - 1.6em * 2);
+    height: 0;
+    margin: .2em auto 0;
+    border-top: 1px dashed #ccc;
+    background-color: transparent;
+"/>
+* Preferred Gifts: Magazines
+* Spheres for Bond: Will, Light
+</li>
+
+<li>
+{{Majsoul/Character images|Nadeshiko|cos1=summer}}
+'''Nadeshiko''' (撫子)
+* Height: 175cm
+* Birth Date: ''August 14th''
+* Age: 28 <ref group="note">Nadeshiko's age was set to 21 before. This is modified probably for avoiding the under-aged drinking policy.</ref>
+* Blood Type: AB
+* Vocal: [[wikipedia:Chiwa_Saitō|Chiwa Saitou]] (斎藤千和)
+* Interest: Beer, Traveling
+<hr style="
+    width: calc(100% - 1.6em * 2);
+    height: 0;
+    margin: .2em auto 0;
+    border-top: 1px dashed #ccc;
+    background-color: transparent;
+"/>
+* Preferred Gifts: Wines
+* Spheres for Bond: Courage, Honesty
+</li>
+
+<li>
+{{Majsoul/Character images|Yui Yagi|cos1=christmas}}
+'''Yui Yagi''' (八木唯)
+* Height: 162cm
+* Birth Date: ''September 7th''
+* Age: 19
+* Blood Type: AB
+* Vocal: [[wikipedia:Ami_Koshimizu|Ami Koshimizu]] (小清水亜美)
+* Interest: Snacks, Coffee, Swimming
+<hr style="
+    width: calc(100% - 1.6em * 2);
+    height: 0;
+    margin: .2em auto 0;
+    border-top: 1px dashed #ccc;
+    background-color: transparent;
+"/>
+* Preferred Gifts: Cookies
+* Spheres for Bond: Will, Wisdom
+</li>
+
+<li>
+{{Majsoul/Character images|Riu Kujou|cos1=summer}}
+'''Riu Kujou''' (九条璃雨)
+* Height: 161cm
+* Birth Date: ''November 29th''
+* Age: 19
+* Blood Type: O
+* Vocal: [[wikipedia:Ami_Koshimizu|Ami Koshimizu]] (小清水亜美)
+* Interest: Taekwondo, Black tea, Clothing
+<hr style="
+    width: calc(100% - 1.6em * 2);
+    height: 0;
+    margin: .2em auto 0;
+    border-top: 1px dashed #ccc;
+    background-color: transparent;
+"/>
+* Preferred Gifts: Clothes
+* Spheres for Bond: Love, Light
+</li>
+
+<li>
+{{Majsoul/Character images|Xenia|cos1=halloween}}
+'''Xenia''' (ジニア)
+* Height: 158cm
+* Birth Date: ''February 2nd''
+* Age: 17
+* Blood Type: O
+* Vocal: [[wikipedia:Mai_Nakahara|Mai Nakahara]] (中原麻衣)
+* Interest: Gaming, Camping, Cooking
+<hr style="
+    width: calc(100% - 1.6em * 2);
+    height: 0;
+    margin: .2em auto 0;
+    border-top: 1px dashed #ccc;
+    background-color: transparent;
+"/>
+* Preferred Gifts: Gaming devices
+* Spheres for Bond: Courage, Will
+</li>
+
+<li>
+{{Majsoul/Character images|Kaavi}}
+'''Kaavi''' (カーヴィ)
+* Height: 165cm
+* Birth Date: ''October 12th''
+* Age: 24
+* Blood Type: A
+* Vocal: [[wikipedia:Mai_Nakahara|Mai Nakahara]] (中原麻衣)
+* Interest: Gems, Inevitable fate
+<hr style="
+    width: calc(100% - 1.6em * 2);
+    height: 0;
+    margin: .2em auto 0;
+    border-top: 1px dashed #ccc;
+    background-color: transparent;
+"/>
+* Preferred Gifts: Gems
+* Spheres for Bond: Honesty, Wisdom
+</li>
+
+<li>
+{{Majsoul/Character images|Sara|cos1=spring}}
+'''Sara''' (サラ)
+* Height: 158cm
+* Birth Date: ''September 25th''
+* Age: 19
+* Blood Type: O
+* Vocal: [[wikipedia:Mao_Ichimichi|M・A・O / Mao Ichimichi]] (市道真央)
+* Interest: Skirts, Dance, Cats
+<hr style="
+    width: calc(100% - 1.6em * 2);
+    height: 0;
+    margin: .2em auto 0;
+    border-top: 1px dashed #ccc;
+    background-color: transparent;
+"/>
+* Preferred Gifts: Clothes
+* Spheres for Bond: Love, Light
+</li>
+
+<li>
+{{Majsoul/Character images|Hana Ninomiya|cos1=spring}}
+'''Hana Ninomiya''' (二之宮花)
+* Height: 155cm
+* Birth Date: ''July 12th''
+* Age: 17
+* Blood Type: A
+* Vocal: [[wikipedia:Konomi_Kohara|Konomi Kohara]] (小原好美)
+* Interest: Gardening, Reading
+<hr style="
+    width: calc(100% - 1.6em * 2);
+    height: 0;
+    margin: .2em auto 0;
+    border-top: 1px dashed #ccc;
+    background-color: transparent;
+"/>
+* Preferred Gifts: Magazines
+* Spheres for Bond: Innocence, Light
+</li>
+
+<li>
+{{Majsoul/Character images|Keikumusume}}
+'''Keikumusume''' (軽庫娘) <small style="color:#999;">(Event)</small>
+* Height: 159cm
+* Birth Date: ''September 9th''
+* Age: 17
+* Blood Type: AB
+* Vocal: [[wikipedia:Konomi_Kohara|Konomi Kohara]] (小原好美)
+* Interest: Light novels, Teasing her younger sister
+<hr style="
+    width: calc(100% - 1.6em * 2);
+    height: 0;
+    margin: .2em auto 0;
+    border-top: 1px dashed #ccc;
+    background-color: transparent;
+"/>
+* Preferred Gifts:
+** Magazines <small style="color:#999;">(Gifting)</small>
+** Light novels <small style="color:#999;">(Bond)</small>
+* Spheres for Bond: Honesty, Wisdom, Courage, Hope
+</li>
+
+<li>
+{{Majsoul/Character images|Nana Shiraishi}}
+'''Nana Shiraishi''' (白石奈々)
+* Height: 167cm
+* Birth Date: ''May 31st''
+* Age: 17
+* Blood Type: O
+* Vocal: [[wikipedia:Mao_Ichimichi|M・A・O / Mao Ichimichi]] (市道真央)
+* Interest: Sports, Teen mangas
+<hr style="
+    width: calc(100% - 1.6em * 2);
+    height: 0;
+    margin: .2em auto 0;
+    border-top: 1px dashed #ccc;
+    background-color: transparent;
+"/>
+* Preferred Gifts: Magazines
+* Spheres for Bond: Courage, Light
+</li>
+
+<li>
+{{Majsoul/Character images|Hinata Takanashi}}
+'''Hinata Takanashi''' (小鳥遊雛田)
+* Height: 155cm
+* Birth Date: ''June 28th''
+* Age: 20
+* Blood Type: A
+* Vocal: [[wikipedia:Rie_Murakawa|Rie Murakawa]] (村川梨衣)
+* Interest: Photography, Gardening, Doll
+<hr style="
+    width: calc(100% - 1.6em * 2);
+    height: 0;
+    margin: .2em auto 0;
+    border-top: 1px dashed #ccc;
+    background-color: transparent;
+"/>
+* Preferred Gifts: Dolls
+* Spheres for Bond: Purity, Hope
+</li>
+
+<li>
+{{Majsoul/Character images|Haruna Igarashi}}
+'''Haruna Igarashi''' (五十嵐陽菜)
+* Height: 134cm
+* Birth Date: ''November 24th''
+* Age: 11
+* Blood Type: AB
+* Vocal: [[wikipedia:Rie_Murakawa|Rie Murakawa]] (村川梨衣)
+* Interest: Game consoles, Street cat, Ice pop
+<hr style="
+    width: calc(100% - 1.6em * 2);
+    height: 0;
+    margin: .2em auto 0;
+    border-top: 1px dashed #ccc;
+    background-color: transparent;
+"/>
+* Preferred Gifts: Gaming devices
+* Spheres for Bond: Hope, Purity
+</li>
+
+<li>
+{{Majsoul/Character images|Anju Suzumiya}}
+'''Anju Suzumiya''' (涼宮杏樹)
+* Height: 148cm
+* Birth Date: ''May 16th''
+* Age: 14
+* Blood Type: AB
+* Vocal: [[wikipedia:Aya_Suzaki|Aya Suzaki]] (洲崎綾)
+* Interest: Artwork, Recording, Strawberry milk
+<hr style="
+    width: calc(100% - 1.6em * 2);
+    height: 0;
+    margin: .2em auto 0;
+    border-top: 1px dashed #ccc;
+    background-color: transparent;
+"/>
+* Preferred Gifts: Paints
+* Spheres for Bond: Purity, Light
+</li>
+
+<li>
+{{Majsoul/Character images|Sawako Kitami}}
+'''Sawako Kitami''' (北見紗和子)
+* Height: 160cm
+* Birth Date: ''October 15th''
+* Age: 32
+* Blood Type: B
+* Vocal: [[wikipedia:Aya_Suzaki|Aya Suzaki]] (洲崎綾)
+* Interest: Card game, Dress
+<hr style="
+    width: calc(100% - 1.6em * 2);
+    height: 0;
+    margin: .2em auto 0;
+    border-top: 1px dashed #ccc;
+    background-color: transparent;
+"/>
+* Preferred Gifts: Clothes
+* Spheres for Bond: Love, Will
+</li>
+
+<li>
+{{Majsoul/Character images|Momo Hina}}
+'''Momo Hina''' (雛桃)
+* Height: 133cm
+* Birth Date: ''June 6th''
+* Age: 11
+* Blood Type: A
+* Vocal: [[wikipedia:Mariya_Ise|Mariya Ise]] (伊瀬茉莉也)
+* Interest: Fairy tale, Fantasy, Toys
+<hr style="
+    width: calc(100% - 1.6em * 2);
+    height: 0;
+    margin: .2em auto 0;
+    border-top: 1px dashed #ccc;
+    background-color: transparent;
+"/>
+* Preferred Gifts: Dolls
+* Spheres for Bond: Honesty, Innocence
+</li>
+
+</ul>
+
+==== Males ====
+<ul style="
+    display: grid;
+    grid-gap: 2em 1em;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    list-style: none;
+    /*width: -moz-fit-content; width: -webkit-fit-content; width: fit-content;*/
+    max-width: 2100px;
+    margin-top: 1em;
+    margin-left: 0;
+">
+
+<li>
+{{Majsoul/Character images|Wanjirou|cos1=halloween}}
+'''Wanjirou''' (ワン次郎)
+* Height: 165cm
+* Birth Date: ''January 13th''
+* Age: Unknown
+* Blood Type: A
+* Vocal: [[wikipedia:Yūki_Ono|Yuuki Ono]] (小野友樹)
+* Interest: Food, Sleep
+<hr style="
+    width: calc(100% - 1.6em * 2);
+    height: 0;
+    margin: .2em auto 0;
+    border-top: 1px dashed #ccc;
+    background-color: transparent;
+"/>
+* Preferred Gifts: Cookies
+* Spheres for Bond: Wisdom, Hope
+</li>
+
+<li>
+{{Majsoul/Character images|Natsuki Shinomiya|cos1=halloween}}
+'''Natsuki Shinomiya''' (四宮夏生)
+* Height: 178cm
+* Birth Date: ''December 14th''
+* Age: 24
+* Blood Type: AB
+* Vocal: [[wikipedia:Jun_Fukuyama|Jun Fukuyama]] (福山潤)
+* Interest: Mahjong, Gaming, Bartending
+<hr style="
+    width: calc(100% - 1.6em * 2);
+    height: 0;
+    margin: .2em auto 0;
+    border-top: 1px dashed #ccc;
+    background-color: transparent;
+"/>
+* Preferred Gifts: Wines
+* Spheres for Bond: Courage, Honesty
+</li>
+
+<li>
+{{Majsoul/Character images|Sora Ichinose|cos1=christmas}}
+'''Sora Ichinose''' (一ノ瀬空)
+* Height: 147cm
+* Birth Date: ''March 14th''
+* Age: 13
+* Blood Type: B
+* Vocal: [[wikipedia:Junko_Minagawa|Junko Minagawa]] (皆川純子)
+* Interest: Reading, Math, Rubik's cubes
+<hr style="
+    width: calc(100% - 1.6em * 2);
+    height: 0;
+    margin: .2em auto 0;
+    border-top: 1px dashed #ccc;
+    background-color: transparent;
+"/>
+* Preferred Gifts: Gaming devices
+* Spheres for Bond: Wisdom, Purity
+</li>
+
+<li>
+{{Majsoul/Character images|Hideki Akechi}}
+'''Hideki Akechi''' (明智英樹)
+* Height: 177cm
+* Birth Date: ''January 9th''
+* Age: 20
+* Blood Type: O
+* Vocal: [[wikipedia:Shinnosuke_Tachibana|Shinnosuke Tachibana]] (立花慎之介)
+* Interest: Horse riding, Playing Go
+<hr style="
+    width: calc(100% - 1.6em * 2);
+    height: 0;
+    margin: .2em auto 0;
+    border-top: 1px dashed #ccc;
+    background-color: transparent;
+"/>
+* Preferred Gifts: Paints
+* Spheres for Bond: Love, Light
+</li>
+
+<li>
+{{Majsoul/Character images|Osamu Saitou}}
+'''Osamu Saitou''' (斎藤治)
+* Height: 190cm
+* Birth Date: ''May 18th''
+* Age: 29
+* Blood Type: O
+* Vocal: [[wikipedia:Hiroki_Yasumoto|Hiroki Yasumoto]] (安元洋貴)
+* Interest: Gem, Sudoku
+<hr style="
+    width: calc(100% - 1.6em * 2);
+    height: 0;
+    margin: .2em auto 0;
+    border-top: 1px dashed #ccc;
+    background-color: transparent;
+"/>
+* Preferred Gifts: Gems
+* Spheres for Bond: Will, Wisdom
+</li>
+
+<li>
+{{Majsoul/Character images|Joseph}}
+'''Joseph''' (ジョセフ)
+* Height: 189cm
+* Birth Date: ''January 17th''
+* Age: 35
+* Blood Type: A
+* Vocal: [[wikipedia:Hiroki_Yasumoto|Hiroki Yasumoto]] (安元洋貴)
+* Interest: Liquor, Adventure, Fishing
+<hr style="
+    width: calc(100% - 1.6em * 2);
+    height: 0;
+    margin: .2em auto 0;
+    border-top: 1px dashed #ccc;
+    background-color: transparent;
+"/>
+* Preferred Gifts: Wines
+* Spheres for Bond: Courage, Honesty
+</li>
+
+<li>
+{{Majsoul/Character images|Ein}}
+'''Ein''' (エイン)
+* Height: 175cm
+* Birth Date: ''April 13th''
+* Age: 18
+* Blood Type: AB
+* Vocal: [[wikipedia:Tetsuya_Kakihara|Tetsuya Kakihara]] (柿原徹也)
+* Interest: Game consoles, Hunting, Fruit
+<hr style="
+    width: calc(100% - 1.6em * 2);
+    height: 0;
+    margin: .2em auto 0;
+    border-top: 1px dashed #ccc;
+    background-color: transparent;
+"/>
+* Preferred Gifts: Gaming devices
+* Spheres for Bond: Will, Hope
+</li>
+
+<li>
+{{Majsoul/Character images|Zan Tsukimi}}
+'''Zan Tsukimi''' (月見山)
+* Height: 187cm
+* Birth Date: ''July 2nd''
+* Age: 33
+* Blood Type: B
+* Vocal: [[wikipedia:Tomoaki_Maeno|Tomoaki Maeno]] (前野智昭)
+* Interest: Liquor, Taking care of kids
+<hr style="
+    width: calc(100% - 1.6em * 2);
+    height: 0;
+    margin: .2em auto 0;
+    border-top: 1px dashed #ccc;
+    background-color: transparent;
+"/>
+* Preferred Gifts: Wines
+* Spheres for Bond: Love, Light
+</li>
+
+</ul>
+
+=== Bond System ===
+Each character has a unique Bond Value. The value can be enhanced by gaming or gifting to unlock corresponding vocals. At the maximum affection level, all voice lines will be unlocked, and the character will read out yakus after winning a hand. Characters can be entangled to unlock new appearance as a skin that can be chosen, accompanying with 3 extra emotes.
+
+{| class="wikitable"
+|+ Bond Values
+|-
+! Level !! Upgrading !! Total Required
+|-
+| ❤ || 2000 || 2000
+|-
+| ❤❤ || 6000 || 8000
+|-
+| ❤❤❤ || 10000 || 18000
+|-
+| ❤❤❤❤ || 20000 || 38000
+|-
+| ❤❤❤❤❤ || 50000 || 88000
+|}
+
+Bond values can be acquired as follows:
+* Completing a match in Silver Room or higher:
+** 4P East <code>+40</code>, 4P South <code>+60</code>; 3P East <code>+25</code>, 3P South <code>+40</code>.
+** Extra bond-value enhancement is applied according to the charge amount. (See [[Majsoul#Charge-related Titles|Charge-related Titles]] section)
+* Gifting directly:
+** Green Presents <code>+200</code>, Blue <code>+1000</code>, Purple <code>+5000</code>.
+** An enhancement of 50% extra bond-values is applied, if the gift type matches character's interest <ref group="note">However this is not always reliable, and sometimes it's misleading. Interests of some characters can match more than one type of gifts (e.g. Natsuki Shinomiya), while some of them can't match any at all (e.g. Hideki Akechi).</ref>.
+
+If playing with a max-bond character, the bond values will be tracked such that every 1000 points grants a "bond gift". Similarly to other blue gifts, this can be given to another character to increase 1000 points of bond value, and also can be donated for 5 dust.
+
+=== Gifts ===
+Gifts can be given to a character to increase your bond with that character (see [[Majsoul#Bond System|Bond System]] section) or turned into gold dust. 50 gold dust can be used at the lucky cat to attempt getting larger rewards, including a new character.
+{| class="wikitable"
+|-
+! Gift Quality !! Resulting Gold Dust
+|-
+| Green || 1
+|-
+| Blue || 5
+|-
+| Purple || 25
+|}
+
+== Rules ==
+=== General ===
+* Ranked Matches:
+** 4-Player East
+** 4-Player South
+** 3-Player East
+** 3-Player South
+* Friendly Matches:
+** Mode: 4-Player / 3-Player
+** Length: One-Game / East / South / Vs AI
+** Thinking time: 3+5s / 5+10s / 5+20s / 60+0s / 300+0s
+** Advanced settings:
+*** Local yakus<ref name="local-yaku"/> <small style="color:#999;">(4P)</small>: Disabled by default
+*** Tsumo-loss <small style="color:#999;">(3P)</small>: Enabled by default
+*** Red Fives: None / 2 <small style="color:#999;">(3P)</small> / 3 <small style="color:#999;">(4P)</small> / 4 <small style="color:#999;">(4P)</small>
+*** Open Tanyao: Enabled by default
+*** Minimum han: 1 / 2 / 4
+*** In-game hints: Enabled by default
+*** Computer level: Easy <small style="color:#999;">(<s>Saint</s>)</small> / Normal <small style="color:#999;">(<s>Celestial</s>)</small>
+*** Show all hands: Disabled by default
+* Tournaments: Available <ref>Guide of Tournament Management: [https://twitter.com/KyuuCC/status/1240247063318847488 Twitter post] / [https://docs.google.com/document/d/15MW4yLDGqpc8FjySEqYmHFyUAq5mJWW8PtQwG-Hdw3s Google docs].</ref>
+* Special Rooms:
+** <s>Melee Room: Temporary available. 4P only.</s> <ref name="local-yaku">List of local yakus in Melee Room: [https://twitter.com/MahjongSoul_EN/status/1136937232747466752 Twitter post] / [https://pbs.twimg.com/media/D8c15s-UIAIwNIB?format=jpg&name=orig Picture].</ref>
+** Casual Room: Available. Requires rank Adept or above.
+** <s>DoraDorara: Temporary available. 4P-South only.</s>
+** <s>Open Hand Match: Temporary available. 4P-South only. Requires Copper coins.</s>
+** <s>Chaotic Wall Break: Temporary available. 4P-South only. Requires Copper coins.</s>
+
+=== Gameplay ===
+* All Simples in opened hand <small style="color:#999;">(''Kuitan'')</small>: Allowed
+* Gaining yaku upon the claim of a winning tile <small style="color:#999;">(''Atozuke'')</small>: Allowed
+* Swap calling <small style="color:#999;">(''Kuikae'')</small>: Not allowed
+* Red fives: 3 tiles (1 for each suit)
+* Double-wind pair: 4 fu
+* Multiple rons: Available
+* Dealership holding <small style="color:#999;">(''Renchan'')</small>:
+** Multiple rons: Keeps as long as dealer wins, otherwise rotates
+** Mangan at Draw <small style="color:#999;">(''Nagashi Mangan'')</small>: Keeps as long as dealer is ready <small style="color:#999;">(''Tenpai'')</small>, while rotates if not <small style="color:#999;">(''No-ten'')</small>
+* Extended match / Extra wind round <small style="color:#999;">(''Enchousen'')</small>: Applied
+* Bankruptcy <small style="color:#999;">(''Tobi'')</small>:
+** Negative points: Applied
+** Zero point: Not applied
+* Kandora flipping:
+** Closed kan: Flips immediately
+** Opened kan: Flips after
+* Closed kan during Riichi is allowed as long as:
+** The tile for kan is drawn instantly. 
+** The wait pattern does not change after the kan.
+* Seat wind [[Oka_and_uma#Tie-breaker|tie-breaker]]: Applied
+* [[Tochuu ryuukyoku|Abortive Draw]]s <small style="color:#999;">(''Tochuu Ryuukyoku'')</small>:
+** [[Tochuu ryuukyoku#Suufon renda|Four-wind Discarded]] <small style="color:#999;">(''Suufuu Renda'')</small>: Yes
+** [[Tochuu ryuukyoku#Suukaikan|Four-kan Abortion]] <small style="color:#999;">(''Suukan Nagare'')</small>: Yes
+** [[Tochuu ryuukyoku#Kyuushu kyuuhai|Nine Different Terminals and Honors]] <small style="color:#999;">(''Kyuushu Kyuuhai'')</small>: Yes
+** [[Tochuu ryuukyoku#Suucha riichi|Four-player Riichi]] <small style="color:#999;">(''Suucha Riichi'')</small>: Yes
+** [[Tochuu ryuukyoku#Sanchahou|Three-player Ron]] <small style="color:#999;">(''Sanchahou'')</small>: No
+
+=== Yakus ===
+{{Majsoul/Yaku table}}
+'''Notes''':
+* Pinfu <small style="color:#999;">(''Pinfu'')</small>: Tsumo 20 fu, Ron 30 fu
+* Seven Pairs <small style="color:#999;">(''Chiitoitsu'')</small>: 25 fu
+* Ippatsu <small style="color:#999;">(''Ippatsu'')</small> / Under the Sea <small style="color:#999;">(''Haitei Raoyue'')</small> cannot be combined with After a Kan <small style="color:#999;">(''Rinshan Kaihou'')</small>
+* Robbing a concealed kan with Thirteen Orphans <small style="color:#999;">(''Kokushi Musou'')</small>: Allowed
+* Robbing a concealed kan with Nine Gates <small style="color:#999;">(''Chuuren Poutou'')</small>: Not allowed
+* [[Sekinin_barai|Responsibility payment]] <small style="color:#999;">(''Sekinin barai / Pao'')</small>:
+** Apply for: Big Three Dragons <small style="color:#999;">(''Daisangen'')</small>, Four Big Winds <small style="color:#999;">(''Daisuushi'')</small>
+** Composite yakuman: Seperated responsibility for each yakuman <ref>[https://cdn.discordapp.com/attachments/150412836500275200/513656427890475008/TIM20181118175603RGBnoiseLevel2.png Responsibility payment screenshot of composite yakuman]</ref>
+* Dealer starts with 14 tiles directly (instead of regular 13+1 tiles), each tile can be treated as tsumo tiles when achieving Blessing of Heaven <small style="color:#999;">(''Tenhou'')</small>. The last tile in default tile-sequence is treated as the winning tile by default on the result screen. When the hand is composed with another yakumans, it is always treated as the highest yakuman: Single-wait Four Concealed Triplets <small style="color:#999;">(''Suuankou Tanki'')</small>, Thirteen-wait Thirteen Orphans <small style="color:#999;">(''Kokushi Musou Juusanmen Machi'')</small> and True Nine Gates <small style="color:#999;">(''Junsei Chuuren Poutou'')</small>. In those cases the hand is counted as triple yakuman. <ref name="replay-tenhou-composite-yakuman">[https://mahjongsoul.game.yo-star.com/?paipu=200108-a85dc57e-3512-4995-81c0-18874087c8dc_a61983483 Composite yakuman: Blessing of Heaven + Thirteen-wait Thirteen Orphans] (East 1 Round 1 honba, East seat)</ref>
+
+=== 3P-Mahjong ===
+'''3P-Mahjong''' <small style="color:#999;">(''Sanma'')</small> is a variation based on regular mahjong, allowing 3 players to start a match.
+
+The ruleset of Majsoul Sanma basically refers to [[Tenhou.net|Tenhou]]. Most of the rules are identical to Tenhou [[Sanma]].
+
+There're two different scoring mechanics ingame, by default Tsumo-Loss is applied in Ranked Matches, while North-Bisection is provided as an alternative option in Friendly Matches.
+
+==== Ruleset in details ====
+* Starting points: <code>35000</code>, End points: <code>40000</code>
+* Uma points: First <code>+15</code>, Second <code>±0</code>, Third <code>-15</code>
+* Rinshan-tile amount: 8 tiles
+* Tiles from {{#mjt:2m}} to {{#mjt:8m}} are not used, thus Mixed Triple Sequence <small style="color:#999;">(''Sanshoku Doujun'')</small> yaku is unavailable.
+* When Dora indicator is {{#mjt:1m}}, Dora is {{#mjt:9m}}.
+* Red fives: 2 tiles ({{#mjt:0p}} and {{#mjt:0s}})
+* Honba point: 200 points for each Honba stick
+* No-ten penalty: 2000 points
+* Completing a sequence by calling Chii: Disabled
+* North can be used for replacement dora "Kita" <small style="color:#999;">(''Nukidora / Kita'')</small>.
+** After a Kan <small style="color:#999;">(''Rinshan Kaihou'')</small> yaku is applied when winning a hand with rinshan tile from North replacing.
+** North replacing can be robbed even with non-yakuman hand. However Robbing a Kan <small style="color:#999;">(''Chankan'')</small> yaku is not applied, the hand itself still requires another yaku to win with.
+** North replacing cannot be claimed immediately right after Pon.
+** North replacing is similar to a calling action, thus this can nullify Ippatsu <small style="color:#999;">(''Ippatsu'')</small>, Blessing of Earth <small style="color:#999;">(''Chiihou'')</small>, Nine Different Terminals and Honors <small style="color:#999;">(''Kyuushu Kyuuhai'')</small> and Double Riichi <small style="color:#999;">(''Daburu Riichi'')</small>.
+** North replacing does not lead to a furiten of North.
+* North is treated as guest-wind tiles <small style="color:#999;">(''Otakaze'')</small>, a triplet of North cannot get 1 han as Value Tiles <small style="color:#999;">(''Yakuhai'' / ''Fanpai'')</small>.
+* Due to lacking of North seat, there're no abortive draws of Four-wind Discarded <small style="color:#999;">(''Suufon Renda'')</small> and Four-player Riichi <small style="color:#999;">(''Suucha Riichi'')</small>.
+
+==== Calculation of Scoring Points ====
+Currently there're 2 different scoring methods ingame:
+* '''Tsumo-Loss''' (default): Winner loses the income from North seat when the hand is completed by Tsumo.
+* '''North-Bisection''': The income from North is equally divided and distributed towards every other seats.
+
+In Ranked Match Tsumo-Loss is applied.
+
+The scoring table with Tsumo-Loss is basically identical to regular 4P-mahjong:
+{{Majsoul/3P-Mahjong scoring table/tsumo-loss}}
+When North-Bisection is applied, the scoring table on Tsumo is as follows:
+{{Majsoul/3P-Mahjong scoring table/bisection}}
+The calculation on Tsumo is finished by the following steps:
+# Calculate the scoring points based on 4P-Mahjong. 
+# Equally divide North seat's payment (round up to whole hundreds).
+# Append the half North payment to other seats.
+E.g. A non-dealer wins with a hand of <code>40fu 3han</code>.
+# Based on 4P-Mahjong, dealer should pay <code>2600</code>, while non-dealer <code>1300</code>.
+# North pays <code>1300</code>, half of the payment is <code>650</code> -> round up to <code>700</code>.
+# Dealer actually pays <code>2600 + 700 = 3300</code>, while non-dealer <code>1300 + 700 = 2000</code>.
+
+== Tournaments ==
+The tournament lobby has been made available, and Yostar launched the [[Catfood Bowl S0 Tournament|first Catfood Bowl Tournament]].
+
+== Titles ==
+* <span style="color:#ff4b32;">'''Primal Fire'''</span>: Memorial title of server release.
+** <small style="color:#999;"><CN></small> For players participated in a closed-beta early access from ''June 8th, 2018'' to ''July 2nd, 2018''.
+** <small style="color:#999;"><EN / JP></small> For players registered during Grand Launch period from ''April 25th, 2019'' to ''May 6th, 2019''.
+* <span style="color:#96cc33;">'''Light of Firefly'''</span> <small style="color:#999;"><CN></small>: For players attended in Majsoul's live event held in Shanghai Firefly Animé Expo during ''October 2nd, 2018'' to ''October 4th, 2018''.
+* <span style="color:#42b37a;">'''Grand Renewal'''</span> <small style="color:#999;"><CN></small>: Memorial title of CN server migration. Awarded for players achieved Adapt rank or above in previous CN server before ''June 10th, 2020''.
+
+=== Player-specified Titles ===
+* <span style="color:#9192e5;">'''Approved Player'''</span> <small style="color:#999;"><JP></small>: For the winner in the VTuber Mahjong Tournament Match (Shirakami Fubuki Cup). Currently held by [https://amae-koromo.sapk.ch/player/72042909 鴨神にゅう].<!--
+--><ref><small style="color:#999;"><JP></small>Twitter post of Approved Player: https://twitter.com/MahjongSoul_JP/status/1135822862806278144</ref>
+* <span style="color:#db5382;">'''The First Saint'''</span>: For the ''first'' player who acquired Saint ladder. Currently held by:
+** '''4P''': [https://amae-koromo.sapk.ch/player/33336 天才麻将杏杏] <small style="color:#999;"><CN></small><!--
+--><ref><small style="color:#999;"><CN></small>Interview of first Saint: https://weibo.com/ttarticle/p/show?id=2309404287860789408788</ref><!--
+-->, [https://amae-koromo.sapk.ch/player/120120415 阿撰] <small style="color:#999;"><EN></small> and [https://amae-koromo.sapk.ch/player/72066219 3週間] <small style="color:#999;"><JP></small>.
+** '''3P''': [https://ikeda.sapk.ch/player/268053 <span title="进击の梨樹">天铳麻将梨樹</span>] <small style="color:#999;"><CN></small>, [https://ikeda.sapk.ch/player/120179843 Corak] <small style="color:#999;"><EN></small> and [https://ikeda.sapk.ch/player/71981413 絵筆と希望の唄] <small style="color:#999;"><JP></small>.
+* <span style="color:#185ecd;">'''The First Celestial'''</span>: For the ''first'' player who acquired Celestial ladder. Currently held by:
+** '''4P''': 咲畑梨深 <small style="color:#999;"><CN></small><!--
+--><ref><small style="color:#999;"><CN></small>Interview of first Celestial: https://media.weibo.cn/article?id=2309404339951075503457</ref><!--
+--> and [https://amae-koromo.sapk.ch/player/72012041 ハピリット] <small style="color:#999;"><JP></small>.
+** '''3P''': [https://ikeda.sapk.ch/player/68002192 けんてぃー] <small style="color:#999;"><JP></small>.
+
+=== Charge-related Titles ===
+The following titles are acquired by satisfying enough amount on charge. The title gets upgraded when acquiring the next level, accompanying with corresponding rewards and bonus effects.
+
+{| class="wikitable" style="min-width: 550px;"
+|-
+! rowspan=2 colspan=2 style="width: 120px;" | Title
+!! rowspan=2 style="width: 100px;" | Charge Amount <br/> (VIP points)
+!! rowspan=2 style="width: 80px;"  | Gifting Frequency <br/> (per day)
+!! rowspan=2 style="width: 80px;"  | Friend Amount Limit
+!! rowspan=2 style="width: 80px;"  | Bond Value Enhancement
+!! colspan=2 style="width: 100px;" | Shop Refresh <br/> (per day)
+!! rowspan=2 style="width: 80px;"  | Log Collection Limit
+|-
+! Free !! Total
+|-
+| colspan=2 style="color: gray;"| Base (No Title)
+| style="color: gray;" | 0
+| style="color: gray;" | 2
+| style="color: gray;" | 50
+| style="color: gray;" | 0
+| style="color: gray;" | 0
+| style="color: gray;" | 5
+| style="color: gray;" | 20
+|-
+| rowspan=3 | Soul Contractor
+| style="white-space: nowrap;" | Lv. 1 || 6  || 4 || +0  || +50%  || 1 || 6 || 25
+|-
+| style="white-space: nowrap;" | Lv. 2 || 30 || 6 || +10 || +75%  || 1 || 7 || 30
+|-
+| style="white-space: nowrap;" | Lv. 3 || 60 || 8 || +20 || +100% || 1 || 8 || 35
+|-
+| rowspan=3 | Soul Enlightener
+| style="white-space: nowrap;" | Lv. 1 || 100 || 10 || +30 || +120% || 1 || 9  || 40
+|-
+| style="white-space: nowrap;" | Lv. 2 || 250 || 12 || +40 || +140% || 1 || 10 || 45
+|-
+| style="white-space: nowrap;" | Lv. 3 || 500 || 14 || +50 || +160% || 2 || 11 || 50
+|-
+| rowspan=3 | Soul Creator
+| style="white-space: nowrap;" | Lv. 1 || 1,000 || 16 || +60 || +200% || 2 || 12 || 55
+|-
+| style="white-space: nowrap;" | Lv. 2 || 2,000 || 18 || +70 || +200% || 2 || 13 || 60
+|-
+| style="white-space: nowrap;" | Lv. 3 || 3,000 || 20 || +80 || +200% || 3 || 14 || 65
+|-
+| colspan=2 style="white-space: nowrap;" | Soul Excelsior || 4,000 || 22 || +90 || +200% || 4 || 15 || 70
+|-
+| colspan=2 style="white-space: nowrap;" | Cat Food Supplier || 5,000 || 25 || +100 || +200% || 5 || 20 || 75
+|-
+| colspan=2 style="white-space: nowrap;" | Protector of Cat Kingdom || 8,000 || 30 || +110 || +250% || 7 || 25 || 80
+|}
+
+{| class="wikitable mw-collapsible mw-collapsed" style="float:right; margin-left:1em;"
+|+ style="white-space:nowrap;" | Changes of Price Table
+|-
+! rowspan=2 | Content !! Price !! rowspan=2 | Content !! Price
+|-
+! JP !! CN
+|-
+| 60 Jades || <span style="display:inline-block; min-width:60px;"></span> JP¥120
+| <s style="display:inline-block; min-width:40px;">120</s> 65 Jades || <s style="display:inline-block; min-width:60px;">CN¥12</s> NT$33
+|-
+| 300 Jades || <s style="display:inline-block; min-width:60px;">JP¥600</s> JP¥610
+| <s style="display:inline-block; min-width:40px;">300</s> 340 Jades || <s style="display:inline-block; min-width:60px;">CN¥30</s> NT$170
+|-
+| 480 Jades || <s style="display:inline-block; min-width:60px;">JP¥960</s> JP¥980
+| <s style="display:inline-block; min-width:40px;">600</s> 660 Jades || <s style="display:inline-block; min-width:60px;">CN¥60</s> NT$330
+|-
+| 900 Jades || <s style="display:inline-block; min-width:60px;">JP¥1800</s> JP¥1840
+| <s style="display:inline-block; min-width:40px;">980</s> 1200 Jades || <s style="display:inline-block; min-width:60px;">CN¥98</s> NT$590
+|-
+| 1200 Jades || <s style="display:inline-block; min-width:60px;">JP¥2400</s> JP¥2440
+| <s style="display:inline-block; min-width:40px;">1280</s> 2100 Jades || <s style="display:inline-block; min-width:60px;">CN¥128</s> NT$990
+|-
+| 1800 Jades || <s style="display:inline-block; min-width:60px;">JP¥3600</s> JP¥3680
+| <s style="display:inline-block; min-width:40px;">1980</s> 2800 Jades || <s style="display:inline-block; min-width:60px;">CN¥198</s> NT$1320
+|-
+| 2400 Jades || <s style="display:inline-block; min-width:60px;">JP¥4800</s> JP¥4900
+| <s style="display:inline-block; min-width:40px;">3280</s> 3660 Jades || <s style="display:inline-block; min-width:60px;">CN¥328</s> NT$1690
+|-
+| 4900 Jades || <s style="display:inline-block; min-width:60px;">JP¥9800</s> JP¥10000
+| <span style="display:inline-block; min-width:40px;"></span> 6480 Jades || <s style="display:inline-block; min-width:60px;">CN¥648</s> NT$2990
+|- style="border-top:3px double #aaa;"
+| Fortune Charm || <s style="display:inline-block; min-width:60px;">JP¥600</s> JP¥610
+| Fortune Charm || <s style="display:inline-block; min-width:60px;">CN¥30</s> NT$170
+|}
+
+'''Notes:'''
+* A rough calculation between VIP points and actual cost can be done by the following formula:<br/> <code>6 VIP points</code> = <code style="text-decoration:line-through;">6 CNY</code> <code>≈30 NTD</code> <small style="color:#999;"><CN></small> / <code>1 USD</code> <small style="color:#999;"><EN></small> / <code>≈120 JPY</code> <small style="color:#999;"><JP></small>.
+** The prices in JP server are slightly increased from ''October 1st, 2019'' due to an increasement of consumption tax.
+** The currency in CN server is switched to New Taiwan Dollar after the server migration from ''June 9th, 2020''. Overall prices are higher, while rewarded jades are also increased slightly.
+
+== References ==
+<references/>
+
+'''Notes'''
+<references group="note"/>
+
+== External links ==
+[[Category:Majsoul]]
+
+==== General ====
+{| class="wikitable"
+|-
+! Server !! Game Sites !! Social Media
+|-
+| CN (China) <br> <small>by CatFood Studio</small>
+| Main Page: https://www.maj-soul.com/ <br/> Game Entry: [https://game.maj-soul.com/1/ Web] / Android APK
+| Bilibili: [https://space.bilibili.com/353240497/dynamic 雀魂麻将majsoul] <br> Weibo: [https://weibo.com/majsoul 雀魂麻将majsoul]
+|-
+| EN (North America) <br> <small>by Yostar Games</small>
+| Main Page: https://mahjongsoul.yo-star.com/ <br/> Game Entry: [https://mahjongsoul.game.yo-star.com/ Web] / [https://apps.apple.com/us/app/id1464872167 App Store] / [https://play.google.com/store/apps/details?id=com.YoStarEN.MahjongSoul Google Play]
+| Twitter: [https://twitter.com/MahjongSoul_EN Mahjong Soul Official] <br/> Facebook: [https://www.facebook.com/MahjongSoulEN/ Mahjong Soul] <br/> Youtube: [https://www.youtube.com/channel/UCTv15gFjpwnJ-WpnOkIZq_w Mahjong Soul Official - Yostar] <br/> Twitch: [https://www.twitch.tv/mahjongsoulofficial mahjongsoulofficial]
+|-
+| JP (Japan) <br> <small>by Yostar Games</small>
+| Main Page: https://mahjongsoul.com/ <br> Game Entry: [https://game.mahjongsoul.com/ Web] / [https://apps.apple.com/jp/app/id1469186379 App Store] / [https://play.google.com/store/apps/details?id=com.YoStarJP.MajSoul Google Play]
+| Twitter: [https://twitter.com/MahjongSoul_JP 【公式】雀魂-じゃんたま-] <br/> Youtube: [https://www.youtube.com/channel/UC8Wn_3U-fssptm6US_nsoOA 【公式】雀魂-じゃんたま-]
+|}
+
+==== Other Links ====
+* [https://mahjongsoul.fandom.com/wiki/MahjongSoul_Wiki Fandom Wiki]
+* [https://riichireporter.com/mahjong-soul-guide English guide] on Riichi Reporter
+* [https://amae-koromo.sapk.ch/ Amae Koromo]: 3rd-party replay site

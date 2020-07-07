@@ -1,0 +1,53 @@
+{{Infobox yaku
+|type        = Yaku
+|kanji       = 三色同順
+|english     = Three colored straight
+|value       = 2 han (closed)<br>1 han (open)
+|yakuSpeed   = Medium
+|difficulty  = Medium
+|gameExample = * [http://tenhou.net/0/?log=2013010402gm-0009-7447-x1ba0b4910bee&tw=3&ts=6 Sanshoku nomi]
+* [http://tenhou.net/0/?log=2013111613gm-0009-7447-5dc14720&tw=0&ts=3 Closed sanshoku] with [[junchan]]
+}}
+'''Sanshoku doujun''' {{kana|三色同順}} is a standard yaku.  It can also be referred as '''sanshiki''' {{kana|さんしき}}.  This yaku involves [[Shuntsu|sequences]] of the same numbered tiles across the three [[Japanese mahjong#Mahjong tiles|numbered suits]]. The short hand '''sanshoku''' more commonly refers to this yaku, rather than the significantly more difficult to achieve [[sanshoku doukou]] yaku.  This yaku simply happens more frequently.
+
+==Tile pattern==
+
+{{#mjt:123m123p123678s1z}} Agari : {{#mjt:1z}}
+
+This hand contains shuntsu of 123 from 3 different [[Japanese mahjong#Mahjong tiles|main suits]]. Since this hand played closed, it's sanshoku valued 2 han.
+
+{{#mjt:123m123p123s1z}} {{#mjt:6'78s}} Agari : {{#mjt:1z}}
+
+{{#mjt:123p67s11z}} {{#mjt:1'23m}} {{#mjt:3'12s}} Agari : {{#mjt:8s}} or {{#mjt:5s}}
+
+While having same tiles with the first example, these hands played open and hence the sanshoku only valued 1 han.
+
+==Value==
+2 han on closed hand, 1 han on open hand.
+
+== Compatability ==
+{{main|Yaku compatability}}
+
+{{Yaku compatibility table|SDJ}}
+
+Sanshoku requires three sequence groups, and thus is incompatible with [[toitoi]], [[sanshoku doukou]], [[sanankou]], [[sankantsu]], [[shousangen]], [[honroutou]], and [[chiitoitsu]]. It is incompatible with [[honroutou]] because honroutou requires either toitoi or chiitoi. Since it requires three suits, it is also incompatible with [[honitsu]] and [[chinitsu]]. Finally, while [[ryanpeikou]] and [[ittsu]] do each require sequences, their constraints on the sequences are incompatible with those for sanshoku.
+
+===Takame and yasume===
+{{main|Takame and yasume}}
+
+Sanshoku is particularly affected by [[takame and yasume]].  At times, the tile wait involves a ryanmen looking for two tile types for the third tile grouping needed for this yaku.  In this case, one may result in sanshoku, while the other does not; and the difference here may involve 1 or 2 han.
+
+:{{#mjt:456m456s45p22266z}} Agari: {{#mjt:3p}} or {{#mjt:6p}}
+
+Only the 6-pin produces sanshoku in this case.
+
+===Versus ittsu===
+[[Image:Ittsu sanshoku.png|thumb|right|250px|Both ittsu and sanshoku are [http://tenhou.net/0/?log=2015012320gm-0089-0000-5a33fc94&tw=2&ts=8 apparent].]]
+It is possible for both yaku to have potential development in one hand.  However, there is no room in the hand for both yaku to exist.  So, when both yaku are apparent, then a point may come during the hand to make a choice between each of the two yaku.
+
+==External links==
+{{jpwiki|三色同順}}
+
+[[Category: Yaku]]
+
+{{Navbox yaku}}

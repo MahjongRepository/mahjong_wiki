@@ -1,12 +1,10 @@
 # coding=utf-8
-import json
 import os
 import re
+import subprocess
 
 from lxml import etree
 from slugify import slugify
-import mistune
-import subprocess
 
 
 def main():
@@ -158,10 +156,9 @@ def main():
 
     current_directory = os.path.dirname(os.path.abspath(__file__))
     xml_file = os.path.join(current_directory, 'arcturus/arcturussu_mjw.xml')
-    export_file = os.path.join(current_directory, 'arcturus/export.json')
+    export_dir = os.path.join(current_directory, 'arcturus', 'export')
 
     pages = {}
-    export_data = {}
     with open(xml_file, 'r') as f:
         root = etree.fromstring(f.read())
 
@@ -188,64 +185,61 @@ def main():
 
     for key, page in pages.items():
         title = page['title']
-        export_data[page['title'].encode('utf-8')] = page['text'].encode('utf-8')
 
-        categories = []
-        slug = slugify(title)
-        wiki_file_path = os.path.join('%s.wiki' % slug)
-        md_file_path = os.path.join('%s.md' % slug)
-        final_md_file_path = os.path.join(current_directory, '..', 'hugo', 'content', 'english', 'riichi', 'wiki', os.path.join('%s.md' % slug))
-
-        print(page['id'], slug, title)
-
-        with open(wiki_file_path, 'w') as f:
-            content = page['text']
-
-            categories, content = process_categories(content)
-
-            content = process_kana_template(content)
-            content = process_tiles_template(content)
-            content = process_template_blocks(content)
-            # ":{{<" happens for the start of tiles string
-            content = content.replace(':{{<', '{{<')
-
-            f.write(content.encode('utf-8'))
-
-        subprocess.call([
-            "docker", "run", "--rm", "--volume", '%s:/data' % current_directory,
-            "pandoc/core:2.9.2.1",
-            wiki_file_path,
-            "-o", md_file_path,
-            "-f", "mediawiki",
-            "-t", "gfm",
-            "--wrap", "preserve"
-        ])
-
-        os.remove(wiki_file_path)
-        os.rename(md_file_path, final_md_file_path)
-
-        with open(final_md_file_path, 'r') as f:
-            content = f.read()
-
-        content = remove_escaping(content)
-
-        with open(final_md_file_path, 'w') as f:
-            content = process_wiki_links(content)
-
-            # insert header
-            f.seek(0, 0)
-            f.write('+++\n')
-            f.write('title = "%s"\n' % title)
-            f.write('id = "%s"\n' % page['id'])
-            f.write('categories = "%s"\n' % ", ".join(categories))
-            f.write('+++\n\n')
-
-            f.write(content)
-
-        break
-
-    with open(export_file, 'w') as f:
-        f.write(json.dumps(export_data, indent=2))
+        file_name = title.replace(' ', '_').replace('/', '__')
+        with open(os.path.join(export_dir, '%s.wiki' % file_name), 'w') as f:
+            f.write(page['text'].encode('utf-8'))
+        #
+        # slug = slugify(title)
+        # wiki_file_path = os.path.join('%s.wiki' % slug)
+        # md_file_path = os.path.join('%s.md' % slug)
+        # final_md_file_path = os.path.join(current_directory, '..', 'hugo', 'content', 'english', 'riichi', 'wiki', os.path.join('%s.md' % slug))
+        #
+        # print(page['id'], slug, title)
+        #
+        # with open(wiki_file_path, 'w') as f:
+        #     content = page['text']
+        #
+        #     categories, content = process_categories(content)
+        #
+        #     content = process_kana_template(content)
+        #     content = process_tiles_template(content)
+        #     content = process_template_blocks(content)
+        #     # ":{{<" happens for the start of tiles string
+        #     content = content.replace(':{{<', '{{<')
+        #
+        #     f.write(content.encode('utf-8'))
+        #
+        # subprocess.call([
+        #     "docker", "run", "--rm", "--volume", '%s:/data' % current_directory,
+        #     "pandoc/core:2.9.2.1",
+        #     wiki_file_path,
+        #     "-o", md_file_path,
+        #     "-f", "mediawiki",
+        #     "-t", "gfm",
+        #     "--wrap", "preserve"
+        # ])
+        #
+        # os.remove(wiki_file_path)
+        # os.rename(md_file_path, final_md_file_path)
+        #
+        # with open(final_md_file_path, 'r') as f:
+        #     content = f.read()
+        #
+        # content = remove_escaping(content)
+        #
+        # with open(final_md_file_path, 'w') as f:
+        #     content = process_wiki_links(content)
+        #
+        #     # insert header
+        #     f.seek(0, 0)
+        #     f.write('+++\n')
+        #     f.write('title = "%s"\n' % title)
+        #     f.write('id = "%s"\n' % page['id'])
+        #     f.write('categories = "%s"\n' % ", ".join(categories))
+        #     f.write('+++\n\n')
+        #
+        #     f.write(content)
 
 
 def process_kana_template(content):

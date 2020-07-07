@@ -1,0 +1,121 @@
+{{Infobox video game
+|image     = [[Image:Tenhounet.jpg|250px]]
+|caption   = Tenhou.net banner
+|publisher = C-EGG
+|developer = C-EGG
+|platform  = PC/Browser
+|year      = 2007
+}}
+'''Tenhou''' {{kana|天鳳}} [http://tenhou.net/] is the one of the most popular online [[mahjong]] service in Japan. It is also the platform of choice for the English-speaking community.  The site offers the game through either as a free web based platform and/or as a downloadable program via subscription.
+
+== Basic user guide ==
+
+Tenhou.net is a Japanese site.  So, anyone, who is not familiar with navigating Japanese sites, may have some difficulty, unless they use one of the translation add-ons (for English and French) now freely available for [https://chrome.google.com/webstore/detail/tenhou-english-ui/cbomnmkpjmleifejmnjhfnfnpiileiin Chrome] and [https://addons.mozilla.org/en-US/firefox/addon/tenhou-english/ Firefox], which translate the interfaces for game play, registration, preferences and statistics.
+
+===Game lobby===
+The game lobby gives players access to game rooms, according to a number of rule sets to play with.  Here, players have access to the different game rooms and [[Tenhou.net_ranking#Individual_player_statistics|player statistics]].
+
+===Game interface===
+{| class="wikitable" width=30% align=right style="margin-left:.3em;"
+|-
+!width=16%| Riichi !!width=16%|  Chii !!width=16%|  Pon !!width=16%|  Kan !!width=16%|  Ron !!width=16%|  Tsumo
+|-
+|align=center|  リーチ ||align=center|  チー ||align=center| ポン ||align=center|  カン ||align=center|  ロン ||align=center| ツモ
+|}
+During the game, most of the clickable options are near the bottom of the screen.  The rest is dedicated towards other players' hands (unrevealed of course) and the discard piles in the center.  Also in the center, a square display shows players' point standings, names, and rank.  In addition, the current wind round is indicated in the center square as well as the number of [[honba]] as well as the number of [[riichi]] points on the table.
+
+===Replays===
+[[Image:Replays.png|thumb|250px|right|Tenhou.net replay links shown.]]
+Every replay is accessible via a "replay game link".  It is accessible via the drop down menu labled: {{kana|メニュー}} (menu).  The first item is labled {{kana|牌譜の管理}}.  A sub-window, as shown on the right, pops up.  The replay links are available here.  While they're stored under three tabs, the latter two display the exact game links.
+
+Only a certain number of links are available at the time.  Usually, the most recent 30 games played are accessible, as they are stored within a queue.  It is possible to save and retain older game links by copy-pasting them elsewhere.  This Wiki itself is full of old replay links.  Users of the Windows client do not need to worry about losing game links.
+
+===Spectating===
+Players may use the interface to spectate "live games".  However, they're not exactly live games, as they are actually delayed by 3-5 minutes.  This is to eliminate any sort of cheating via simultaneous replay viewing, while in game.
+
+In the main 0000 lobby, players may spectate games from either the Houou lobby.  As such, any player may be able to watch and see the game play of the highest ranked players, currently in-game.
+
+== Interfaces ==
+Tenhou.net is playable via various interfaces.  All of them provide access to the main server, complete with access to the game's player base and statistics.
+
+=== App ===
+A mobile app is available via Android in Google Play and Apple iTunes.  The app operates similar to Tenhou.net's web version.
+
+=== Client ===
+{{Main|Tenhou.net client}}
+
+The '''Tenhou client''' is a downloadable application provided by Tenhou.net.  Players easily find it on the game site's front page, via a large "download" button.  The client application uses the same menus as the browser version, but it also had added features not available on the browser version.  For a regular subscription fee, players gain access to the client's playable functions.
+
+=== Flash ===
+
+=== Web ===
+A web based interface was developed in response to the impending obsolescence of Adobe flash.
+
+==Game rooms==
+[[Image:Game_lobby_0000.png|thumb|right|250px|Main 0000 lobby, with the tabs for the four rooms indicated by a red box.]]
+For Tenhou ranking, the game lobby is divided into four sub-rooms, with specific qualification standards.
+
+* '''Ippan''' {{kana|一般}}
+: General lobby area.  Any player ranked below 4-dan and R1800 play here.  This includes all new players and unranked players.  The mix creates a somewhat chaotic game environment, where skilled and unskilled players alike play each other.
+* '''Joukyuu''' {{kana|上級}}
+: Lower "dan" lobby.  Players attaining 1-kyuu.
+* '''Tokujou''' {{kana|特上}}
+: Upper "dan" lobby.  Any player ranked above 4-dan and R1800.  The lobby consists mostly of 5-dan and 6-dan players all pushing to get into the highest lobby.
+* '''Houou''' {{kana|鳳凰}}
+: Reserved for only the highest ranked players in Tenhou.net of rank 7-dan and R2000.
+
+=== Custom rooms ===
+{{main|Tenhou.net custom rooms}}
+
+Tenhou.net offers users the ability to play in custom rooms.  Here, players may play unranked casual games, without any worry about their Tenhou.net ranking.
+
+== Tenhou.net house rules ==
+{{main|Tenhou rules}}
+
+The site specifies a number of specific rules.  While many general rules and procedures still apply, a number of rules for the game overall may be deemed as "optional"; and they may not apply elsewhere.
+
+The most important rules to note:
+* [[Uma]] {{uma|+20|+10|-10|-20}}
+* [[Atozuke]] ari
+* [[Kuikae]] nashi
+* [[Kuitan]] ari or nashi option
+* Every [[yakuman]] counted as single yakuman, yet they may be combined for [[multiple yakuman]]
+* [[Sekinin barai|Pao rule]] applied to yakuman, but not [[rinshan kaihou]]
+* [[Uma#Tie-breaker|Seat wind tiebreaker]]
+
+== Ranking system==
+{{main|Tenhou.net ranking}}
+
+The ranking system employs a laddering system.<ref>http://en.wikipedia.org/wiki/Ladder_tournament</ref>  Players can play mahjong games at their leisure, while looking to attain points using two different point systems simultaneously.  As players rank up, they gain access to higher level game lobbies.
+
+== Contests ==
+{{main|List of Tenhou.net events}}
+
+=== Tournaments ===
+[[Image:Loading screen.png|thumb|250px|right|Tenhou's loading screen, advertising two competitions.]]
+One of the site's features involve tournament lobbies.  Here, users can manipulate different game rule settings to suit customized tournament rule settings.  This ability allows users to host their own tournaments, without restriction from the main site.  Naturally, game data from the tournament lobbies are separated from the general L0000 lobby as well as any custom rooms.  Throughout the course of the year, various tournaments are advertized via the game's waiting screen.
+
+=== International team competition ===
+{{main|International Online Riichi Mahjong Competition}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{jpwiki|天鳳 (オンラインゲーム)}}
+* [http://arcturus.su/tenhou/ Comprehensive English documentation]
+* [http://tenhou.net/man/index.html Tenhou manual]
+* [http://tenhou.net/make_lobby.html Custom lobby]
+* [http://blog.tenhou.net/ Official blog]
+* [http://osamuko.com/complete-beginners-guide-to-online-mahjong-part-1-how-to-play/complete-beginners-guide-to-online-mahjong-part-1-5-playing-on-tenhou/ Osamuko beginner's guide to Tenhou]
+* [https://npmahjong.com/tenhou-players-pro-tips/ xkime's disclaimers about Tenhou]
+* [http://dora12.net/modules/netmahjong/tenhou/rank.html Tenhou ranking levels]
+
+=== Tools ===
+* [http://arcturus.su/tenhou/ranking/ Tenhou ranking tool]
+* [http://www.geocities.jp/tenhoukaiseki/ 天鳳牌譜解析]
+* [http://tenhou.net/ranking.html Overall ranking tables]
+* [http://tenhou.net/sc/prof.html Yaku frequency]
+* [https://gitlab.com/zefiris/tenhou-english-ui tenhou-english-ui]-Extension that changes the UI text on the Tenhou Web Client to English
+
+[[Category:Tenhou.net]]

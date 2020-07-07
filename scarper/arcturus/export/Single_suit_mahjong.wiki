@@ -1,0 +1,7 @@
+'''Single suit mahjong''' basically plays [[Japanese mahjong|the game]] with just one suit.  This variation is devised as practice working with [[chinitsu]] hands and its notorious ability to form [[Complex machi|complicated]] [[Machi|waiting patterns]].
+
+== External links ==
+[[Category:Game rules]]
+
+* [http://www.gamedesign.jp/flash/bamboo/bamboo.html Bamboo Mahjong]
+{{Youtube| url         = https://www.youtube.com/watch?v=S-K-ezh9FDE| linkname    = 【麻雀】タッキーｖｓヒサト激突生バトル2013.12.10.OA| description = Two player single suit using pinzu.}}

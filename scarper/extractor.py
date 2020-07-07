@@ -186,8 +186,8 @@ def main():
 
     for key, page in pages.items():
         # for debug
-        # if page['id'] != '3207':
-        #     continue
+        if page['id'] != '51':
+            continue
 
         title = page['title']
         print(page['title'], page['id'])
@@ -207,6 +207,7 @@ def main():
             categories, content = process_categories(content)
 
             content = process_special_cases(content)
+            content = process_infobox_blocks(content)
             content = process_kana_template(content)
             content = process_tiles_template(content)
             content = process_template_blocks(content)
@@ -273,14 +274,26 @@ def process_tiles_template(content):
         new_string = []
         for i, symbol in enumerate(match):
             """
-            replace
+            Because of difference between tiles hand visualizer. We need to do string transforms.
+
+            Replace
             7'89s
             with
             -789s
-            because of difference between tiles hand visualizer
+
+            Replace
+            55"5
+            with
+            5-5-55s
             """
             if symbol == "'":
-                new_string.insert(i-1, '-')
+                new_string.insert(i - 1, '-')
+                continue
+
+            if symbol == '"':
+                new_string.insert(i - 1, '-')
+                new_string.insert(i, new_string[i - 2])
+                new_string.insert(i + 1, '-')
                 continue
 
             new_string.append(symbol)
@@ -298,12 +311,15 @@ def process_template_blocks(content):
     # one line
     regex = r"{{(?!<)([\S\s]*?)}}"
     content = re.sub(regex, r'```\1```', content)
+    return re.sub(regex, r'```\1```', content)
 
-    # multiline
-    regex = r"{{(?!<)([\S\s]*?)}}\n\n"
-    content = re.sub(regex, r'```\1```\n\n', content)
 
-    return content
+def process_infobox_blocks(content):
+    """
+    Replace mediawiki multiline infoboxes with escaped text.
+    """
+    regex = r"{{infobox ([\S\s]*?)}}\n\n"
+    return re.sub(regex, r'```\1```\n\n', content)
 
 
 def process_wiki_links(content):

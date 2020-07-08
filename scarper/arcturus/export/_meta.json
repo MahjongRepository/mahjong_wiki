@@ -1,0 +1,982 @@
+{
+  "Daisharin": {
+    "mapped_markdown": "",
+    "id": "3207",
+    "title": "Daisharin"
+  },
+  "Ryuukyoku": {
+    "mapped_markdown": "",
+    "id": "270",
+    "title": "Ryuukyoku"
+  },
+  "Nobetan": {
+    "mapped_markdown": "",
+    "id": "2439",
+    "title": "Nobetan"
+  },
+  "End_game_scenarios": {
+    "mapped_markdown": "",
+    "id": "2782",
+    "title": "End game scenarios"
+  },
+  "Yaku": {
+    "mapped_markdown": "",
+    "id": "279",
+    "title": "Yaku"
+  },
+  "Honba": {
+    "mapped_markdown": "",
+    "id": "290",
+    "title": "Honba"
+  },
+  "Matagi_suji": {
+    "mapped_markdown": "",
+    "id": "3750",
+    "title": "Matagi suji"
+  },
+  "Iipeikou": {
+    "mapped_markdown": "",
+    "id": "55",
+    "title": "Iipeikou"
+  },
+  "Local_yaku": {
+    "mapped_markdown": "",
+    "id": "3730",
+    "title": "Local yaku"
+  },
+  "Machi": {
+    "mapped_markdown": "",
+    "id": "267",
+    "title": "Machi"
+  },
+  "Daisangen__Replays": {
+    "mapped_markdown": "",
+    "id": "3212",
+    "title": "Daisangen/Replays"
+  },
+  "Kanchan": {
+    "mapped_markdown": "",
+    "id": "391",
+    "title": "Kanchan"
+  },
+  "Sekinin_barai": {
+    "mapped_markdown": "",
+    "id": "378",
+    "title": "Sekinin barai"
+  },
+  "Ba": {
+    "mapped_markdown": "",
+    "id": "2696",
+    "title": "Ba"
+  },
+  "List_of_mahjong_video_games": {
+    "mapped_markdown": "",
+    "id": "2745",
+    "title": "List of mahjong video games"
+  },
+  "Dora_strategy": {
+    "mapped_markdown": "",
+    "id": "3311",
+    "title": "Dora strategy"
+  },
+  "Pinfu": {
+    "mapped_markdown": "",
+    "id": "183",
+    "title": "Pinfu"
+  },
+  "Nagashi_mangan__Replays": {
+    "mapped_markdown": "",
+    "id": "3169",
+    "title": "Nagashi mangan/Replays"
+  },
+  "Sanmen_nobetan": {
+    "mapped_markdown": "",
+    "id": "2497",
+    "title": "Sanmen nobetan"
+  },
+  "Rinshan_kaihou": {
+    "mapped_markdown": "",
+    "id": "249",
+    "title": "Rinshan kaihou"
+  },
+  "Ari-ari": {
+    "mapped_markdown": "",
+    "id": "3230",
+    "title": "Ari-ari"
+  },
+  "Yaku_compatibility": {
+    "mapped_markdown": "",
+    "id": "2377",
+    "title": "Yaku compatibility"
+  },
+  "Damaten": {
+    "mapped_markdown": "",
+    "id": "253",
+    "title": "Damaten"
+  },
+  "Dora": {
+    "mapped_markdown": "",
+    "id": "211",
+    "title": "Dora"
+  },
+  "Sega_MJ": {
+    "mapped_markdown": "",
+    "id": "3318",
+    "title": "Sega MJ"
+  },
+  "Sanma": {
+    "mapped_markdown": "",
+    "id": "2404",
+    "title": "Sanma"
+  },
+  "Daburu_riichi": {
+    "mapped_markdown": "",
+    "id": "2434",
+    "title": "Daburu riichi"
+  },
+  "Atozuke": {
+    "mapped_markdown": "",
+    "id": "2396",
+    "title": "Atozuke"
+  },
+  "Tenhou_and_chiihou": {
+    "mapped_markdown": "",
+    "id": "248",
+    "title": "Tenhou and chiihou"
+  },
+  "Hanchan": {
+    "mapped_markdown": "",
+    "id": "299",
+    "title": "Hanchan"
+  },
+  "Menzenchin_tsumohou": {
+    "mapped_markdown": "",
+    "id": "328",
+    "title": "Menzenchin tsumohou"
+  },
+  "Complex_waits": {
+    "mapped_markdown": "",
+    "id": "440",
+    "title": "Complex waits"
+  },
+  "Renhou": {
+    "mapped_markdown": "",
+    "id": "2449",
+    "title": "Renhou"
+  },
+  "Haiyama": {
+    "mapped_markdown": "",
+    "id": "2839",
+    "title": "Haiyama"
+  },
+  "Etiquette_in_mahjong": {
+    "mapped_markdown": "",
+    "id": "3473",
+    "title": "Etiquette in mahjong"
+  },
+  "Honiisou": {
+    "mapped_markdown": "",
+    "id": "411",
+    "title": "Honiisou"
+  },
+  "Tenhou.net_ranking": {
+    "mapped_markdown": "",
+    "id": "2559",
+    "title": "Tenhou.net ranking"
+  },
+  "Sanmenchan": {
+    "mapped_markdown": "",
+    "id": "388",
+    "title": "Sanmenchan"
+  },
+  "Tanyao": {
+    "mapped_markdown": "",
+    "id": "221",
+    "title": "Tanyao"
+  },
+  "Mentanpin": {
+    "mapped_markdown": "",
+    "id": "2447",
+    "title": "Mentanpin"
+  },
+  "Ryuuiisou": {
+    "mapped_markdown": "",
+    "id": "203",
+    "title": "Ryuuiisou"
+  },
+  "Ryanmen": {
+    "mapped_markdown": "",
+    "id": "301",
+    "title": "Ryanmen"
+  },
+  "Chankan": {
+    "mapped_markdown": "",
+    "id": "350",
+    "title": "Chankan"
+  },
+  "Chuuren_poutou": {
+    "mapped_markdown": "",
+    "id": "234",
+    "title": "Chuuren poutou"
+  },
+  "Ryanpeikou__Replays": {
+    "mapped_markdown": "",
+    "id": "3490",
+    "title": "Ryanpeikou/Replays"
+  },
+  "Tenbou": {
+    "mapped_markdown": "",
+    "id": "2489",
+    "title": "Tenbou"
+  },
+  "Iishanten": {
+    "mapped_markdown": "",
+    "id": "3727",
+    "title": "Iishanten"
+  },
+  "Suuankou": {
+    "mapped_markdown": "",
+    "id": "200",
+    "title": "Suuankou"
+  },
+  "Ikkitsuukan__Replays": {
+    "mapped_markdown": "",
+    "id": "3255",
+    "title": "Ikkitsuukan/Replays"
+  },
+  "List_of_mahjong_television_series": {
+    "mapped_markdown": "",
+    "id": "2866",
+    "title": "List of mahjong television series"
+  },
+  "Saikyo_no_Mahjong_3D": {
+    "mapped_markdown": "",
+    "id": "2424",
+    "title": "Saikyo no Mahjong 3D"
+  },
+  "Tenhou.net_rules": {
+    "mapped_markdown": "",
+    "id": "48",
+    "title": "Tenhou.net rules"
+  },
+  "Toitoihou": {
+    "mapped_markdown": "",
+    "id": "405",
+    "title": "Toitoihou"
+  },
+  "Dora_variations": {
+    "mapped_markdown": "",
+    "id": "2570",
+    "title": "Dora variations"
+  },
+  "Shousangen": {
+    "mapped_markdown": "",
+    "id": "362",
+    "title": "Shousangen"
+  },
+  "List_of_chuuren_configurations": {
+    "mapped_markdown": "",
+    "id": "3279",
+    "title": "List of chuuren configurations"
+  },
+  "Sashikomi": {
+    "mapped_markdown": "",
+    "id": "3200",
+    "title": "Sashikomi"
+  },
+  "Chinroutou": {
+    "mapped_markdown": "",
+    "id": "232",
+    "title": "Chinroutou"
+  },
+  "Sankantsu": {
+    "mapped_markdown": "",
+    "id": "379",
+    "title": "Sankantsu"
+  },
+  "Akagi:_Yami_ni_Oritatta_Tensai": {
+    "mapped_markdown": "",
+    "id": "3188",
+    "title": "Akagi: Yami ni Oritatta Tensai"
+  },
+  "Furiten": {
+    "mapped_markdown": "",
+    "id": "240",
+    "title": "Furiten"
+  },
+  "Riichi__Replays": {
+    "mapped_markdown": "",
+    "id": "3370",
+    "title": "Riichi/Replays"
+  },
+  "Sanshoku_doujun__Replays": {
+    "mapped_markdown": "",
+    "id": "3498",
+    "title": "Sanshoku doujun/Replays"
+  },
+  "Tsuuiisou": {
+    "mapped_markdown": "",
+    "id": "265",
+    "title": "Tsuuiisou"
+  },
+  "Mudazumo_Naki_Kaikaku": {
+    "mapped_markdown": "",
+    "id": "2913",
+    "title": "Mudazumo Naki Kaikaku"
+  },
+  "Penchan": {
+    "mapped_markdown": "",
+    "id": "261",
+    "title": "Penchan"
+  },
+  "Sakigiri": {
+    "mapped_markdown": "",
+    "id": "3639",
+    "title": "Sakigiri"
+  },
+  "Sanshoku_doukou": {
+    "mapped_markdown": "",
+    "id": "326",
+    "title": "Sanshoku doukou"
+  },
+  "Tanki": {
+    "mapped_markdown": "",
+    "id": "432",
+    "title": "Tanki"
+  },
+  "Kazoe_yakuman": {
+    "mapped_markdown": "",
+    "id": "222",
+    "title": "Kazoe yakuman"
+  },
+  "Tenpai": {
+    "mapped_markdown": "",
+    "id": "228",
+    "title": "Tenpai"
+  },
+  "Haipai": {
+    "mapped_markdown": "",
+    "id": "2606",
+    "title": "Haipai"
+  },
+  "Daisangen": {
+    "mapped_markdown": "",
+    "id": "244",
+    "title": "Daisangen"
+  },
+  "Sankantsu__Replays": {
+    "mapped_markdown": "",
+    "id": "3204",
+    "title": "Sankantsu/Replays"
+  },
+  "Rinshan_kaihou__Replays": {
+    "mapped_markdown": "",
+    "id": "3258",
+    "title": "Rinshan kaihou/Replays"
+  },
+  "Space_mahjong": {
+    "mapped_markdown": "",
+    "id": "3706",
+    "title": "Space mahjong"
+  },
+  "Multiple_yakuman__Replays": {
+    "mapped_markdown": "",
+    "id": "3170",
+    "title": "Multiple yakuman/Replays"
+  },
+  "Defense": {
+    "mapped_markdown": "",
+    "id": "319",
+    "title": "Defense"
+  },
+  "Entotsu": {
+    "mapped_markdown": "",
+    "id": "2502",
+    "title": "Entotsu"
+  },
+  "Mahjong_strategy": {
+    "mapped_markdown": "",
+    "id": "2671",
+    "title": "Mahjong strategy"
+  },
+  "Suushiihou__Replays": {
+    "mapped_markdown": "",
+    "id": "3180",
+    "title": "Suushiihou/Replays"
+  },
+  "Kokushi_musou__Replays": {
+    "mapped_markdown": "",
+    "id": "3216",
+    "title": "Kokushi musou/Replays"
+  },
+  "Sanankou__Replays": {
+    "mapped_markdown": "",
+    "id": "3291",
+    "title": "Sanankou/Replays"
+  },
+  "Agari_houki": {
+    "mapped_markdown": "",
+    "id": "291",
+    "title": "Agari houki"
+  },
+  "Tsuuiisou__Replays": {
+    "mapped_markdown": "",
+    "id": "3096",
+    "title": "Tsuuiisou/Replays"
+  },
+  "Haitei_raoyue_and_houtei_raoyui": {
+    "mapped_markdown": "",
+    "id": "380",
+    "title": "Haitei raoyue and houtei raoyui"
+  },
+  "Wareme": {
+    "mapped_markdown": "",
+    "id": "3040",
+    "title": "Wareme"
+  },
+  "Shanten": {
+    "mapped_markdown": "",
+    "id": "269",
+    "title": "Shanten"
+  },
+  "Chiniisou__Replays": {
+    "mapped_markdown": "",
+    "id": "3237",
+    "title": "Chiniisou/Replays"
+  },
+  "Tenhou": {
+    "mapped_markdown": "",
+    "id": "219",
+    "title": "Tenhou"
+  },
+  "Yakitori": {
+    "mapped_markdown": "",
+    "id": "2695",
+    "title": "Yakitori"
+  },
+  "Atamahane": {
+    "mapped_markdown": "",
+    "id": "2496",
+    "title": "Atamahane"
+  },
+  "Moupai": {
+    "mapped_markdown": "",
+    "id": "3439",
+    "title": "Moupai"
+  },
+  "Renchan": {
+    "mapped_markdown": "",
+    "id": "2495",
+    "title": "Renchan"
+  },
+  "Tenhou.net_manual": {
+    "mapped_markdown": "",
+    "id": "3196",
+    "title": "Tenhou.net manual"
+  },
+  "Tatsumaki": {
+    "mapped_markdown": "",
+    "id": "3091",
+    "title": "Tatsumaki"
+  },
+  "Happoubijin": {
+    "mapped_markdown": "",
+    "id": "3092",
+    "title": "Happoubijin"
+  },
+  "Atama_mahjong": {
+    "mapped_markdown": "",
+    "id": "3704",
+    "title": "Atama mahjong"
+  },
+  "Junchantaiyaochuu": {
+    "mapped_markdown": "",
+    "id": "454",
+    "title": "Junchantaiyaochuu"
+  },
+  "Ikkitsuukan": {
+    "mapped_markdown": "",
+    "id": "208",
+    "title": "Ikkitsuukan"
+  },
+  "Scoring_variations": {
+    "mapped_markdown": "",
+    "id": "2569",
+    "title": "Scoring variations"
+  },
+  "Ikkyokusen": {
+    "mapped_markdown": "",
+    "id": "3332",
+    "title": "Ikkyokusen"
+  },
+  "Multiple_yakuman": {
+    "mapped_markdown": "",
+    "id": "320",
+    "title": "Multiple yakuman"
+  },
+  "Tochuu_ryuukyoku": {
+    "mapped_markdown": "",
+    "id": "250",
+    "title": "Tochuu ryuukyoku"
+  },
+  "Jihai": {
+    "mapped_markdown": "",
+    "id": "288",
+    "title": "Jihai"
+  },
+  "Kawa": {
+    "mapped_markdown": "",
+    "id": "2599",
+    "title": "Kawa"
+  },
+  "Chanta": {
+    "mapped_markdown": "",
+    "id": "452",
+    "title": "Chanta"
+  },
+  "Nagashi_mangan": {
+    "mapped_markdown": "",
+    "id": "314",
+    "title": "Nagashi mangan"
+  },
+  "Kabe": {
+    "mapped_markdown": "",
+    "id": "2486",
+    "title": "Kabe"
+  },
+  "Paifu": {
+    "mapped_markdown": "",
+    "id": "2572",
+    "title": "Paifu"
+  },
+  "Haitei_raoyue_and_houtei_raoyui__Replays": {
+    "mapped_markdown": "",
+    "id": "3648",
+    "title": "Haitei raoyue and houtei raoyui/Replays"
+  },
+  "List_of_Tenhoui": {
+    "mapped_markdown": "",
+    "id": "3307",
+    "title": "List of Tenhoui"
+  },
+  "Ippatsu": {
+    "mapped_markdown": "",
+    "id": "368",
+    "title": "Ippatsu"
+  },
+  "Riichi": {
+    "mapped_markdown": "",
+    "id": "209",
+    "title": "Riichi"
+  },
+  "Chiitoitsu": {
+    "mapped_markdown": "",
+    "id": "191",
+    "title": "Chiitoitsu"
+  },
+  "Score_table_memorization": {
+    "mapped_markdown": "",
+    "id": "2421",
+    "title": "Score table memorization"
+  },
+  "Rule_variations": {
+    "mapped_markdown": "",
+    "id": "2411",
+    "title": "Rule variations"
+  },
+  "Scoring_table": {
+    "mapped_markdown": "",
+    "id": "2522",
+    "title": "Scoring table"
+  },
+  "Tonpuusen": {
+    "mapped_markdown": "",
+    "id": "402",
+    "title": "Tonpuusen"
+  },
+  "Japanese_mahjong_setup": {
+    "mapped_markdown": "",
+    "id": "2908",
+    "title": "Japanese mahjong setup"
+  },
+  "Fu": {
+    "mapped_markdown": "",
+    "id": "377",
+    "title": "Fu"
+  },
+  "Honroutou": {
+    "mapped_markdown": "",
+    "id": "431",
+    "title": "Honroutou"
+  },
+  "Chiniisou": {
+    "mapped_markdown": "",
+    "id": "242",
+    "title": "Chiniisou"
+  },
+  "Multiple_ron": {
+    "mapped_markdown": "",
+    "id": "3153",
+    "title": "Multiple ron"
+  },
+  "Chinroutou__Replays": {
+    "mapped_markdown": "",
+    "id": "3249",
+    "title": "Chinroutou/Replays"
+  },
+  "Mentsu": {
+    "mapped_markdown": "",
+    "id": "255",
+    "title": "Mentsu"
+  },
+  "Rules_overview": {
+    "mapped_markdown": "",
+    "id": "44",
+    "title": "Rules overview"
+  },
+  "Futari_mahjong": {
+    "mapped_markdown": "",
+    "id": "2685",
+    "title": "Futari mahjong"
+  },
+  "Ryanhan_shibari": {
+    "mapped_markdown": "",
+    "id": "2665",
+    "title": "Ryanhan shibari"
+  },
+  "Naki_strategy": {
+    "mapped_markdown": "",
+    "id": "3745",
+    "title": "Naki strategy"
+  },
+  "Suukantsu__Replays": {
+    "mapped_markdown": "",
+    "id": "3327",
+    "title": "Suukantsu/Replays"
+  },
+  "Yaku_variations": {
+    "mapped_markdown": "",
+    "id": "2568",
+    "title": "Yaku variations"
+  },
+  "Majsoul": {
+    "mapped_markdown": "",
+    "id": "3537",
+    "title": "Majsoul"
+  },
+  "Suji": {
+    "mapped_markdown": "",
+    "id": "2455",
+    "title": "Suji"
+  },
+  "Sanshoku_doujun": {
+    "mapped_markdown": "",
+    "id": "370",
+    "title": "Sanshoku doujun"
+  },
+  "Keishiki_tenpai": {
+    "mapped_markdown": "",
+    "id": "3075",
+    "title": "Keishiki tenpai"
+  },
+  "Tile_efficiency": {
+    "mapped_markdown": "",
+    "id": "2519",
+    "title": "Tile efficiency"
+  },
+  "Betaori": {
+    "mapped_markdown": "",
+    "id": "442",
+    "title": "Betaori"
+  },
+  "Toitsu": {
+    "mapped_markdown": "",
+    "id": "2445",
+    "title": "Toitsu"
+  },
+  "Takame_and_yasume": {
+    "mapped_markdown": "",
+    "id": "2441",
+    "title": "Takame and yasume"
+  },
+  "Kazoe_yakuman__Replays": {
+    "mapped_markdown": "",
+    "id": "3302",
+    "title": "Kazoe yakuman/Replays"
+  },
+  "Ryanpeikou": {
+    "mapped_markdown": "",
+    "id": "412",
+    "title": "Ryanpeikou"
+  },
+  "Automatic_mahjong_table": {
+    "mapped_markdown": "",
+    "id": "451",
+    "title": "Automatic mahjong table"
+  },
+  "Karaten": {
+    "mapped_markdown": "",
+    "id": "2494",
+    "title": "Karaten"
+  },
+  "Yakuhai__Replays": {
+    "mapped_markdown": "",
+    "id": "3304",
+    "title": "Yakuhai/Replays"
+  },
+  "Naki": {
+    "mapped_markdown": "",
+    "id": "280",
+    "title": "Naki"
+  },
+  "List_of_yaku": {
+    "mapped_markdown": "",
+    "id": "51",
+    "title": "List of yaku"
+  },
+  "Kantan": {
+    "mapped_markdown": "",
+    "id": "3296",
+    "title": "Kantan"
+  },
+  "Shanpon": {
+    "mapped_markdown": "",
+    "id": "2416",
+    "title": "Shanpon"
+  },
+  "Tenhou.net": {
+    "mapped_markdown": "",
+    "id": "43",
+    "title": "Tenhou.net"
+  },
+  "Oka_and_uma": {
+    "mapped_markdown": "",
+    "id": "409",
+    "title": "Oka and uma"
+  },
+  "Playing_online": {
+    "mapped_markdown": "",
+    "id": "5",
+    "title": "Playing online"
+  },
+  "Junchantaiyaochuu__Replays": {
+    "mapped_markdown": "",
+    "id": "3535",
+    "title": "Junchantaiyaochuu/Replays"
+  },
+  "Suukantsu": {
+    "mapped_markdown": "",
+    "id": "235",
+    "title": "Suukantsu"
+  },
+  "Gyakuten": {
+    "mapped_markdown": "",
+    "id": "2670",
+    "title": "Gyakuten"
+  },
+  "Minefield_mahjong": {
+    "mapped_markdown": "",
+    "id": "2766",
+    "title": "Minefield mahjong"
+  },
+  "Sanankou": {
+    "mapped_markdown": "",
+    "id": "293",
+    "title": "Sanankou"
+  },
+  "Chuuren_poutou__Replays": {
+    "mapped_markdown": "",
+    "id": "3479",
+    "title": "Chuuren poutou/Replays"
+  },
+  "Single_suit_mahjong": {
+    "mapped_markdown": "",
+    "id": "3235",
+    "title": "Single suit mahjong"
+  },
+  "Yakuhai": {
+    "mapped_markdown": "",
+    "id": "373",
+    "title": "Yakuhai"
+  },
+  "Oya": {
+    "mapped_markdown": "",
+    "id": "2526",
+    "title": "Oya"
+  },
+  "Ukeire": {
+    "mapped_markdown": "",
+    "id": "3512",
+    "title": "Ukeire"
+  },
+  "List_of_mahjong_books": {
+    "mapped_markdown": "",
+    "id": "3673",
+    "title": "List of mahjong books"
+  },
+  "Ryuuiisou__Replays": {
+    "mapped_markdown": "",
+    "id": "3191",
+    "title": "Ryuuiisou/Replays"
+  },
+  "Mahjong_equipment": {
+    "mapped_markdown": "",
+    "id": "264",
+    "title": "Mahjong equipment"
+  },
+  "Ryantan_and_pentan": {
+    "mapped_markdown": "",
+    "id": "3060",
+    "title": "Ryantan and pentan"
+  },
+  "Kan": {
+    "mapped_markdown": "",
+    "id": "212",
+    "title": "Kan"
+  },
+  "Honroutou__Replays": {
+    "mapped_markdown": "",
+    "id": "3366",
+    "title": "Honroutou/Replays"
+  },
+  "Riichi_strategy": {
+    "mapped_markdown": "",
+    "id": "2830",
+    "title": "Riichi strategy"
+  },
+  "Jikaze": {
+    "mapped_markdown": "",
+    "id": "2395",
+    "title": "Jikaze"
+  },
+  "Kuikae": {
+    "mapped_markdown": "",
+    "id": "2437",
+    "title": "Kuikae"
+  },
+  "List_of_terminology_by_alphabetical_order": {
+    "mapped_markdown": "",
+    "id": "226",
+    "title": "List of terminology by alphabetical order"
+  },
+  "Suuankou__Replays": {
+    "mapped_markdown": "",
+    "id": "3297",
+    "title": "Suuankou/Replays"
+  },
+  "Chombo": {
+    "mapped_markdown": "",
+    "id": "278",
+    "title": "Chombo"
+  },
+  "Jigoku": {
+    "mapped_markdown": "",
+    "id": "2535",
+    "title": "Jigoku"
+  },
+  "Janryumon": {
+    "mapped_markdown": "",
+    "id": "2698",
+    "title": "Janryumon"
+  },
+  "Tsumo": {
+    "mapped_markdown": "",
+    "id": "231",
+    "title": "Tsumo"
+  },
+  "Sanshoku_doukou__Replays": {
+    "mapped_markdown": "",
+    "id": "3209",
+    "title": "Sanshoku doukou/Replays"
+  },
+  "Toutenkou": {
+    "mapped_markdown": "",
+    "id": "3719",
+    "title": "Toutenkou"
+  },
+  "Kan_strategy": {
+    "mapped_markdown": "",
+    "id": "3238",
+    "title": "Kan strategy"
+  },
+  "Aryanmen": {
+    "mapped_markdown": "",
+    "id": "3057",
+    "title": "Aryanmen"
+  },
+  "Yakuman": {
+    "mapped_markdown": "",
+    "id": "410",
+    "title": "Yakuman"
+  },
+  "Jansou": {
+    "mapped_markdown": "",
+    "id": "2678",
+    "title": "Jansou"
+  },
+  "Kokushi_musou": {
+    "mapped_markdown": "",
+    "id": "188",
+    "title": "Kokushi musou"
+  },
+  "EMA_Riichi_Competition_Rules": {
+    "mapped_markdown": "",
+    "id": "45",
+    "title": "EMA Riichi Competition Rules"
+  },
+  "Wanpai": {
+    "mapped_markdown": "",
+    "id": "271",
+    "title": "Wanpai"
+  },
+  "Tenhou_and_chiihou__Replays": {
+    "mapped_markdown": "",
+    "id": "3482",
+    "title": "Tenhou and chiihou/Replays"
+  },
+  "Chiitoitsu__Replays": {
+    "mapped_markdown": "",
+    "id": "3406",
+    "title": "Chiitoitsu/Replays"
+  },
+  "Jantou": {
+    "mapped_markdown": "",
+    "id": "2573",
+    "title": "Jantou"
+  },
+  "Suushiihou": {
+    "mapped_markdown": "",
+    "id": "233",
+    "title": "Suushiihou"
+  },
+  "Japanese_mahjong": {
+    "mapped_markdown": "",
+    "id": "50",
+    "title": "Japanese mahjong"
+  },
+  "Single_suit_modified": {
+    "mapped_markdown": "",
+    "id": "3227",
+    "title": "Single suit modified"
+  },
+  "Japanese_mahjong_scoring_rules": {
+    "mapped_markdown": "",
+    "id": "272",
+    "title": "Japanese mahjong scoring rules"
+  },
+  "Ni_hanchan": {
+    "mapped_markdown": "",
+    "id": "3709",
+    "title": "Ni hanchan"
+  },
+  "Shousangen__Replays": {
+    "mapped_markdown": "",
+    "id": "3156",
+    "title": "Shousangen/Replays"
+  },
+  "Washizu_mahjong": {
+    "mapped_markdown": "",
+    "id": "3222",
+    "title": "Washizu mahjong"
+  }
+}

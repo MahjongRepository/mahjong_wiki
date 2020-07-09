@@ -157,6 +157,8 @@ def main():
         u"Kyoku",
         u"List of mahjong clubs outside Japan",
         u"Tenhou.net client",
+        u"Saikyo no Mahjong 3D",
+        u"Janryumon",
     ]
 
     pages = []

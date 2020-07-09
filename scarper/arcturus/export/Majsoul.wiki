@@ -113,7 +113,7 @@ The result is always rounded up to an integer. (e.g. +68.2 → <code>+69</code>,
 || +15 / +30 || rowspan=5 | ±0 || rowspan=5 style="width:80px; white-space:normal;" | According to [[Majsoul#Rank Upgrade|Penalty]] on corresponding rank
 |-
 | Silver Room || +20 / +40 || +10 / +20 || +30 / +60
-|- 
+|-
 | Gold Room || +40 / +80 || +20 / +40 || +55 / +105
 |-
 | Jade Room || +55 / +110 || +30 / +60 || +75 / +160
@@ -182,9 +182,9 @@ CoinsGain = Sum(CoinsLosts) * EndScore / Sum(PositiveEndScores)
 |-
 | Silver Room || Silver Chest || Green Presents, Spheres, rarely Blue Presents || 1-2
 |-
-| Gold Room || Gold Chest || Green Presents, Spheres, rarely Blue Presents || 1-2 
+| Gold Room || Gold Chest || Green Presents, Spheres, rarely Blue Presents || 1-2
 |-
-| Jade Room || Jade Chest || Blue Presents, Spheres, sometimes Green Presents || 2 
+| Jade Room || Jade Chest || Blue Presents, Spheres, sometimes Green Presents || 2
 |-
 | Throne Room || Throne Chest || ? || ?
 |- style="border-top: 3px double #aaa;"
@@ -296,7 +296,7 @@ Currently there're 27 characters in game, including 19 females and 8 males.
 * Birth Date: ''June 26th''
 * Age: 18
 * Blood Type: O
-* Vocal: [[wikipedia:Yuka Iguchi|Yuka Iguchi]] (井口裕香) 
+* Vocal: [[wikipedia:Yuka Iguchi|Yuka Iguchi]] (井口裕香)
 * Interest: Reading
 <hr style="
     width: calc(100% - 1.6em * 2);
@@ -855,7 +855,7 @@ Gifts can be given to a character to increase your bond with that character (see
 ** Closed kan: Flips immediately
 ** Opened kan: Flips after
 * Closed kan during Riichi is allowed as long as:
-** The tile for kan is drawn instantly. 
+** The tile for kan is drawn instantly.
 ** The wait pattern does not change after the kan.
 * Seat wind [[Oka_and_uma#Tie-breaker|tie-breaker]]: Applied
 * [[Tochuu ryuukyoku|Abortive Draw]]s <small style="color:#999;">(''Tochuu Ryuukyoku'')</small>:
@@ -916,7 +916,7 @@ The scoring table with Tsumo-Loss is basically identical to regular 4P-mahjong:
 When North-Bisection is applied, the scoring table on Tsumo is as follows:
 {{Majsoul/3P-Mahjong scoring table/bisection}}
 The calculation on Tsumo is finished by the following steps:
-# Calculate the scoring points based on 4P-Mahjong. 
+# Calculate the scoring points based on 4P-Mahjong.
 # Equally divide North seat's payment (round up to whole hundreds).
 # Append the half North payment to other seats.
 E.g. A non-dealer wins with a hand of <code>40fu 3han</code>.

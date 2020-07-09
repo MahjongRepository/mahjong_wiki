@@ -3,6 +3,7 @@ import json
 import os
 import re
 import subprocess
+from distutils import dir_util
 
 from slugify import slugify
 
@@ -22,6 +23,38 @@ def main():
 
         meta = meta_info[wiki_file_name.split('.')[0]]
 
+        # prefix = ''
+        # categories = meta['mapped']['tags']
+        # if 'Terminology' in categories:
+        #     prefix = 'terminology/'
+        # if 'Yaku' in categories:
+        #     prefix = 'yaku/'
+        # if 'Yakuman' in categories:
+        #     prefix = 'yakuman/'
+        # if 'Game rules' in categories:
+        #     prefix = 'rules/'
+        # if 'Media' in categories:
+        #     prefix = 'media/'
+        # if 'Yaku replays' in categories:
+        #     prefix = 'yaku/replays/'
+        # if 'Rule variations' in categories:
+        #     prefix = 'rules/variations/'
+        # if 'Tenhou.net' in categories:
+        #     prefix = 'online/tenhou/'
+        # if 'Majsoul' in categories:
+        #     prefix = 'online/majsoul/'
+        # if 'Optional yaku' in categories:
+        #     prefix = 'yaku/optional/'
+        # if 'Machi' in categories:
+        #     prefix = 'terminology/waits/'
+        # if 'Strategy' in categories:
+        #     prefix = 'strategy/'
+        # meta['mapped']['markdown_path'] = prefix + slugify(meta['title']) + '.md'
+        # meta['mapped']['title'] = meta['title']
+        # with open(os.path.join(export_dir, '_meta.json'), 'w') as f:
+        #     f.write(json.dumps(meta_info, indent=2))
+        # continue
+
         # for debug
         # if meta['id'] != '261':
         #     continue
@@ -29,15 +62,15 @@ def main():
         print(meta['title'], meta['id'])
         wiki_content = load_and_prepare_wiki_file_content(wiki_file_name)
         title = meta['title']
-        slug = slugify(title)
         temp_wiki_file_path = os.path.join('temp.wiki')
 
+        categories, wiki_content = preprocess_wiki_file_content(wiki_content)
+
         with open(temp_wiki_file_path, 'w') as f:
-            categories, wiki_content = preprocess_wiki_file_content(wiki_content)
-            meta['categories'] = categories
+            _, wiki_content = preprocess_wiki_file_content(wiki_content)
             f.write(wiki_content)
 
-        markdown_content, final_md_file_path = convert_to_markdown(slug)
+        markdown_content, final_md_file_path = convert_to_markdown(meta)
         markdown_content = remove_escaping(markdown_content)
 
         with open(final_md_file_path, 'w') as f:
@@ -95,11 +128,16 @@ def preprocess_wiki_file_content(content):
     return categories, content
 
 
-def convert_to_markdown(slug):
+def convert_to_markdown(meta):
     final_md_file_path = os.path.join(
         current_directory, '..', 'hugo', 'content',
-        'english', 'riichi', 'wiki', os.path.join('%s.md' % slug)
+        'english', 'riichi', 'wiki', meta['mapped']['markdown_path']
     )
+
+    try:
+        os.makedirs(os.path.dirname(final_md_file_path))
+    except OSError:
+        pass
 
     temp_wiki_file_path = 'temp.wiki'
     temp_md_file_path = 'temp.md'
@@ -219,7 +257,7 @@ def process_categories(content):
     Extract page categories and remove them from wiki file.
     """
     regex = r'\[\[Category:(.*?)\]\]'
-    categories = re.findall(regex, content)
+    categories = [x.strip() for x in re.findall(regex, content)]
     content = re.sub(regex, r'', content)
     return categories, content
 

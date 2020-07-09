@@ -10,7 +10,7 @@
 * [http://tenhou.net/0/?log=2014032411gm-0089-0000-893e2d65&tw=1&ts=9 Chankan declined]
 * [http://tenhou.net/0/?log=2015032605gm-0089-0000-70f97ed2&tw=0 Chankan baiman]
 }}
-'''Chankan''' {{kana|搶槓}} is a standard yaku.  It is dependent on the usage of [[kan]], where a player may declare ron while a player calls to upgrade a [[koutsu|minkou]] (triple called via [[pon]]) to a [[Kan#Shominkan|shominkan]] (added kan).  In other words, if a player is tenpai for a tile used for that specific added kan, then the player may declare a win on that tile.  
+'''Chankan''' {{kana|搶槓}} is a standard yaku.  It is dependent on the usage of [[kan]], where a player may declare ron while a player calls to upgrade a [[koutsu|minkou]] (triple called via [[pon]]) to a [[Kan#Shominkan|shominkan]] (added kan).  In other words, if a player is tenpai for a tile used for that specific added kan, then the player may declare a win on that tile.
 
 In almost all cases, players are not allowed to call ron on an [[Kan#Ankan|ankan]] (closed kan). The notable exception involves a [[kokushi]] [[tenpai]] hand, where the last tile needed for the yakuman is called for an ankan.  However, the kokushi exception varies on the rules.  In [[Rule_variations#Kokushi_and_chankan|some rules]], it is disallowed outright.
 
@@ -61,6 +61,6 @@ If the rules allow, a special case for [[kokushi musou]] exists.  This involves 
 ==External links==
 {{jpwiki|搶槓}}
 
-[[Category:yaku]]
+[[Category:Yaku]]
 
 {{navbox yaku}}

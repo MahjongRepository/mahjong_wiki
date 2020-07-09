@@ -1,3 +1,4 @@
-# Main page
++++
+title = "Main page"
++++
 
-Nothing here... yet.

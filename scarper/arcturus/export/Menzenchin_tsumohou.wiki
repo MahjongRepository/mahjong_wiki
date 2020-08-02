@@ -1,6 +1,6 @@
 {{Infobox yaku
 |type        = Yaku
-|kanji       = 門前清自摸和<br>ツモ
+|kanji       = 門前清自摸和
 |english     = Self draw
 |value       = 1 han (closed only)
 |yakuSpeed   = Varies
@@ -13,6 +13,11 @@
 
 ==Formation==
 With this yaku, all closed hands qualify for menzen tsumo, even if it is the only yaku.  No open hand may qualify for this yaku.  The instant a player [[Naki|calls on a discarded tile]], then the player forfeits the right to claim this yaku until the next hand, just like [[riichi]].
+
+==Riichi vs damaten==
+{{main|Riichi|Damaten}}
+
+While in tenpai with a closed, [[riichi]] is not a required move for any player.  Instead, the player opts to utilize the tactic of [[damaten]].  In some cases, the winning tile is drawn and the hand may win.
 
 == Compatibility ==
 {{main|Yaku compatibility}}

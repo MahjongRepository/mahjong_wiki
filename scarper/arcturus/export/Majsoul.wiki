@@ -113,7 +113,7 @@ The result is always rounded up to an integer. (e.g. +68.2 → <code>+69</code>,
 || +15 / +30 || rowspan=5 | ±0 || rowspan=5 style="width:80px; white-space:normal;" | According to [[Majsoul#Rank Upgrade|Penalty]] on corresponding rank
 |-
 | Silver Room || +20 / +40 || +10 / +20 || +30 / +60
-|-
+|- 
 | Gold Room || +40 / +80 || +20 / +40 || +55 / +105
 |-
 | Jade Room || +55 / +110 || +30 / +60 || +75 / +160
@@ -182,9 +182,9 @@ CoinsGain = Sum(CoinsLosts) * EndScore / Sum(PositiveEndScores)
 |-
 | Silver Room || Silver Chest || Green Presents, Spheres, rarely Blue Presents || 1-2
 |-
-| Gold Room || Gold Chest || Green Presents, Spheres, rarely Blue Presents || 1-2
+| Gold Room || Gold Chest || Green Presents, Spheres, rarely Blue Presents || 1-2 
 |-
-| Jade Room || Jade Chest || Blue Presents, Spheres, sometimes Green Presents || 2
+| Jade Room || Jade Chest || Blue Presents, Spheres, sometimes Green Presents || 2 
 |-
 | Throne Room || Throne Chest || ? || ?
 |- style="border-top: 3px double #aaa;"
@@ -296,7 +296,7 @@ Currently there're 27 characters in game, including 19 females and 8 males.
 * Birth Date: ''June 26th''
 * Age: 18
 * Blood Type: O
-* Vocal: [[wikipedia:Yuka Iguchi|Yuka Iguchi]] (井口裕香)
+* Vocal: [[wikipedia:Yuka Iguchi|Yuka Iguchi]] (井口裕香) 
 * Interest: Reading
 <hr style="
     width: calc(100% - 1.6em * 2);
@@ -768,7 +768,7 @@ Currently there're 27 characters in game, including 19 females and 8 males.
 </ul>
 
 === Bond System ===
-Each character has a unique Bond Value. The value can be enhanced by gaming or gifting to unlock corresponding vocals. At the maximum affection level, all voice lines will be unlocked, and the character will read out yakus after winning a hand. Characters can be entangled to unlock new appearance as a skin that can be chosen, accompanying with 3 extra emotes.
+Each character has a unique Bond Value. The value can be enhanced by gaming or gifting to unlock corresponding vocals and story plots. At the maximum affection level, all voice lines will be unlocked, and the character will read out yakus after winning a hand. Characters can be entangled to unlock new appearance as a skin that can be chosen, accompanying with 3 extra emotes.
 
 {| class="wikitable"
 |+ Bond Values
@@ -836,6 +836,7 @@ Gifts can be given to a character to increase your bond with that character (see
 ** <s>DoraDorara: Temporary available. 4P-South only.</s>
 ** <s>Open Hand Match: Temporary available. 4P-South only. Requires Copper coins.</s>
 ** <s>Chaotic Wall Break: Temporary available. 4P-South only. Requires Copper coins.</s>
+** Path of Trial: Temporary available. 4P-East only. Requires Copper coins (1500 coins per match, no exchange).
 
 === Gameplay ===
 * All Simples in opened hand <small style="color:#999;">(''Kuitan'')</small>: Allowed
@@ -855,7 +856,7 @@ Gifts can be given to a character to increase your bond with that character (see
 ** Closed kan: Flips immediately
 ** Opened kan: Flips after
 * Closed kan during Riichi is allowed as long as:
-** The tile for kan is drawn instantly.
+** The tile for kan is drawn instantly. 
 ** The wait pattern does not change after the kan.
 * Seat wind [[Oka_and_uma#Tie-breaker|tie-breaker]]: Applied
 * [[Tochuu ryuukyoku|Abortive Draw]]s <small style="color:#999;">(''Tochuu Ryuukyoku'')</small>:
@@ -916,7 +917,7 @@ The scoring table with Tsumo-Loss is basically identical to regular 4P-mahjong:
 When North-Bisection is applied, the scoring table on Tsumo is as follows:
 {{Majsoul/3P-Mahjong scoring table/bisection}}
 The calculation on Tsumo is finished by the following steps:
-# Calculate the scoring points based on 4P-Mahjong.
+# Calculate the scoring points based on 4P-Mahjong. 
 # Equally divide North seat's payment (round up to whole hundreds).
 # Append the half North payment to other seats.
 E.g. A non-dealer wins with a hand of <code>40fu 3han</code>.
@@ -933,6 +934,9 @@ The tournament lobby has been made available, and Yostar launched the [[Catfood 
 ** <small style="color:#999;"><EN / JP></small> For players registered during Grand Launch period from ''April 25th, 2019'' to ''May 6th, 2019''.
 * <span style="color:#96cc33;">'''Light of Firefly'''</span> <small style="color:#999;"><CN></small>: For players attended in Majsoul's live event held in Shanghai Firefly Animé Expo during ''October 2nd, 2018'' to ''October 4th, 2018''.
 * <span style="color:#42b37a;">'''Grand Renewal'''</span> <small style="color:#999;"><CN></small>: Memorial title of CN server migration. Awarded for players achieved Adapt rank or above in previous CN server before ''June 10th, 2020''.
+
+=== Activity / Event Title ===
+* <span style="color:#fef3e2; background-color:#283268; padding:2px 4px;">'''Season 1 Challenger'''</span>: For the players achieving Trial Rank Lv20 in Path of Trial Season 1 from ''July 26th, 2020'' to ''October 24th, 2020''.
 
 === Player-specified Titles ===
 * <span style="color:#9192e5;">'''Approved Player'''</span> <small style="color:#999;"><JP></small>: For the winner in the VTuber Mahjong Tournament Match (Shirakami Fubuki Cup). Currently held by [https://amae-koromo.sapk.ch/player/72042909 鴨神にゅう].<!--
@@ -1000,45 +1004,10 @@ The following titles are acquired by satisfying enough amount on charge. The tit
 | colspan=2 style="white-space: nowrap;" | Protector of Cat Kingdom || 8,000 || 30 || +110 || +250% || 7 || 25 || 80
 |}
 
-{| class="wikitable mw-collapsible mw-collapsed" style="float:right; margin-left:1em;"
-|+ style="white-space:nowrap;" | Changes of Price Table
-|-
-! rowspan=2 | Content !! Price !! rowspan=2 | Content !! Price
-|-
-! JP !! CN
-|-
-| 60 Jades || <span style="display:inline-block; min-width:60px;"></span> JP¥120
-| <s style="display:inline-block; min-width:40px;">120</s> 65 Jades || <s style="display:inline-block; min-width:60px;">CN¥12</s> NT$33
-|-
-| 300 Jades || <s style="display:inline-block; min-width:60px;">JP¥600</s> JP¥610
-| <s style="display:inline-block; min-width:40px;">300</s> 340 Jades || <s style="display:inline-block; min-width:60px;">CN¥30</s> NT$170
-|-
-| 480 Jades || <s style="display:inline-block; min-width:60px;">JP¥960</s> JP¥980
-| <s style="display:inline-block; min-width:40px;">600</s> 660 Jades || <s style="display:inline-block; min-width:60px;">CN¥60</s> NT$330
-|-
-| 900 Jades || <s style="display:inline-block; min-width:60px;">JP¥1800</s> JP¥1840
-| <s style="display:inline-block; min-width:40px;">980</s> 1200 Jades || <s style="display:inline-block; min-width:60px;">CN¥98</s> NT$590
-|-
-| 1200 Jades || <s style="display:inline-block; min-width:60px;">JP¥2400</s> JP¥2440
-| <s style="display:inline-block; min-width:40px;">1280</s> 2100 Jades || <s style="display:inline-block; min-width:60px;">CN¥128</s> NT$990
-|-
-| 1800 Jades || <s style="display:inline-block; min-width:60px;">JP¥3600</s> JP¥3680
-| <s style="display:inline-block; min-width:40px;">1980</s> 2800 Jades || <s style="display:inline-block; min-width:60px;">CN¥198</s> NT$1320
-|-
-| 2400 Jades || <s style="display:inline-block; min-width:60px;">JP¥4800</s> JP¥4900
-| <s style="display:inline-block; min-width:40px;">3280</s> 3660 Jades || <s style="display:inline-block; min-width:60px;">CN¥328</s> NT$1690
-|-
-| 4900 Jades || <s style="display:inline-block; min-width:60px;">JP¥9800</s> JP¥10000
-| <span style="display:inline-block; min-width:40px;"></span> 6480 Jades || <s style="display:inline-block; min-width:60px;">CN¥648</s> NT$2990
-|- style="border-top:3px double #aaa;"
-| Fortune Charm || <s style="display:inline-block; min-width:60px;">JP¥600</s> JP¥610
-| Fortune Charm || <s style="display:inline-block; min-width:60px;">CN¥30</s> NT$170
-|}
-
 '''Notes:'''
-* A rough calculation between VIP points and actual cost can be done by the following formula:<br/> <code>6 VIP points</code> = <code style="text-decoration:line-through;">6 CNY</code> <code>≈30 NTD</code> <small style="color:#999;"><CN></small> / <code>1 USD</code> <small style="color:#999;"><EN></small> / <code>≈120 JPY</code> <small style="color:#999;"><JP></small>.
+* A rough calculation between VIP points and actual cost can be done by the following formula:<br/> <code>6 VIP points</code> = <code style="text-decoration:line-through;">6 CNY</code> <code>≈30 NTD or ≈1 USD</code> <small style="color:#999;"><CN></small> / <code>1 USD</code> <small style="color:#999;"><EN></small> / <code>≈120 JPY</code> <small style="color:#999;"><JP></small>.
 ** The prices in JP server are slightly increased from ''October 1st, 2019'' due to an increasement of consumption tax.
-** The currency in CN server is switched to New Taiwan Dollar after the server migration from ''June 9th, 2020''. Overall prices are higher, while rewarded jades are also increased slightly.
+** The currency in CN server is switched to New Taiwan Dollar after the server migration from ''June 9th, 2020'', while US Dollar is also available in Steam client released on ''July 15th, 2020''. Overall prices are higher, while rewarded jades are also increased slightly.
 
 == References ==
 <references/>
@@ -1055,7 +1024,7 @@ The following titles are acquired by satisfying enough amount on charge. The tit
 ! Server !! Game Sites !! Social Media
 |-
 | CN (China) <br> <small>by CatFood Studio</small>
-| Main Page: https://www.maj-soul.com/ <br/> Game Entry: [https://game.maj-soul.com/1/ Web] / Android APK
+| Main Page: https://www.maj-soul.com/ <br/> Game Entry: [https://game.maj-soul.com/1/ Web] / [https://store.steampowered.com/app/1329410/MahjongSoul/ Steam] / Android APK
 | Bilibili: [https://space.bilibili.com/353240497/dynamic 雀魂麻将majsoul] <br> Weibo: [https://weibo.com/majsoul 雀魂麻将majsoul]
 |-
 | EN (North America) <br> <small>by Yostar Games</small>

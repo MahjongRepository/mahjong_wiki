@@ -1,6 +1,6 @@
 {{Infobox yaku
 |type        = Yaku
-|kanji       = ダブル立直 or ダブルリーチ
+|kanji       = 両立直 or ダブルリーチ
 |english     = Double ready
 |value       = 2 han
 |yakuSpeed   = Immediate
@@ -9,7 +9,7 @@
 * [http://tenhou.net/0/?log=2012071323gm-0009-7833-xa0d19f28f26e&tw=0&ts=6 Double riichi] with [[furiten]]
 * [http://tenhou.net/0/?log=2016072423gm-00a9-0000-b0aed9e0&ts=8&tw=2 Double riichi denied]
 }}
-'''Daburu riichi''' {{kana|ダブル立直}} or {{kana|ダブルリーチ}}, is simply '''double riichi'''.  This is a special case for [[riichi]].  In this case, the player's [[haipai|start hand]] is already at tenpai from the dealt tiles, or the initial draw produces a tenpai hand.  Naturally, a player has the option to declare riichi at this time.  No tile call may have interrupted the turn order before the declaration, where applicable.  For the dealer, the only possible interruption would be a call for a closed [[kan]].
+'''Daburu riichi''' {{kana|両立直}} or {{kana|ダブルリーチ}}, is simply '''double riichi'''.  This is a special case for [[riichi]].  In this case, the player's [[haipai|start hand]] is already at tenpai from the [[Haipai|dealt tiles]], or the initial draw produces a tenpai hand.  Effectively, this is the fastest possible tenpai hand.  Naturally, a player has the option to declare riichi at this time.  Rarely does a player decline such a call, but it does happen.  No tile call may interrupt the turn order before the declaration, where applicable.  For the dealer, the only possible interruption would be a call for a closed [[kan]].
 
 Double riichi is worth 2 han instead of 1 han for a normal riichi, as a bonus for the initial timing.  With the added han value, a call for double riichi has a huge advantage over the other players in conjunction with the immediate speed of the hand.  Of course, that advantage withers away with each unsuccessful draw, especially when the number of safe discards increases as the collective draws and discards progresses.
 

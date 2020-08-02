@@ -5,26 +5,26 @@ import os
 from lxml import etree
 
 current_directory = os.path.dirname(os.path.abspath(__file__))
-export_dir = os.path.join(current_directory, 'arcturus', 'export')
-xml_file = os.path.join(current_directory, 'arcturus', 'arcturussu_mjw.xml')
+export_dir = os.path.join(current_directory, "arcturus", "export")
+xml_file = os.path.join(current_directory, "arcturus", "arcturussu_mjw.xml")
 
 
 def main():
     skip_titles_start_with = [
-        'Category:',
-        'Category talk:',
-        'Help talk:',
-        'Help:',
-        'Template talk:',
-        'Template:',
-        'MediaWiki talk:',
-        'MediaWiki:',
-        'File talk:',
-        'File:',
-        'Project:',
-        'User talk:',
-        'User:',
-        'Talk:',
+        "Category:",
+        "Category talk:",
+        "Help talk:",
+        "Help:",
+        "Template talk:",
+        "Template:",
+        "MediaWiki talk:",
+        "MediaWiki:",
+        "File talk:",
+        "File:",
+        "Project:",
+        "User talk:",
+        "User:",
+        "Talk:",
     ]
 
     skip_pages = [
@@ -159,59 +159,64 @@ def main():
         u"Tenhou.net client",
         u"Saikyo no Mahjong 3D",
         u"Janryumon",
+        u"Professional League Game Rules"
     ]
 
     pages = []
-    with open(xml_file, 'r') as f:
+    with open(xml_file, "r") as f:
         root = etree.fromstring(f.read())
 
-        for page_tag in root.findall('page', namespaces=root.nsmap):
+        for page_tag in root.findall("page", namespaces=root.nsmap):
             # skip system pages with redirects
-            if page_tag.find('redirect', namespaces=root.nsmap) is not None:
+            if page_tag.find("redirect", namespaces=root.nsmap) is not None:
                 continue
 
             page = {}
             for child in page_tag:
-                if etree.QName(child).localname == 'title':
-                    page['title'] = child.text
+                if etree.QName(child).localname == "title":
+                    page["title"] = child.text
 
-                if etree.QName(child).localname == 'id':
-                    page['id'] = child.text
+                if etree.QName(child).localname == "id":
+                    page["id"] = child.text
 
-                if etree.QName(child).localname == 'revision':
-                    page['text'] = child.find('text', namespaces=root.nsmap).text
+                if etree.QName(child).localname == "revision":
+                    page["text"] = child.find("text", namespaces=root.nsmap).text
 
             if not page:
                 continue
 
-            if page['title'] in skip_pages:
+            if page["title"] in skip_pages:
                 continue
 
-            if any([page['title'].startswith(x) for x in skip_titles_start_with]):
+            if any([page["title"].startswith(x) for x in skip_titles_start_with]):
                 continue
 
             pages.append(page)
 
-    pages = sorted(pages, key=lambda x: x['title'])
-    print('pages', len(pages))
+    pages = sorted(pages, key=lambda x: x["title"])
+    print("pages", len(pages))
 
-    pages_meta_data = {}
+    with open(os.path.join(export_dir, "_meta.json"), "r") as f:
+        pages_meta_data = json.loads(f.read())
+
     for page in pages:
-        title = page['title']
-        file_name = title.replace(' ', '_').replace('/', '__')
+        title = page["title"]
+        file_name = title.replace(" ", "_").replace("/", "__")
 
-        with open(os.path.join(export_dir, '%s.wiki' % file_name), 'w') as f:
-            f.write(page['text'].encode('utf-8'))
+        with open(os.path.join(export_dir, "%s.wiki" % file_name), "w") as f:
+            f.write(page["text"].encode("utf-8"))
 
-        pages_meta_data[file_name] = {
-            'title': page['title'],
-            'id': page['id'],
-            'mapped_markdown': '',
-        }
+        if not pages_meta_data.get(file_name):
+            pages_meta_data[file_name] = {
+                "mapped": {}
+            }
 
-    with open(os.path.join(export_dir, '_meta.json'), 'w') as f:
+        pages_meta_data[file_name]["title"] = page["title"]
+        pages_meta_data[file_name]["id"] = page["id"]
+
+    with open(os.path.join(export_dir, "_meta.json"), "w") as f:
         f.write(json.dumps(pages_meta_data, indent=2))
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()

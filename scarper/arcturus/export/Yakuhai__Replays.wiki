@@ -48,5 +48,4 @@ This is a collection of replays featuring [[yakuhai]].
 
 ==External links==
 {{navbox yaku replays}}
-
-[[Category:Yaku replays]]
+[[Category:Yaku replays}}

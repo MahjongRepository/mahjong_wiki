@@ -85,7 +85,7 @@ When their suits are identical, it becomes the standard [[ryanpeikou]] hand.
 * Value: 2 han
 * Examples:
 ** {{#mjt:444888m44p789s}} {{#mjt:444's}}
-** {{#mjt:33399m77799p}} {{#mjt:99'9s}}, Ron: {{#mjt:9p}} <ref>[https://www.majsoul.com/1/?paipu=200518-fa20331d-57af-4c4d-9c4f-feb95151c449_a96823229 Shoutate] (East 4 Round, East seat)</ref>
+** {{#mjt:33399m77799p}} {{#mjt:99'9s}}, Ron: {{#mjt:9p}} <ref group="replay" name="replay-shoutate">[https://www.majsoul.com/1/?paipu=200518-fa20331d-57af-4c4d-9c4f-feb95151c449_a96823229 Shoutate] (East 4 Round, East seat)</ref>
 * Trivia:
 ** This local yaku is mainly used in [[wikipedia:Hokkaido|Hokkaido]] region.
 ** This yaku works like a [[shousangen]] version of [[sanshoku doukou]].  Usually when shoutate is adopted, sanshoku doukou will be upgraded to a 3-han yaku.

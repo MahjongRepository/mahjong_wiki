@@ -12370,36 +12370,41 @@ Aside from needing five out of the six terminal types, every tile group must be 
     <ns>0</ns>
     <id>278</id>
     <revision>
-      <id>20049</id>
-      <parentid>17944</parentid>
-      <timestamp>2019-08-02T04:41:08Z</timestamp>
+      <id>21232</id>
+      <parentid>21231</parentid>
+      <timestamp>2020-07-24T22:04:43Z</timestamp>
       <contributor>
-        <username>Kator278</username>
-        <id>8124</id>
+        <username>KyuuAA</username>
+        <id>8</id>
       </contributor>
-      <comment>/* External links */ Fixed link</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="5660">'''Chombo''' {{kana|冲合}} is a penalty for heavy rule violations.  Some moves may be considered [[dead hand|minor and correctable]], like accidentally drawing the wrong tile from the wall.  Rule violations subject to chombo are harsh enough to abort the hand and impose a point loss on the offender.
-
-A player penalized with chombo must pay a specified point penalty, depending on the setting.  The most common is a [[mangan|mangan-sized]] penalty. To each other player, the offender must pay what the offender would have received on a mangan tsumo without [[honba]]. In other words, the offender pays a &quot;reverse mangan tsumo&quot;.  An offending dealer must pay 4,000 to everyone, and offending non-dealers must pay 2,000 to each non-dealer and 4,000 to the dealer. In some instances, the points specified may directly affect the [[uma]], or the +/- end scores.  As a time saver, chombo penalties may be applied post-game, especially when a time limit is imposed.    Casual settings may simply ignore and bypass chombo altogether.
+      <text xml:space="preserve" bytes="6296">'''Chombo''' {{kana|冲合}} is a penalty for heavy rule violations.  Some moves may be considered [[dead hand|minor and correctable]], like accidentally drawing the wrong tile from the wall.  Rule violations subject to chombo are harsh enough to abort the hand and impose a point loss on the offender.
 
 In all instances of chombo, the current hand is then aborted and repeated. Players who have declared [[riichi]] during the aborted hand get their riichi bet back. Most rules leave the [[honba]] count unchanged for the repeat, while some rules may handle this like any other [[abortive draw]].
 
-== Cheating ==
+== Application ==
+A player penalized with chombo must pay a specified point penalty, depending on the setting.  The most common is a [[mangan|mangan-sized]] penalty. To each other player, the offender must pay what the offender would have received on a mangan tsumo without [[honba]]. In other words, the offender pays a &quot;reverse mangan tsumo&quot;.  An offending dealer must pay 4,000 to everyone, and offending non-dealers must pay 2,000 to each non-dealer and 4,000 to the dealer. In some instances, the points specified may directly affect the [[uma]], or the +/- end scores.  As a time saver, chombo penalties may be applied post-game, especially when a time limit is imposed.    Casual settings may simply ignore and bypass chombo altogether.
+
+Another application of chombo penalizes the player post-game. After the end score calculation with [[oka]] and [[uma]], a point penalty is applied. This format is relevant in [[Mahjong tournaments|tournament]] formats, where accumulated points play a role to overall standings.  The deducted points is at the discretion of the tournament organizer.
+
+== Infraction cases ==
+A number of instances can place a player under chombo.  All of these can be noted as &quot;improper play&quot; and a disregard of the game rules.  Often, the penalties are accidental, but intentional penalized plays are also to be noted.
+
+=== Cheating ===
 
 Cheating is very possible in the game.  In fact, some players can execute various and elaborate cheating tricks.  Some tricks involve &quot;wall rigging&quot; by deliberately placing tiles along certain positions on the wall.  Other tricks involving tile switching from any part of the wall or even from the discard pile.  Many of tricks involve the ''sleight of hand''.  The most skilled cheaters have the ability to perform these tricks with minimal detection, if any.
 
 Tournament judges might decide on an even more severe punishment than chombo or disqualify the cheater.
 
-== Invalid win ==
+=== Invalid win ===
 
 Players cannot declare a win with an incomplete hand or on an incorrect waiting tile.  The following conditions are deemed as invalid win:
 * '''The hand must have at least one [[yaku]] minimum to win'''. Therefore, declaring a win on a hand without yaku is penalized.
 * A player in [[furiten]] cannot win by ron.  Instead, by the rule of furiten, a player is limited to winning via tsumo.  Declaring ron while furiten is penalized.
 * Declaring a win with a noten hand is definitely subject to chombo.
 
-== Invalid call ==
+=== Invalid call ===
 
 Making an invalid call may be subjected to chombo. Showing the incorrect tiles for a certain call can be easily corrected if the player can still make a meld with that call, but if a call was made and the resulting meld is illegal, then chombo applies.
 
@@ -12409,15 +12414,15 @@ Making an invalid call may be subjected to chombo. Showing the incorrect tiles f
 * Shimocha drops {{#mjt:4s}} and player calls ''pon'', then shows {{#mjt:45s}}: Minor mistake. Can be corrected by revealing the {{#mjt:44s}}
 * Shimocha drops {{#mjt:5s}} and player calls ''pon'', then shows {{#mjt:45s}}: Chombo is applied.
 
-== Noten riichi ==
+=== Noten riichi ===
 
 Riichi may only be declared with a [[tenpai]] hand. Declaring riichi with a noten hand is not detected by the other players immediately. It goes unpunished if another player wins the hand or on an [[abortive draw]]. The noten riichi is punished with chombo if the player declares a win, or when the hand must be revealed at [[ryuukyoku]].
 
-== Unrevealed riichi ==
+=== Unrevealed riichi ===
 
 If the hand ends in [[ryuukyoku]], riichi declarers must show their hands as proof of being in tenpai. Depending on the specific rules, a player may refuse to show the hand and instead take the penalty, even when tenpai.
 
-== Invalid ankan ==
+=== Invalid ankan ===
 {{main|Kan#Kan during riichi}}
 
 During riichi, a player may call [[kan]] with an ankan, or closed kan. However, this is invalid when the player's [[Machi|wait]] changes.  Typically, this occurs when, the four concealed tiles are connected to another [[mentsu|tile grouping]]. Other players cannot detect this rules violation immediately, and it is punished at the same time as a noten riichi.
@@ -12428,11 +12433,11 @@ During riichi, a player may call [[kan]] with an ankan, or closed kan. However, 
 * {{#mjt:7m}} If this tile is drawn, then it is acceptable to call kan in this instance.
 * {{#mjt:2p}} If this tile is drawn, then it is unacceptable to call kan.  In fact, it is much better to simply call [[mentsumo|tsumo]] and win the hand.
 
-== Calling with a dead hand ==
+=== Calling with a dead hand ===
 {{main|Dead hand}}
 A player with a dead hand is forbidden to make any type of call, such as chii, pon, kan, riichi, tsumo, or ron.
 
-== Wall destruction ==
+=== Wall destruction ===
 
 A player may not crash and destroy the wall, such that the tile arrangement cannot be recovered.  This is by far one of the worst penalties, as the act ruins the game completely.  It is worse, when done intentionally.  The intentional act of destroying the wall may be considered to be extremely rude and renders an otherwise enjoyable game into a confrontational one.  Here, a player may not just incur a penalty but also be ejected.
 
@@ -13202,19 +13207,19 @@ This pattern waits on 22 tiles.
     <ns>0</ns>
     <id>2434</id>
     <revision>
-      <id>20748</id>
-      <parentid>17377</parentid>
-      <timestamp>2020-01-17T14:20:57Z</timestamp>
+      <id>21226</id>
+      <parentid>21225</parentid>
+      <timestamp>2020-07-17T21:26:33Z</timestamp>
       <contributor>
-        <username>Kator278</username>
-        <id>8124</id>
+        <username>KyuuAA</username>
+        <id>8</id>
       </contributor>
       <minor/>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="3406">{{Infobox yaku
+      <text xml:space="preserve" bytes="3517">{{Infobox yaku
 |type        = Yaku
-|kanji       = ダブル立直 or ダブルリーチ
+|kanji       = 両立直 or ダブルリーチ
 |english     = Double ready
 |value       = 2 han
 |yakuSpeed   = Immediate
@@ -13223,7 +13228,7 @@ This pattern waits on 22 tiles.
 * [http://tenhou.net/0/?log=2012071323gm-0009-7833-xa0d19f28f26e&amp;tw=0&amp;ts=6 Double riichi] with [[furiten]]
 * [http://tenhou.net/0/?log=2016072423gm-00a9-0000-b0aed9e0&amp;ts=8&amp;tw=2 Double riichi denied]
 }}
-'''Daburu riichi''' {{kana|ダブル立直}} or {{kana|ダブルリーチ}}, is simply '''double riichi'''.  This is a special case for [[riichi]].  In this case, the player's [[haipai|start hand]] is already at tenpai from the dealt tiles, or the initial draw produces a tenpai hand.  Naturally, a player has the option to declare riichi at this time.  No tile call may have interrupted the turn order before the declaration, where applicable.  For the dealer, the only possible interruption would be a call for a closed [[kan]].
+'''Daburu riichi''' {{kana|両立直}} or {{kana|ダブルリーチ}}, is simply '''double riichi'''.  This is a special case for [[riichi]].  In this case, the player's [[haipai|start hand]] is already at tenpai from the [[Haipai|dealt tiles]], or the initial draw produces a tenpai hand.  Effectively, this is the fastest possible tenpai hand.  Naturally, a player has the option to declare riichi at this time.  Rarely does a player decline such a call, but it does happen.  No tile call may interrupt the turn order before the declaration, where applicable.  For the dealer, the only possible interruption would be a call for a closed [[kan]].
 
 Double riichi is worth 2 han instead of 1 han for a normal riichi, as a bonus for the initial timing.  With the added han value, a call for double riichi has a huge advantage over the other players in conjunction with the immediate speed of the hand.  Of course, that advantage withers away with each unsuccessful draw, especially when the number of safe discards increases as the collective draws and discards progresses.
 
@@ -17087,6 +17092,28 @@ With closed hands, this combination produces some very powerful hands.  With hon
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="260">'''Iikyokuen''' is a game mode, where game play is limited to a single hand.  This operates as a standard four player game, except there are no wind rotations.  Only one player is given the position of dealer; and the game ends upon the conclusion of the hand.</text>
+    </revision>
+  </page>
+  <page>
+    <title>International Mahjong Day</title>
+    <ns>0</ns>
+    <id>3837</id>
+    <revision>
+      <id>21209</id>
+      <timestamp>2020-07-08T21:59:04Z</timestamp>
+      <contributor>
+        <username>KyuuAA</username>
+        <id>8</id>
+      </contributor>
+      <comment>Created page with &quot;'''International Mahjong Day''' is a registered holiday for mahjong.  The day was founded by [[Riichi Mahjong Central]] as an extension to the original '''National Mahjong Day...&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="331">'''International Mahjong Day''' is a registered holiday for mahjong.  The day was founded by [[Riichi Mahjong Central]] as an extension to the original '''National Mahjong Day''' from 2019.
+
+==External links==
+[[Category:Mahjong days]] 
+
+* [https://nationaldaycalendar.com/international-mahjong-day-august-1/ National Day registry]</text>
     </revision>
   </page>
   <page>
@@ -21062,36 +21089,37 @@ Regular online meetups are hosted in [[Tenhou.net]], [[Tenhou.net custom rooms|r
     <ns>0</ns>
     <id>3293</id>
     <revision>
-      <id>18879</id>
-      <parentid>18878</parentid>
-      <timestamp>2018-10-06T23:06:08Z</timestamp>
+      <id>21234</id>
+      <parentid>18879</parentid>
+      <timestamp>2020-07-25T02:03:29Z</timestamp>
       <contributor>
         <username>Senechal</username>
         <id>6</id>
       </contributor>
-      <minor/>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="871">The following is a list of organizations in Japan, pertaining to Japanese mahjong. As of October 2018, there are 1528 professionals among the '''Big Five''' organizations promoting modern riichi mahjong (not counting 101), up from about 1393 in October 2017.
+      <text xml:space="preserve" bytes="1130">The following is a list of organizations in Japan, pertaining to Japanese mahjong. As of October 2018, there are 1822 professionals among the '''Big Five''' organizations promoting modern riichi mahjong (not counting 101), up from about 1393 in October 2017.
 
-{| class=&quot;wikitable&quot;
+{| class=&quot;wikitable sortable&quot;
 |-
-! Organization !! Kanji !! Inception !! Member count
+! Organization !! Kanji !! Inception !! 2017 !! 2018 !! 2020
 |-
-| [[101 Kyougi Renmei]] ||「１０１競技連盟」 || 1982 || (23)
+| [[Japan Professional Mahjong League]] ||日本プロ麻雀連盟 || 1981 || 569 || 610 || 676
 |-
-| [[Japan Professional Mahjong League]] ||日本プロ麻雀連盟 || 1981 || 610
+| [[Mahjong Union]]* || 麻将連合 || 1997 (approx.) || 53 || 70 || 74
 |-
-| [[Mahjong Union]] || 麻将連合 || 1997 (approx.) || 70
+| [[Nihon Pro Mahjong Kyoukai]] || 「日本プロ麻雀協会」 || 2001 (2010) || 344 || 382 || 461
 |-
-| [[Nihon Pro Mahjong Kyoukai]] || 「日本プロ麻雀協会」 || 2001 (2010) || 382
+| [[Real Mahjong Unit]]* || RMU || 2007 || 54 || 57 || 64
 |-
-| [[Real Mahjong Unit]] || RMU || 2007 || 57
-|-
-| [[Saikouisen Nihon Pro Mahjong]] || 最高位戦日本プロ麻雀協会 || 1976 || 409
-|-
-| [[ZOO]] || || || 
+| [[Saikouisen Nihon Pro Mahjong]] || 最高位戦日本プロ麻雀協会 || 1976 || 383 || 409 || 547
+|- bgcolor=&quot;#ffddee&quot;
+| [[101 Kyougi Renmei]] ||「１０１競技連盟」 || 1982 || (23) || ___ || ___ 
+|- bgcolor=&quot;#ffcc99&quot;
+| [[ZOO]] || || || || || 
 |}
+
+'''Note:''' An asterisk denotes that there is a difference in member status, not all members are considered &quot;pros&quot;.
 
 ==External links==
 [[Category:Japanese organizations]]</text>
@@ -21427,18 +21455,17 @@ Regular online meetups are hosted in [[Tenhou.net]], [[Tenhou.net custom rooms|r
     <ns>0</ns>
     <id>3307</id>
     <revision>
-      <id>21208</id>
-      <parentid>21207</parentid>
-      <timestamp>2020-07-05T03:01:14Z</timestamp>
+      <id>21210</id>
+      <parentid>21208</parentid>
+      <timestamp>2020-07-10T08:44:28Z</timestamp>
       <contributor>
-        <username>Erzzy</username>
-        <id>8132</id>
+        <username>Kator278</username>
+        <id>8124</id>
       </contributor>
-      <minor/>
-      <comment>/* Tenhoui */ Incremented number</comment>
+      <comment>/* Sanma Tenhoui */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="4740">A player acquiring the rank of Tenhoui has reached the highest rank possible on the [[Tenhou.net]] [[Tenhou.net ranking|ladder system]].
+      <text xml:space="preserve" bytes="4835">A player acquiring the rank of Tenhoui has reached the highest rank possible on the [[Tenhou.net]] [[Tenhou.net ranking|ladder system]].
 
 == Tenhoui ==
 {| class=&quot;wikitable sortable&quot;
@@ -21512,6 +21539,8 @@ Regular online meetups are hosted in [[Tenhou.net]], [[Tenhou.net custom rooms|r
 | 14 || 2019-06-20 || 藤井聡太 || 1173戦 || First player achieving tenhouis in both 4P (id: 太くないお) and 3P mahjongs &lt;ref&gt;https://twitter.com/Futokunaio_Sota/status/1141760878334734336&lt;/ref&gt; || [https://nodocchi.moe/tenhoulog/#name=藤井聡太]
 |-
 | 15 || 2019-08-08 || ！”＃＄％＆’（ || 20955戦 || || [https://nodocchi.moe/tenhoulog/#name=！”＃＄％＆’（]
+|-
+| 16 || 2020-04-04 || NEGITS || 4315戦 || || [https://nodocchi.moe/tenhoulog/#name=NEGITS]
 |}
 
 == References ==
@@ -25759,17 +25788,18 @@ The index key provided is currently a work in progress. The last digit is used f
     <ns>0</ns>
     <id>51</id>
     <revision>
-      <id>20346</id>
-      <parentid>20108</parentid>
-      <timestamp>2019-12-01T16:55:51Z</timestamp>
+      <id>21221</id>
+      <parentid>20346</parentid>
+      <timestamp>2020-07-17T20:58:39Z</timestamp>
       <contributor>
-        <username>Furrykef</username>
-        <id>8154</id>
+        <username>KyuuAA</username>
+        <id>8</id>
       </contributor>
-      <comment>Noting the beginners' strategy of trying for riichi every time</comment>
+      <minor/>
+      <comment>/* Two han */ Tenhou standard</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="14006">[[Image:YakuListed.png|thumb|right|300px|[http://tenhou.net/0/?log=2008121721gm-00c1-0000-fcadb0d7&amp;tw=3&amp;ts=5 Example hand], containing many yaku.]]
+      <text xml:space="preserve" bytes="13997">[[Image:YakuListed.png|thumb|right|300px|[http://tenhou.net/0/?log=2008121721gm-00c1-0000-fcadb0d7&amp;tw=3&amp;ts=5 Example hand], containing many yaku.]]
 A '''[[yaku]]''' {{kana|役}} is a certain pattern in a mahjong hand, or a special condition under which a win is declared.  Many yaku are pattern-based yaku comparable to &quot;poker hands&quot;.  Unlike poker, yaku types do not supercede each other.  Instead, they are the main factor to determine hand values.  Players must finish hands before others do; and each yaku has [[han|specific values]] attached to them to determine [[Scoring table|payment amounts]].
 
 The yaku and their values are essential for [[scoring]].  The game rules define lots of different yaku, worth a different amount of '''[[han]]''' {{kana|飜}} based on their difficulty or pre-assigned value. A player can incorporate [[Yaku compatibility|several different yaku in the same hand]] and accumulate their han values for high-scoring hands.  For additional scoring, the game also features [[dora]].  However, possession of dora are not considered as yaku, even though they provide han. 
@@ -25855,7 +25885,7 @@ The most important yaku to learn is [[riichi]], since it is very common and a ve
 ==Two han==
 {{yaku list 
 | yakuname    = Double riichi 
-| kanji       = ダブルリーチ
+| kanji       = 両立直
 | closeopen   = Closed only
 | description = Riichi is declared with a dealt hand before the first discard.
 }}
@@ -26093,18 +26123,17 @@ The above list is generally considered as the &quot;standard yaku&quot;, includi
     <ns>0</ns>
     <id>3730</id>
     <revision>
-      <id>20956</id>
-      <parentid>20955</parentid>
-      <timestamp>2020-05-21T01:49:14Z</timestamp>
+      <id>21227</id>
+      <parentid>20956</parentid>
+      <timestamp>2020-07-21T08:23:08Z</timestamp>
       <contributor>
         <username>Kator278</username>
         <id>8124</id>
       </contributor>
       <minor/>
-      <comment>/* Tanfonhou */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="46208">'''Local Yakus''' {{kana|ローカル役}} are the [[yaku]] not used in the standard ruleset of [[Japanese mahjong]]. Some of them used to be in general ruleset, they are also known as '''Ancient Yakus''' {{kana|古役（こやく）}}.  The list is extensive. This page will only record some of them, which will remain incomplete.
+      <text xml:space="preserve" bytes="46246">'''Local Yakus''' {{kana|ローカル役}} are the [[yaku]] not used in the standard ruleset of [[Japanese mahjong]]. Some of them used to be in general ruleset, they are also known as '''Ancient Yakus''' {{kana|古役（こやく）}}.  The list is extensive. This page will only record some of them, which will remain incomplete.
 
 &lt;div style=&quot;float:right; margin:0 0 1em 1em;&quot;&gt;__TOC__&lt;/div&gt;
 
@@ -26191,7 +26220,7 @@ When their suits are identical, it becomes the standard [[ryanpeikou]] hand.
 * Value: 2 han
 * Examples:
 ** {{#mjt:444888m44p789s}} {{#mjt:444's}}
-** {{#mjt:33399m77799p}} {{#mjt:99'9s}}, Ron: {{#mjt:9p}} &lt;ref&gt;[https://www.majsoul.com/1/?paipu=200518-fa20331d-57af-4c4d-9c4f-feb95151c449_a96823229 Shoutate] (East 4 Round, East seat)&lt;/ref&gt;
+** {{#mjt:33399m77799p}} {{#mjt:99'9s}}, Ron: {{#mjt:9p}} &lt;ref group=&quot;replay&quot; name=&quot;replay-shoutate&quot;&gt;[https://www.majsoul.com/1/?paipu=200518-fa20331d-57af-4c4d-9c4f-feb95151c449_a96823229 Shoutate] (East 4 Round, East seat)&lt;/ref&gt;
 * Trivia:
 ** This local yaku is mainly used in [[wikipedia:Hokkaido|Hokkaido]] region.
 ** This yaku works like a [[shousangen]] version of [[sanshoku doukou]].  Usually when shoutate is adopted, sanshoku doukou will be upgraded to a 3-han yaku.
@@ -28402,18 +28431,17 @@ Mahjong tournaments are events, where people gather in the name competition.  To
     <ns>0</ns>
     <id>3537</id>
     <revision>
-      <id>21186</id>
-      <parentid>21185</parentid>
-      <timestamp>2020-06-26T05:10:06Z</timestamp>
+      <id>21238</id>
+      <parentid>21237</parentid>
+      <timestamp>2020-08-01T16:41:44Z</timestamp>
       <contributor>
         <username>Kator278</username>
         <id>8124</id>
       </contributor>
-      <minor/>
-      <comment>/* Charge-related Titles */</comment>
+      <comment>/* Titles */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="45378">{{Infobox video game
+      <text xml:space="preserve" bytes="43650">{{Infobox video game
 |image     = [[Image:Mahjsoullogo.png|250px]]
 |caption   = Majsoul logo
 |publisher = Yostar
@@ -29183,7 +29211,7 @@ Currently there're 27 characters in game, including 19 females and 8 males.
 &lt;/ul&gt;
 
 === Bond System ===
-Each character has a unique Bond Value. The value can be enhanced by gaming or gifting to unlock corresponding vocals. At the maximum affection level, all voice lines will be unlocked, and the character will read out yakus after winning a hand. Characters can be entangled to unlock new appearance as a skin that can be chosen, accompanying with 3 extra emotes.
+Each character has a unique Bond Value. The value can be enhanced by gaming or gifting to unlock corresponding vocals and story plots. At the maximum affection level, all voice lines will be unlocked, and the character will read out yakus after winning a hand. Characters can be entangled to unlock new appearance as a skin that can be chosen, accompanying with 3 extra emotes.
 
 {| class=&quot;wikitable&quot;
 |+ Bond Values
@@ -29251,6 +29279,7 @@ Gifts can be given to a character to increase your bond with that character (see
 ** &lt;s&gt;DoraDorara: Temporary available. 4P-South only.&lt;/s&gt;
 ** &lt;s&gt;Open Hand Match: Temporary available. 4P-South only. Requires Copper coins.&lt;/s&gt;
 ** &lt;s&gt;Chaotic Wall Break: Temporary available. 4P-South only. Requires Copper coins.&lt;/s&gt;
+** Path of Trial: Temporary available. 4P-East only. Requires Copper coins (1500 coins per match, no exchange).
 
 === Gameplay ===
 * All Simples in opened hand &lt;small style=&quot;color:#999;&quot;&gt;(''Kuitan'')&lt;/small&gt;: Allowed
@@ -29349,6 +29378,9 @@ The tournament lobby has been made available, and Yostar launched the [[Catfood 
 * &lt;span style=&quot;color:#96cc33;&quot;&gt;'''Light of Firefly'''&lt;/span&gt; &lt;small style=&quot;color:#999;&quot;&gt;&lt;CN&gt;&lt;/small&gt;: For players attended in Majsoul's live event held in Shanghai Firefly Animé Expo during ''October 2nd, 2018'' to ''October 4th, 2018''.
 * &lt;span style=&quot;color:#42b37a;&quot;&gt;'''Grand Renewal'''&lt;/span&gt; &lt;small style=&quot;color:#999;&quot;&gt;&lt;CN&gt;&lt;/small&gt;: Memorial title of CN server migration. Awarded for players achieved Adapt rank or above in previous CN server before ''June 10th, 2020''.
 
+=== Activity / Event Title ===
+* &lt;span style=&quot;color:#fef3e2; background-color:#283268; padding:2px 4px;&quot;&gt;'''Season 1 Challenger'''&lt;/span&gt;: For the players achieving Trial Rank Lv20 in Path of Trial Season 1 from ''July 26th, 2020'' to ''October 24th, 2020''.
+
 === Player-specified Titles ===
 * &lt;span style=&quot;color:#9192e5;&quot;&gt;'''Approved Player'''&lt;/span&gt; &lt;small style=&quot;color:#999;&quot;&gt;&lt;JP&gt;&lt;/small&gt;: For the winner in the VTuber Mahjong Tournament Match (Shirakami Fubuki Cup). Currently held by [https://amae-koromo.sapk.ch/player/72042909 鴨神にゅう].&lt;!--
 --&gt;&lt;ref&gt;&lt;small style=&quot;color:#999;&quot;&gt;&lt;JP&gt;&lt;/small&gt;Twitter post of Approved Player: https://twitter.com/MahjongSoul_JP/status/1135822862806278144&lt;/ref&gt;
@@ -29415,45 +29447,10 @@ The following titles are acquired by satisfying enough amount on charge. The tit
 | colspan=2 style=&quot;white-space: nowrap;&quot; | Protector of Cat Kingdom || 8,000 || 30 || +110 || +250% || 7 || 25 || 80
 |}
 
-{| class=&quot;wikitable mw-collapsible mw-collapsed&quot; style=&quot;float:right; margin-left:1em;&quot;
-|+ style=&quot;white-space:nowrap;&quot; | Changes of Price Table
-|-
-! rowspan=2 | Content !! Price !! rowspan=2 | Content !! Price
-|-
-! JP !! CN
-|-
-| 60 Jades || &lt;span style=&quot;display:inline-block; min-width:60px;&quot;&gt;&lt;/span&gt; JP¥120
-| &lt;s style=&quot;display:inline-block; min-width:40px;&quot;&gt;120&lt;/s&gt; 65 Jades || &lt;s style=&quot;display:inline-block; min-width:60px;&quot;&gt;CN¥12&lt;/s&gt; NT$33
-|-
-| 300 Jades || &lt;s style=&quot;display:inline-block; min-width:60px;&quot;&gt;JP¥600&lt;/s&gt; JP¥610
-| &lt;s style=&quot;display:inline-block; min-width:40px;&quot;&gt;300&lt;/s&gt; 340 Jades || &lt;s style=&quot;display:inline-block; min-width:60px;&quot;&gt;CN¥30&lt;/s&gt; NT$170
-|-
-| 480 Jades || &lt;s style=&quot;display:inline-block; min-width:60px;&quot;&gt;JP¥960&lt;/s&gt; JP¥980
-| &lt;s style=&quot;display:inline-block; min-width:40px;&quot;&gt;600&lt;/s&gt; 660 Jades || &lt;s style=&quot;display:inline-block; min-width:60px;&quot;&gt;CN¥60&lt;/s&gt; NT$330
-|-
-| 900 Jades || &lt;s style=&quot;display:inline-block; min-width:60px;&quot;&gt;JP¥1800&lt;/s&gt; JP¥1840
-| &lt;s style=&quot;display:inline-block; min-width:40px;&quot;&gt;980&lt;/s&gt; 1200 Jades || &lt;s style=&quot;display:inline-block; min-width:60px;&quot;&gt;CN¥98&lt;/s&gt; NT$590
-|-
-| 1200 Jades || &lt;s style=&quot;display:inline-block; min-width:60px;&quot;&gt;JP¥2400&lt;/s&gt; JP¥2440
-| &lt;s style=&quot;display:inline-block; min-width:40px;&quot;&gt;1280&lt;/s&gt; 2100 Jades || &lt;s style=&quot;display:inline-block; min-width:60px;&quot;&gt;CN¥128&lt;/s&gt; NT$990
-|-
-| 1800 Jades || &lt;s style=&quot;display:inline-block; min-width:60px;&quot;&gt;JP¥3600&lt;/s&gt; JP¥3680
-| &lt;s style=&quot;display:inline-block; min-width:40px;&quot;&gt;1980&lt;/s&gt; 2800 Jades || &lt;s style=&quot;display:inline-block; min-width:60px;&quot;&gt;CN¥198&lt;/s&gt; NT$1320
-|-
-| 2400 Jades || &lt;s style=&quot;display:inline-block; min-width:60px;&quot;&gt;JP¥4800&lt;/s&gt; JP¥4900
-| &lt;s style=&quot;display:inline-block; min-width:40px;&quot;&gt;3280&lt;/s&gt; 3660 Jades || &lt;s style=&quot;display:inline-block; min-width:60px;&quot;&gt;CN¥328&lt;/s&gt; NT$1690
-|-
-| 4900 Jades || &lt;s style=&quot;display:inline-block; min-width:60px;&quot;&gt;JP¥9800&lt;/s&gt; JP¥10000
-| &lt;span style=&quot;display:inline-block; min-width:40px;&quot;&gt;&lt;/span&gt; 6480 Jades || &lt;s style=&quot;display:inline-block; min-width:60px;&quot;&gt;CN¥648&lt;/s&gt; NT$2990
-|- style=&quot;border-top:3px double #aaa;&quot;
-| Fortune Charm || &lt;s style=&quot;display:inline-block; min-width:60px;&quot;&gt;JP¥600&lt;/s&gt; JP¥610
-| Fortune Charm || &lt;s style=&quot;display:inline-block; min-width:60px;&quot;&gt;CN¥30&lt;/s&gt; NT$170
-|}
-
 '''Notes:'''
-* A rough calculation between VIP points and actual cost can be done by the following formula:&lt;br/&gt; &lt;code&gt;6 VIP points&lt;/code&gt; = &lt;code style=&quot;text-decoration:line-through;&quot;&gt;6 CNY&lt;/code&gt; &lt;code&gt;≈30 NTD&lt;/code&gt; &lt;small style=&quot;color:#999;&quot;&gt;&lt;CN&gt;&lt;/small&gt; / &lt;code&gt;1 USD&lt;/code&gt; &lt;small style=&quot;color:#999;&quot;&gt;&lt;EN&gt;&lt;/small&gt; / &lt;code&gt;≈120 JPY&lt;/code&gt; &lt;small style=&quot;color:#999;&quot;&gt;&lt;JP&gt;&lt;/small&gt;.
+* A rough calculation between VIP points and actual cost can be done by the following formula:&lt;br/&gt; &lt;code&gt;6 VIP points&lt;/code&gt; = &lt;code style=&quot;text-decoration:line-through;&quot;&gt;6 CNY&lt;/code&gt; &lt;code&gt;≈30 NTD or ≈1 USD&lt;/code&gt; &lt;small style=&quot;color:#999;&quot;&gt;&lt;CN&gt;&lt;/small&gt; / &lt;code&gt;1 USD&lt;/code&gt; &lt;small style=&quot;color:#999;&quot;&gt;&lt;EN&gt;&lt;/small&gt; / &lt;code&gt;≈120 JPY&lt;/code&gt; &lt;small style=&quot;color:#999;&quot;&gt;&lt;JP&gt;&lt;/small&gt;.
 ** The prices in JP server are slightly increased from ''October 1st, 2019'' due to an increasement of consumption tax.
-** The currency in CN server is switched to New Taiwan Dollar after the server migration from ''June 9th, 2020''. Overall prices are higher, while rewarded jades are also increased slightly.
+** The currency in CN server is switched to New Taiwan Dollar after the server migration from ''June 9th, 2020'', while US Dollar is also available in Steam client released on ''July 15th, 2020''. Overall prices are higher, while rewarded jades are also increased slightly.
 
 == References ==
 &lt;references/&gt;
@@ -29470,7 +29467,7 @@ The following titles are acquired by satisfying enough amount on charge. The tit
 ! Server !! Game Sites !! Social Media
 |-
 | CN (China) &lt;br&gt; &lt;small&gt;by CatFood Studio&lt;/small&gt;
-| Main Page: https://www.maj-soul.com/ &lt;br/&gt; Game Entry: [https://game.maj-soul.com/1/ Web] / Android APK
+| Main Page: https://www.maj-soul.com/ &lt;br/&gt; Game Entry: [https://game.maj-soul.com/1/ Web] / [https://store.steampowered.com/app/1329410/MahjongSoul/ Steam] / Android APK
 | Bilibili: [https://space.bilibili.com/353240497/dynamic 雀魂麻将majsoul] &lt;br&gt; Weibo: [https://weibo.com/majsoul 雀魂麻将majsoul]
 |-
 | EN (North America) &lt;br&gt; &lt;small&gt;by Yostar Games&lt;/small&gt;
@@ -30090,20 +30087,19 @@ This is the pair of the hand, or the '''jantou''' {{kana|雀}}.  The terms '''me
     <ns>0</ns>
     <id>328</id>
     <revision>
-      <id>13751</id>
-      <parentid>13546</parentid>
-      <timestamp>2015-02-04T23:33:35Z</timestamp>
+      <id>21224</id>
+      <parentid>21223</parentid>
+      <timestamp>2020-07-17T21:04:19Z</timestamp>
       <contributor>
-        <username>Coppro</username>
-        <id>8027</id>
+        <username>KyuuAA</username>
+        <id>8</id>
       </contributor>
-      <minor/>
-      <comment>/* Compatibility */</comment>
+      <comment>/* Formation */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="1783">{{Infobox yaku
+      <text xml:space="preserve" bytes="2030">{{Infobox yaku
 |type        = Yaku
-|kanji       = 門前清自摸和&lt;br&gt;ツモ
+|kanji       = 門前清自摸和
 |english     = Self draw
 |value       = 1 han (closed only)
 |yakuSpeed   = Varies
@@ -30116,6 +30112,11 @@ This is the pair of the hand, or the '''jantou''' {{kana|雀}}.  The terms '''me
 
 ==Formation==
 With this yaku, all closed hands qualify for menzen tsumo, even if it is the only yaku.  No open hand may qualify for this yaku.  The instant a player [[Naki|calls on a discarded tile]], then the player forfeits the right to claim this yaku until the next hand, just like [[riichi]].
+
+==Riichi vs damaten==
+{{main|Riichi|Damaten}}
+
+While in tenpai with a closed, [[riichi]] is not a required move for any player.  Instead, the player opts to utilize the tactic of [[damaten]].  In some cases, the winning tile is drawn and the hand may win.
 
 == Compatibility ==
 {{main|Yaku compatibility}}
@@ -34161,6 +34162,148 @@ N = W&lt;sub&gt;A&lt;/sub&gt; + {Sum: (i=1 to remDraws&lt;sub&gt;A&lt;/sub&gt;)}
     </revision>
   </page>
   <page>
+    <title>Professional League Game Rules</title>
+    <ns>0</ns>
+    <id>3839</id>
+    <revision>
+      <id>21233</id>
+      <timestamp>2020-07-24T23:08:03Z</timestamp>
+      <contributor>
+        <username>Senechal</username>
+        <id>6</id>
+      </contributor>
+      <comment>Saving work in progress.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4756">
+
+==Scoring treatment==
+Wins may be treated differently according to the rules in effect in a pro league, a jansou (or chain), a game server, or an organization.
+{| class=&quot;wikitable sortable&quot;
+|-
+! Index !! Rule !! M-League !! &lt;-§ !! JPML 競技!! &lt;-§ !! Saikouisen !! &lt;-§ !! NPM !! &lt;-§ !! MU !! &lt;-§ !! RMU !! &lt;-§ 
+|-
+| 000 || 1-han limit || Yes || §1.3 || 
+|-
+| 000 || Basic dora || Yes || §2.6.1 || Yes || (Implied)
+|-
+| 000 || Kan dora || Yes (4) || §2.6.2&lt;br /&gt;§4.5.4 || No || §1.3&lt;br /&gt;§4.1
+|-
+| 000 || Hidden dora || Yes || §2.6.3 || No || §1.3&lt;br /&gt;§4.1
+|-
+| 000 || Red dora || Yes (3) || §2.6.4 || No || (Implied)
+|-
+| 000 || Seat shuffle || 4 tiles || §3.1 || ___ || ___
+|-
+| 000 || Abortive draws || None || §3.2.3 || Yes (4) || §3.3
+|-
+| 000 || Busting out || None || §3.2.4 || ___ || ___
+|-
+| 000 || Furiten riichi || Yes || §4.8.3 || Yes || §6.2 ­­||
+|-
+| 000 || Drawless riichi || Yes || §4.8.3 || Yes || §2.5 || 
+|-
+| 000 || Endgame deposits || Top || §4.8.5&lt;br /&gt;§6.2.5 || &quot;Deposit&quot;??|| §2.4
+|-
+| 000 || Kan after riichi || Same tile || §4.8.9 || Same shape || §4.5
+|-
+| 000 || Multiple win cases || 1 || §5.1.3 || 1 || §1.6
+|-
+| 000 || Starting points || 25,000 || §6.1 || Not specified || N/A
+|-
+| 000 || Target points || 30,000 || §6.2.1 || Same || N/A
+|-
+| 000 || Conversion before || N/A || N/A || +XX.X&lt;br /&gt;▲YY.Y || (§8.0)
+|-
+| 000 || Ante || +20,000 || §6.2.3 || None || (implied)
+|-
+| 000 || Placement bonus: 1st || +30,000 || §6.2.3 || +12/+8/+8 || §8.0
+|-
+| 000 || Placement bonus: 2nd || +10,000 || §6.2.3 || -1/+4/+3 || §8.0
+|-
+| 000 || Placement bonus: 3rd || -10,000 || §6.2.3 || -3/-4/+1 || §8.0
+|-
+| 000 || Placement bonus: 4th || -30,000 || §6.2.3 || -8/-8/-12 || §8.0
+|-
+| 000 || Conversion after || +XX.Xp&lt;br /&gt;▲YY.Yp || §6.2.4 || N/A || N/A
+|-
+| 000 || Split ranks on tie || Yes || §6.2.6 || Yes || §8.0
+|-
+| 000 || Split deposits on tie || 500+500&lt;br /&gt;400+300+300 || §6.2.6 || ___ || ___
+|-
+| 000 || Double wind pair || 2 fu || §6.3.2 || 4 fu || §7.4 
+|-
+| 000 || Rinshan draw points || unknown || unknown || 0 fu || §7.5 
+|-
+| 000 || Rounded mangan || Yes || §6.6.1 || No || §7.1 || 
+|-
+| 000 || Cumulative yakuman || Yes || §6.6.1 || Yes || §7.3
+|-
+| 000 || Counted yakuman || No || §6.6.2 || No || §7.2
+|-
+| 000 || Fault: Long hand || Dead || §7.2.1 || Chombo || §6.4
+|-
+| 000 || Fault: Short hand || Dead || §7.2.1 || Chombo || §6.4
+|-
+| 000 || Fault: Future draw || Dead || §7.2.2 || ___ || ___
+|-
+| 000 || Fault: Pick-and-switch || Dead || §7.2.3 || Allowed&lt;br /&gt;(diff. tile) || §1.2 ||
+|-
+| 000 || Fault: Empty call || Dead || §7.2.4 || Dead || §6.4
+|-
+| 000 || Fault: Empty tsumo/ron&lt;br /&gt;hand remained concealed || Dead || §7.2.4 || Chombo || §6.3
+|-
+| 000 || Fault: Tsumo for ron&lt;br /&gt;or ron for tsumo || Warning || §7.2.4 || ___ || ___
+|-
+| 000 || Fault: Bad grouping || Dead || §7.3.1+2 || Chombo || §6.4
+|-
+| 000 || Chombo penalty || ▲20p || §7.4.1 || ___ || ___
+|-
+| 000 || Fault: Bad ron/tsumo&lt;br /&gt;hand was exposed || Chombo || §7.4.2.1 || Chombo || §6.3
+|-
+| 000 || Fault: Noten riichi on draw || Chombo || §7.4.2.2 || Chombo || §2.3
+|-
+| 000 || Fault: Illegal kan after riichi || Chombo || §7.4.2.2 || ___ || ___
+|-
+| 000 || Fault: Breaking walls before scoring || Chombo || §7.4.2.3 || ___ || ___
+|-
+| 000 || Fault: Breaking uradora before scoring || Chombo || §7.4.2.3 || ___ || ___
+|-
+| 000 || Fault: Intentional destroyed wall || Chombo || §7.4.2.4 || ___ || ___
+|-
+| 000 || Fault: Unintentional destroyed wall || Chombo || §7.4.2.5 || ___ || ___
+|-
+| 000 || YELLOW CARDS || None || §7.5 || ___ || ___
+|-
+| 000 || Liability: 3 Dragons || Yes || §8.0.1 || Yes || §5.1
+|-
+| 000 || Liability: 4 Winds || Yes || §8.0.2 || Yes || §5.1
+|-
+| 000 || Liability: 4 Kans || Yes || §8.0.3 || Yes || §5.1
+|-
+| 000 || Liability: Live tile kan || No || N/A || Yes (furiten&lt;br /&gt;override!) || §4.2
+|-
+| 000 || Override: Closed kan kokushi || ??? || N/A || Yes || §4.3
+|-
+| 000 || Count both rinshan + haitei || No || §5.4 || No || §4.4
+|-
+| 000 || One-shot yaku || Yes || §9.1.2 || No || §1.3 
+|-
+| 000 || All Green yaku dragon required || No || §9.5.6 || Yes || §7.6 
+|-
+| 000 || Runaway victory || unknown || unknown || No || §1.8 
+|-
+| 000 || Abortive draws || None || §3.2.3 || ___ || ___
+|-
+| 000 || Abortive draws || None || §3.2.3 || ___ || ___
+|-
+| 000 || Abortive draws || None || §3.2.3 || ___ || ___
+|}
+1. Trivial rules are not recorded, that should form the basis of a basic riichi rules page.&lt;br/&gt;
+2. &quot;Priority&quot; designates current player priority (from discarder: Right &gt; Across &gt; Left), and not game seating priority as used to split ties on Tenhou (starting: East &gt; South &gt; West &gt; North).</text>
+    </revision>
+  </page>
+  <page>
     <title>RB1</title>
     <ns>0</ns>
     <id>3676</id>
@@ -34501,14 +34644,14 @@ Because of number of variations and interpretations to renhou, it is viewed as [
     <ns>0</ns>
     <id>209</id>
     <revision>
-      <id>21197</id>
-      <parentid>21196</parentid>
-      <timestamp>2020-06-29T12:00:54Z</timestamp>
+      <id>21219</id>
+      <parentid>21213</parentid>
+      <timestamp>2020-07-14T15:58:39Z</timestamp>
       <contributor>
-        <username>KyuuAA</username>
-        <id>8</id>
+        <username>Kator278</username>
+        <id>8124</id>
       </contributor>
-      <comment>/* Oikake riichi */</comment>
+      <comment>Kanji form is not commonly used compared to katakana</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="9970">{{Infobox yaku
@@ -43541,14 +43684,14 @@ Tenhou applies to dealer seats only, so therefore, it is always 48,000 points.  
     <ns>0</ns>
     <id>228</id>
     <revision>
-      <id>20847</id>
-      <parentid>20716</parentid>
-      <timestamp>2020-03-27T20:49:04Z</timestamp>
+      <id>21217</id>
+      <parentid>21211</parentid>
+      <timestamp>2020-07-14T15:55:41Z</timestamp>
       <contributor>
-        <username>KyuuAA</username>
-        <id>8</id>
+        <username>Kator278</username>
+        <id>8124</id>
       </contributor>
-      <minor/>
+      <comment>Undo revision 21211 by [[Special:Contributions/矃龗|矃龗]] ([[User talk:矃龗|talk]]): Uncommonly-used notation</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="7316">'''Tenpai''' {{kana|テンパイ}} is also referred to as the &quot;ready hand&quot;.  It progressed from [[Iishanten|1-shanten]] to effectively 0-shanten.  A hand is tenpai or &quot;ready&quot; when only one more tile is needed to complete the hand.  The completion may be either done by draw and/or discard, where applicable.  Tenpai does not require that the completed hand has a [[Yaku|yaku]], although both a completed hand and a yaku are necessary to win.  Having achieving tenpai is worth some points when a hand ends in [[ryuukyoku]].
@@ -54891,16 +55034,16 @@ Or even
     <ns>2</ns>
     <id>189</id>
     <revision>
-      <id>20473</id>
-      <parentid>20388</parentid>
-      <timestamp>2019-12-30T12:10:28Z</timestamp>
+      <id>21229</id>
+      <parentid>21228</parentid>
+      <timestamp>2020-07-22T04:51:13Z</timestamp>
       <contributor>
         <username>DeltaSierra4</username>
         <id>9</id>
       </contributor>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="12222">[[User:KyuuSC|Kyuu is a Turd, pass the word.]]
+      <text xml:space="preserve" bytes="12434">[[User:KyuuSC|Kyuu is a Turd, pass the word.]]
 
 ==Some Mahjong &quot;achievements&quot;==
 
@@ -54910,7 +55053,7 @@ These achievements are sponsored by Sillim Jansou in Seoul, Republic of Korea. S
 # Daily Score Ranking Top: Place 1st with total sum of final points in one day (If tied, awarded to both, free drink, does not overlap with Daily Uma Ranking Top)
 # This Game is Sponsored By...: Anyone who sponsors one of these achievement requirements who wins their own achievement.
 # Decalcomanie: Win a hand with a tsumo where the tsumo tile is both the dora and ura-dora
-# 9 pin houtei: Win with Houtei 9 pin
+# 9 pin houtei: Win with [[Local_yaku#Chuupin_raoyui|Houtei on 9 pin (chuupin raoyui)]]
 # It's over 99!: Win a hand that has a sum of 99 or greater when adding all numbered tiles.
 # Monthly Best: Maintain the following stats of 60 games or more for one month: Average Uma 8.0+, 34% or higher 1st place, 61% or higher 1st/2nd place, and 16% or lower 4th place rate
 # Daily Uma Ranking Top: Place 1st with total sum of uma in one day (If tied, awarded to both, free drink)
@@ -54921,23 +55064,23 @@ These achievements are sponsored by Sillim Jansou in Seoul, Republic of Korea. S
 # A Chanta is cool too: Win a hand with Riichi, sanshoku doujun, and chanta/jun chan
 # Zero: End a game with exactly 25000 points (No tobi allowed)
 # Quadruple Matching Discards: Discard the exact same tiles for the first 4 turns as kamicha and win a hand.
-# Flowery Phoenix under a Windy Moonlight: Win the following hand: 555p111s111p and a triplet of any wind tiles and any pair.
+# Kachoufuugetsu: Win a [[Local_yaku#Kachoufuugetsu_.2F_Fuukasetsugetsu|Kachoufuugetsu]]
 # Mission Yaku: Complete the 'Mission Yaku' assigned with the dice roll
-# 2 sou chankan: Chankan on the 2 of bamboo (counts as double achievement if it was on a kanchan wait)
+# Ryanzou chankan: [[Local_yaku#Ryanzou_chankan|Chankan on the 2 of bamboo]] (counts as double achievement if it was on a kanchan wait)
 # Sanbaiman: Win a sanbaiman hand
 # Halla Orange: Call pon on a pair and win with the fourth copy of a tile.
 # San kantsu: Win a san kantsu hand
-# Petal Blizzard under a Snowy Moonlight: Win the following hand: 555p111p555z and a triplet of any wind tiles and any pair
+# Fuukasetsugetsu: Win a [[Local_yaku#Kachoufuugetsu_.2F_Fuukasetsugetsu|Fuukasetsugetsu]]
 # Yasume: Win with a yasume that loses 4 han or more yaku compared to takame (Suuankou and Daisangen shabo wait doesn't count)
 # Black Hole: Pon from all three players and win with tsumo.
 # Three three: Win with two or more 3 han yaku.
-# 1 Pin Haitei: Win with 1 pin haitei
+# Iipin Mouyue: Win with [[Local_yaku#Iipin_mouyue|Iipin mouyue (1 pin haitei)]]
 # Thank God Ryuukyoku!: End a game with an exhaustive draw where 3 players declare riichi within the first 2 rows of discards. All participants are awarded with the achievement.
 # Nan'go-san: Win a hand with three melds/pair that contain the number 5 and a south.
 # Third time's the charm!: Call on the same tile twice and win with the same tile
 # Sanchahou: Abortive draw by dealing into three players at the same time
 # That gave me cancer: Make a kokushi musou discard. If it completes Nagashi Mangan, double achievement.
-# 5 pin kaihou: Win with 5 pin rinshan kaihou
+# Uupin kaihou: Win with [[Local_yaku#Uupin_kaihou|Uupin kaihou (5 pin rinshan kaihou)]]
 # toitoitoitoitoi: Win with toitoi and 5 or more doras
 # Baiman to the MAX!: Win an oyabaiman hand with 10 han (you get a free 1-day ticket!)
 # Sanshoku Chiitoi: Win a chiitoi hand with the same numerical pair in three different suits (stacks if there are two sets of numerical pairs in three different suits)
@@ -54955,7 +55098,7 @@ These achievements are sponsored by Sillim Jansou in Seoul, Republic of Korea. S
 # Sanshoku Doukou: Win a mangan tsumo or haneman ron with Sanshoku Doukou
 # Takame Pinfu: Win with riichi pinfu ura dora 3 (not dora 3, and no kans allowed)
 # Little strokes fell great hands: Win a haneman hand with 6 different yakus that are worth 1 han each (not counting dora as a yaku)
-# Daisanchiitoi: Win a chiitoi hand with pairs of all three dragon tiles
+# [[Local_yaku#Sangen_chiitoitsu_.2F_Suushi_chiitoitsu|Sangen Chiitoitsu]]: Win a chiitoi hand with pairs of all three dragon tiles
 # Survivor: Reach ryuukyoku with a tanki wait on a tile that could've completed two other hands in the same round. (it must be a valid win for the other hands in question - i.e. no furiten)
 # Black Market: Win any of the following yakus with kata-agari (a one-sided wait): Toitoi, san ankou, sanshoku doukou, menzen junchan
 # No man's land: Win a rinshan kaihou with the fourth dead-wall draw (Win a free 1-day ticket!)
@@ -54978,19 +55121,19 @@ These achievements are sponsored by Sillim Jansou in Seoul, Republic of Korea. S
 # Revenant: Reach 1000 points or below and then end the game at 1st place.
 # Revolution of 1000 points: Win a haneman hand with riichi and 6 doras
 # 'No Multiplier': Win with the 'luck' yaku only - haitei, houtei, rinshan kaihou, chankan (if the hand value is haneman or above, counts as double achievement)
-# Menzen 5 gates: Win a mangan or above hand with a hand that has a group in each suit: i.e. one meld in manzu, one meld in pinzu, one meld in souzu, one meld in fanpai, and one meld in sangenpai.
+# Menzen Uumen: Win a mangan or above hand with [[Local_yaku#Uumensai|Uumensai]]
 # Why did you?: Win a hon itsu with an honor tanki wait and four melds in one suit.
-# Men in Black: Win an 'All black' hand - a toitoi that consists of only 248p and wind tiles.
+# Men in Black: Win [[Local_yaku#Kokuiisou|Kokuiisou]] - a toitoi that consists of only 248p and wind tiles.
 # I'm always 2nd: End three games in a row in 2nd place with no tobi.
 # The Cries of Three: Discard a tile that elicits a call from all three players of chii, pon (kan), and ron (free 1 day coupon)
 # Close Call: Have four of your discards ponned by others.
-# No Retreat!: Win a toitoi on a hadaka tanki wait.
+# No Retreat!: Win a toitoi [[Local_yaku#Shiiaru_raotai|on a hadaka tanki wait.]]
 # Dead Corpse: End a game with exactly 0 points. (no tobis allowed)
 # Bamboo Spears: Gyakuten from 4th place to 1st place with a hand of haneman or above in oorasu.
 # The Two of Us: End a game with a tie for 1st place. (Both players win this achievement)
 # Whichever Way Works: Win a yakuman hand that also counts as kazoe yakuman.
 # Leftover: Be the only person without an achievement in a game where 3 people win an achievement.
-# Alpha and Omega: Win a double riichi with haitei or ippatsu tsumo. (Win a free 1-day coupon!)
+# Alpha and Omega: Win a double riichi with [[Local_yaku#Ishino_uenimo_sannen|haitei]] or ippatsu tsumo. (Win a free 1-day coupon!)
 # I Have Nothing: If a round ends with no discards in your pile. (Win a free 1-day coupon!)
 # Nine Lives: Get 1st place in 9 games in one day (Win a free 1-day coupon!)
 # Pigeon: Roll 9 three times in a row when deciding who is dealer.
@@ -55006,10 +55149,10 @@ These achievements are sponsored by Sillim Jansou in Seoul, Republic of Korea. S
 # Counterattack: Ron off a dealer after declaring riichi for an ippatsu mangan ron.
 # Home Run: Win mangan, haneman, and baiman hands in one hanchan.
 # The Curse of Daybreak: Get four 4th places during night matches (from midnight to 12 pm)
-# Sanrenkou: Win a hand with three consecutive triplets valued at or above haneman. Sanrenkou itself is not recognized.
+# [[Local_yaku#Sanrenkou|Sanrenkou]]: Win a hand with three consecutive triplets valued at or above haneman. Sanrenkou itself is not counted as yaku.
 # A Chained Soul: Play 18 matches in one day.
 # Nothing Happened that Day: End a game in 3rd place with an uma of 0 points (34600 ~ 35500 points).
-# DaisuuChiitoi: Win a chiitoi hand that contains all wind tiles.
+# [[Local_yaku#Sangen_chiitoitsu_.2F_Suushi_chiitoitsu|Suushi Chiitoitsu]]: Win a chiitoi hand that contains all wind tiles.
 # Cycling Hit: Win mangan, haneman, baiman, and sanbaiman (or yakuman) hands in one hanchan (Win a free 1-day coupon!)
 # All the Sponsorship: Unlock four achievements in one hanchan.
 # Full Circle: Win your hand or deal into someone else's hand with the same discard as your first discard.
@@ -62559,6 +62702,28 @@ Oh man, you slut. (By American terms, that means &quot;nice&quot;). :p [[User:Ky
 == Dayum ==
 
 Wow, you almost screwed up that suuankou. XD [[User:KyuuAA|KyuuAA]] ([[User_talk:KyuuAA|Talk:キュウ]]) 10:06, 27 March 2016 (UTC)</text>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:矃龗</title>
+    <ns>3</ns>
+    <id>3838</id>
+    <revision>
+      <id>21216</id>
+      <timestamp>2020-07-12T16:54:38Z</timestamp>
+      <contributor>
+        <username>Kator278</username>
+        <id>8124</id>
+      </contributor>
+      <comment>Created page with &quot;== Kana-to-Kanji notations == Hello! Thanks for your first editing, appreciate to the contribution. :D  However, although it's legit, both of the kanji notation on these terms...&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="477">== Kana-to-Kanji notations ==
+Hello! Thanks for your first editing, appreciate to the contribution. :D
+
+However, although it's legit, both of the kanji notation on these terms are not used as frequent as their katakana form. In this case, I recommend to left them either unchanged, or as an alternative notation. It's always nicer to use the most frequently-used form as the premier choice.
+
+-- [[User:Kator278|Kator278]] ([[User talk:Kator278|talk]]) 16:54, 12 July 2020 (UTC)</text>
     </revision>
   </page>
   <page>

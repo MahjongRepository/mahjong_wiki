@@ -2,9 +2,9 @@
 |image     = [[Image:SegaMJ logo.png|250px]]
 |caption   = Sega MJ splash page
 |publisher = Sega
-|developer =
+|developer = 
 |platform  = PC, Android, iOS
-|year      =
+|year      = 
 }}
 '''Sega MJ''' is a mahjong platform by the game developer, Sega.
 
@@ -136,7 +136,7 @@ Treasure chests can sometimes drop medals, and they can also be obtained by sell
 
 In SEGA MJ, each gacha specifically denotes what can be obtained from rolling it, and a catalog of all items of that gacha can be seen by clicking the green magnifying glass button.  This catalog does not exist for the daily free gacha, chip gacha, and SP chip gacha.
 
-As an example, in this screenshot:
+As an example, in this screenshot:  
 
 * The BORDER BREAK gacha is the current event gacha, with limited time items.  There will usually be at least one event gacha at the very start.
 * The SP character gacha (SPチャラガチャ）is next, with the small 3 in the red circle denoting that there are 3 active SP character gachas currently available.  The first two are new sets that can be rolled to guarantee a character from the new set, while the last one is always the entire backlog of non-limited characters released.  These gachas will always drop an SP character.
@@ -149,7 +149,7 @@ As an example, in this screenshot:
 
 ==External links==
 [[Category:Games]]
-[[Category:Online]]
+[[Category:Internet play]]
 
 * [http://www.sega-mj.com/ Official site]
 * [https://sites.google.com/site/mjnetguide/home Guide]

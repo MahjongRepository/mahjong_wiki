@@ -452,17 +452,6 @@
     "id": "388",
     "title": "Sanmenchan"
   },
-  "Tanyao": {
-    "mapped": {
-      "title": "Tanyao",
-      "markdown_path": "yaku/tanyao.md",
-      "tags": [
-        "Yaku"
-      ]
-    },
-    "id": "221",
-    "title": "Tanyao"
-  },
   "Mentanpin": {
     "mapped": {
       "title": "Mentanpin",
@@ -507,6 +496,17 @@
     },
     "id": "234",
     "title": "Chuuren poutou"
+  },
+  "Atama_mahjong": {
+    "mapped": {
+      "title": "Atama mahjong",
+      "markdown_path": "rules/variations/atama-mahjong.md",
+      "tags": [
+        "Rule variations"
+      ]
+    },
+    "id": "3704",
+    "title": "Atama mahjong"
   },
   "Ryanpeikou__Replays": {
     "mapped": {
@@ -1092,16 +1092,16 @@
     "id": "3092",
     "title": "Happoubijin"
   },
-  "Atama_mahjong": {
+  "Tanyao": {
     "mapped": {
-      "title": "Atama mahjong",
-      "markdown_path": "rules/variations/atama-mahjong.md",
+      "title": "Tanyao",
+      "markdown_path": "yaku/tanyao.md",
       "tags": [
-        "Rule variations"
+        "Yaku"
       ]
     },
-    "id": "3704",
-    "title": "Atama mahjong"
+    "id": "221",
+    "title": "Tanyao"
   },
   "Junchantaiyaochuu": {
     "mapped": {
@@ -1436,16 +1436,16 @@
     "id": "44",
     "title": "Rules overview"
   },
-  "Futari_mahjong": {
+  "International_Mahjong_Day": {
     "mapped": {
-      "title": "Futari mahjong",
-      "markdown_path": "rules/futari-mahjong.md",
+      "title": "International Mahjong Day",
+      "markdown_path": "other/international-mahjong-day.md",
       "tags": [
-        "Game rules"
+        "Other"
       ]
     },
-    "id": "2685",
-    "title": "Futari mahjong"
+    "id": "3837",
+    "title": "International Mahjong Day"
   },
   "Ryanhan_shibari": {
     "mapped": {
@@ -1616,6 +1616,17 @@
     },
     "id": "451",
     "title": "Automatic mahjong table"
+  },
+  "Futari_mahjong": {
+    "mapped": {
+      "title": "Futari mahjong",
+      "markdown_path": "rules/futari-mahjong.md",
+      "tags": [
+        "Game rules"
+      ]
+    },
+    "id": "2685",
+    "title": "Futari mahjong"
   },
   "Karaten": {
     "mapped": {

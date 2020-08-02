@@ -84,7 +84,7 @@ The most important yaku to learn is [[riichi]], since it is very common and a ve
 ==Two han==
 {{yaku list 
 | yakuname    = Double riichi 
-| kanji       = ダブルリーチ
+| kanji       = 両立直
 | closeopen   = Closed only
 | description = Riichi is declared with a dealt hand before the first discard.
 }}

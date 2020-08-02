@@ -15,6 +15,6 @@ permissions:
 
 hugo_shell:
 	docker run --rm -it \
-      -v $(pwd):/src \
-      klakegg/hugo:0.73.0-alpine \
+      -v ${PWD}:/src \
+      klakegg/hugo:0.74.3-alpine \
       shell

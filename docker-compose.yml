@@ -2,13 +2,13 @@ version: '3'
 
 services:
   build:
-    image: klakegg/hugo:0.73.0
+    image: klakegg/hugo:0.74.3
     volumes:
       - ".:/src"
     environment:
       - HUGO_DESTINATION=/public
   server:
-    image: klakegg/hugo:0.73.0
+    image: klakegg/hugo:0.74.3
     command: server
     volumes:
       - ".:/src"

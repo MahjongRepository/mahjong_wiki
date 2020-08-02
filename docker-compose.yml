@@ -4,24 +4,23 @@ services:
   build:
     image: klakegg/hugo:0.73.0
     volumes:
-      - "./hugo:/src"
-      - "./public:/public"
+      - ".:/src"
     environment:
       - HUGO_DESTINATION=/public
   server:
     image: klakegg/hugo:0.73.0
     command: server
     volumes:
-      - "./hugo:/src"
+      - ".:/src"
     ports:
       - "1313:1313"
   format-md:
     image: tmknom/prettier:2.0.5
     command: --parser=markdown --write '/src/content/**/*.md' --print-width 100 --prose-wrap always
     volumes:
-      - "./hugo:/src"
+      - ".:/src"
   lint-md:
     image: tmknom/prettier:2.0.5
     command: --parser=markdown '/src/content/**/*.md' --print-width 100 --prose-wrap always --check
     volumes:
-      - "./hugo:/src"
+      - ".:/src"

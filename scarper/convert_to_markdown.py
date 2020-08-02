@@ -134,7 +134,7 @@ def preprocess_wiki_file_content(content):
 
 def convert_to_markdown(meta):
     final_md_file_path = os.path.join(
-        current_directory, "..", "hugo", "content", "english", "riichi", meta["mapped"]["markdown_path"]
+        current_directory, "..", "content", "english", "riichi", meta["mapped"]["markdown_path"]
     )
 
     try:

@@ -1,6 +1,7 @@
 +++
 title = "Sanshoku doujun"
 arcturus_wiki_id = "370"
+updated = "2018-10-26T08:44:54Z"
 tags = ["Yaku"]
 +++
 

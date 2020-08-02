@@ -1,6 +1,7 @@
 +++
 title = "Aryanmen"
 arcturus_wiki_id = "3057"
+updated = "2019-09-20T02:24:42Z"
 tags = ["Machi"]
 +++
 

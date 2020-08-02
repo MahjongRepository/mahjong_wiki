@@ -1,6 +1,7 @@
 +++
 title = "Chankan"
 arcturus_wiki_id = "350"
+updated = "2018-04-13T04:08:16Z"
 tags = ["Yaku"]
 +++
 

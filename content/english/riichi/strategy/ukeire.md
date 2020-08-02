@@ -1,6 +1,7 @@
 +++
 title = "Ukeire"
 arcturus_wiki_id = "3512"
+updated = "2020-06-29T12:03:29Z"
 tags = ["Terminology", "Strategy"]
 +++
 

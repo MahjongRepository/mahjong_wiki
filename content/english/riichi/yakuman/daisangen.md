@@ -1,6 +1,7 @@
 +++
 title = "Daisangen"
 arcturus_wiki_id = "244"
+updated = "2019-12-27T03:40:14Z"
 tags = ["Yakuman"]
 +++
 
@@ -36,7 +37,6 @@ families of yakuman".
 {{< t 456m33p55z >}} {{< t 6-66-777z >}} Agari: {{< t 5z >}}
 
 -
-
 
     *Note*: This hand is also winnable with {{< t 3p >}}, but this hand would be shousangen instead.
 
@@ -90,7 +90,6 @@ daisangen. That third discarder becomes partially liable or fully liable for tha
 <!-- end list -->
 
 -
-
 
     Statistical analysis of pao
 

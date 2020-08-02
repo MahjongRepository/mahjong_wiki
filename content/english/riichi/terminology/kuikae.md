@@ -1,6 +1,7 @@
 +++
 title = "Kuikae"
 arcturus_wiki_id = "2437"
+updated = "2016-12-03T16:27:17Z"
 tags = ["Terminology", "Mentsu"]
 +++
 

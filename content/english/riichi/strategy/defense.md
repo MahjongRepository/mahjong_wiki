@@ -1,6 +1,7 @@
 +++
 title = "Defense"
 arcturus_wiki_id = "319"
+updated = "2019-06-14T03:50:39Z"
 tags = ["Strategy"]
 +++
 
@@ -145,7 +146,6 @@ switch to betaori if tiles in the hand become safe.
 
 -
 
-
     Basic Defense Techniques in Mahjong
 
 <!-- end list -->
@@ -155,7 +155,6 @@ switch to betaori if tiles in the hand become safe.
 <!-- end list -->
 
 -
-
 
     UmaiKeiki’s defense guide — Betaori and Suji
 

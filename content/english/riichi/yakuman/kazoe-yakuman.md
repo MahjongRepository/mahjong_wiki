@@ -1,6 +1,7 @@
 +++
 title = "Kazoe yakuman"
 arcturus_wiki_id = "222"
+updated = "2015-12-23T22:35:49Z"
 tags = ["Yakuman"]
 +++
 
@@ -53,7 +54,6 @@ count to 13. Nevertheless, chinitsu is a common yaku for this combination.
 
 -
 
-
     {{< t 1112355077799p >}} Tsumo: {{< t 1p >}}. Dora indicator: {{< t 9p >}}
 
 ### Dora based
@@ -69,7 +69,6 @@ kan dora and ura dora (with kan ura dora).
 
 -
 
-
     {{< t 333678p1166m >}} {{< t 0z05m0z >}} Ron: {{< t 1m >}} or {{< t 6m >}}. Dora indicators: {{< t 4m >}} {{< t 5z >}} {{< t 2p >}}. Ura-dora indicators: {{< t 2p >}} {{< t 3z >}} {{< t 4m >}}
 
 ### Without dora
@@ -84,7 +83,6 @@ A few possible kazoe yakuman combinations do not require dora to achieve 13 han.
 
 -
 
-
     {{< t 2233445566788s >}} Tsumo: {{< t 7s >}}
 
 <!-- end list -->
@@ -95,7 +93,6 @@ A few possible kazoe yakuman combinations do not require dora to achieve 13 han.
 
 -
 
-
     {{< t 111p7z >}} {{< t 0z99p0z55-550660z >}} Agari: {{< t 7z >}}
 
 <!-- end list -->
@@ -105,7 +102,6 @@ A few possible kazoe yakuman combinations do not require dora to achieve 13 han.
 <!-- end list -->
 
 -
-
 
     {{< t 6z >}} {{< t 0550-777711-1--1z888s >}} Agari: {{< t 6z >}}
 

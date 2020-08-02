@@ -1,6 +1,7 @@
 +++
 title = "Naki"
 arcturus_wiki_id = "280"
+updated = "2020-04-04T09:19:49Z"
 tags = ["Terminology", "Game rules"]
 +++
 

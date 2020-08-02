@@ -1,6 +1,7 @@
 +++
 title = "Toitoihou"
 arcturus_wiki_id = "405"
+updated = "2019-06-06T08:39:24Z"
 tags = ["Yaku"]
 +++
 

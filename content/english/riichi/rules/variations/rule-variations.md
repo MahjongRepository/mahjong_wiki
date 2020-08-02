@@ -1,6 +1,7 @@
 +++
 title = "Rule variations"
 arcturus_wiki_id = "2411"
+updated = "2015-12-30T07:33:01Z"
 tags = ["Rule variations"]
 +++
 

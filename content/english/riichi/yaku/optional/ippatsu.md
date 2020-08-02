@@ -1,6 +1,7 @@
 +++
 title = "Ippatsu"
 arcturus_wiki_id = "368"
+updated = "2019-06-03T12:51:37Z"
 tags = ["Yaku", "Optional yaku"]
 +++
 
@@ -43,7 +44,6 @@ game, ippatsu is counted unless otherwise specified or agreed on before the game
 
 -
 
-
     Kan is called prior to the riichi call; and the hand wins on the next draw without interruption. Therefore, ippatsu is valid.
 
 <!-- end list -->
@@ -53,7 +53,6 @@ game, ippatsu is counted unless otherwise specified or agreed on before the game
 <!-- end list -->
 
 -
-
 
     This hand wins on a discard before the next draw.
 

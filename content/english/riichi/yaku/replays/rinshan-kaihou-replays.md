@@ -1,6 +1,7 @@
 +++
 title = "Rinshan kaihou/Replays"
 arcturus_wiki_id = "3258"
+updated = "2019-03-09T05:03:51Z"
 tags = ["Yaku replays"]
 +++
 

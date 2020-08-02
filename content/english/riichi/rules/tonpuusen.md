@@ -1,6 +1,7 @@
 +++
 title = "Tonpuusen"
 arcturus_wiki_id = "402"
+updated = "2018-04-30T17:08:24Z"
 tags = ["Terminology", "Game rules"]
 +++
 

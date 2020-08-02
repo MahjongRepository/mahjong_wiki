@@ -1,6 +1,7 @@
 +++
 title = "Sanmen nobetan"
 arcturus_wiki_id = "2497"
+updated = "2016-08-13T11:06:07Z"
 tags = ["Terminology", "Machi"]
 +++
 

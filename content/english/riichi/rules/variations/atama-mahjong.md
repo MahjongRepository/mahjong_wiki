@@ -1,6 +1,7 @@
 +++
 title = "Atama mahjong"
 arcturus_wiki_id = "3704"
+updated = "2020-06-12T01:53:57Z"
 tags = ["Rule variations"]
 +++
 

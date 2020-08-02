@@ -1,6 +1,7 @@
 +++
 title = "Tenhou"
 arcturus_wiki_id = "219"
+updated = "2014-07-21T04:16:59Z"
 tags = ["Tenhou.net"]
 +++
 

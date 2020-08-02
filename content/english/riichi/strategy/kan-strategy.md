@@ -1,6 +1,7 @@
 +++
 title = "Kan strategy"
 arcturus_wiki_id = "3238"
+updated = "2019-06-10T23:14:13Z"
 tags = ["Strategy"]
 +++
 

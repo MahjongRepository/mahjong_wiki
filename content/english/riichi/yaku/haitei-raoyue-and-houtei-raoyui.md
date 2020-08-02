@@ -1,6 +1,7 @@
 +++
 title = "Haitei raoyue and houtei raoyui"
 arcturus_wiki_id = "380"
+updated = "2015-06-27T18:44:47Z"
 tags = ["Yaku"]
 +++
 

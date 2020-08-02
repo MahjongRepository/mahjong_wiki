@@ -1,6 +1,7 @@
 +++
 title = "Pinfu"
 arcturus_wiki_id = "183"
+updated = "2019-12-14T20:21:19Z"
 tags = ["Yaku"]
 +++
 

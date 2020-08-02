@@ -1,6 +1,7 @@
 +++
 title = "Sanankou"
 arcturus_wiki_id = "293"
+updated = "2016-09-02T07:49:47Z"
 tags = ["Yaku"]
 +++
 

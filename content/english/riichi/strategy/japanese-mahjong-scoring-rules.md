@@ -1,6 +1,7 @@
 +++
 title = "Japanese mahjong scoring rules"
 arcturus_wiki_id = "272"
+updated = "2015-08-21T22:23:24Z"
 tags = ["Strategy"]
 +++
 

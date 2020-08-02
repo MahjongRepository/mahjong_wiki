@@ -1,6 +1,7 @@
 +++
 title = "Sekinin barai"
 arcturus_wiki_id = "378"
+updated = "2019-10-06T01:27:30Z"
 tags = ["Terminology", "Game rules"]
 +++
 
@@ -40,7 +41,6 @@ is deemed liable for full payment if the calling player later wins the hand.
 
 -
 
-
     {{< t 8s >}}, last: {{< t 77-7z >}}, formers: {{< t 5-55z >}} {{< t -123p >}} {{< t -666z >}}
     Shimocha feeds the last set of dragon-tile triplet, he becomes the liable player.
 
@@ -51,7 +51,6 @@ upgrading their hand to an apparent daisuushii, the player who dealt into the fo
 deemed liable for full payment if the calling player later wins the hand.
 
 -
-
 
     {{< t 5p >}}, last: {{< t 2-22z >}}, formers: {{< t -111z >}} {{< t -444z >}} {{< t 33-3-3z >}}
     Toimen becomes liable player with confirming the fourth wind-tile triplet.
@@ -70,7 +69,6 @@ Supposing a player completed a daisangen, and the hand looks like the following 
 
 -
 
-
     {{< t 1234m >}}, last: {{< t 66-66z >}}, second: {{< t -555z >}}, first: {{< t 7-77z >}} (Main perspective)
 
 Toimen becomes the liable player as the fact that he becomes the feeder of last sangenpai set. But
@@ -79,7 +77,6 @@ looks like in main perspective's view:
 
 -
 
-
     {{< t 1234m666z >}}, second: {{< t -555z >}}, first: {{< t 7-77z >}} (Main perspective)
 
 Though such proposing is incorrect. The point is, any of other opponents can never know the actual
@@ -87,13 +84,11 @@ combination of main perspective's hand. In opponent's view, it actually look lik
 
 -
 
-
     {{< t 0000000z >}}, second: {{< t -555z >}}, first: {{< t 7-77z >}} (Opponent's view)
 
 It is apparently not an "ensured" yakuman (although it may probably be):
 
 -
-
 
     1\. The hand doesn't suggest he "must" have a concealed triplet of hatsu: (This also suggests why kamicha, the feeder of second require set "haku", doesn't need to be liable for the yakuman hand.)
       -
@@ -106,7 +101,6 @@ In this case, since the daiminkan of hatsu finally confirmed an "ensured" daisan
 view and killed the other possible development of being a non-yakuman:
 
 -
-
 
     {{< t 0000z >}}, last: {{< t 66-66z >}}, formers: {{< t -555z >}} {{< t 7-77z >}} (Opponent's perspective)
 
@@ -129,14 +123,12 @@ both have some limitation of toitsu (the head pair).
 
 -
 
-
     {{< t 4456s >}} {{< t -444z >}} {{< t 3-33z >}} {{< t -222z >}}
     Honitsu + possible yakuhai hand. Shousuushi is not ensured.
 
 #### Tsuuiisou
 
 -
-
 
     {{< t 2s >}} {{< t -666z >}} {{< t -333z >}} {{< t 7-7-77z >}} {{< t -444z >}}
     Toitoi + yakuhai + honitsu hand. Tsuuiisou is not ensured.
@@ -145,14 +137,12 @@ both have some limitation of toitsu (the head pair).
 
 -
 
-
     {{< t 8m >}} {{< t 11-1-1p >}} {{< t -111s >}} {{< t 99-99m >}} {{< t 99-9p >}}
     Toitoi-nomi hand. Chinroutou is not ensured.
 
 #### Ryuuiisou
 
 -
-
 
     {{< t 1s >}} {{< t 2-22s >}} {{< t -423s >}} {{< t 0z88s0z >}} {{< t 6-66z >}}
     Honitsu + yakuhai hatsu hand. Ryuuiisou is not ensured.
@@ -165,7 +155,6 @@ claimed the fourth daiminkan, the feeder of fourth kan becomes liable.
 
 -
 
-
     {{< t 3z >}}, last: {{< t 666-6z >}}, formers: {{< t 0z22s0z >}} {{< t -3-333m >}} {{< t 22-22p >}}
     Shimocha becomes liable for the fact that he completed an ensured suukantsu with his discard.
 
@@ -173,7 +162,6 @@ Due to the criteria for recognizing sekinin barai, the precedential three kans m
 and the fourth kan will always be a daiminkan.
 
 -
-
 
     {{< t 3s >}}, last: {{< t 4-444s >}}, formers: {{< t 1-111s >}} {{< t -6666s >}} {{< t 66-6z >}}, added kan {{< t 6z >}} afterwards
     Toimen doesn't become liable, the melding doesn't confirm a suukantsu at that moment, even with an added kan afterwards which completed suukantsu. <ref group="note" name="note 1">
@@ -183,7 +171,6 @@ Tenhou used to suggest
 in early years. This rule was soon deprecated after then. </ref>
 
 -
-
 
     {{< t 1s >}}, last: {{< t -2-222p >}}, formers: {{< t 444-4z >}} {{< t 0z33p0z >}} {{< t 2-2-22s >}}
     Kamicha doesn't become liable, suukantsu is not completed yet at the moment when he discarded 2-pin. It was a pon of 2-pin and the hand is only a sankantsu, even though an added kan of 2-pin happens afterwards.

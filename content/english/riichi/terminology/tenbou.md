@@ -1,6 +1,7 @@
 +++
 title = "Tenbou"
 arcturus_wiki_id = "2489"
+updated = "2019-06-26T00:08:50Z"
 tags = ["Terminology"]
 +++
 

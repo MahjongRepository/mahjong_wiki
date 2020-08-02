@@ -1,6 +1,7 @@
 +++
 title = "Shousangen/Replays"
 arcturus_wiki_id = "3156"
+updated = "2017-12-25T10:50:49Z"
 tags = ["Yaku replays"]
 +++
 

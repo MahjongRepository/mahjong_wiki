@@ -1,6 +1,7 @@
 +++
 title = "Tenhou and chiihou/Replays"
 arcturus_wiki_id = "3482"
+updated = "2017-12-25T11:35:55Z"
 tags = ["Yaku replays"]
 +++
 

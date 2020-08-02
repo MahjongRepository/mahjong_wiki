@@ -1,6 +1,7 @@
 +++
 title = "Etiquette in mahjong"
 arcturus_wiki_id = "3473"
+updated = "2019-07-18T17:42:29Z"
 tags = ["Other"]
 +++
 

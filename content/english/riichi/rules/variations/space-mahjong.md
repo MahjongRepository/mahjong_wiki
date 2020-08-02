@@ -1,6 +1,7 @@
 +++
 title = "Space mahjong"
 arcturus_wiki_id = "3706"
+updated = "2019-09-19T19:31:25Z"
 tags = ["Rule variations"]
 +++
 

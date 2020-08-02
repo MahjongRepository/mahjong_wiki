@@ -1,6 +1,7 @@
 +++
 title = "Dora variations"
 arcturus_wiki_id = "2570"
+updated = "2017-11-29T12:29:38Z"
 tags = ["Rule variations"]
 +++
 

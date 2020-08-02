@@ -1,6 +1,7 @@
 +++
 title = "Japanese mahjong"
 arcturus_wiki_id = "50"
+updated = "2020-04-09T21:28:15Z"
 tags = ["Game rules"]
 +++
 
@@ -479,7 +480,6 @@ within the then fledgling video game industry.
 
 -
 
-
     Their Riichi Rules for Japanese Mahjong contains detailed rules and terminology. A previous version was used by Crunchyroll's Saki anime translator.
 
 <!-- end list -->
@@ -489,7 +489,6 @@ within the then fledgling video game industry.
 <!-- end list -->
 
 -
-
 
     Barticle's Japanese Mahjong Guide can be downloaded from the downloads section. It contains even more detailed rules and terminology.
 
@@ -502,7 +501,6 @@ within the then fledgling video game industry.
 
 -
 
-
     JPML ruleset
 
 <!-- end list -->
@@ -512,7 +510,6 @@ within the then fledgling video game industry.
 <!-- end list -->
 
 -
-
 
     A Japanese Mahjong blog for English speakers
 
@@ -524,7 +521,6 @@ within the then fledgling video game industry.
 
 -
 
-
     Rules from the Saikyosen tournament
 
 <!-- end list -->
@@ -534,7 +530,6 @@ within the then fledgling video game industry.
 <!-- end list -->
 
 -
-
 
     Another blog regarding various aspects of the game.
 

@@ -1,6 +1,7 @@
 +++
 title = "EMA Riichi Competition Rules"
 arcturus_wiki_id = "45"
+updated = "2017-11-03T21:48:03Z"
 tags = ["Rule variations"]
 +++
 

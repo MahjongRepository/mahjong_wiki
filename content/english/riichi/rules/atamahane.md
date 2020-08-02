@@ -1,6 +1,7 @@
 +++
 title = "Atamahane"
 arcturus_wiki_id = "2496"
+updated = "2015-08-27T20:53:05Z"
 tags = ["Game rules", "Terminology"]
 +++
 

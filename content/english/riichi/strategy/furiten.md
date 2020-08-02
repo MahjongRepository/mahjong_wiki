@@ -1,6 +1,7 @@
 +++
 title = "Furiten"
 arcturus_wiki_id = "240"
+updated = "2020-06-13T22:29:14Z"
 tags = ["Terminology", "Game rules", "Strategy"]
 +++
 
@@ -80,7 +81,6 @@ tsumo.
 **Example tenpai hand**
 
 -
-
 
     ```machi
 

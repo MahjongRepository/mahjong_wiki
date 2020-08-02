@@ -1,6 +1,7 @@
 +++
 title = "Multiple yakuman"
 arcturus_wiki_id = "320"
+updated = "2015-09-02T19:42:40Z"
 tags = ["Yakuman", "Rule variations"]
 +++
 
@@ -75,7 +76,6 @@ applied number of yakuman in the hand. With the single yakuman cap, this multipl
 
 -
 
-
     ```machi
 
 |pattern = 1p111444z |tiles called = 02203'33z |wait status = Agari |tilewaits = 1p
@@ -112,7 +112,6 @@ applied number of yakuman in the hand. With the single yakuman cap, this multipl
 <!-- end list -->
 
 -
-
 
     ```machi
 

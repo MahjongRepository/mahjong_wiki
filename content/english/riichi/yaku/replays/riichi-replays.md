@@ -1,6 +1,7 @@
 +++
 title = "Riichi/Replays"
 arcturus_wiki_id = "3370"
+updated = "2019-03-25T06:05:06Z"
 tags = ["Yaku replays"]
 +++
 

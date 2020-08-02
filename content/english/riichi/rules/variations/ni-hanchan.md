@@ -1,6 +1,7 @@
 +++
 title = "Ni hanchan"
 arcturus_wiki_id = "3709"
+updated = "2019-09-18T11:59:36Z"
 tags = ["Rule variations"]
 +++
 

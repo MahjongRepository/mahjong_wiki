@@ -1,6 +1,7 @@
 +++
 title = "Single suit mahjong"
 arcturus_wiki_id = "3235"
+updated = "2015-08-20T04:51:20Z"
 tags = ["Game rules"]
 +++
 

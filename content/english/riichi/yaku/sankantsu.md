@@ -1,6 +1,7 @@
 +++
 title = "Sankantsu"
 arcturus_wiki_id = "379"
+updated = "2015-07-16T19:33:34Z"
 tags = ["Yaku"]
 +++
 

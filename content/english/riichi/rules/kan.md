@@ -1,6 +1,7 @@
 +++
 title = "Kan"
 arcturus_wiki_id = "212"
+updated = "2019-12-25T01:52:25Z"
 tags = ["Terminology", "Game rules"]
 +++
 
@@ -75,7 +76,6 @@ drawing order:
 
 -
 
-
     [Example](http://tenhou.net/0/?log=2014040107gm-0009-7447-f5d22b11&tw=2&ts=5)
 
 **Daiminkan** {{< kana "大明槓" >}} is also called an "open kan". A player possesses three of a tile
@@ -98,7 +98,6 @@ Some rules invoke sekinin barai on a player discarding into the daiminkan.
 {{< t 5-5-55z >}}
 
 -
-
 
     [Example](http://tenhou.net/0/?log=2014101819gm-0009-7448-b5a206e3&tw=0)
 
@@ -124,7 +123,6 @@ indicator is flipped.
 {{< t 0440z >}}
 
 -
-
 
     [Example](http://tenhou.net/0/?log=2014032208gm-0009-7447-76e35c74&tw=3&ts=7)
 

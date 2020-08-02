@@ -1,6 +1,7 @@
 +++
 title = "Naki strategy"
 arcturus_wiki_id = "3745"
+updated = "2020-04-04T20:57:45Z"
 tags = ["Strategy"]
 +++
 

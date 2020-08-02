@@ -1,6 +1,7 @@
 +++
 title = "Honiisou"
 arcturus_wiki_id = "411"
+updated = "2020-01-17T19:54:03Z"
 tags = ["Yaku"]
 +++
 

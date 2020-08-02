@@ -1,6 +1,7 @@
 +++
 title = "Riichi strategy"
 arcturus_wiki_id = "2830"
+updated = "2020-06-07T09:21:13Z"
 tags = ["Strategy"]
 +++
 

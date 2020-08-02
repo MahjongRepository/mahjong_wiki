@@ -1,6 +1,7 @@
 +++
 title = "Japanese mahjong setup"
 arcturus_wiki_id = "2908"
+updated = "2015-10-22T21:44:16Z"
 tags = ["Game rules"]
 +++
 

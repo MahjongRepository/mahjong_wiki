@@ -1,6 +1,7 @@
 +++
 title = "Iishanten"
 arcturus_wiki_id = "3727"
+updated = "2020-05-19T21:47:41Z"
 tags = ["Terminology"]
 +++
 

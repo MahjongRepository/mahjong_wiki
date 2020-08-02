@@ -1,6 +1,7 @@
 +++
 title = "Wanpai"
 arcturus_wiki_id = "271"
+updated = "2015-10-26T06:39:45Z"
 tags = ["Terminology", "Game rules"]
 +++
 

@@ -1,6 +1,7 @@
 +++
 title = "Nobetan"
 arcturus_wiki_id = "2439"
+updated = "2019-09-19T19:24:43Z"
 tags = ["Terminology", "Machi"]
 +++
 
@@ -29,7 +30,6 @@ The pattern is noticeable as four consecutive numbered tiles. When completed, th
 functions as follows:
 
 -
-
 
     Win with {{< t 4p >}} then it'd look like: {{< t 567p >}} {{< t 44p >}}
     Win with {{< t 7p >}} then it'd look like: {{< t 456p >}} {{< t 77p >}}

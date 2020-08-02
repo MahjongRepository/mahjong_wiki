@@ -1,6 +1,7 @@
 +++
 title = "Dora"
 arcturus_wiki_id = "211"
+updated = "2016-01-19T01:34:10Z"
 tags = ["Terminology", "Game rules"]
 +++
 
@@ -65,7 +66,6 @@ worth the number of han as the dora indicator shows.
 <!-- end list -->
 
 -
-
 
     {{< t 5s >}} {{< t 5s >}}
 

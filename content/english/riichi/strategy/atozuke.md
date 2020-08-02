@@ -1,6 +1,7 @@
 +++
 title = "Atozuke"
 arcturus_wiki_id = "2396"
+updated = "2017-04-13T17:00:14Z"
 tags = ["Terminology", "Strategy", "Game rules"]
 +++
 

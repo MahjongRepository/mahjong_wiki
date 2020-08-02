@@ -1,6 +1,7 @@
 +++
 title = "Karaten"
 arcturus_wiki_id = "2494"
+updated = "2019-09-25T07:57:59Z"
 tags = ["Terminology"]
 +++
 

@@ -1,6 +1,7 @@
 +++
 title = "Daburu riichi"
 arcturus_wiki_id = "2434"
+updated = "2020-07-17T21:26:33Z"
 tags = ["Yaku"]
 +++
 

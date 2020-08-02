@@ -1,6 +1,7 @@
 +++
 title = "Scoring variations"
 arcturus_wiki_id = "2569"
+updated = "2015-12-30T07:36:08Z"
 tags = ["Rule variations", "Scoring"]
 +++
 

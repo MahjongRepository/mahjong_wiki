@@ -1,6 +1,7 @@
 +++
 title = "Yaku compatibility"
 arcturus_wiki_id = "2377"
+updated = "2019-06-10T23:31:21Z"
 tags = ["Yaku", "Strategy"]
 +++
 

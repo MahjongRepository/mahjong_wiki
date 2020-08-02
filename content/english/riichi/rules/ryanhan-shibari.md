@@ -1,6 +1,7 @@
 +++
 title = "Ryanhan shibari"
 arcturus_wiki_id = "2665"
+updated = "2015-07-23T23:38:05Z"
 tags = ["Terminology", "Game rules"]
 +++
 
@@ -17,7 +18,6 @@ difficulty of dealer continuation.
 <!-- end list -->
 
 -
-
 
     **Ryanhan shibari** in [JP Wiki.](https://ja.wikipedia.org/)
 

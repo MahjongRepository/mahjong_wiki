@@ -1,6 +1,7 @@
 +++
 title = "Haitei raoyue and houtei raoyui/Replays"
 arcturus_wiki_id = "3648"
+updated = "2019-04-01T11:16:25Z"
 tags = ["Yaku replays"]
 +++
 

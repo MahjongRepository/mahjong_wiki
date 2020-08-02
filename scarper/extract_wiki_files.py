@@ -181,6 +181,7 @@ def main():
 
                 if etree.QName(child).localname == "revision":
                     page["text"] = child.find("text", namespaces=root.nsmap).text
+                    page["timestamp"] = child.find("timestamp", namespaces=root.nsmap).text
 
             if not page:
                 continue
@@ -211,9 +212,10 @@ def main():
 
         pages_meta_data[file_name]["title"] = page["title"]
         pages_meta_data[file_name]["id"] = page["id"]
+        pages_meta_data[file_name]["updated"] = page["timestamp"]
 
     with open(os.path.join(export_dir, "_meta.json"), "w") as f:
-        f.write(json.dumps(pages_meta_data, indent=2))
+        f.write(json.dumps(pages_meta_data, indent=2, sort_keys=True))
 
 
 if __name__ == "__main__":

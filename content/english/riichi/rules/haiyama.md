@@ -1,6 +1,7 @@
 +++
 title = "Haiyama"
 arcturus_wiki_id = "2839"
+updated = "2015-11-04T00:59:17Z"
 tags = ["Terminology", "Game rules"]
 +++
 

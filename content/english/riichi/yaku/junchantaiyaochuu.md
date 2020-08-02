@@ -1,6 +1,7 @@
 +++
 title = "Junchantaiyaochuu"
 arcturus_wiki_id = "454"
+updated = "2015-09-27T05:02:59Z"
 tags = ["Yaku"]
 +++
 

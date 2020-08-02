@@ -1,6 +1,7 @@
 +++
 title = "Jigoku"
 arcturus_wiki_id = "2535"
+updated = "2017-07-25T21:37:24Z"
 tags = ["Terminology", "Machi", "Strategy"]
 +++
 

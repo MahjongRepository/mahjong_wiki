@@ -1,6 +1,7 @@
 +++
 title = "Tanki"
 arcturus_wiki_id = "432"
+updated = "2018-03-06T11:02:43Z"
 tags = ["Terminology", "Machi"]
 +++
 

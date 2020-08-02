@@ -1,6 +1,7 @@
 +++
 title = "Toutenkou"
 arcturus_wiki_id = "3719"
+updated = "2019-10-06T03:42:56Z"
 tags = ["Rule Variations"]
 +++
 

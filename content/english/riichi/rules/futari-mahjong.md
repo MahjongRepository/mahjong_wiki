@@ -1,6 +1,7 @@
 +++
 title = "Futari mahjong"
 arcturus_wiki_id = "2685"
+updated = "2015-08-08T23:42:16Z"
 tags = ["Game rules"]
 +++
 

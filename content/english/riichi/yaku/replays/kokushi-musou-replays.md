@@ -1,6 +1,7 @@
 +++
 title = "Kokushi musou/Replays"
 arcturus_wiki_id = "3216"
+updated = "2017-11-15T15:12:19Z"
 tags = ["Yaku replays"]
 +++
 

@@ -1,6 +1,7 @@
 +++
 title = "Penchan"
 arcturus_wiki_id = "261"
+updated = "2018-03-06T11:01:51Z"
 tags = ["Terminology", "Machi"]
 +++
 

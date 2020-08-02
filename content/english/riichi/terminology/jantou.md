@@ -1,6 +1,7 @@
 +++
 title = "Jantou"
 arcturus_wiki_id = "2573"
+updated = "2015-10-11T09:27:46Z"
 tags = ["Terminology"]
 +++
 

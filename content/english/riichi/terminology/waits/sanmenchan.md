@@ -1,6 +1,7 @@
 +++
 title = "Sanmenchan"
 arcturus_wiki_id = "388"
+updated = "2019-09-20T16:37:20Z"
 tags = ["Terminology", "Machi"]
 +++
 

@@ -6,3 +6,6 @@ other = "Главная страница"
 
 [licence]
 other = "Содержимое доступно по лицензии <a href=\"https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ru\" target=\"_blank\">Creative Commons Attribution Non-Commercial Share Alike</a>"
+
+[modified]
+other = "Дата изменений"

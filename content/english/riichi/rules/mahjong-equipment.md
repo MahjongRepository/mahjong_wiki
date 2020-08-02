@@ -1,6 +1,7 @@
 +++
 title = "Mahjong equipment"
 arcturus_wiki_id = "264"
+updated = "2019-03-08T03:37:22Z"
 tags = ["Game rules"]
 +++
 

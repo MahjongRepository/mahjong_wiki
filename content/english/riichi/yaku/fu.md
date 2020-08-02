@@ -1,6 +1,7 @@
 +++
 title = "Fu"
 arcturus_wiki_id = "377"
+updated = "2019-09-19T19:48:45Z"
 tags = ["Terminology", "Yaku", "Scoring"]
 +++
 

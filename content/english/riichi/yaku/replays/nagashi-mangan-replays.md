@@ -1,6 +1,7 @@
 +++
 title = "Nagashi mangan/Replays"
 arcturus_wiki_id = "3169"
+updated = "2020-03-07T23:32:09Z"
 tags = ["Yaku replays"]
 +++
 

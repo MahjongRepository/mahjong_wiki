@@ -1,6 +1,7 @@
 +++
 title = "Chinroutou"
 arcturus_wiki_id = "232"
+updated = "2015-09-06T11:14:33Z"
 tags = ["Yakuman"]
 +++
 

@@ -1,6 +1,7 @@
 +++
 title = "Ryanpeikou/Replays"
 arcturus_wiki_id = "3490"
+updated = "2018-12-12T23:23:17Z"
 tags = ["Yaku replays"]
 +++
 

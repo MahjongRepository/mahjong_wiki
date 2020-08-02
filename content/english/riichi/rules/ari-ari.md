@@ -1,6 +1,7 @@
 +++
 title = "Ari-ari"
 arcturus_wiki_id = "3230"
+updated = "2015-08-10T01:56:44Z"
 tags = ["Game rules"]
 +++
 

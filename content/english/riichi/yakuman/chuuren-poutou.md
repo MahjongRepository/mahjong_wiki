@@ -1,6 +1,7 @@
 +++
 title = "Chuuren poutou"
 arcturus_wiki_id = "234"
+updated = "2020-01-28T22:19:15Z"
 tags = ["Yakuman"]
 +++
 
@@ -83,7 +84,6 @@ any one of these numbered tiles are rendered unavailable, then the yakuman is no
 <!-- end list -->
 
 -
-
 
     Kojima Takeo
 

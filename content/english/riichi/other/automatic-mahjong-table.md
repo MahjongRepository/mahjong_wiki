@@ -1,6 +1,7 @@
 +++
 title = "Automatic mahjong table"
 arcturus_wiki_id = "451"
+updated = "2016-02-03T05:15:05Z"
 tags = ["Other"]
 +++
 

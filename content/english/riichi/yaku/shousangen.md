@@ -1,6 +1,7 @@
 +++
 title = "Shousangen"
 arcturus_wiki_id = "362"
+updated = "2015-07-16T19:37:46Z"
 tags = ["Yaku"]
 +++
 

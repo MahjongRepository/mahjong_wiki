@@ -1,6 +1,7 @@
 +++
 title = "Junchantaiyaochuu/Replays"
 arcturus_wiki_id = "3535"
+updated = "2019-05-08T00:07:09Z"
 tags = ["Yaku replays"]
 +++
 

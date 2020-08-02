@@ -1,6 +1,7 @@
 +++
 title = "Tenhou and chiihou"
 arcturus_wiki_id = "248"
+updated = "2015-12-09T08:02:10Z"
 tags = ["Yakuman"]
 +++
 

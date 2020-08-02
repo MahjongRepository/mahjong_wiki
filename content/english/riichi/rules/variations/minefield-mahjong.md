@@ -1,6 +1,7 @@
 +++
 title = "Minefield mahjong"
 arcturus_wiki_id = "2766"
+updated = "2019-01-17T22:44:37Z"
 tags = ["Rule variations"]
 +++
 
@@ -37,7 +38,6 @@ dice roll to determine the hand's minimum han value.
 <!-- end list -->
 
 -
-
 
     Flash version of the game
 

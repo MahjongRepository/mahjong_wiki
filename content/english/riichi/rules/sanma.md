@@ -1,6 +1,7 @@
 +++
 title = "Sanma"
 arcturus_wiki_id = "2404"
+updated = "2020-06-12T01:52:40Z"
 tags = ["Game rules", "Terminology"]
 +++
 
@@ -17,7 +18,6 @@ Three player essentially plays like the regular four player game but with some c
 
 -
 
-
     Players cannot make the tile call of chii. Players can still call pon or kan for claiming discards.
 
 <!-- end list -->
@@ -27,7 +27,6 @@ Three player essentially plays like the regular four player game but with some c
 <!-- end list -->
 
 -
-
 
     Typically, the manzu suit is removed. Though, the terminals (1-man and 9-man) remain in order to retain the possibility for kokushi musou. However, the game loses sanshoku doujun.
 
@@ -39,7 +38,6 @@ Three player essentially plays like the regular four player game but with some c
 
 -
 
-
     The dead wall is arranged differently. The dead wall accommodates 8 rinshan draws rather than four. Thus, dora indicator is the the 5th tile from the wall break.
 
 <!-- end list -->
@@ -49,7 +47,6 @@ Three player essentially plays like the regular four player game but with some c
 <!-- end list -->
 
 -
-
 
     By use of kita {{< kana "キタ" >}}, possession of the north tile may be put to the side of the hand, like an open call; and it would be counted as dora. Plus, the player is also awarded an extra draw from the dead wall for that north tile.
     If the player wins off of the dead wall draw from calling kita, they are awarded rinshan.
@@ -62,7 +59,6 @@ Three player essentially plays like the regular four player game but with some c
 <!-- end list -->
 
 -
-
 
     For scoring, the same scoring table is used. Both ron and tsumo values remain the same. However, for tsumo, no change is used to account and adjust for the missing player. Therefore, the total points for tsumo is less than that of the ron total.
 

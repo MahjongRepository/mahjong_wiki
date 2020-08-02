@@ -1,6 +1,7 @@
 +++
 title = "Chuuren poutou/Replays"
 arcturus_wiki_id = "3479"
+updated = "2019-03-06T23:20:04Z"
 tags = ["Yaku replays"]
 +++
 

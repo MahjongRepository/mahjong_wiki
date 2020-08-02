@@ -1,6 +1,7 @@
 +++
 title = "Riichi"
 arcturus_wiki_id = "209"
+updated = "2020-07-14T15:58:39Z"
 tags = ["Yaku", "Game rules"]
 +++
 
@@ -189,7 +190,6 @@ riichi at all and instead employ the strategy of damaten.
 <!-- end list -->
 
 -
-
 
     [Osamuko](http://osamuko.com/) article on riichi.
 

@@ -1,6 +1,7 @@
 +++
 title = "Menzenchin tsumohou"
 arcturus_wiki_id = "328"
+updated = "2020-07-17T21:04:19Z"
 tags = ["Yaku"]
 +++
 

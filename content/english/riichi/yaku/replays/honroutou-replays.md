@@ -1,6 +1,7 @@
 +++
 title = "Honroutou/Replays"
 arcturus_wiki_id = "3366"
+updated = "2018-09-06T06:07:50Z"
 tags = ["Yaku replays"]
 +++
 

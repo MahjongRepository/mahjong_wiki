@@ -1,6 +1,7 @@
 +++
 title = "Nagashi mangan"
 arcturus_wiki_id = "314"
+updated = "2019-02-12T02:13:50Z"
 tags = ["Yaku"]
 +++
 

@@ -1,6 +1,7 @@
 +++
 title = "Majsoul"
 arcturus_wiki_id = "3537"
+updated = "2020-08-01T16:41:44Z"
 tags = ["Majsoul"]
 +++
 

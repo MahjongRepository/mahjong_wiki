@@ -1,6 +1,7 @@
 +++
 title = "Keishiki tenpai"
 arcturus_wiki_id = "3075"
+updated = "2020-06-18T21:57:47Z"
 tags = ["Game rules", "Terminology"]
 +++
 

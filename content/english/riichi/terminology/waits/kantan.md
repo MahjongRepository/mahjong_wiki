@@ -1,6 +1,7 @@
 +++
 title = "Kantan"
 arcturus_wiki_id = "3296"
+updated = "2016-01-21T06:29:51Z"
 tags = ["Terminology", "Machi"]
 +++
 

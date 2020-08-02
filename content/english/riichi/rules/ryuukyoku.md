@@ -1,6 +1,7 @@
 +++
 title = "Ryuukyoku"
 arcturus_wiki_id = "270"
+updated = "2020-06-29T12:23:16Z"
 tags = ["Terminology", "Game rules"]
 +++
 

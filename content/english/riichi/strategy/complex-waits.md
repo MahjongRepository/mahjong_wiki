@@ -1,6 +1,7 @@
 +++
 title = "Complex waits"
 arcturus_wiki_id = "440"
+updated = "2019-08-02T05:57:25Z"
 tags = ["Terminology", "Strategy", "Machi"]
 +++
 

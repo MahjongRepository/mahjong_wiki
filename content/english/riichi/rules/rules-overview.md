@@ -1,6 +1,7 @@
 +++
 title = "Rules overview"
 arcturus_wiki_id = "44"
+updated = "2019-12-01T16:18:59Z"
 tags = ["Game rules"]
 +++
 
@@ -124,7 +125,6 @@ A complete hand example:
 
 -
 
-
     Select choice for English speakers (Tenhou.net rules)
 
 <!-- end list -->
@@ -134,7 +134,6 @@ A complete hand example:
 <!-- end list -->
 
 -
-
 
     Flash version of the game
 

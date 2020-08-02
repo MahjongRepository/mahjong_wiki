@@ -1,6 +1,7 @@
 +++
 title = "Ryanmen"
 arcturus_wiki_id = "301"
+updated = "2018-03-06T10:52:26Z"
 tags = ["Terminology", "Machi"]
 +++
 

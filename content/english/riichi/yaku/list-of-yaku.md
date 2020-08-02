@@ -1,6 +1,7 @@
 +++
 title = "List of yaku"
 arcturus_wiki_id = "51"
+updated = "2020-07-17T20:58:39Z"
 tags = ["Yaku", "Scoring"]
 +++
 
@@ -377,7 +378,6 @@ yaku on their own.
 
 -
 
-
     Lists all the yaku occurrences in Tenhou.net by percentages and by room
 
 <!-- end list -->
@@ -387,7 +387,6 @@ yaku on their own.
 <!-- end list -->
 
 -
-
 
     Pointing out which yaku to learn first
 
@@ -399,7 +398,6 @@ yaku on their own.
 
 -
 
-
     Yaku list from Ron2
 
 <!-- end list -->
@@ -409,7 +407,6 @@ yaku on their own.
 <!-- end list -->
 
 -
-
 
     Yaku list in Wikipedia.
 

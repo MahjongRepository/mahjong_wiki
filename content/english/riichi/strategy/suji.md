@@ -1,6 +1,7 @@
 +++
 title = "Suji"
 arcturus_wiki_id = "2455"
+updated = "2019-06-05T16:59:58Z"
 tags = ["Terminology", "Strategy"]
 +++
 
@@ -218,7 +219,6 @@ considered dangerous.
 <!-- end list -->
 
 -
-
 
     Osamuko strategy article on suji
 

@@ -1,6 +1,7 @@
 +++
 title = "Gyakuten"
 arcturus_wiki_id = "2670"
+updated = "2020-06-29T12:07:12Z"
 tags = ["Terminology"]
 +++
 

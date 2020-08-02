@@ -1,6 +1,7 @@
 +++
 title = "Entotsu"
 arcturus_wiki_id = "2502"
+updated = "2019-09-19T18:52:39Z"
 tags = ["Terminology", "Machi"]
 +++
 

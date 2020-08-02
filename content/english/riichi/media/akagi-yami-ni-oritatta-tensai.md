@@ -1,6 +1,7 @@
 +++
 title = "Akagi: Yami ni Oritatta Tensai"
 arcturus_wiki_id = "3188"
+updated = "2018-05-05T23:22:01Z"
 tags = ["Media"]
 +++
 

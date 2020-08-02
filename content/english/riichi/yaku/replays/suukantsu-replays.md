@@ -1,6 +1,7 @@
 +++
 title = "Suukantsu/Replays"
 arcturus_wiki_id = "3327"
+updated = "2019-08-06T00:47:21Z"
 tags = ["Yaku replays"]
 +++
 

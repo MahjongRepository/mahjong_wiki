@@ -1,6 +1,7 @@
 +++
 title = "Yaku"
 arcturus_wiki_id = "279"
+updated = "2019-12-14T20:19:59Z"
 tags = ["Terminology", "Yaku", "Scoring"]
 +++
 
@@ -64,7 +65,6 @@ yaku can never be won via drawing a tile.
 
 -
 
-
     Winning with a tile used for an added kan by another player.
 
 <!-- end list -->
@@ -74,7 +74,6 @@ yaku can never be won via drawing a tile.
 <!-- end list -->
 
 -
-
 
     Winning off of the last possible discarded tile for the hand.
 
@@ -86,7 +85,6 @@ yaku can never be won via drawing a tile.
 
 -
 
-
     This is the only yaku, by which players have the option to declare or not. Otherwise, hands may possibly win without it, if it remains closed with other valid yaku.
 
 <!-- end list -->
@@ -96,7 +94,6 @@ yaku can never be won via drawing a tile.
 <!-- end list -->
 
 -
-
 
     This is essentially riichi, but with the added luck of the hand being tenpai upon the initial tile deal, or the opening hand.
 
@@ -111,7 +108,6 @@ players.
 
 -
 
-
     Winning with the last tile draw.
 
 <!-- end list -->
@@ -122,7 +118,6 @@ players.
 
 -
 
-
     Drawing the winning tile with a closed hand.
 
 <!-- end list -->
@@ -132,7 +127,6 @@ players.
 <!-- end list -->
 
 -
-
 
     Drawing a winning tile after a kan call.
 
@@ -147,7 +141,6 @@ the numbered tiles.
 
 -
 
-
     Honor tiles with one suit.
 
 <!-- end list -->
@@ -157,7 +150,6 @@ the numbered tiles.
 <!-- end list -->
 
 -
-
 
     Honor tiles with terminals.
 
@@ -169,7 +161,6 @@ the numbered tiles.
 
 -
 
-
     Specific collection of all three dragon types.
 
 <!-- end list -->
@@ -180,7 +171,6 @@ the numbered tiles.
 
 -
 
-
     No honors or (terminal) are used.
 
 <!-- end list -->
@@ -190,7 +180,6 @@ the numbered tiles.
 <!-- end list -->
 
 -
-
 
     Specific collection of any dragon, seat wind, or round wind tiles.
 
@@ -204,7 +193,6 @@ Ippatsu cannot occur without a call for riichi.
 
 -
 
-
     Winning on or before the next tile draw after riichi.
 
 ### Sequential
@@ -217,7 +205,6 @@ These yaku either require sequential tile groups.
 
 -
 
-
     By definition, this yaku uses two-identical sequences.
 
 <!-- end list -->
@@ -227,7 +214,6 @@ These yaku either require sequential tile groups.
 <!-- end list -->
 
 -
-
 
     A complete string of 1-9 tile naturally use sequences.
 
@@ -239,7 +225,6 @@ These yaku either require sequential tile groups.
 
 -
 
-
     Every tile group must be a sequence.
 
 <!-- end list -->
@@ -250,7 +235,6 @@ These yaku either require sequential tile groups.
 
 -
 
-
     By definition, this yaku uses two-identical sequences two times.
 
 <!-- end list -->
@@ -260,7 +244,6 @@ These yaku either require sequential tile groups.
 <!-- end list -->
 
 -
-
 
     By definition, this yaku uses three identically numbered sequences across the three suits.
 
@@ -274,7 +257,6 @@ These yaku revolve around terminals, or complete lack thereof.
 
 -
 
-
     Every tile group with an honor or terminal.
 
 <!-- end list -->
@@ -284,7 +266,6 @@ These yaku revolve around terminals, or complete lack thereof.
 <!-- end list -->
 
 -
-
 
     Only honor and terminal groups.
 
@@ -296,7 +277,6 @@ These yaku revolve around terminals, or complete lack thereof.
 
 -
 
-
     Every tile group with a terminal.
 
 <!-- end list -->
@@ -307,7 +287,6 @@ These yaku revolve around terminals, or complete lack thereof.
 
 -
 
-
     Every discarded tile is either a terminal or honor
 
 <!-- end list -->
@@ -317,7 +296,6 @@ These yaku revolve around terminals, or complete lack thereof.
 <!-- end list -->
 
 -
-
 
     No terminals (or honors) are used.
 
@@ -331,7 +309,6 @@ These yaku require at least one triplet in order to be valid.
 
 -
 
-
     Three closed triplets.
 
 <!-- end list -->
@@ -341,7 +318,6 @@ These yaku require at least one triplet in order to be valid.
 <!-- end list -->
 
 -
-
 
     Requires three quads, which are considered as triplets plus one extra.
 
@@ -353,7 +329,6 @@ These yaku require at least one triplet in order to be valid.
 
 -
 
-
     Needs three identically numbered triplets across the three suits.
 
 <!-- end list -->
@@ -363,7 +338,6 @@ These yaku require at least one triplet in order to be valid.
 <!-- end list -->
 
 -
-
 
     Triplets of dragon tiles.
 
@@ -375,7 +349,6 @@ These yaku require at least one triplet in order to be valid.
 
 -
 
-
     Every tile group is a triplet.
 
 <!-- end list -->
@@ -385,7 +358,6 @@ These yaku require at least one triplet in order to be valid.
 <!-- end list -->
 
 -
-
 
     Counted when the hand contains a triplet of a valid honor tile, namely: any dragon triplet, appropriate seat wind, or the current round wind.
 
@@ -397,7 +369,6 @@ These yaku require at least one triplet in order to be valid.
 
 -
 
-
     All tiles are the same suit or honor tiles.
 
 <!-- end list -->
@@ -407,7 +378,6 @@ These yaku require at least one triplet in order to be valid.
 <!-- end list -->
 
 -
-
 
     All tiles are the same suit.
 
@@ -441,7 +411,6 @@ list.
 
 -
 
-
     Wikipedia listing
 
 <!-- end list -->
@@ -452,7 +421,6 @@ list.
 
 -
 
-
     Lists all the yaku occurrences in Tenhou.net by percentages and by room
 
 <!-- end list -->
@@ -462,7 +430,6 @@ list.
 <!-- end list -->
 
 -
-
 
     Pointing out which yaku to learn first
 

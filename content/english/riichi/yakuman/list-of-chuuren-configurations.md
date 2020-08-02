@@ -1,6 +1,7 @@
 +++
 title = "List of chuuren configurations"
 arcturus_wiki_id = "3279"
+updated = "2015-11-25T08:02:20Z"
 tags = ["Yakuman"]
 +++
 

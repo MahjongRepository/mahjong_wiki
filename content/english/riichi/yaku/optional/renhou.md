@@ -1,6 +1,7 @@
 +++
 title = "Renhou"
 arcturus_wiki_id = "2449"
+updated = "2016-12-30T14:08:54Z"
 tags = ["Yaku", "Optional yaku"]
 +++
 
@@ -35,7 +36,6 @@ Because of number of variations and interpretations to renhou, it is viewed as o
 
 -
 
-
     By default, renhou can be defaulted as a mangan hand. In this case, if the hand could score more using normal counting of yaku and dora, it will be scored for the alternate value (since the highest-scoring hand must always be chosen). The hand must have at least one yaku for this, however; dora alone cannot allow the hand to be scored separately.
 
 <!-- end list -->
@@ -45,7 +45,6 @@ Because of number of variations and interpretations to renhou, it is viewed as o
 <!-- end list -->
 
 -
-
 
     Likewise, it can be set as a yakuman.
 
@@ -57,7 +56,6 @@ Because of number of variations and interpretations to renhou, it is viewed as o
 
 -
 
-
     A few rulesets set renhou as a baiman, though this is relatively rare.
 
 <!-- end list -->
@@ -68,7 +66,6 @@ Because of number of variations and interpretations to renhou, it is viewed as o
 
 -
 
-
     Renhou may be considered as a yaku, to be cumulative with other yaku, with a variable han value. It is frequently set at 4 han, so that the hand is always worth mangan minimum if it has any other yaku.
 
 <!-- end list -->
@@ -78,7 +75,6 @@ Because of number of variations and interpretations to renhou, it is viewed as o
 <!-- end list -->
 
 -
-
 
     Renhou may not be used at all.
 

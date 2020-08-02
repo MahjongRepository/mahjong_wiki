@@ -1,6 +1,7 @@
 +++
 title = "Moupai"
 arcturus_wiki_id = "3439"
+updated = "2017-11-29T21:27:31Z"
 tags = ["Terminology", "Techniques"]
 +++
 

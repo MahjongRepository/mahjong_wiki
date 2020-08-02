@@ -1,6 +1,7 @@
 +++
 title = "Takame and yasume"
 arcturus_wiki_id = "2441"
+updated = "2015-09-06T12:40:47Z"
 tags = ["Terminology", "Strategy"]
 +++
 
@@ -46,7 +47,6 @@ decision may prove to be risky or rewarding.
 
 -
 
-
     This is a special case, where only one tile can produce a valid win, while the other does not. Unless a circumstantial yaku like haitei or houtei is available, this hand has no yaku with 1s.
 
 <!-- end list -->
@@ -59,7 +59,6 @@ decision may prove to be risky or rewarding.
 ```
 
 -
-
 
     This is just a regular pinfu hand waiting on one of two tile types. If one of them is dora, then the hand prefers to win off of that dora tile. However, at times, it may just end up accepting the non-dora winning tile.
 
@@ -76,7 +75,6 @@ decision may prove to be risky or rewarding.
 
 -
 
-
     In this case, the hand is waiting on three tiles. Two waits will result in pinfu (1m and 4m). Two waits will result in tanyao (3m and 4m). Winning with 4m maximizes hand value.
 
 <!-- end list -->
@@ -91,7 +89,6 @@ decision may prove to be risky or rewarding.
 ```
 
 -
-
 
     In this case, the hand is waiting on two tiles. One tile will result in sanshoku. The other does not.
 
@@ -108,7 +105,6 @@ decision may prove to be risky or rewarding.
 
 -
 
-
     Tenpai hand waiting to produce either daisangen (takame) or shousangen (yasume).
 
 <!-- end list -->
@@ -123,7 +119,6 @@ decision may prove to be risky or rewarding.
 ```
 
 -
-
 
     Only one tile can produce the yakuman, chuuren poutou, while the other waits produce only chinitsu.
 

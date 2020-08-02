@@ -1,6 +1,7 @@
 +++
 title = "Chiitoitsu"
 arcturus_wiki_id = "191"
+updated = "2019-07-26T18:00:47Z"
 tags = ["Yaku"]
 +++
 

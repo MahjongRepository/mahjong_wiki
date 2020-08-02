@@ -1,6 +1,7 @@
 +++
 title = "Renchan"
 arcturus_wiki_id = "2495"
+updated = "2015-07-15T20:47:13Z"
 tags = ["Game rules", "Terminology"]
 +++
 

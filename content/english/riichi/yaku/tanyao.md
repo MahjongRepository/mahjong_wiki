@@ -1,6 +1,7 @@
 +++
 title = "Tanyao"
 arcturus_wiki_id = "221"
+updated = "2016-03-29T09:17:01Z"
 tags = ["Yaku"]
 +++
 

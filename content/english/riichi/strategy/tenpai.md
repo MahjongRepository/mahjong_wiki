@@ -1,6 +1,7 @@
 +++
 title = "Tenpai"
 arcturus_wiki_id = "228"
+updated = "2020-07-14T15:55:41Z"
 tags = ["Terminology", "Strategy"]
 +++
 

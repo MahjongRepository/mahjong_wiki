@@ -1,6 +1,7 @@
 +++
 title = "Honba"
 arcturus_wiki_id = "290"
+updated = "2015-07-27T18:45:33Z"
 tags = ["Game rules", "Terminology"]
 +++
 

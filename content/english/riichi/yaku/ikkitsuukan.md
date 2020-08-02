@@ -1,6 +1,7 @@
 +++
 title = "Ikkitsuukan"
 arcturus_wiki_id = "208"
+updated = "2018-05-25T18:27:32Z"
 tags = ["Yaku"]
 +++
 

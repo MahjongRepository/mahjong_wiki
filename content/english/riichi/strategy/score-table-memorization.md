@@ -1,6 +1,7 @@
 +++
 title = "Score table memorization"
 arcturus_wiki_id = "2421"
+updated = "2019-09-30T09:12:19Z"
 tags = ["Strategy", "Scoring"]
 +++
 
@@ -54,7 +55,6 @@ mentsumo).
 
 -
 
-
     The hand must be a closed pinfu hand. However, it gets paired with mentsumo; so it defaults as 2 han and 20 fu.
 
 <!-- end list -->
@@ -64,7 +64,6 @@ mentsumo).
 <!-- end list -->
 
 -
-
 
     Chiitoitsu is by default worth 2 han and 25 fu. No other yaku worth 1-han can be set at 25 fu.
 
@@ -76,7 +75,6 @@ mentsumo).
 
 -
 
-
     Chiitoitsu with mentsumo would be 3 han and 25 fu.
 
 <!-- end list -->
@@ -86,7 +84,6 @@ mentsumo).
 <!-- end list -->
 
 -
-
 
     A notable possibility for this value exists for a hand, that may be considered as an "open pinfu". In other words, it is an open hand, that takes the shape of pinfu. Naturally, it is not classed as pinfu, but it still scores 2 fu for an open pinfu. As a result, for "ron" values, 20 fu is impossible; the lowest value possible value is at 1 han and 30 fu.
 

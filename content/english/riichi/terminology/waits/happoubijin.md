@@ -1,6 +1,7 @@
 +++
 title = "Happoubijin"
 arcturus_wiki_id = "3092"
+updated = "2015-03-31T08:46:34Z"
 tags = ["Terminology", "Machi"]
 +++
 

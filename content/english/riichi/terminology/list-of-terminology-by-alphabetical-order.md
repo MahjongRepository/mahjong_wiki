@@ -1,6 +1,7 @@
 +++
 title = "List of terminology by alphabetical order"
 arcturus_wiki_id = "226"
+updated = "2020-06-01T12:00:31Z"
 tags = ["Terminology"]
 +++
 

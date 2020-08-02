@@ -1,6 +1,7 @@
 +++
 title = "Tsumo"
 arcturus_wiki_id = "231"
+updated = "2014-01-27T00:06:02Z"
 tags = ["Terminology"]
 +++
 

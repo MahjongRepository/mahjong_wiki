@@ -1,6 +1,7 @@
 +++
 title = "Kabe"
 arcturus_wiki_id = "2486"
+updated = "2014-12-04T23:11:31Z"
 tags = ["Terminology", "Strategy"]
 +++
 

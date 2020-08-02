@@ -1,6 +1,7 @@
 +++
 title = "Washizu mahjong"
 arcturus_wiki_id = "3222"
+updated = "2018-05-02T10:18:20Z"
 tags = ["Game rules"]
 +++
 

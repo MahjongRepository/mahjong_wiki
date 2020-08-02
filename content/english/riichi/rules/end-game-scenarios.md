@@ -1,6 +1,7 @@
 +++
 title = "End game scenarios"
 arcturus_wiki_id = "2782"
+updated = "2015-11-20T22:27:17Z"
 tags = ["Game rules"]
 +++
 

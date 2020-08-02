@@ -1,6 +1,7 @@
 +++
 title = "Kazoe yakuman/Replays"
 arcturus_wiki_id = "3302"
+updated = "2020-05-20T05:28:43Z"
 tags = ["Yaku replays"]
 +++
 

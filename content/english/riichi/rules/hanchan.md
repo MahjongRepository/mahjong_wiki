@@ -1,6 +1,7 @@
 +++
 title = "Hanchan"
 arcturus_wiki_id = "299"
+updated = "2015-08-07T20:56:05Z"
 tags = ["Terminology", "Game rules"]
 +++
 

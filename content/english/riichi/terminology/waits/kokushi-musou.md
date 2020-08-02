@@ -1,6 +1,7 @@
 +++
 title = "Kokushi musou"
 arcturus_wiki_id = "188"
+updated = "2019-10-10T15:29:46Z"
 tags = ["Yakuman", "Machi"]
 +++
 
@@ -131,7 +132,6 @@ common.
 <!-- end list -->
 
 -
-
 
     Osamuko.com entry on Kokushi
 

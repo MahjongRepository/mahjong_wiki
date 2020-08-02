@@ -1,6 +1,7 @@
 +++
 title = "Iipeikou"
 arcturus_wiki_id = "55"
+updated = "2019-11-16T19:21:14Z"
 tags = ["Yaku"]
 +++
 

@@ -23,7 +23,7 @@ def main():
         meta = meta_info[wiki_file_name.split(".")[0]]
 
         # for debug
-        # if meta["id"] != "3673":
+        # if meta["id"] != "261":
         #     continue
 
         print(meta["title"], meta["id"])
@@ -47,6 +47,7 @@ def main():
             f.write("+++\n")
             f.write('title = "%s"\n' % title)
             f.write('arcturus_wiki_id = "%s"\n' % meta["id"])
+            f.write('updated = "%s"\n' % meta["updated"])
             f.write("tags = [%s]\n" % ", ".join(['"%s"' % x for x in meta["mapped"]["tags"]]))
             f.write("+++\n\n")
 
@@ -208,7 +209,6 @@ def process_template_blocks(content):
 
     # one line
     regex = r"{{(?!<)([\S\s]*?)}}"
-    content = re.sub(regex, r"```\1```", content)
     return re.sub(regex, r"```\1```", content)
 
 

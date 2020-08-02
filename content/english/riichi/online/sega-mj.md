@@ -1,6 +1,7 @@
 +++
 title = "Sega MJ"
 arcturus_wiki_id = "3318"
+updated = "2020-03-25T21:49:30Z"
 tags = ["Games", "Online"]
 +++
 

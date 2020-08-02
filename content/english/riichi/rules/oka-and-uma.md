@@ -1,6 +1,7 @@
 +++
 title = "Oka and uma"
 arcturus_wiki_id = "409"
+updated = "2015-05-28T02:42:36Z"
 tags = ["Terminology", "Game rules"]
 +++
 

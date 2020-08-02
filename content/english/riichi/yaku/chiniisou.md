@@ -1,6 +1,7 @@
 +++
 title = "Chiniisou"
 arcturus_wiki_id = "242"
+updated = "2016-01-07T22:05:26Z"
 tags = ["Yaku"]
 +++
 
@@ -106,7 +107,6 @@ up to its closed value of a haneman.
 <!-- end list -->
 
 -
-
 
     Game designed with sou tiles only to train reading chinitsu hands.
 

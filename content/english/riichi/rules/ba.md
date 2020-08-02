@@ -1,6 +1,7 @@
 +++
 title = "Ba"
 arcturus_wiki_id = "2696"
+updated = "2015-08-29T23:00:57Z"
 tags = ["Game rules", "Terminology"]
 +++
 

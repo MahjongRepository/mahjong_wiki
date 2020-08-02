@@ -1,6 +1,7 @@
 +++
 title = "Mudazumo Naki Kaikaku"
 arcturus_wiki_id = "2913"
+updated = "2015-01-23T02:42:37Z"
 tags = ["Media"]
 +++
 

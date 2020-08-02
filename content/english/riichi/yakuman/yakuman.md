@@ -1,6 +1,7 @@
 +++
 title = "Yakuman"
 arcturus_wiki_id = "410"
+updated = "2015-07-27T17:55:48Z"
 tags = ["Yakuman", "Terminology"]
 +++
 
@@ -83,7 +84,6 @@ the circumstances can be described by damaten or similar to it.
 
 -
 
-
     Lists all the yaku occurrences in Tenhou.net by percentages and by ranked lobby.
 
 <!-- end list -->
@@ -93,7 +93,6 @@ the circumstances can be described by damaten or similar to it.
 <!-- end list -->
 
 -
-
 
     Lists any yakuman scored within the regular L0000 lobby, within the current month.
 

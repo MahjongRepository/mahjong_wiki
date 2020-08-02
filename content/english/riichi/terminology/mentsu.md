@@ -1,6 +1,7 @@
 +++
 title = "Mentsu"
 arcturus_wiki_id = "255"
+updated = "2015-05-11T16:19:45Z"
 tags = ["Mentsu", "Terminology"]
 +++
 

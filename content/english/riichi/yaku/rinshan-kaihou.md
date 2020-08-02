@@ -1,6 +1,7 @@
 +++
 title = "Rinshan kaihou"
 arcturus_wiki_id = "249"
+updated = "2016-05-01T06:55:29Z"
 tags = ["Yaku"]
 +++
 
@@ -52,7 +53,6 @@ could be used for normal hand development. Therefore, tenpai is acquired upon a 
 [Example](http://tenhou.net/0/?log=2013011715gm-0009-7447-0bef5c3f&tw=1&ts=10)
 
 -
-
 
     {{< t 5m123p55568s6666z >}} Draw: {{< t 0m >}} Waiting for: {{< t 7s >}}
 

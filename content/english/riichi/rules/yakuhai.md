@@ -1,6 +1,7 @@
 +++
 title = "Yakuhai"
 arcturus_wiki_id = "373"
+updated = "2019-12-16T02:26:00Z"
 tags = ["Yaku", "Game rules"]
 +++
 

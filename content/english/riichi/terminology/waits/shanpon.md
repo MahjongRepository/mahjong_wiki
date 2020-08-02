@@ -1,6 +1,7 @@
 +++
 title = "Shanpon"
 arcturus_wiki_id = "2416"
+updated = "2016-05-10T04:00:22Z"
 tags = ["Terminology", "Machi"]
 +++
 

@@ -1,6 +1,7 @@
 +++
 title = "Yaku variations"
 arcturus_wiki_id = "2568"
+updated = "2019-12-05T00:16:19Z"
 tags = ["Rule variations"]
 +++
 

@@ -1,6 +1,7 @@
 +++
 title = "Local yaku"
 arcturus_wiki_id = "3730"
+updated = "2020-07-21T08:23:08Z"
 tags = ["Optional yaku", "Game rules"]
 +++
 
@@ -300,7 +301,6 @@ red</span>. That being said, only the following tiles are available:
 
 -
 
-
     Pinzu of 2 / 4 / 8,
     Souzu of 2 / 3 / 4 / 6 / 8,
     All kazehai tiles, and
@@ -421,7 +421,6 @@ The pattern of 9-pin indicates a school of fish.
 
 -
 
-
     The two groups of shuntsus are limited in manzu and souzu;
     The head pair is restricted to pinzu;
     The number of shuntsus cannot be overlapped, e.g. 234 + 456 is invalid.
@@ -444,7 +443,6 @@ shuntsus and 5-pin as the pair.
 fourteen different tiles listed as follows:
 
 -
-
 
     Seven different tiles from 147 / 258 / 369 both in different suits;
     All of seven different honor tiles (indicating the seven stars).
@@ -499,7 +497,6 @@ actual value.
 More specifically, there're three main variants to determine a paarenchan:
 
 -
-
 
     **Definition 1**: Winning eight hands consecutively, no matter if the player is the dealer at that round.
     **Definition 2**: Winning eight hands continuously exactly in his own dealership (as how the yaku name strictly indicated).
@@ -764,7 +761,6 @@ The rule of sekinin barai can be applied in this yakuman hand.
 
 -
 
-
     {{< t 4z >}}, last:{{< t 4-44s >}}, formers: {{< t -666s >}} {{< t 55-5s >}} {{< t 7-777s >}}
     Toimen becomes liable for feeding the last required set: souzu of 4.
 
@@ -781,7 +777,6 @@ This yaku is a less common variant of suurenkou.
 The rule of sekinin barai can be applied in this yakuman hand.
 
 -
-
 
     {{< t 9m >}}, last:{{< t 33-3s >}}, formers: {{< t 0z99s0z >}} {{< t 55-5s >}} {{< t 7-77s >}}
     Shimocha becomes liable for feeding the last required set: souzu of 3.
@@ -844,7 +839,6 @@ chii, only kamicha can be the target of responsibility.
 
 -
 
-
     {{< t 5m >}}, last: {{< t -978p >}}, formers: {{< t -789p >}} {{< t -879p >}} {{< t -879p >}}
     Kamicha becomes liable for feeding the last required set.
 
@@ -883,7 +877,6 @@ quads):
 
 -
 
-
     Hana {{< kana "花" >}} (*Flower*): Pinzu of 5
     Tori {{< kana "鳥" >}} (*Bird*): Souzu of 1
     Kaze {{< kana "風" >}} (*Wind*): Bakaze or jikaze
@@ -893,7 +886,6 @@ Likewise, **Fuukasetsugetsu** {{< kana "風花雪月" >}} is built by triplets (
 Hana (花), Tsuki (月) and:
 
 -
-
 
     Yuki {{< kana "雪" >}} (*Snow*): Sangenpai haku
 

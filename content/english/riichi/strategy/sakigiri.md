@@ -1,6 +1,7 @@
 +++
 title = "Sakigiri"
 arcturus_wiki_id = "3639"
+updated = "2019-06-14T03:54:44Z"
 tags = ["Terminology", "Strategy"]
 +++
 

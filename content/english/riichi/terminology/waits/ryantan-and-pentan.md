@@ -1,6 +1,7 @@
 +++
 title = "Ryantan and pentan"
 arcturus_wiki_id = "3060"
+updated = "2019-09-19T19:50:14Z"
 tags = ["Terminology", "Machi"]
 +++
 

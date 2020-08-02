@@ -1,6 +1,7 @@
 +++
 title = "Tatsumaki"
 arcturus_wiki_id = "3091"
+updated = "2019-09-20T16:45:14Z"
 tags = ["Terminology", "Machi"]
 +++
 

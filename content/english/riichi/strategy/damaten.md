@@ -1,6 +1,7 @@
 +++
 title = "Damaten"
 arcturus_wiki_id = "253"
+updated = "2020-06-29T12:04:07Z"
 tags = ["Terminology", "Strategy"]
 +++
 
@@ -41,7 +42,6 @@ added value of riichi, especially when less than 4-han; but at times, the sacrif
 <!-- end list -->
 
 -
-
 
     Multiple instances where damaten was employed.
 

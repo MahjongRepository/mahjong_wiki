@@ -1,6 +1,7 @@
 +++
 title = "Chanta"
 arcturus_wiki_id = "452"
+updated = "2020-06-05T01:56:03Z"
 tags = ["Yaku"]
 +++
 

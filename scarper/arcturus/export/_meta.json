@@ -1,2220 +1,2415 @@
 {
-  "Daisharin": {
-    "mapped": {
-      "title": "Daisharin",
-      "markdown_path": "yaku/optional/daisharin.md",
-      "tags": [
-        "Yaku",
-        "Optional yaku"
-      ]
-    },
-    "id": "3207",
-    "title": "Daisharin"
-  },
-  "Ryuukyoku": {
-    "mapped": {
-      "title": "Ryuukyoku",
-      "markdown_path": "rules/ryuukyoku.md",
-      "tags": [
-        "Terminology",
-        "Game rules"
-      ]
-    },
-    "id": "270",
-    "title": "Ryuukyoku"
-  },
-  "Nobetan": {
-    "mapped": {
-      "title": "Nobetan",
-      "markdown_path": "terminology/waits/nobetan.md",
-      "tags": [
-        "Terminology",
-        "Machi"
-      ]
-    },
-    "id": "2439",
-    "title": "Nobetan"
-  },
-  "End_game_scenarios": {
-    "mapped": {
-      "title": "End game scenarios",
-      "markdown_path": "rules/end-game-scenarios.md",
-      "tags": [
-        "Game rules"
-      ]
-    },
-    "id": "2782",
-    "title": "End game scenarios"
-  },
-  "Yaku": {
-    "mapped": {
-      "title": "Yaku",
-      "markdown_path": "yaku/yaku.md",
-      "tags": [
-        "Terminology",
-        "Yaku",
-        "Scoring"
-      ]
-    },
-    "id": "279",
-    "title": "Yaku"
-  },
-  "Ryuuiisou": {
-    "mapped": {
-      "title": "Ryuuiisou",
-      "markdown_path": "yaku/ryuuiisou.md",
-      "tags": [
-        "Yaku"
-      ]
-    },
-    "id": "203",
-    "title": "Ryuuiisou"
-  },
-  "Matagi_suji": {
-    "mapped": {
-      "title": "Matagi suji",
-      "markdown_path": "terminology/matagi-suji.md",
-      "tags": [
-        "Terminology"
-      ]
-    },
-    "id": "3750",
-    "title": "Matagi suji"
-  },
-  "Iipeikou": {
-    "mapped": {
-      "title": "Iipeikou",
-      "markdown_path": "yaku/iipeikou.md",
-      "tags": [
-        "Yaku"
-      ]
-    },
-    "id": "55",
-    "title": "Iipeikou"
-  },
-  "Local_yaku": {
-    "mapped": {
-      "title": "Local yaku",
-      "markdown_path": "yaku/optional/local-yaku.md",
-      "tags": [
-        "Optional yaku",
-        "Game rules"
-      ]
-    },
-    "id": "3730",
-    "title": "Local yaku"
-  },
-  "Machi": {
-    "mapped": {
-      "title": "Machi",
-      "markdown_path": "strategy/machi.md",
-      "tags": [
-        "Terminology",
-        "Strategy",
-        "Machi"
-      ]
-    },
-    "id": "267",
-    "title": "Machi"
-  },
-  "Daisangen__Replays": {
-    "mapped": {
-      "title": "Daisangen/Replays",
-      "markdown_path": "yaku/replays/daisangen-replays.md",
-      "tags": [
-        "Yaku replays"
-      ]
-    },
-    "id": "3212",
-    "title": "Daisangen/Replays"
-  },
-  "Kanchan": {
-    "mapped": {
-      "title": "Kanchan",
-      "markdown_path": "terminology/waits/kanchan.md",
-      "tags": [
-        "Terminology",
-        "Machi"
-      ]
-    },
-    "id": "391",
-    "title": "Kanchan"
-  },
-  "Sekinin_barai": {
-    "mapped": {
-      "title": "Sekinin barai",
-      "markdown_path": "rules/sekinin-barai.md",
-      "tags": [
-        "Terminology",
-        "Game rules"
-      ]
-    },
-    "id": "378",
-    "title": "Sekinin barai"
-  },
-  "Ba": {
-    "mapped": {
-      "title": "Ba",
-      "markdown_path": "rules/ba.md",
-      "tags": [
-        "Game rules",
-        "Terminology"
-      ]
-    },
-    "id": "2696",
-    "title": "Ba"
-  },
-  "List_of_mahjong_video_games": {
-    "mapped": {
-      "title": "List of mahjong video games",
-      "markdown_path": "media/list-of-mahjong-video-games.md",
-      "tags": [
-        "Games"
-      ]
-    },
-    "id": "2745",
-    "title": "List of mahjong video games"
-  },
-  "Dora_strategy": {
-    "mapped": {
-      "title": "Dora strategy",
-      "markdown_path": "strategy/dora-strategy.md",
-      "tags": [
-        "Strategy"
-      ]
-    },
-    "id": "3311",
-    "title": "Dora strategy"
-  },
-  "Pinfu": {
-    "mapped": {
-      "title": "Pinfu",
-      "markdown_path": "yaku/pinfu.md",
-      "tags": [
-        "Yaku"
-      ]
-    },
-    "id": "183",
-    "title": "Pinfu"
-  },
-  "Nagashi_mangan__Replays": {
-    "mapped": {
-      "title": "Nagashi mangan/Replays",
-      "markdown_path": "yaku/replays/nagashi-mangan-replays.md",
-      "tags": [
-        "Yaku replays"
-      ]
-    },
-    "id": "3169",
-    "title": "Nagashi mangan/Replays"
-  },
-  "Sanmen_nobetan": {
-    "mapped": {
-      "title": "Sanmen nobetan",
-      "markdown_path": "terminology/waits/sanmen-nobetan.md",
-      "tags": [
-        "Terminology",
-        "Machi"
-      ]
-    },
-    "id": "2497",
-    "title": "Sanmen nobetan"
-  },
-  "Rinshan_kaihou": {
-    "mapped": {
-      "title": "Rinshan kaihou",
-      "markdown_path": "yaku/rinshan-kaihou.md",
-      "tags": [
-        "Yaku"
-      ]
-    },
-    "id": "249",
-    "title": "Rinshan kaihou"
-  },
-  "Ari-ari": {
-    "mapped": {
-      "title": "Ari-ari",
-      "markdown_path": "rules/ari-ari.md",
-      "tags": [
-        "Game rules"
-      ]
-    },
-    "id": "3230",
-    "title": "Ari-ari"
-  },
-  "Yaku_compatibility": {
-    "mapped": {
-      "title": "Yaku compatibility",
-      "markdown_path": "strategy/yaku-compatibility.md",
-      "tags": [
-        "Yaku",
-        "Strategy"
-      ]
-    },
-    "id": "2377",
-    "title": "Yaku compatibility"
-  },
-  "Damaten": {
-    "mapped": {
-      "title": "Damaten",
-      "markdown_path": "strategy/damaten.md",
-      "tags": [
-        "Terminology",
-        "Strategy"
-      ]
-    },
-    "id": "253",
-    "title": "Damaten"
-  },
-  "Dora": {
-    "mapped": {
-      "title": "Dora",
-      "markdown_path": "rules/dora.md",
-      "tags": [
-        "Terminology",
-        "Game rules"
-      ]
-    },
-    "id": "211",
-    "title": "Dora"
-  },
-  "Sega_MJ": {
-    "mapped": {
-      "title": "Sega MJ",
-      "markdown_path": "online/sega-mj.md",
-      "tags": [
-        "Games",
-        "Online"
-      ]
-    },
-    "id": "3318",
-    "title": "Sega MJ"
-  },
-  "Sanma": {
-    "mapped": {
-      "title": "Sanma",
-      "markdown_path": "rules/sanma.md",
-      "tags": [
-        "Game rules",
-        "Terminology"
-      ]
-    },
-    "id": "2404",
-    "title": "Sanma"
-  },
-  "Honba": {
-    "mapped": {
-      "title": "Honba",
-      "markdown_path": "rules/honba.md",
-      "tags": [
-        "Game rules",
-        "Terminology"
-      ]
-    },
-    "id": "290",
-    "title": "Honba"
-  },
-  "Daburu_riichi": {
-    "mapped": {
-      "title": "Daburu riichi",
-      "markdown_path": "yaku/daburu-riichi.md",
-      "tags": [
-        "Yaku"
-      ]
-    },
-    "id": "2434",
-    "title": "Daburu riichi"
-  },
-  "Atozuke": {
-    "mapped": {
-      "title": "Atozuke",
-      "markdown_path": "strategy/atozuke.md",
-      "tags": [
-        "Terminology",
-        "Strategy",
-        "Game rules"
-      ]
-    },
-    "id": "2396",
-    "title": "Atozuke"
-  },
-  "Tenhou_and_chiihou": {
-    "mapped": {
-      "title": "Tenhou and chiihou",
-      "markdown_path": "yakuman/tenhou-and-chiihou.md",
-      "tags": [
-        "Yakuman"
-      ]
-    },
-    "id": "248",
-    "title": "Tenhou and chiihou"
-  },
-  "Hanchan": {
-    "mapped": {
-      "title": "Hanchan",
-      "markdown_path": "rules/hanchan.md",
-      "tags": [
-        "Terminology",
-        "Game rules"
-      ]
-    },
-    "id": "299",
-    "title": "Hanchan"
-  },
-  "Menzenchin_tsumohou": {
-    "mapped": {
-      "title": "Menzenchin tsumohou",
-      "markdown_path": "yaku/menzenchin-tsumohou.md",
-      "tags": [
-        "Yaku"
-      ]
-    },
-    "id": "328",
-    "title": "Menzenchin tsumohou"
-  },
-  "Complex_waits": {
-    "mapped": {
-      "title": "Complex waits",
-      "markdown_path": "strategy/complex-waits.md",
-      "tags": [
-        "Terminology",
-        "Strategy",
-        "Machi"
-      ]
-    },
-    "id": "440",
-    "title": "Complex waits"
-  },
-  "Renhou": {
-    "mapped": {
-      "title": "Renhou",
-      "markdown_path": "yaku/optional/renhou.md",
-      "tags": [
-        "Yaku",
-        "Optional yaku"
-      ]
-    },
-    "id": "2449",
-    "title": "Renhou"
-  },
-  "Haiyama": {
-    "mapped": {
-      "title": "Haiyama",
-      "markdown_path": "rules/haiyama.md",
-      "tags": [
-        "Terminology",
-        "Game rules"
-      ]
-    },
-    "id": "2839",
-    "title": "Haiyama"
-  },
-  "Etiquette_in_mahjong": {
-    "mapped": {
-      "title": "Etiquette in mahjong",
-      "markdown_path": "other/etiquette-in-mahjong.md",
-      "tags": [
-        "Other"
-      ]
-    },
-    "id": "3473",
-    "title": "Etiquette in mahjong"
-  },
-  "Honiisou": {
-    "mapped": {
-      "title": "Honiisou",
-      "markdown_path": "yaku/honiisou.md",
-      "tags": [
-        "Yaku"
-      ]
-    },
-    "id": "411",
-    "title": "Honiisou"
-  },
-  "Tenhou.net_ranking": {
-    "mapped": {
-      "title": "",
-      "markdown_path": "",
-      "tags": []
-    },
-    "id": "2559",
-    "title": "Tenhou.net ranking"
-  },
-  "Sanmenchan": {
-    "mapped": {
-      "title": "Sanmenchan",
-      "markdown_path": "terminology/waits/sanmenchan.md",
-      "tags": [
-        "Terminology",
-        "Machi"
-      ]
-    },
-    "id": "388",
-    "title": "Sanmenchan"
-  },
-  "Mentanpin": {
-    "mapped": {
-      "title": "Mentanpin",
-      "markdown_path": "terminology/mentanpin.md",
-      "tags": [
-        "Terminology"
-      ]
-    },
-    "id": "2447",
-    "title": "Mentanpin"
-  },
-  "Ryanmen": {
-    "mapped": {
-      "title": "Ryanmen",
-      "markdown_path": "terminology/waits/ryanmen.md",
-      "tags": [
-        "Terminology",
-        "Machi"
-      ]
-    },
-    "id": "301",
-    "title": "Ryanmen"
-  },
-  "Chankan": {
-    "mapped": {
-      "title": "Chankan",
-      "markdown_path": "yaku/chankan.md",
-      "tags": [
-        "Yaku"
-      ]
-    },
-    "id": "350",
-    "title": "Chankan"
-  },
-  "Chuuren_poutou": {
-    "mapped": {
-      "title": "Chuuren poutou",
-      "markdown_path": "yakuman/chuuren-poutou.md",
-      "tags": [
-        "Yakuman"
-      ]
-    },
-    "id": "234",
-    "title": "Chuuren poutou"
-  },
-  "Atama_mahjong": {
-    "mapped": {
-      "title": "Atama mahjong",
-      "markdown_path": "rules/variations/atama-mahjong.md",
-      "tags": [
-        "Rule variations"
-      ]
-    },
-    "id": "3704",
-    "title": "Atama mahjong"
-  },
-  "Ryanpeikou__Replays": {
-    "mapped": {
-      "title": "Ryanpeikou/Replays",
-      "markdown_path": "yaku/replays/ryanpeikou-replays.md",
-      "tags": [
-        "Yaku replays"
-      ]
-    },
-    "id": "3490",
-    "title": "Ryanpeikou/Replays"
-  },
-  "Tenbou": {
-    "mapped": {
-      "title": "Tenbou",
-      "markdown_path": "terminology/tenbou.md",
-      "tags": [
-        "Terminology"
-      ]
-    },
-    "id": "2489",
-    "title": "Tenbou"
-  },
-  "Iishanten": {
-    "mapped": {
-      "title": "Iishanten",
-      "markdown_path": "terminology/iishanten.md",
-      "tags": [
-        "Terminology"
-      ]
-    },
-    "id": "3727",
-    "title": "Iishanten"
-  },
-  "Suuankou": {
-    "mapped": {
-      "title": "Suuankou",
-      "markdown_path": "yakuman/suuankou.md",
-      "tags": [
-        "Yakuman"
-      ]
-    },
-    "id": "200",
-    "title": "Suuankou"
-  },
-  "Ikkitsuukan__Replays": {
-    "mapped": {
-      "title": "Ikkitsuukan/Replays",
-      "markdown_path": "yaku/replays/ikkitsuukan-replays.md",
-      "tags": [
-        "Yaku replays"
-      ]
-    },
-    "id": "3255",
-    "title": "Ikkitsuukan/Replays"
-  },
-  "List_of_mahjong_television_series": {
-    "mapped": {
-      "title": "List of mahjong television series",
-      "markdown_path": "media/list-of-mahjong-television-series.md",
-      "tags": [
-        "Media"
-      ]
-    },
-    "id": "2866",
-    "title": "List of mahjong television series"
-  },
-  "Tenhou.net_rules": {
-    "mapped": {
-      "title": "",
-      "markdown_path": "",
-      "tags": []
-    },
-    "id": "48",
-    "title": "Tenhou.net rules"
-  },
-  "Toitoihou": {
-    "mapped": {
-      "title": "Toitoihou",
-      "markdown_path": "yaku/toitoihou.md",
-      "tags": [
-        "Yaku"
-      ]
-    },
-    "id": "405",
-    "title": "Toitoihou"
-  },
-  "Dora_variations": {
-    "mapped": {
-      "title": "Dora variations",
-      "markdown_path": "rules/variations/dora-variations.md",
-      "tags": [
-        "Rule variations"
-      ]
-    },
-    "id": "2570",
-    "title": "Dora variations"
-  },
-  "Shousangen": {
-    "mapped": {
-      "title": "Shousangen",
-      "markdown_path": "yaku/shousangen.md",
-      "tags": [
-        "Yaku"
-      ]
-    },
-    "id": "362",
-    "title": "Shousangen"
-  },
-  "List_of_chuuren_configurations": {
-    "mapped": {
-      "title": "List of chuuren configurations",
-      "markdown_path": "yakuman/list-of-chuuren-configurations.md",
-      "tags": [
-        "Yakuman"
-      ]
-    },
-    "id": "3279",
-    "title": "List of chuuren configurations"
-  },
-  "Sashikomi": {
-    "mapped": {
-      "title": "Sashikomi",
-      "markdown_path": "strategy/sashikomi.md",
-      "tags": [
-        "Strategy",
-        "Terminology"
-      ]
-    },
-    "id": "3200",
-    "title": "Sashikomi"
-  },
-  "Chinroutou": {
-    "mapped": {
-      "title": "Chinroutou",
-      "markdown_path": "yakuman/chinroutou.md",
-      "tags": [
-        "Yakuman"
-      ]
-    },
-    "id": "232",
-    "title": "Chinroutou"
-  },
-  "Sankantsu": {
-    "mapped": {
-      "title": "Sankantsu",
-      "markdown_path": "yaku/sankantsu.md",
-      "tags": [
-        "Yaku"
-      ]
-    },
-    "id": "379",
-    "title": "Sankantsu"
-  },
-  "Akagi:_Yami_ni_Oritatta_Tensai": {
-    "mapped": {
-      "title": "Akagi: Yami ni Oritatta Tensai",
-      "markdown_path": "media/akagi-yami-ni-oritatta-tensai.md",
-      "tags": [
-        "Media"
-      ]
-    },
-    "id": "3188",
-    "title": "Akagi: Yami ni Oritatta Tensai"
-  },
-  "Furiten": {
-    "mapped": {
-      "title": "Furiten",
-      "markdown_path": "strategy/furiten.md",
-      "tags": [
-        "Terminology",
-        "Game rules",
-        "Strategy"
-      ]
-    },
-    "id": "240",
-    "title": "Furiten"
-  },
-  "Riichi__Replays": {
-    "mapped": {
-      "title": "Riichi/Replays",
-      "markdown_path": "yaku/replays/riichi-replays.md",
-      "tags": [
-        "Yaku replays"
-      ]
-    },
-    "id": "3370",
-    "title": "Riichi/Replays"
-  },
-  "Sanshoku_doujun__Replays": {
-    "mapped": {
-      "title": "Sanshoku doujun/Replays",
-      "markdown_path": "yaku/replays/sanshoku-doujun-replays.md",
-      "tags": [
-        "Yaku replays"
-      ]
-    },
-    "id": "3498",
-    "title": "Sanshoku doujun/Replays"
-  },
-  "Tsuuiisou": {
-    "mapped": {
-      "title": "Tsuuiisou",
-      "markdown_path": "yakuman/tsuuiisou.md",
-      "tags": [
-        "Yakuman"
-      ]
-    },
-    "id": "265",
-    "title": "Tsuuiisou"
-  },
-  "Mudazumo_Naki_Kaikaku": {
-    "mapped": {
-      "title": "Mudazumo Naki Kaikaku",
-      "markdown_path": "media/mudazumo-naki-kaikaku.md",
-      "tags": [
-        "Media"
-      ]
-    },
-    "id": "2913",
-    "title": "Mudazumo Naki Kaikaku"
-  },
-  "Penchan": {
-    "mapped": {
-      "title": "Penchan",
-      "markdown_path": "terminology/waits/penchan.md",
-      "tags": [
-        "Terminology",
-        "Machi"
-      ]
-    },
-    "id": "261",
-    "title": "Penchan"
-  },
-  "Sakigiri": {
-    "mapped": {
-      "title": "Sakigiri",
-      "markdown_path": "strategy/sakigiri.md",
-      "tags": [
-        "Terminology",
-        "Strategy"
-      ]
-    },
-    "id": "3639",
-    "title": "Sakigiri"
-  },
-  "Sanshoku_doukou": {
-    "mapped": {
-      "title": "Sanshoku doukou",
-      "markdown_path": "yaku/sanshoku-doukou.md",
-      "tags": [
-        "Yaku"
-      ]
-    },
-    "id": "326",
-    "title": "Sanshoku doukou"
-  },
-  "Tanki": {
-    "mapped": {
-      "title": "Tanki",
-      "markdown_path": "terminology/waits/tanki.md",
-      "tags": [
-        "Terminology",
-        "Machi"
-      ]
-    },
-    "id": "432",
-    "title": "Tanki"
-  },
-  "Kazoe_yakuman": {
-    "mapped": {
-      "title": "Kazoe yakuman",
-      "markdown_path": "yakuman/kazoe-yakuman.md",
-      "tags": [
-        "Yakuman"
-      ]
-    },
-    "id": "222",
-    "title": "Kazoe yakuman"
-  },
-  "Tenpai": {
-    "mapped": {
-      "title": "Tenpai",
-      "markdown_path": "strategy/tenpai.md",
-      "tags": [
-        "Terminology",
-        "Strategy"
-      ]
-    },
-    "id": "228",
-    "title": "Tenpai"
-  },
-  "Haipai": {
-    "mapped": {
-      "title": "Haipai",
-      "markdown_path": "terminology/haipai.md",
-      "tags": [
-        "Terminology"
-      ]
-    },
-    "id": "2606",
-    "title": "Haipai"
-  },
-  "Daisangen": {
-    "mapped": {
-      "title": "Daisangen",
-      "markdown_path": "yakuman/daisangen.md",
-      "tags": [
-        "Yakuman"
-      ]
-    },
-    "id": "244",
-    "title": "Daisangen"
-  },
-  "Sankantsu__Replays": {
-    "mapped": {
-      "title": "Sankantsu/Replays",
-      "markdown_path": "yaku/replays/sankantsu-replays.md",
-      "tags": [
-        "Yaku replays"
-      ]
-    },
-    "id": "3204",
-    "title": "Sankantsu/Replays"
-  },
-  "Rinshan_kaihou__Replays": {
-    "mapped": {
-      "title": "Rinshan kaihou/Replays",
-      "markdown_path": "yaku/replays/rinshan-kaihou-replays.md",
-      "tags": [
-        "Yaku replays"
-      ]
-    },
-    "id": "3258",
-    "title": "Rinshan kaihou/Replays"
-  },
-  "Space_mahjong": {
-    "mapped": {
-      "title": "Space mahjong",
-      "markdown_path": "rules/variations/space-mahjong.md",
-      "tags": [
-        "Rule variations"
-      ]
-    },
-    "id": "3706",
-    "title": "Space mahjong"
-  },
-  "Multiple_yakuman__Replays": {
-    "mapped": {
-      "title": "Multiple yakuman/Replays",
-      "markdown_path": "yaku/replays/multiple-yakuman-replays.md",
-      "tags": [
-        "Yaku replays"
-      ]
-    },
-    "id": "3170",
-    "title": "Multiple yakuman/Replays"
-  },
-  "Defense": {
-    "mapped": {
-      "title": "Defense",
-      "markdown_path": "strategy/defense.md",
-      "tags": [
-        "Strategy"
-      ]
-    },
-    "id": "319",
-    "title": "Defense"
-  },
-  "Entotsu": {
-    "mapped": {
-      "title": "Entotsu",
-      "markdown_path": "terminology/waits/entotsu.md",
-      "tags": [
-        "Terminology",
-        "Machi"
-      ]
-    },
-    "id": "2502",
-    "title": "Entotsu"
-  },
-  "Mahjong_strategy": {
-    "mapped": {
-      "title": "Mahjong strategy",
-      "markdown_path": "strategy/mahjong-strategy.md",
-      "tags": [
-        "Strategy"
-      ]
-    },
-    "id": "2671",
-    "title": "Mahjong strategy"
-  },
-  "Suushiihou__Replays": {
-    "mapped": {
-      "title": "Suushiihou/Replays",
-      "markdown_path": "yaku/replays/suushiihou-replays.md",
-      "tags": [
-        "Yaku replays"
-      ]
-    },
-    "id": "3180",
-    "title": "Suushiihou/Replays"
-  },
-  "Kokushi_musou__Replays": {
-    "mapped": {
-      "title": "Kokushi musou/Replays",
-      "markdown_path": "yaku/replays/kokushi-musou-replays.md",
-      "tags": [
-        "Yaku replays"
-      ]
-    },
-    "id": "3216",
-    "title": "Kokushi musou/Replays"
-  },
-  "Sanankou__Replays": {
-    "mapped": {
-      "title": "Sanankou/Replays",
-      "markdown_path": "yaku/replays/sanankou-replays.md",
-      "tags": [
-        "Yaku replays"
-      ]
-    },
-    "id": "3291",
-    "title": "Sanankou/Replays"
-  },
   "Agari_houki": {
+    "id": "291", 
     "mapped": {
-      "title": "Agari houki",
-      "markdown_path": "rules/agari-houki.md",
+      "markdown_path": "rules/agari-houki.md", 
       "tags": [
         "Game rules"
-      ]
-    },
-    "id": "291",
-    "title": "Agari houki"
-  },
-  "Tsuuiisou__Replays": {
+      ], 
+      "title": "Agari houki"
+    }, 
+    "title": "Agari houki", 
+    "updated": "2015-07-13T19:00:26Z"
+  }, 
+  "Akagi:_Yami_ni_Oritatta_Tensai": {
+    "id": "3188", 
     "mapped": {
-      "title": "Tsuuiisou/Replays",
-      "markdown_path": "yaku/replays/tsuuiisou-replays.md",
+      "markdown_path": "media/akagi-yami-ni-oritatta-tensai.md", 
       "tags": [
-        "Yaku replays"
-      ]
-    },
-    "id": "3096",
-    "title": "Tsuuiisou/Replays"
-  },
-  "Haitei_raoyue_and_houtei_raoyui": {
+        "Media"
+      ], 
+      "title": "Akagi: Yami ni Oritatta Tensai"
+    }, 
+    "title": "Akagi: Yami ni Oritatta Tensai", 
+    "updated": "2018-05-05T23:22:01Z"
+  }, 
+  "Ari-ari": {
+    "id": "3230", 
     "mapped": {
-      "title": "Haitei raoyue and houtei raoyui",
-      "markdown_path": "yaku/haitei-raoyue-and-houtei-raoyui.md",
+      "markdown_path": "rules/ari-ari.md", 
       "tags": [
-        "Yaku"
-      ]
-    },
-    "id": "380",
-    "title": "Haitei raoyue and houtei raoyui"
-  },
-  "Wareme": {
+        "Game rules"
+      ], 
+      "title": "Ari-ari"
+    }, 
+    "title": "Ari-ari", 
+    "updated": "2015-08-10T01:56:44Z"
+  }, 
+  "Aryanmen": {
+    "id": "3057", 
     "mapped": {
-      "title": "Wareme",
-      "markdown_path": "rules/wareme.md",
+      "markdown_path": "terminology/waits/aryanmen.md", 
       "tags": [
-        "Game rules",
-        "Terminology"
-      ]
-    },
-    "id": "3040",
-    "title": "Wareme"
-  },
-  "Shanten": {
+        "Machi"
+      ], 
+      "title": "Aryanmen"
+    }, 
+    "title": "Aryanmen", 
+    "updated": "2019-09-20T02:24:42Z"
+  }, 
+  "Atama_mahjong": {
+    "id": "3704", 
     "mapped": {
-      "title": "Shanten",
-      "markdown_path": "strategy/shanten.md",
+      "markdown_path": "rules/variations/atama-mahjong.md", 
       "tags": [
-        "Terminology",
-        "Strategy"
-      ]
-    },
-    "id": "269",
-    "title": "Shanten"
-  },
-  "Chiniisou__Replays": {
-    "mapped": {
-      "title": "Chiniisou/Replays",
-      "markdown_path": "yaku/replays/chiniisou-replays.md",
-      "tags": [
-        "Yaku replays"
-      ]
-    },
-    "id": "3237",
-    "title": "Chiniisou/Replays"
-  },
-  "Tenhou": {
-    "mapped": {
-      "title": "Tenhou",
-      "markdown_path": "online/tenhou/tenhou.md",
-      "tags": [
-        "Tenhou.net"
-      ]
-    },
-    "id": "219",
-    "title": "Tenhou"
-  },
-  "Yakitori": {
-    "mapped": {
-      "title": "Yakitori",
-      "markdown_path": "rules/yakitori.md",
-      "tags": [
-        "Game rules",
-        "Terminology"
-      ]
-    },
-    "id": "2695",
-    "title": "Yakitori"
-  },
+        "Rule variations"
+      ], 
+      "title": "Atama mahjong"
+    }, 
+    "title": "Atama mahjong", 
+    "updated": "2020-06-12T01:53:57Z"
+  }, 
   "Atamahane": {
+    "id": "2496", 
     "mapped": {
-      "title": "Atamahane",
-      "markdown_path": "rules/atamahane.md",
+      "markdown_path": "rules/atamahane.md", 
       "tags": [
-        "Game rules",
+        "Game rules", 
         "Terminology"
-      ]
-    },
-    "id": "2496",
-    "title": "Atamahane"
-  },
-  "Moupai": {
+      ], 
+      "title": "Atamahane"
+    }, 
+    "title": "Atamahane", 
+    "updated": "2015-08-27T20:53:05Z"
+  }, 
+  "Atozuke": {
+    "id": "2396", 
     "mapped": {
-      "title": "Moupai",
-      "markdown_path": "terminology/moupai.md",
+      "markdown_path": "strategy/atozuke.md", 
       "tags": [
-        "Terminology",
-        "Techniques"
-      ]
-    },
-    "id": "3439",
-    "title": "Moupai"
-  },
-  "Renchan": {
-    "mapped": {
-      "title": "Renchan",
-      "markdown_path": "rules/renchan.md",
-      "tags": [
-        "Game rules",
-        "Terminology"
-      ]
-    },
-    "id": "2495",
-    "title": "Renchan"
-  },
-  "Tenhou.net_manual": {
-    "mapped": {
-      "title": "",
-      "markdown_path": "",
-      "tags": []
-    },
-    "id": "3196",
-    "title": "Tenhou.net manual"
-  },
-  "Tatsumaki": {
-    "mapped": {
-      "title": "Tatsumaki",
-      "markdown_path": "terminology/waits/tatsumaki.md",
-      "tags": [
-        "Terminology",
-        "Machi"
-      ]
-    },
-    "id": "3091",
-    "title": "Tatsumaki"
-  },
-  "Happoubijin": {
-    "mapped": {
-      "title": "Happoubijin",
-      "markdown_path": "terminology/waits/happoubijin.md",
-      "tags": [
-        "Terminology",
-        "Machi"
-      ]
-    },
-    "id": "3092",
-    "title": "Happoubijin"
-  },
-  "Tanyao": {
-    "mapped": {
-      "title": "Tanyao",
-      "markdown_path": "yaku/tanyao.md",
-      "tags": [
-        "Yaku"
-      ]
-    },
-    "id": "221",
-    "title": "Tanyao"
-  },
-  "Junchantaiyaochuu": {
-    "mapped": {
-      "title": "Junchantaiyaochuu",
-      "markdown_path": "yaku/junchantaiyaochuu.md",
-      "tags": [
-        "Yaku"
-      ]
-    },
-    "id": "454",
-    "title": "Junchantaiyaochuu"
-  },
-  "Ikkitsuukan": {
-    "mapped": {
-      "title": "Ikkitsuukan",
-      "markdown_path": "yaku/ikkitsuukan.md",
-      "tags": [
-        "Yaku"
-      ]
-    },
-    "id": "208",
-    "title": "Ikkitsuukan"
-  },
-  "Scoring_variations": {
-    "mapped": {
-      "title": "Scoring variations",
-      "markdown_path": "rules/variations/scoring-variations.md",
-      "tags": [
-        "Rule variations",
-        "Scoring"
-      ]
-    },
-    "id": "2569",
-    "title": "Scoring variations"
-  },
-  "Ikkyokusen": {
-    "mapped": {
-      "title": "Ikkyokusen",
-      "markdown_path": "rules/variations/ikkyokusen.md",
-      "tags": [
-        "Rule variations"
-      ]
-    },
-    "id": "3332",
-    "title": "Ikkyokusen"
-  },
-  "Multiple_yakuman": {
-    "mapped": {
-      "title": "Multiple yakuman",
-      "markdown_path": "rules/variations/multiple-yakuman.md",
-      "tags": [
-        "Yakuman",
-        "Rule variations"
-      ]
-    },
-    "id": "320",
-    "title": "Multiple yakuman"
-  },
-  "Tochuu_ryuukyoku": {
-    "mapped": {
-      "title": "Tochuu ryuukyoku",
-      "markdown_path": "rules/tochuu-ryuukyoku.md",
-      "tags": [
-        "Terminology",
+        "Terminology", 
+        "Strategy", 
         "Game rules"
-      ]
-    },
-    "id": "250",
-    "title": "Tochuu ryuukyoku"
-  },
-  "Jihai": {
-    "mapped": {
-      "title": "Jihai",
-      "markdown_path": "terminology/jihai.md",
-      "tags": [
-        "Terminology"
-      ]
-    },
-    "id": "288",
-    "title": "Jihai"
-  },
-  "Kawa": {
-    "mapped": {
-      "title": "Kawa",
-      "markdown_path": "strategy/kawa.md",
-      "tags": [
-        "Terminology",
-        "Game rules",
-        "Strategy"
-      ]
-    },
-    "id": "2599",
-    "title": "Kawa"
-  },
-  "Chanta": {
-    "mapped": {
-      "title": "Chanta",
-      "markdown_path": "yaku/chanta.md",
-      "tags": [
-        "Yaku"
-      ]
-    },
-    "id": "452",
-    "title": "Chanta"
-  },
-  "Nagashi_mangan": {
-    "mapped": {
-      "title": "Nagashi mangan",
-      "markdown_path": "yaku/nagashi-mangan.md",
-      "tags": [
-        "Yaku"
-      ]
-    },
-    "id": "314",
-    "title": "Nagashi mangan"
-  },
-  "Kabe": {
-    "mapped": {
-      "title": "Kabe",
-      "markdown_path": "strategy/kabe.md",
-      "tags": [
-        "Terminology",
-        "Strategy"
-      ]
-    },
-    "id": "2486",
-    "title": "Kabe"
-  },
-  "Paifu": {
-    "mapped": {
-      "title": "Paifu",
-      "markdown_path": "other/paifu.md",
-      "tags": [
-        "Other"
-      ]
-    },
-    "id": "2572",
-    "title": "Paifu"
-  },
-  "Haitei_raoyue_and_houtei_raoyui__Replays": {
-    "mapped": {
-      "title": "Haitei raoyue and houtei raoyui/Replays",
-      "markdown_path": "yaku/replays/haitei-raoyue-and-houtei-raoyui-replays.md",
-      "tags": [
-        "Yaku replays"
-      ]
-    },
-    "id": "3648",
-    "title": "Haitei raoyue and houtei raoyui/Replays"
-  },
-  "List_of_Tenhoui": {
-    "mapped": {
-      "title": "List of Tenhoui",
-      "markdown_path": "online/tenhou/list-of-tenhoui.md",
-      "tags": [
-        "Tenhou.net"
-      ]
-    },
-    "id": "3307",
-    "title": "List of Tenhoui"
-  },
-  "Ippatsu": {
-    "mapped": {
-      "title": "Ippatsu",
-      "markdown_path": "yaku/optional/ippatsu.md",
-      "tags": [
-        "Yaku",
-        "Optional yaku"
-      ]
-    },
-    "id": "368",
-    "title": "Ippatsu"
-  },
-  "Riichi": {
-    "mapped": {
-      "title": "Riichi",
-      "markdown_path": "rules/riichi.md",
-      "tags": [
-        "Yaku",
-        "Game rules"
-      ]
-    },
-    "id": "209",
-    "title": "Riichi"
-  },
-  "Chiitoitsu": {
-    "mapped": {
-      "title": "Chiitoitsu",
-      "markdown_path": "yaku/chiitoitsu.md",
-      "tags": [
-        "Yaku"
-      ]
-    },
-    "id": "191",
-    "title": "Chiitoitsu"
-  },
-  "Score_table_memorization": {
-    "mapped": {
-      "title": "Score table memorization",
-      "markdown_path": "strategy/score-table-memorization.md",
-      "tags": [
-        "Strategy",
-        "Scoring"
-      ]
-    },
-    "id": "2421",
-    "title": "Score table memorization"
-  },
-  "Rule_variations": {
-    "mapped": {
-      "title": "Rule variations",
-      "markdown_path": "rules/variations/rule-variations.md",
-      "tags": [
-        "Rule variations"
-      ]
-    },
-    "id": "2411",
-    "title": "Rule variations"
-  },
-  "Scoring_table": {
-    "mapped": {
-      "title": "Scoring table",
-      "markdown_path": "strategy/scoring-table.md",
-      "tags": [
-        "Strategy"
-      ]
-    },
-    "id": "2522",
-    "title": "Scoring table"
-  },
-  "Tonpuusen": {
-    "mapped": {
-      "title": "Tonpuusen",
-      "markdown_path": "rules/tonpuusen.md",
-      "tags": [
-        "Terminology",
-        "Game rules"
-      ]
-    },
-    "id": "402",
-    "title": "Tonpuusen"
-  },
-  "Japanese_mahjong_setup": {
-    "mapped": {
-      "title": "Japanese mahjong setup",
-      "markdown_path": "rules/japanese-mahjong-setup.md",
-      "tags": [
-        "Game rules"
-      ]
-    },
-    "id": "2908",
-    "title": "Japanese mahjong setup"
-  },
-  "Fu": {
-    "mapped": {
-      "title": "Fu",
-      "markdown_path": "yaku/fu.md",
-      "tags": [
-        "Terminology",
-        "Yaku",
-        "Scoring"
-      ]
-    },
-    "id": "377",
-    "title": "Fu"
-  },
-  "Honroutou": {
-    "mapped": {
-      "title": "Honroutou",
-      "markdown_path": "yaku/honroutou.md",
-      "tags": [
-        "Yaku"
-      ]
-    },
-    "id": "431",
-    "title": "Honroutou"
-  },
-  "Chiniisou": {
-    "mapped": {
-      "title": "Chiniisou",
-      "markdown_path": "yaku/chiniisou.md",
-      "tags": [
-        "Yaku"
-      ]
-    },
-    "id": "242",
-    "title": "Chiniisou"
-  },
-  "Multiple_ron": {
-    "mapped": {
-      "title": "Multiple ron",
-      "markdown_path": "rules/variations/multiple-ron.md",
-      "tags": [
-        "Game rules",
-        "Rule variations"
-      ]
-    },
-    "id": "3153",
-    "title": "Multiple ron"
-  },
-  "Chinroutou__Replays": {
-    "mapped": {
-      "title": "Chinroutou/Replays",
-      "markdown_path": "yaku/replays/chinroutou-replays.md",
-      "tags": [
-        "Yaku replays"
-      ]
-    },
-    "id": "3249",
-    "title": "Chinroutou/Replays"
-  },
-  "Mentsu": {
-    "mapped": {
-      "title": "Mentsu",
-      "markdown_path": "terminology/mentsu.md",
-      "tags": [
-        "Mentsu",
-        "Terminology"
-      ]
-    },
-    "id": "255",
-    "title": "Mentsu"
-  },
-  "Rules_overview": {
-    "mapped": {
-      "title": "Rules overview",
-      "markdown_path": "rules/rules-overview.md",
-      "tags": [
-        "Game rules"
-      ]
-    },
-    "id": "44",
-    "title": "Rules overview"
-  },
-  "International_Mahjong_Day": {
-    "mapped": {
-      "title": "International Mahjong Day",
-      "markdown_path": "other/international-mahjong-day.md",
-      "tags": [
-        "Other"
-      ]
-    },
-    "id": "3837",
-    "title": "International Mahjong Day"
-  },
-  "Ryanhan_shibari": {
-    "mapped": {
-      "title": "Ryanhan shibari",
-      "markdown_path": "rules/ryanhan-shibari.md",
-      "tags": [
-        "Terminology",
-        "Game rules"
-      ]
-    },
-    "id": "2665",
-    "title": "Ryanhan shibari"
-  },
-  "Naki_strategy": {
-    "mapped": {
-      "title": "Naki strategy",
-      "markdown_path": "strategy/naki-strategy.md",
-      "tags": [
-        "Strategy"
-      ]
-    },
-    "id": "3745",
-    "title": "Naki strategy"
-  },
-  "Suukantsu__Replays": {
-    "mapped": {
-      "title": "Suukantsu/Replays",
-      "markdown_path": "yaku/replays/suukantsu-replays.md",
-      "tags": [
-        "Yaku replays"
-      ]
-    },
-    "id": "3327",
-    "title": "Suukantsu/Replays"
-  },
-  "Yaku_variations": {
-    "mapped": {
-      "title": "Yaku variations",
-      "markdown_path": "rules/variations/yaku-variations.md",
-      "tags": [
-        "Rule variations"
-      ]
-    },
-    "id": "2568",
-    "title": "Yaku variations"
-  },
-  "Majsoul": {
-    "mapped": {
-      "title": "Majsoul",
-      "markdown_path": "online/majsoul/majsoul.md",
-      "tags": [
-        "Majsoul"
-      ]
-    },
-    "id": "3537",
-    "title": "Majsoul"
-  },
-  "Suji": {
-    "mapped": {
-      "title": "Suji",
-      "markdown_path": "strategy/suji.md",
-      "tags": [
-        "Terminology",
-        "Strategy"
-      ]
-    },
-    "id": "2455",
-    "title": "Suji"
-  },
-  "Sanshoku_doujun": {
-    "mapped": {
-      "title": "Sanshoku doujun",
-      "markdown_path": "yaku/sanshoku-doujun.md",
-      "tags": [
-        "Yaku"
-      ]
-    },
-    "id": "370",
-    "title": "Sanshoku doujun"
-  },
-  "Keishiki_tenpai": {
-    "mapped": {
-      "title": "Keishiki tenpai",
-      "markdown_path": "rules/keishiki-tenpai.md",
-      "tags": [
-        "Game rules",
-        "Terminology"
-      ]
-    },
-    "id": "3075",
-    "title": "Keishiki tenpai"
-  },
-  "Tile_efficiency": {
-    "mapped": {
-      "title": "Tile efficiency",
-      "markdown_path": "strategy/tile-efficiency.md",
-      "tags": [
-        "Strategy"
-      ]
-    },
-    "id": "2519",
-    "title": "Tile efficiency"
-  },
-  "Betaori": {
-    "mapped": {
-      "title": "Betaori",
-      "markdown_path": "strategy/betaori.md",
-      "tags": [
-        "Terminology",
-        "Strategy"
-      ]
-    },
-    "id": "442",
-    "title": "Betaori"
-  },
-  "Toitsu": {
-    "mapped": {
-      "title": "Toitsu",
-      "markdown_path": "terminology/toitsu.md",
-      "tags": [
-        "Terminology"
-      ]
-    },
-    "id": "2445",
-    "title": "Toitsu"
-  },
-  "Takame_and_yasume": {
-    "mapped": {
-      "title": "Takame and yasume",
-      "markdown_path": "strategy/takame-and-yasume.md",
-      "tags": [
-        "Terminology",
-        "Strategy"
-      ]
-    },
-    "id": "2441",
-    "title": "Takame and yasume"
-  },
-  "Kazoe_yakuman__Replays": {
-    "mapped": {
-      "title": "Kazoe yakuman/Replays",
-      "markdown_path": "yaku/replays/kazoe-yakuman-replays.md",
-      "tags": [
-        "Yaku replays"
-      ]
-    },
-    "id": "3302",
-    "title": "Kazoe yakuman/Replays"
-  },
-  "Ryanpeikou": {
-    "mapped": {
-      "title": "Ryanpeikou",
-      "markdown_path": "yaku/ryanpeikou.md",
-      "tags": [
-        "Yaku"
-      ]
-    },
-    "id": "412",
-    "title": "Ryanpeikou"
-  },
+      ], 
+      "title": "Atozuke"
+    }, 
+    "title": "Atozuke", 
+    "updated": "2017-04-13T17:00:14Z"
+  }, 
   "Automatic_mahjong_table": {
+    "id": "451", 
     "mapped": {
-      "title": "Automatic mahjong table",
-      "markdown_path": "other/automatic-mahjong-table.md",
+      "markdown_path": "other/automatic-mahjong-table.md", 
       "tags": [
         "Other"
-      ]
-    },
-    "id": "451",
-    "title": "Automatic mahjong table"
-  },
-  "Futari_mahjong": {
+      ], 
+      "title": "Automatic mahjong table"
+    }, 
+    "title": "Automatic mahjong table", 
+    "updated": "2016-02-03T05:15:05Z"
+  }, 
+  "Ba": {
+    "id": "2696", 
     "mapped": {
-      "title": "Futari mahjong",
-      "markdown_path": "rules/futari-mahjong.md",
+      "markdown_path": "rules/ba.md", 
       "tags": [
-        "Game rules"
-      ]
-    },
-    "id": "2685",
-    "title": "Futari mahjong"
-  },
-  "Karaten": {
-    "mapped": {
-      "title": "Karaten",
-      "markdown_path": "terminology/karaten.md",
-      "tags": [
+        "Game rules", 
         "Terminology"
-      ]
-    },
-    "id": "2494",
-    "title": "Karaten"
-  },
-  "Yakuhai__Replays": {
+      ], 
+      "title": "Ba"
+    }, 
+    "title": "Ba", 
+    "updated": "2015-08-29T23:00:57Z"
+  }, 
+  "Betaori": {
+    "id": "442", 
     "mapped": {
-      "title": "Yakuhai/Replays",
-      "markdown_path": "yaku/replays/yakuhai-replays.md",
+      "markdown_path": "strategy/betaori.md", 
+      "tags": [
+        "Terminology", 
+        "Strategy"
+      ], 
+      "title": "Betaori"
+    }, 
+    "title": "Betaori", 
+    "updated": "2014-12-06T06:59:31Z"
+  }, 
+  "Chankan": {
+    "id": "350", 
+    "mapped": {
+      "markdown_path": "yaku/chankan.md", 
+      "tags": [
+        "Yaku"
+      ], 
+      "title": "Chankan"
+    }, 
+    "title": "Chankan", 
+    "updated": "2018-04-13T04:08:16Z"
+  }, 
+  "Chanta": {
+    "id": "452", 
+    "mapped": {
+      "markdown_path": "yaku/chanta.md", 
+      "tags": [
+        "Yaku"
+      ], 
+      "title": "Chanta"
+    }, 
+    "title": "Chanta", 
+    "updated": "2020-06-05T01:56:03Z"
+  }, 
+  "Chiitoitsu": {
+    "id": "191", 
+    "mapped": {
+      "markdown_path": "yaku/chiitoitsu.md", 
+      "tags": [
+        "Yaku"
+      ], 
+      "title": "Chiitoitsu"
+    }, 
+    "title": "Chiitoitsu", 
+    "updated": "2019-07-26T18:00:47Z"
+  }, 
+  "Chiitoitsu__Replays": {
+    "id": "3406", 
+    "mapped": {
+      "markdown_path": "yaku/replays/chiitoitsu-replays.md", 
       "tags": [
         "Yaku replays"
-      ]
-    },
-    "id": "3304",
-    "title": "Yakuhai/Replays"
-  },
-  "Naki": {
+      ], 
+      "title": "Chiitoitsu/Replays"
+    }, 
+    "title": "Chiitoitsu/Replays", 
+    "updated": "2019-03-06T07:34:51Z"
+  }, 
+  "Chiniisou": {
+    "id": "242", 
     "mapped": {
-      "title": "Naki",
-      "markdown_path": "rules/naki.md",
+      "markdown_path": "yaku/chiniisou.md", 
       "tags": [
-        "Terminology",
-        "Game rules"
-      ]
-    },
-    "id": "280",
-    "title": "Naki"
-  },
-  "List_of_yaku": {
+        "Yaku"
+      ], 
+      "title": "Chiniisou"
+    }, 
+    "title": "Chiniisou", 
+    "updated": "2016-01-07T22:05:26Z"
+  }, 
+  "Chiniisou__Replays": {
+    "id": "3237", 
     "mapped": {
-      "title": "List of yaku",
-      "markdown_path": "yaku/list-of-yaku.md",
-      "tags": [
-        "Yaku",
-        "Scoring"
-      ]
-    },
-    "id": "51",
-    "title": "List of yaku"
-  },
-  "Kantan": {
-    "mapped": {
-      "title": "Kantan",
-      "markdown_path": "terminology/waits/kantan.md",
-      "tags": [
-        "Terminology",
-        "Machi"
-      ]
-    },
-    "id": "3296",
-    "title": "Kantan"
-  },
-  "Shanpon": {
-    "mapped": {
-      "title": "Shanpon",
-      "markdown_path": "terminology/waits/shanpon.md",
-      "tags": [
-        "Terminology",
-        "Machi"
-      ]
-    },
-    "id": "2416",
-    "title": "Shanpon"
-  },
-  "Tenhou.net": {
-    "mapped": {
-      "title": "",
-      "markdown_path": "",
-      "tags": []
-    },
-    "id": "43",
-    "title": "Tenhou.net"
-  },
-  "Oka_and_uma": {
-    "mapped": {
-      "title": "Oka and uma",
-      "markdown_path": "rules/oka-and-uma.md",
-      "tags": [
-        "Terminology",
-        "Game rules"
-      ]
-    },
-    "id": "409",
-    "title": "Oka and uma"
-  },
-  "Playing_online": {
-    "mapped": {
-      "title": "Playing online",
-      "markdown_path": "online/playing-online.md",
-      "tags": [
-        "Online"
-      ]
-    },
-    "id": "5",
-    "title": "Playing online"
-  },
-  "Junchantaiyaochuu__Replays": {
-    "mapped": {
-      "title": "Junchantaiyaochuu/Replays",
-      "markdown_path": "yaku/replays/junchantaiyaochuu-replays.md",
+      "markdown_path": "yaku/replays/chiniisou-replays.md", 
       "tags": [
         "Yaku replays"
-      ]
-    },
-    "id": "3535",
-    "title": "Junchantaiyaochuu/Replays"
-  },
-  "Suukantsu": {
+      ], 
+      "title": "Chiniisou/Replays"
+    }, 
+    "title": "Chiniisou/Replays", 
+    "updated": "2019-03-11T21:45:56Z"
+  }, 
+  "Chinroutou": {
+    "id": "232", 
     "mapped": {
-      "title": "Suukantsu",
-      "markdown_path": "yakuman/suukantsu.md",
+      "markdown_path": "yakuman/chinroutou.md", 
       "tags": [
         "Yakuman"
-      ]
-    },
-    "id": "235",
-    "title": "Suukantsu"
-  },
-  "Gyakuten": {
+      ], 
+      "title": "Chinroutou"
+    }, 
+    "title": "Chinroutou", 
+    "updated": "2015-09-06T11:14:33Z"
+  }, 
+  "Chinroutou__Replays": {
+    "id": "3249", 
     "mapped": {
-      "title": "Gyakuten",
-      "markdown_path": "terminology/gyakuten.md",
-      "tags": [
-        "Terminology"
-      ]
-    },
-    "id": "2670",
-    "title": "Gyakuten"
-  },
-  "Minefield_mahjong": {
-    "mapped": {
-      "title": "Minefield mahjong",
-      "markdown_path": "rules/variations/minefield-mahjong.md",
-      "tags": [
-        "Rule variations"
-      ]
-    },
-    "id": "2766",
-    "title": "Minefield mahjong"
-  },
-  "Sanankou": {
-    "mapped": {
-      "title": "Sanankou",
-      "markdown_path": "yaku/sanankou.md",
-      "tags": [
-        "Yaku"
-      ]
-    },
-    "id": "293",
-    "title": "Sanankou"
-  },
-  "Chuuren_poutou__Replays": {
-    "mapped": {
-      "title": "Chuuren poutou/Replays",
-      "markdown_path": "yaku/replays/chuuren-poutou-replays.md",
+      "markdown_path": "yaku/replays/chinroutou-replays.md", 
       "tags": [
         "Yaku replays"
-      ]
-    },
-    "id": "3479",
-    "title": "Chuuren poutou/Replays"
-  },
-  "Single_suit_mahjong": {
+      ], 
+      "title": "Chinroutou/Replays"
+    }, 
+    "title": "Chinroutou/Replays", 
+    "updated": "2015-10-20T01:36:03Z"
+  }, 
+  "Chombo": {
+    "id": "278", 
     "mapped": {
-      "title": "Single suit mahjong",
-      "markdown_path": "rules/single-suit-mahjong.md",
+      "markdown_path": "rules/chombo.md", 
       "tags": [
         "Game rules"
-      ]
-    },
-    "id": "3235",
-    "title": "Single suit mahjong"
-  },
-  "Yakuhai": {
+      ], 
+      "title": "Chombo"
+    }, 
+    "title": "Chombo", 
+    "updated": "2020-07-24T22:04:43Z"
+  }, 
+  "Chuuren_poutou": {
+    "id": "234", 
     "mapped": {
-      "title": "Yakuhai",
-      "markdown_path": "rules/yakuhai.md",
+      "markdown_path": "yakuman/chuuren-poutou.md", 
       "tags": [
-        "Yaku",
-        "Game rules"
-      ]
-    },
-    "id": "373",
-    "title": "Yakuhai"
-  },
-  "Oya": {
+        "Yakuman"
+      ], 
+      "title": "Chuuren poutou"
+    }, 
+    "title": "Chuuren poutou", 
+    "updated": "2020-01-28T22:19:15Z"
+  }, 
+  "Chuuren_poutou__Replays": {
+    "id": "3479", 
     "mapped": {
-      "title": "Oya",
-      "markdown_path": "rules/oya.md",
+      "markdown_path": "yaku/replays/chuuren-poutou-replays.md", 
       "tags": [
-        "Game rules",
-        "Terminology"
-      ]
-    },
-    "id": "2526",
-    "title": "Oya"
-  },
-  "Ukeire": {
+        "Yaku replays"
+      ], 
+      "title": "Chuuren poutou/Replays"
+    }, 
+    "title": "Chuuren poutou/Replays", 
+    "updated": "2019-03-06T23:20:04Z"
+  }, 
+  "Complex_waits": {
+    "id": "440", 
     "mapped": {
-      "title": "Ukeire",
-      "markdown_path": "strategy/ukeire.md",
+      "markdown_path": "strategy/complex-waits.md", 
       "tags": [
-        "Terminology",
+        "Terminology", 
+        "Strategy", 
+        "Machi"
+      ], 
+      "title": "Complex waits"
+    }, 
+    "title": "Complex waits", 
+    "updated": "2019-08-02T05:57:25Z"
+  }, 
+  "Daburu_riichi": {
+    "id": "2434", 
+    "mapped": {
+      "markdown_path": "yaku/daburu-riichi.md", 
+      "tags": [
+        "Yaku"
+      ], 
+      "title": "Daburu riichi"
+    }, 
+    "title": "Daburu riichi", 
+    "updated": "2020-07-17T21:26:33Z"
+  }, 
+  "Daisangen": {
+    "id": "244", 
+    "mapped": {
+      "markdown_path": "yakuman/daisangen.md", 
+      "tags": [
+        "Yakuman"
+      ], 
+      "title": "Daisangen"
+    }, 
+    "title": "Daisangen", 
+    "updated": "2019-12-27T03:40:14Z"
+  }, 
+  "Daisangen__Replays": {
+    "id": "3212", 
+    "mapped": {
+      "markdown_path": "yaku/replays/daisangen-replays.md", 
+      "tags": [
+        "Yaku replays"
+      ], 
+      "title": "Daisangen/Replays"
+    }, 
+    "title": "Daisangen/Replays", 
+    "updated": "2019-08-29T21:37:24Z"
+  }, 
+  "Daisharin": {
+    "id": "3207", 
+    "mapped": {
+      "markdown_path": "yaku/optional/daisharin.md", 
+      "tags": [
+        "Yaku", 
+        "Optional yaku"
+      ], 
+      "title": "Daisharin"
+    }, 
+    "title": "Daisharin", 
+    "updated": "2020-01-14T08:26:51Z"
+  }, 
+  "Damaten": {
+    "id": "253", 
+    "mapped": {
+      "markdown_path": "strategy/damaten.md", 
+      "tags": [
+        "Terminology", 
         "Strategy"
-      ]
-    },
-    "id": "3512",
-    "title": "Ukeire"
-  },
-  "List_of_mahjong_books": {
+      ], 
+      "title": "Damaten"
+    }, 
+    "title": "Damaten", 
+    "updated": "2020-06-29T12:04:07Z"
+  }, 
+  "Defense": {
+    "id": "319", 
     "mapped": {
-      "title": "List of mahjong books",
-      "markdown_path": "media/list-of-mahjong-books.md",
+      "markdown_path": "strategy/defense.md", 
+      "tags": [
+        "Strategy"
+      ], 
+      "title": "Defense"
+    }, 
+    "title": "Defense", 
+    "updated": "2019-06-14T03:50:39Z"
+  }, 
+  "Dora": {
+    "id": "211", 
+    "mapped": {
+      "markdown_path": "rules/dora.md", 
+      "tags": [
+        "Terminology", 
+        "Game rules"
+      ], 
+      "title": "Dora"
+    }, 
+    "title": "Dora", 
+    "updated": "2016-01-19T01:34:10Z"
+  }, 
+  "Dora_strategy": {
+    "id": "3311", 
+    "mapped": {
+      "markdown_path": "strategy/dora-strategy.md", 
+      "tags": [
+        "Strategy"
+      ], 
+      "title": "Dora strategy"
+    }, 
+    "title": "Dora strategy", 
+    "updated": "2018-10-25T20:39:38Z"
+  }, 
+  "Dora_variations": {
+    "id": "2570", 
+    "mapped": {
+      "markdown_path": "rules/variations/dora-variations.md", 
+      "tags": [
+        "Rule variations"
+      ], 
+      "title": "Dora variations"
+    }, 
+    "title": "Dora variations", 
+    "updated": "2017-11-29T12:29:38Z"
+  }, 
+  "EMA_Riichi_Competition_Rules": {
+    "id": "45", 
+    "mapped": {
+      "markdown_path": "rules/variations/ema-riichi-competition-rules.md", 
+      "tags": [
+        "Rule variations"
+      ], 
+      "title": "EMA Riichi Competition Rules"
+    }, 
+    "title": "EMA Riichi Competition Rules", 
+    "updated": "2017-11-03T21:48:03Z"
+  }, 
+  "End_game_scenarios": {
+    "id": "2782", 
+    "mapped": {
+      "markdown_path": "rules/end-game-scenarios.md", 
+      "tags": [
+        "Game rules"
+      ], 
+      "title": "End game scenarios"
+    }, 
+    "title": "End game scenarios", 
+    "updated": "2015-11-20T22:27:17Z"
+  }, 
+  "Entotsu": {
+    "id": "2502", 
+    "mapped": {
+      "markdown_path": "terminology/waits/entotsu.md", 
+      "tags": [
+        "Terminology", 
+        "Machi"
+      ], 
+      "title": "Entotsu"
+    }, 
+    "title": "Entotsu", 
+    "updated": "2019-09-19T18:52:39Z"
+  }, 
+  "Etiquette_in_mahjong": {
+    "id": "3473", 
+    "mapped": {
+      "markdown_path": "other/etiquette-in-mahjong.md", 
+      "tags": [
+        "Other"
+      ], 
+      "title": "Etiquette in mahjong"
+    }, 
+    "title": "Etiquette in mahjong", 
+    "updated": "2019-07-18T17:42:29Z"
+  }, 
+  "Fu": {
+    "id": "377", 
+    "mapped": {
+      "markdown_path": "yaku/fu.md", 
+      "tags": [
+        "Terminology", 
+        "Yaku", 
+        "Scoring"
+      ], 
+      "title": "Fu"
+    }, 
+    "title": "Fu", 
+    "updated": "2019-09-19T19:48:45Z"
+  }, 
+  "Furiten": {
+    "id": "240", 
+    "mapped": {
+      "markdown_path": "strategy/furiten.md", 
+      "tags": [
+        "Terminology", 
+        "Game rules", 
+        "Strategy"
+      ], 
+      "title": "Furiten"
+    }, 
+    "title": "Furiten", 
+    "updated": "2020-06-13T22:29:14Z"
+  }, 
+  "Futari_mahjong": {
+    "id": "2685", 
+    "mapped": {
+      "markdown_path": "rules/futari-mahjong.md", 
+      "tags": [
+        "Game rules"
+      ], 
+      "title": "Futari mahjong"
+    }, 
+    "title": "Futari mahjong", 
+    "updated": "2015-08-08T23:42:16Z"
+  }, 
+  "Gyakuten": {
+    "id": "2670", 
+    "mapped": {
+      "markdown_path": "terminology/gyakuten.md", 
+      "tags": [
+        "Terminology"
+      ], 
+      "title": "Gyakuten"
+    }, 
+    "title": "Gyakuten", 
+    "updated": "2020-06-29T12:07:12Z"
+  }, 
+  "Haipai": {
+    "id": "2606", 
+    "mapped": {
+      "markdown_path": "terminology/haipai.md", 
+      "tags": [
+        "Terminology"
+      ], 
+      "title": "Haipai"
+    }, 
+    "title": "Haipai", 
+    "updated": "2015-09-04T12:01:33Z"
+  }, 
+  "Haitei_raoyue_and_houtei_raoyui": {
+    "id": "380", 
+    "mapped": {
+      "markdown_path": "yaku/haitei-raoyue-and-houtei-raoyui.md", 
+      "tags": [
+        "Yaku"
+      ], 
+      "title": "Haitei raoyue and houtei raoyui"
+    }, 
+    "title": "Haitei raoyue and houtei raoyui", 
+    "updated": "2015-06-27T18:44:47Z"
+  }, 
+  "Haitei_raoyue_and_houtei_raoyui__Replays": {
+    "id": "3648", 
+    "mapped": {
+      "markdown_path": "yaku/replays/haitei-raoyue-and-houtei-raoyui-replays.md", 
+      "tags": [
+        "Yaku replays"
+      ], 
+      "title": "Haitei raoyue and houtei raoyui/Replays"
+    }, 
+    "title": "Haitei raoyue and houtei raoyui/Replays", 
+    "updated": "2019-04-01T11:16:25Z"
+  }, 
+  "Haiyama": {
+    "id": "2839", 
+    "mapped": {
+      "markdown_path": "rules/haiyama.md", 
+      "tags": [
+        "Terminology", 
+        "Game rules"
+      ], 
+      "title": "Haiyama"
+    }, 
+    "title": "Haiyama", 
+    "updated": "2015-11-04T00:59:17Z"
+  }, 
+  "Hanchan": {
+    "id": "299", 
+    "mapped": {
+      "markdown_path": "rules/hanchan.md", 
+      "tags": [
+        "Terminology", 
+        "Game rules"
+      ], 
+      "title": "Hanchan"
+    }, 
+    "title": "Hanchan", 
+    "updated": "2015-08-07T20:56:05Z"
+  }, 
+  "Happoubijin": {
+    "id": "3092", 
+    "mapped": {
+      "markdown_path": "terminology/waits/happoubijin.md", 
+      "tags": [
+        "Terminology", 
+        "Machi"
+      ], 
+      "title": "Happoubijin"
+    }, 
+    "title": "Happoubijin", 
+    "updated": "2015-03-31T08:46:34Z"
+  }, 
+  "Honba": {
+    "id": "290", 
+    "mapped": {
+      "markdown_path": "rules/honba.md", 
+      "tags": [
+        "Game rules", 
+        "Terminology"
+      ], 
+      "title": "Honba"
+    }, 
+    "title": "Honba", 
+    "updated": "2015-07-27T18:45:33Z"
+  }, 
+  "Honiisou": {
+    "id": "411", 
+    "mapped": {
+      "markdown_path": "yaku/honiisou.md", 
+      "tags": [
+        "Yaku"
+      ], 
+      "title": "Honiisou"
+    }, 
+    "title": "Honiisou", 
+    "updated": "2020-01-17T19:54:03Z"
+  }, 
+  "Honroutou": {
+    "id": "431", 
+    "mapped": {
+      "markdown_path": "yaku/honroutou.md", 
+      "tags": [
+        "Yaku"
+      ], 
+      "title": "Honroutou"
+    }, 
+    "title": "Honroutou", 
+    "updated": "2016-10-03T20:42:59Z"
+  }, 
+  "Honroutou__Replays": {
+    "id": "3366", 
+    "mapped": {
+      "markdown_path": "yaku/replays/honroutou-replays.md", 
+      "tags": [
+        "Yaku replays"
+      ], 
+      "title": "Honroutou/Replays"
+    }, 
+    "title": "Honroutou/Replays", 
+    "updated": "2018-09-06T06:07:50Z"
+  }, 
+  "Iipeikou": {
+    "id": "55", 
+    "mapped": {
+      "markdown_path": "yaku/iipeikou.md", 
+      "tags": [
+        "Yaku"
+      ], 
+      "title": "Iipeikou"
+    }, 
+    "title": "Iipeikou", 
+    "updated": "2019-11-16T19:21:14Z"
+  }, 
+  "Iishanten": {
+    "id": "3727", 
+    "mapped": {
+      "markdown_path": "terminology/iishanten.md", 
+      "tags": [
+        "Terminology"
+      ], 
+      "title": "Iishanten"
+    }, 
+    "title": "Iishanten", 
+    "updated": "2020-05-19T21:47:41Z"
+  }, 
+  "Ikkitsuukan": {
+    "id": "208", 
+    "mapped": {
+      "markdown_path": "yaku/ikkitsuukan.md", 
+      "tags": [
+        "Yaku"
+      ], 
+      "title": "Ikkitsuukan"
+    }, 
+    "title": "Ikkitsuukan", 
+    "updated": "2018-05-25T18:27:32Z"
+  }, 
+  "Ikkitsuukan__Replays": {
+    "id": "3255", 
+    "mapped": {
+      "markdown_path": "yaku/replays/ikkitsuukan-replays.md", 
+      "tags": [
+        "Yaku replays"
+      ], 
+      "title": "Ikkitsuukan/Replays"
+    }, 
+    "title": "Ikkitsuukan/Replays", 
+    "updated": "2019-03-11T06:56:40Z"
+  }, 
+  "Ikkyokusen": {
+    "id": "3332", 
+    "mapped": {
+      "markdown_path": "rules/variations/ikkyokusen.md", 
+      "tags": [
+        "Rule variations"
+      ], 
+      "title": "Ikkyokusen"
+    }, 
+    "title": "Ikkyokusen", 
+    "updated": "2016-06-23T07:20:32Z"
+  }, 
+  "International_Mahjong_Day": {
+    "id": "3837", 
+    "mapped": {
+      "markdown_path": "other/international-mahjong-day.md", 
+      "tags": [
+        "Other"
+      ], 
+      "title": "International Mahjong Day"
+    }, 
+    "title": "International Mahjong Day", 
+    "updated": "2020-07-08T21:59:04Z"
+  }, 
+  "Ippatsu": {
+    "id": "368", 
+    "mapped": {
+      "markdown_path": "yaku/optional/ippatsu.md", 
+      "tags": [
+        "Yaku", 
+        "Optional yaku"
+      ], 
+      "title": "Ippatsu"
+    }, 
+    "title": "Ippatsu", 
+    "updated": "2019-06-03T12:51:37Z"
+  }, 
+  "Jansou": {
+    "id": "2678", 
+    "mapped": {
+      "markdown_path": "other/jansou.md", 
+      "tags": [
+        "Other"
+      ], 
+      "title": "Jansou"
+    }, 
+    "title": "Jansou", 
+    "updated": "2014-08-05T21:02:33Z"
+  }, 
+  "Jantou": {
+    "id": "2573", 
+    "mapped": {
+      "markdown_path": "terminology/jantou.md", 
+      "tags": [
+        "Terminology"
+      ], 
+      "title": "Jantou"
+    }, 
+    "title": "Jantou", 
+    "updated": "2015-10-11T09:27:46Z"
+  }, 
+  "Japanese_mahjong": {
+    "id": "50", 
+    "mapped": {
+      "markdown_path": "rules/japanese-mahjong.md", 
+      "tags": [
+        "Game rules"
+      ], 
+      "title": "Japanese mahjong"
+    }, 
+    "title": "Japanese mahjong", 
+    "updated": "2020-04-09T21:28:15Z"
+  }, 
+  "Japanese_mahjong_scoring_rules": {
+    "id": "272", 
+    "mapped": {
+      "markdown_path": "strategy/japanese-mahjong-scoring-rules.md", 
+      "tags": [
+        "Strategy"
+      ], 
+      "title": "Japanese mahjong scoring rules"
+    }, 
+    "title": "Japanese mahjong scoring rules", 
+    "updated": "2015-08-21T22:23:24Z"
+  }, 
+  "Japanese_mahjong_setup": {
+    "id": "2908", 
+    "mapped": {
+      "markdown_path": "rules/japanese-mahjong-setup.md", 
+      "tags": [
+        "Game rules"
+      ], 
+      "title": "Japanese mahjong setup"
+    }, 
+    "title": "Japanese mahjong setup", 
+    "updated": "2015-10-22T21:44:16Z"
+  }, 
+  "Jigoku": {
+    "id": "2535", 
+    "mapped": {
+      "markdown_path": "strategy/jigoku.md", 
+      "tags": [
+        "Terminology", 
+        "Machi", 
+        "Strategy"
+      ], 
+      "title": "Jigoku"
+    }, 
+    "title": "Jigoku", 
+    "updated": "2017-07-25T21:37:24Z"
+  }, 
+  "Jihai": {
+    "id": "288", 
+    "mapped": {
+      "markdown_path": "terminology/jihai.md", 
+      "tags": [
+        "Terminology"
+      ], 
+      "title": "Jihai"
+    }, 
+    "title": "Jihai", 
+    "updated": "2015-08-31T21:35:04Z"
+  }, 
+  "Jikaze": {
+    "id": "2395", 
+    "mapped": {
+      "markdown_path": "strategy/jikaze.md", 
+      "tags": [
+        "Terminology", 
+        "Strategy", 
+        "Yaku", 
+        "Game rules"
+      ], 
+      "title": "Jikaze"
+    }, 
+    "title": "Jikaze", 
+    "updated": "2017-09-26T20:30:21Z"
+  }, 
+  "Junchantaiyaochuu": {
+    "id": "454", 
+    "mapped": {
+      "markdown_path": "yaku/junchantaiyaochuu.md", 
+      "tags": [
+        "Yaku"
+      ], 
+      "title": "Junchantaiyaochuu"
+    }, 
+    "title": "Junchantaiyaochuu", 
+    "updated": "2015-09-27T05:02:59Z"
+  }, 
+  "Junchantaiyaochuu__Replays": {
+    "id": "3535", 
+    "mapped": {
+      "markdown_path": "yaku/replays/junchantaiyaochuu-replays.md", 
+      "tags": [
+        "Yaku replays"
+      ], 
+      "title": "Junchantaiyaochuu/Replays"
+    }, 
+    "title": "Junchantaiyaochuu/Replays", 
+    "updated": "2019-05-08T00:07:09Z"
+  }, 
+  "Kabe": {
+    "id": "2486", 
+    "mapped": {
+      "markdown_path": "strategy/kabe.md", 
+      "tags": [
+        "Terminology", 
+        "Strategy"
+      ], 
+      "title": "Kabe"
+    }, 
+    "title": "Kabe", 
+    "updated": "2014-12-04T23:11:31Z"
+  }, 
+  "Kan": {
+    "id": "212", 
+    "mapped": {
+      "markdown_path": "rules/kan.md", 
+      "tags": [
+        "Terminology", 
+        "Game rules"
+      ], 
+      "title": "Kan"
+    }, 
+    "title": "Kan", 
+    "updated": "2019-12-25T01:52:25Z"
+  }, 
+  "Kan_strategy": {
+    "id": "3238", 
+    "mapped": {
+      "markdown_path": "strategy/kan-strategy.md", 
+      "tags": [
+        "Strategy"
+      ], 
+      "title": "Kan strategy"
+    }, 
+    "title": "Kan strategy", 
+    "updated": "2019-06-10T23:14:13Z"
+  }, 
+  "Kanchan": {
+    "id": "391", 
+    "mapped": {
+      "markdown_path": "terminology/waits/kanchan.md", 
+      "tags": [
+        "Terminology", 
+        "Machi"
+      ], 
+      "title": "Kanchan"
+    }, 
+    "title": "Kanchan", 
+    "updated": "2014-03-08T16:02:32Z"
+  }, 
+  "Kantan": {
+    "id": "3296", 
+    "mapped": {
+      "markdown_path": "terminology/waits/kantan.md", 
+      "tags": [
+        "Terminology", 
+        "Machi"
+      ], 
+      "title": "Kantan"
+    }, 
+    "title": "Kantan", 
+    "updated": "2016-01-21T06:29:51Z"
+  }, 
+  "Karaten": {
+    "id": "2494", 
+    "mapped": {
+      "markdown_path": "terminology/karaten.md", 
+      "tags": [
+        "Terminology"
+      ], 
+      "title": "Karaten"
+    }, 
+    "title": "Karaten", 
+    "updated": "2019-09-25T07:57:59Z"
+  }, 
+  "Kawa": {
+    "id": "2599", 
+    "mapped": {
+      "markdown_path": "strategy/kawa.md", 
+      "tags": [
+        "Terminology", 
+        "Game rules", 
+        "Strategy"
+      ], 
+      "title": "Kawa"
+    }, 
+    "title": "Kawa", 
+    "updated": "2014-10-29T21:11:13Z"
+  }, 
+  "Kazoe_yakuman": {
+    "id": "222", 
+    "mapped": {
+      "markdown_path": "yakuman/kazoe-yakuman.md", 
+      "tags": [
+        "Yakuman"
+      ], 
+      "title": "Kazoe yakuman"
+    }, 
+    "title": "Kazoe yakuman", 
+    "updated": "2015-12-23T22:35:49Z"
+  }, 
+  "Kazoe_yakuman__Replays": {
+    "id": "3302", 
+    "mapped": {
+      "markdown_path": "yaku/replays/kazoe-yakuman-replays.md", 
+      "tags": [
+        "Yaku replays"
+      ], 
+      "title": "Kazoe yakuman/Replays"
+    }, 
+    "title": "Kazoe yakuman/Replays", 
+    "updated": "2020-05-20T05:28:43Z"
+  }, 
+  "Keishiki_tenpai": {
+    "id": "3075", 
+    "mapped": {
+      "markdown_path": "rules/keishiki-tenpai.md", 
+      "tags": [
+        "Game rules", 
+        "Terminology"
+      ], 
+      "title": "Keishiki tenpai"
+    }, 
+    "title": "Keishiki tenpai", 
+    "updated": "2020-06-18T21:57:47Z"
+  }, 
+  "Kokushi_musou": {
+    "id": "188", 
+    "mapped": {
+      "markdown_path": "terminology/waits/kokushi-musou.md", 
+      "tags": [
+        "Yakuman", 
+        "Machi"
+      ], 
+      "title": "Kokushi musou"
+    }, 
+    "title": "Kokushi musou", 
+    "updated": "2019-10-10T15:29:46Z"
+  }, 
+  "Kokushi_musou__Replays": {
+    "id": "3216", 
+    "mapped": {
+      "markdown_path": "yaku/replays/kokushi-musou-replays.md", 
+      "tags": [
+        "Yaku replays"
+      ], 
+      "title": "Kokushi musou/Replays"
+    }, 
+    "title": "Kokushi musou/Replays", 
+    "updated": "2017-11-15T15:12:19Z"
+  }, 
+  "Kuikae": {
+    "id": "2437", 
+    "mapped": {
+      "markdown_path": "terminology/kuikae.md", 
+      "tags": [
+        "Terminology", 
+        "Mentsu"
+      ], 
+      "title": "Kuikae"
+    }, 
+    "title": "Kuikae", 
+    "updated": "2016-12-03T16:27:17Z"
+  }, 
+  "List_of_Tenhoui": {
+    "id": "3307", 
+    "mapped": {
+      "markdown_path": "online/tenhou/list-of-tenhoui.md", 
+      "tags": [
+        "Tenhou.net"
+      ], 
+      "title": "List of Tenhoui"
+    }, 
+    "title": "List of Tenhoui", 
+    "updated": "2020-07-10T08:44:28Z"
+  }, 
+  "List_of_chuuren_configurations": {
+    "id": "3279", 
+    "mapped": {
+      "markdown_path": "yakuman/list-of-chuuren-configurations.md", 
+      "tags": [
+        "Yakuman"
+      ], 
+      "title": "List of chuuren configurations"
+    }, 
+    "title": "List of chuuren configurations", 
+    "updated": "2015-11-25T08:02:20Z"
+  }, 
+  "List_of_mahjong_books": {
+    "id": "3673", 
+    "mapped": {
+      "markdown_path": "media/list-of-mahjong-books.md", 
       "tags": [
         "Books"
-      ]
-    },
-    "id": "3673",
-    "title": "List of mahjong books"
-  },
-  "Ryuuiisou__Replays": {
+      ], 
+      "title": "List of mahjong books"
+    }, 
+    "title": "List of mahjong books", 
+    "updated": "2019-05-21T05:20:05Z"
+  }, 
+  "List_of_mahjong_television_series": {
+    "id": "2866", 
     "mapped": {
-      "title": "Ryuuiisou/Replays",
-      "markdown_path": "yaku/replays/ryuuiisou-replays.md",
+      "markdown_path": "media/list-of-mahjong-television-series.md", 
       "tags": [
-        "Yaku replays"
-      ]
-    },
-    "id": "3191",
-    "title": "Ryuuiisou/Replays"
-  },
-  "Mahjong_equipment": {
+        "Media"
+      ], 
+      "title": "List of mahjong television series"
+    }, 
+    "title": "List of mahjong television series", 
+    "updated": "2020-05-28T06:37:14Z"
+  }, 
+  "List_of_mahjong_video_games": {
+    "id": "2745", 
     "mapped": {
-      "title": "Mahjong equipment",
-      "markdown_path": "rules/mahjong-equipment.md",
+      "markdown_path": "media/list-of-mahjong-video-games.md", 
       "tags": [
-        "Game rules"
-      ]
-    },
-    "id": "264",
-    "title": "Mahjong equipment"
-  },
-  "Ryantan_and_pentan": {
-    "mapped": {
-      "title": "Ryantan and pentan",
-      "markdown_path": "terminology/waits/ryantan-and-pentan.md",
-      "tags": [
-        "Terminology",
-        "Machi"
-      ]
-    },
-    "id": "3060",
-    "title": "Ryantan and pentan"
-  },
-  "Kan": {
-    "mapped": {
-      "title": "Kan",
-      "markdown_path": "rules/kan.md",
-      "tags": [
-        "Terminology",
-        "Game rules"
-      ]
-    },
-    "id": "212",
-    "title": "Kan"
-  },
-  "Honroutou__Replays": {
-    "mapped": {
-      "title": "Honroutou/Replays",
-      "markdown_path": "yaku/replays/honroutou-replays.md",
-      "tags": [
-        "Yaku replays"
-      ]
-    },
-    "id": "3366",
-    "title": "Honroutou/Replays"
-  },
-  "Riichi_strategy": {
-    "mapped": {
-      "title": "Riichi strategy",
-      "markdown_path": "strategy/riichi-strategy.md",
-      "tags": [
-        "Strategy"
-      ]
-    },
-    "id": "2830",
-    "title": "Riichi strategy"
-  },
-  "Jikaze": {
-    "mapped": {
-      "title": "Jikaze",
-      "markdown_path": "strategy/jikaze.md",
-      "tags": [
-        "Terminology",
-        "Strategy",
-        "Yaku",
-        "Game rules"
-      ]
-    },
-    "id": "2395",
-    "title": "Jikaze"
-  },
-  "Kuikae": {
-    "mapped": {
-      "title": "Kuikae",
-      "markdown_path": "terminology/kuikae.md",
-      "tags": [
-        "Terminology",
-        "Mentsu"
-      ]
-    },
-    "id": "2437",
-    "title": "Kuikae"
-  },
+        "Games"
+      ], 
+      "title": "List of mahjong video games"
+    }, 
+    "title": "List of mahjong video games", 
+    "updated": "2019-11-30T15:00:58Z"
+  }, 
   "List_of_terminology_by_alphabetical_order": {
+    "id": "226", 
     "mapped": {
-      "title": "List of terminology by alphabetical order",
-      "markdown_path": "terminology/list-of-terminology-by-alphabetical-order.md",
+      "markdown_path": "terminology/list-of-terminology-by-alphabetical-order.md", 
       "tags": [
         "Terminology"
-      ]
-    },
-    "id": "226",
-    "title": "List of terminology by alphabetical order"
-  },
-  "Suuankou__Replays": {
+      ], 
+      "title": "List of terminology by alphabetical order"
+    }, 
+    "title": "List of terminology by alphabetical order", 
+    "updated": "2020-06-01T12:00:31Z"
+  }, 
+  "List_of_yaku": {
+    "id": "51", 
     "mapped": {
-      "title": "Suuankou/Replays",
-      "markdown_path": "yaku/replays/suuankou-replays.md",
+      "markdown_path": "yaku/list-of-yaku.md", 
       "tags": [
-        "Yaku replays"
-      ]
-    },
-    "id": "3297",
-    "title": "Suuankou/Replays"
-  },
-  "Chombo": {
+        "Yaku", 
+        "Scoring"
+      ], 
+      "title": "List of yaku"
+    }, 
+    "title": "List of yaku", 
+    "updated": "2020-07-17T20:58:39Z"
+  }, 
+  "Local_yaku": {
+    "id": "3730", 
     "mapped": {
-      "title": "Chombo",
-      "markdown_path": "rules/chombo.md",
+      "markdown_path": "yaku/optional/local-yaku.md", 
+      "tags": [
+        "Optional yaku", 
+        "Game rules"
+      ], 
+      "title": "Local yaku"
+    }, 
+    "title": "Local yaku", 
+    "updated": "2020-07-21T08:23:08Z"
+  }, 
+  "Machi": {
+    "id": "267", 
+    "mapped": {
+      "markdown_path": "strategy/machi.md", 
+      "tags": [
+        "Terminology", 
+        "Strategy", 
+        "Machi"
+      ], 
+      "title": "Machi"
+    }, 
+    "title": "Machi", 
+    "updated": "2019-01-13T06:23:53Z"
+  }, 
+  "Mahjong_equipment": {
+    "id": "264", 
+    "mapped": {
+      "markdown_path": "rules/mahjong-equipment.md", 
       "tags": [
         "Game rules"
-      ]
-    },
-    "id": "278",
-    "title": "Chombo"
-  },
-  "Jigoku": {
+      ], 
+      "title": "Mahjong equipment"
+    }, 
+    "title": "Mahjong equipment", 
+    "updated": "2019-03-08T03:37:22Z"
+  }, 
+  "Mahjong_strategy": {
+    "id": "2671", 
     "mapped": {
-      "title": "Jigoku",
-      "markdown_path": "strategy/jigoku.md",
+      "markdown_path": "strategy/mahjong-strategy.md", 
       "tags": [
-        "Terminology",
-        "Machi",
         "Strategy"
-      ]
-    },
-    "id": "2535",
-    "title": "Jigoku"
-  },
-  "Tsumo": {
+      ], 
+      "title": "Mahjong strategy"
+    }, 
+    "title": "Mahjong strategy", 
+    "updated": "2017-01-06T11:04:49Z"
+  }, 
+  "Majsoul": {
+    "id": "3537", 
     "mapped": {
-      "title": "Tsumo",
-      "markdown_path": "terminology/tsumo.md",
+      "markdown_path": "online/majsoul/majsoul.md", 
+      "tags": [
+        "Majsoul"
+      ], 
+      "title": "Majsoul"
+    }, 
+    "title": "Majsoul", 
+    "updated": "2020-08-01T16:41:44Z"
+  }, 
+  "Matagi_suji": {
+    "id": "3750", 
+    "mapped": {
+      "markdown_path": "terminology/matagi-suji.md", 
       "tags": [
         "Terminology"
-      ]
-    },
-    "id": "231",
-    "title": "Tsumo"
-  },
-  "Sanshoku_doukou__Replays": {
+      ], 
+      "title": "Matagi suji"
+    }, 
+    "title": "Matagi suji", 
+    "updated": "2020-05-25T06:37:30Z"
+  }, 
+  "Mentanpin": {
+    "id": "2447", 
     "mapped": {
-      "title": "Sanshoku doukou/Replays",
-      "markdown_path": "yaku/replays/sanshoku-doukou-replays.md",
+      "markdown_path": "terminology/mentanpin.md", 
+      "tags": [
+        "Terminology"
+      ], 
+      "title": "Mentanpin"
+    }, 
+    "title": "Mentanpin", 
+    "updated": "2015-09-06T07:35:03Z"
+  }, 
+  "Mentsu": {
+    "id": "255", 
+    "mapped": {
+      "markdown_path": "terminology/mentsu.md", 
+      "tags": [
+        "Mentsu", 
+        "Terminology"
+      ], 
+      "title": "Mentsu"
+    }, 
+    "title": "Mentsu", 
+    "updated": "2015-05-11T16:19:45Z"
+  }, 
+  "Menzenchin_tsumohou": {
+    "id": "328", 
+    "mapped": {
+      "markdown_path": "yaku/menzenchin-tsumohou.md", 
+      "tags": [
+        "Yaku"
+      ], 
+      "title": "Menzenchin tsumohou"
+    }, 
+    "title": "Menzenchin tsumohou", 
+    "updated": "2020-07-17T21:04:19Z"
+  }, 
+  "Minefield_mahjong": {
+    "id": "2766", 
+    "mapped": {
+      "markdown_path": "rules/variations/minefield-mahjong.md", 
+      "tags": [
+        "Rule variations"
+      ], 
+      "title": "Minefield mahjong"
+    }, 
+    "title": "Minefield mahjong", 
+    "updated": "2019-01-17T22:44:37Z"
+  }, 
+  "Moupai": {
+    "id": "3439", 
+    "mapped": {
+      "markdown_path": "terminology/moupai.md", 
+      "tags": [
+        "Terminology", 
+        "Techniques"
+      ], 
+      "title": "Moupai"
+    }, 
+    "title": "Moupai", 
+    "updated": "2017-11-29T21:27:31Z"
+  }, 
+  "Mudazumo_Naki_Kaikaku": {
+    "id": "2913", 
+    "mapped": {
+      "markdown_path": "media/mudazumo-naki-kaikaku.md", 
+      "tags": [
+        "Media"
+      ], 
+      "title": "Mudazumo Naki Kaikaku"
+    }, 
+    "title": "Mudazumo Naki Kaikaku", 
+    "updated": "2015-01-23T02:42:37Z"
+  }, 
+  "Multiple_ron": {
+    "id": "3153", 
+    "mapped": {
+      "markdown_path": "rules/variations/multiple-ron.md", 
+      "tags": [
+        "Game rules", 
+        "Rule variations"
+      ], 
+      "title": "Multiple ron"
+    }, 
+    "title": "Multiple ron", 
+    "updated": "2018-10-03T15:56:09Z"
+  }, 
+  "Multiple_yakuman": {
+    "id": "320", 
+    "mapped": {
+      "markdown_path": "rules/variations/multiple-yakuman.md", 
+      "tags": [
+        "Yakuman", 
+        "Rule variations"
+      ], 
+      "title": "Multiple yakuman"
+    }, 
+    "title": "Multiple yakuman", 
+    "updated": "2015-09-02T19:42:40Z"
+  }, 
+  "Multiple_yakuman__Replays": {
+    "id": "3170", 
+    "mapped": {
+      "markdown_path": "yaku/replays/multiple-yakuman-replays.md", 
       "tags": [
         "Yaku replays"
-      ]
-    },
-    "id": "3209",
-    "title": "Sanshoku doukou/Replays"
-  },
-  "Toutenkou": {
+      ], 
+      "title": "Multiple yakuman/Replays"
+    }, 
+    "title": "Multiple yakuman/Replays", 
+    "updated": "2018-11-16T08:41:33Z"
+  }, 
+  "Nagashi_mangan": {
+    "id": "314", 
     "mapped": {
-      "title": "Toutenkou",
-      "markdown_path": "rules/variations/toutenkou.md",
+      "markdown_path": "yaku/nagashi-mangan.md", 
       "tags": [
-        "Rule Variations"
-      ]
-    },
-    "id": "3719",
-    "title": "Toutenkou"
-  },
-  "Kan_strategy": {
+        "Yaku"
+      ], 
+      "title": "Nagashi mangan"
+    }, 
+    "title": "Nagashi mangan", 
+    "updated": "2019-02-12T02:13:50Z"
+  }, 
+  "Nagashi_mangan__Replays": {
+    "id": "3169", 
     "mapped": {
-      "title": "Kan strategy",
-      "markdown_path": "strategy/kan-strategy.md",
+      "markdown_path": "yaku/replays/nagashi-mangan-replays.md", 
+      "tags": [
+        "Yaku replays"
+      ], 
+      "title": "Nagashi mangan/Replays"
+    }, 
+    "title": "Nagashi mangan/Replays", 
+    "updated": "2020-03-07T23:32:09Z"
+  }, 
+  "Naki": {
+    "id": "280", 
+    "mapped": {
+      "markdown_path": "rules/naki.md", 
+      "tags": [
+        "Terminology", 
+        "Game rules"
+      ], 
+      "title": "Naki"
+    }, 
+    "title": "Naki", 
+    "updated": "2020-04-04T09:19:49Z"
+  }, 
+  "Naki_strategy": {
+    "id": "3745", 
+    "mapped": {
+      "markdown_path": "strategy/naki-strategy.md", 
       "tags": [
         "Strategy"
-      ]
-    },
-    "id": "3238",
-    "title": "Kan strategy"
-  },
-  "Aryanmen": {
+      ], 
+      "title": "Naki strategy"
+    }, 
+    "title": "Naki strategy", 
+    "updated": "2020-04-04T20:57:45Z"
+  }, 
+  "Ni_hanchan": {
+    "id": "3709", 
     "mapped": {
-      "title": "Aryanmen",
-      "markdown_path": "terminology/waits/aryanmen.md",
+      "markdown_path": "rules/variations/ni-hanchan.md", 
       "tags": [
+        "Rule variations"
+      ], 
+      "title": "Ni hanchan"
+    }, 
+    "title": "Ni hanchan", 
+    "updated": "2019-09-18T11:59:36Z"
+  }, 
+  "Nobetan": {
+    "id": "2439", 
+    "mapped": {
+      "markdown_path": "terminology/waits/nobetan.md", 
+      "tags": [
+        "Terminology", 
         "Machi"
-      ]
-    },
-    "id": "3057",
-    "title": "Aryanmen"
-  },
-  "Yakuman": {
+      ], 
+      "title": "Nobetan"
+    }, 
+    "title": "Nobetan", 
+    "updated": "2019-09-19T19:24:43Z"
+  }, 
+  "Oka_and_uma": {
+    "id": "409", 
     "mapped": {
-      "title": "Yakuman",
-      "markdown_path": "yakuman/yakuman.md",
+      "markdown_path": "rules/oka-and-uma.md", 
       "tags": [
-        "Yakuman",
-        "Terminology"
-      ]
-    },
-    "id": "410",
-    "title": "Yakuman"
-  },
-  "Jansou": {
+        "Terminology", 
+        "Game rules"
+      ], 
+      "title": "Oka and uma"
+    }, 
+    "title": "Oka and uma", 
+    "updated": "2015-05-28T02:42:36Z"
+  }, 
+  "Oya": {
+    "id": "2526", 
     "mapped": {
-      "title": "Jansou",
-      "markdown_path": "other/jansou.md",
+      "markdown_path": "rules/oya.md", 
+      "tags": [
+        "Game rules", 
+        "Terminology"
+      ], 
+      "title": "Oya"
+    }, 
+    "title": "Oya", 
+    "updated": "2015-06-17T18:57:50Z"
+  }, 
+  "Paifu": {
+    "id": "2572", 
+    "mapped": {
+      "markdown_path": "other/paifu.md", 
       "tags": [
         "Other"
-      ]
-    },
-    "id": "2678",
-    "title": "Jansou"
-  },
-  "Kokushi_musou": {
+      ], 
+      "title": "Paifu"
+    }, 
+    "title": "Paifu", 
+    "updated": "2015-05-12T04:48:29Z"
+  }, 
+  "Penchan": {
+    "id": "261", 
     "mapped": {
-      "title": "Kokushi musou",
-      "markdown_path": "terminology/waits/kokushi-musou.md",
+      "markdown_path": "terminology/waits/penchan.md", 
       "tags": [
-        "Yakuman",
+        "Terminology", 
         "Machi"
-      ]
-    },
-    "id": "188",
-    "title": "Kokushi musou"
-  },
-  "EMA_Riichi_Competition_Rules": {
+      ], 
+      "title": "Penchan"
+    }, 
+    "title": "Penchan", 
+    "updated": "2018-03-06T11:01:51Z"
+  }, 
+  "Pinfu": {
+    "id": "183", 
     "mapped": {
-      "title": "EMA Riichi Competition Rules",
-      "markdown_path": "rules/variations/ema-riichi-competition-rules.md",
+      "markdown_path": "yaku/pinfu.md", 
       "tags": [
-        "Rule variations"
-      ]
-    },
-    "id": "45",
-    "title": "EMA Riichi Competition Rules"
-  },
-  "Wanpai": {
+        "Yaku"
+      ], 
+      "title": "Pinfu"
+    }, 
+    "title": "Pinfu", 
+    "updated": "2019-12-14T20:21:19Z"
+  }, 
+  "Playing_online": {
+    "id": "5", 
     "mapped": {
-      "title": "Wanpai",
-      "markdown_path": "rules/wanpai.md",
+      "markdown_path": "online/playing-online.md", 
       "tags": [
-        "Terminology",
-        "Game rules"
-      ]
-    },
-    "id": "271",
-    "title": "Wanpai"
-  },
-  "Tenhou_and_chiihou__Replays": {
+        "Online"
+      ], 
+      "title": "Playing online"
+    }, 
+    "title": "Playing online", 
+    "updated": "2013-08-01T13:59:25Z"
+  }, 
+  "Renchan": {
+    "id": "2495", 
     "mapped": {
-      "title": "Tenhou and chiihou/Replays",
-      "markdown_path": "yaku/replays/tenhou-and-chiihou-replays.md",
+      "markdown_path": "rules/renchan.md", 
       "tags": [
-        "Yaku replays"
-      ]
-    },
-    "id": "3482",
-    "title": "Tenhou and chiihou/Replays"
-  },
-  "Chiitoitsu__Replays": {
-    "mapped": {
-      "title": "Chiitoitsu/Replays",
-      "markdown_path": "yaku/replays/chiitoitsu-replays.md",
-      "tags": [
-        "Yaku replays"
-      ]
-    },
-    "id": "3406",
-    "title": "Chiitoitsu/Replays"
-  },
-  "Jantou": {
-    "mapped": {
-      "title": "Jantou",
-      "markdown_path": "terminology/jantou.md",
-      "tags": [
+        "Game rules", 
         "Terminology"
-      ]
-    },
-    "id": "2573",
-    "title": "Jantou"
-  },
-  "Suushiihou": {
+      ], 
+      "title": "Renchan"
+    }, 
+    "title": "Renchan", 
+    "updated": "2015-07-15T20:47:13Z"
+  }, 
+  "Renhou": {
+    "id": "2449", 
     "mapped": {
-      "title": "Suushiihou",
-      "markdown_path": "yakuman/suushiihou.md",
+      "markdown_path": "yaku/optional/renhou.md", 
       "tags": [
-        "Yakuman"
-      ]
-    },
-    "id": "233",
-    "title": "Suushiihou"
-  },
-  "Japanese_mahjong": {
+        "Yaku", 
+        "Optional yaku"
+      ], 
+      "title": "Renhou"
+    }, 
+    "title": "Renhou", 
+    "updated": "2016-12-30T14:08:54Z"
+  }, 
+  "Riichi": {
+    "id": "209", 
     "mapped": {
-      "title": "Japanese mahjong",
-      "markdown_path": "rules/japanese-mahjong.md",
+      "markdown_path": "rules/riichi.md", 
       "tags": [
+        "Yaku", 
         "Game rules"
-      ]
-    },
-    "id": "50",
-    "title": "Japanese mahjong"
-  },
-  "Single_suit_modified": {
+      ], 
+      "title": "Riichi"
+    }, 
+    "title": "Riichi", 
+    "updated": "2020-07-14T15:58:39Z"
+  }, 
+  "Riichi__Replays": {
+    "id": "3370", 
     "mapped": {
-      "title": "Single suit modified",
-      "markdown_path": "rules/single-suit-modified.md",
+      "markdown_path": "yaku/replays/riichi-replays.md", 
       "tags": [
-        "Game rules"
-      ]
-    },
-    "id": "3227",
-    "title": "Single suit modified"
-  },
-  "Japanese_mahjong_scoring_rules": {
+        "Yaku replays"
+      ], 
+      "title": "Riichi/Replays"
+    }, 
+    "title": "Riichi/Replays", 
+    "updated": "2019-03-25T06:05:06Z"
+  }, 
+  "Riichi_strategy": {
+    "id": "2830", 
     "mapped": {
-      "title": "Japanese mahjong scoring rules",
-      "markdown_path": "strategy/japanese-mahjong-scoring-rules.md",
+      "markdown_path": "strategy/riichi-strategy.md", 
       "tags": [
         "Strategy"
-      ]
-    },
-    "id": "272",
-    "title": "Japanese mahjong scoring rules"
-  },
-  "Ni_hanchan": {
+      ], 
+      "title": "Riichi strategy"
+    }, 
+    "title": "Riichi strategy", 
+    "updated": "2020-06-07T09:21:13Z"
+  }, 
+  "Rinshan_kaihou": {
+    "id": "249", 
     "mapped": {
-      "title": "Ni hanchan",
-      "markdown_path": "rules/variations/ni-hanchan.md",
+      "markdown_path": "yaku/rinshan-kaihou.md", 
       "tags": [
-        "Rule variations"
-      ]
-    },
-    "id": "3709",
-    "title": "Ni hanchan"
-  },
-  "Shousangen__Replays": {
+        "Yaku"
+      ], 
+      "title": "Rinshan kaihou"
+    }, 
+    "title": "Rinshan kaihou", 
+    "updated": "2016-05-01T06:55:29Z"
+  }, 
+  "Rinshan_kaihou__Replays": {
+    "id": "3258", 
     "mapped": {
-      "title": "Shousangen/Replays",
-      "markdown_path": "yaku/replays/shousangen-replays.md",
+      "markdown_path": "yaku/replays/rinshan-kaihou-replays.md", 
       "tags": [
         "Yaku replays"
-      ]
-    },
-    "id": "3156",
-    "title": "Shousangen/Replays"
-  },
-  "Washizu_mahjong": {
+      ], 
+      "title": "Rinshan kaihou/Replays"
+    }, 
+    "title": "Rinshan kaihou/Replays", 
+    "updated": "2019-03-09T05:03:51Z"
+  }, 
+  "Rule_variations": {
+    "id": "2411", 
     "mapped": {
-      "title": "Washizu mahjong",
-      "markdown_path": "rules/washizu-mahjong.md",
+      "markdown_path": "rules/variations/rule-variations.md", 
+      "tags": [
+        "Rule variations"
+      ], 
+      "title": "Rule variations"
+    }, 
+    "title": "Rule variations", 
+    "updated": "2015-12-30T07:33:01Z"
+  }, 
+  "Rules_overview": {
+    "id": "44", 
+    "mapped": {
+      "markdown_path": "rules/rules-overview.md", 
       "tags": [
         "Game rules"
-      ]
-    },
-    "id": "3222",
-    "title": "Washizu mahjong"
+      ], 
+      "title": "Rules overview"
+    }, 
+    "title": "Rules overview", 
+    "updated": "2019-12-01T16:18:59Z"
+  }, 
+  "Ryanhan_shibari": {
+    "id": "2665", 
+    "mapped": {
+      "markdown_path": "rules/ryanhan-shibari.md", 
+      "tags": [
+        "Terminology", 
+        "Game rules"
+      ], 
+      "title": "Ryanhan shibari"
+    }, 
+    "title": "Ryanhan shibari", 
+    "updated": "2015-07-23T23:38:05Z"
+  }, 
+  "Ryanmen": {
+    "id": "301", 
+    "mapped": {
+      "markdown_path": "terminology/waits/ryanmen.md", 
+      "tags": [
+        "Terminology", 
+        "Machi"
+      ], 
+      "title": "Ryanmen"
+    }, 
+    "title": "Ryanmen", 
+    "updated": "2018-03-06T10:52:26Z"
+  }, 
+  "Ryanpeikou": {
+    "id": "412", 
+    "mapped": {
+      "markdown_path": "yaku/ryanpeikou.md", 
+      "tags": [
+        "Yaku"
+      ], 
+      "title": "Ryanpeikou"
+    }, 
+    "title": "Ryanpeikou", 
+    "updated": "2020-01-28T18:27:44Z"
+  }, 
+  "Ryanpeikou__Replays": {
+    "id": "3490", 
+    "mapped": {
+      "markdown_path": "yaku/replays/ryanpeikou-replays.md", 
+      "tags": [
+        "Yaku replays"
+      ], 
+      "title": "Ryanpeikou/Replays"
+    }, 
+    "title": "Ryanpeikou/Replays", 
+    "updated": "2018-12-12T23:23:17Z"
+  }, 
+  "Ryantan_and_pentan": {
+    "id": "3060", 
+    "mapped": {
+      "markdown_path": "terminology/waits/ryantan-and-pentan.md", 
+      "tags": [
+        "Terminology", 
+        "Machi"
+      ], 
+      "title": "Ryantan and pentan"
+    }, 
+    "title": "Ryantan and pentan", 
+    "updated": "2019-09-19T19:50:14Z"
+  }, 
+  "Ryuuiisou": {
+    "id": "203", 
+    "mapped": {
+      "markdown_path": "yaku/ryuuiisou.md", 
+      "tags": [
+        "Yaku"
+      ], 
+      "title": "Ryuuiisou"
+    }, 
+    "title": "Ryuuiisou", 
+    "updated": "2018-03-15T05:39:02Z"
+  }, 
+  "Ryuuiisou__Replays": {
+    "id": "3191", 
+    "mapped": {
+      "markdown_path": "yaku/replays/ryuuiisou-replays.md", 
+      "tags": [
+        "Yaku replays"
+      ], 
+      "title": "Ryuuiisou/Replays"
+    }, 
+    "title": "Ryuuiisou/Replays", 
+    "updated": "2017-04-03T10:57:50Z"
+  }, 
+  "Ryuukyoku": {
+    "id": "270", 
+    "mapped": {
+      "markdown_path": "rules/ryuukyoku.md", 
+      "tags": [
+        "Terminology", 
+        "Game rules"
+      ], 
+      "title": "Ryuukyoku"
+    }, 
+    "title": "Ryuukyoku", 
+    "updated": "2020-06-29T12:23:16Z"
+  }, 
+  "Sakigiri": {
+    "id": "3639", 
+    "mapped": {
+      "markdown_path": "strategy/sakigiri.md", 
+      "tags": [
+        "Terminology", 
+        "Strategy"
+      ], 
+      "title": "Sakigiri"
+    }, 
+    "title": "Sakigiri", 
+    "updated": "2019-06-14T03:54:44Z"
+  }, 
+  "Sanankou": {
+    "id": "293", 
+    "mapped": {
+      "markdown_path": "yaku/sanankou.md", 
+      "tags": [
+        "Yaku"
+      ], 
+      "title": "Sanankou"
+    }, 
+    "title": "Sanankou", 
+    "updated": "2016-09-02T07:49:47Z"
+  }, 
+  "Sanankou__Replays": {
+    "id": "3291", 
+    "mapped": {
+      "markdown_path": "yaku/replays/sanankou-replays.md", 
+      "tags": [
+        "Yaku replays"
+      ], 
+      "title": "Sanankou/Replays"
+    }, 
+    "title": "Sanankou/Replays", 
+    "updated": "2018-09-10T06:28:59Z"
+  }, 
+  "Sankantsu": {
+    "id": "379", 
+    "mapped": {
+      "markdown_path": "yaku/sankantsu.md", 
+      "tags": [
+        "Yaku"
+      ], 
+      "title": "Sankantsu"
+    }, 
+    "title": "Sankantsu", 
+    "updated": "2015-07-16T19:33:34Z"
+  }, 
+  "Sankantsu__Replays": {
+    "id": "3204", 
+    "mapped": {
+      "markdown_path": "yaku/replays/sankantsu-replays.md", 
+      "tags": [
+        "Yaku replays"
+      ], 
+      "title": "Sankantsu/Replays"
+    }, 
+    "title": "Sankantsu/Replays", 
+    "updated": "2019-04-10T01:52:21Z"
+  }, 
+  "Sanma": {
+    "id": "2404", 
+    "mapped": {
+      "markdown_path": "rules/sanma.md", 
+      "tags": [
+        "Game rules", 
+        "Terminology"
+      ], 
+      "title": "Sanma"
+    }, 
+    "title": "Sanma", 
+    "updated": "2020-06-12T01:52:40Z"
+  }, 
+  "Sanmen_nobetan": {
+    "id": "2497", 
+    "mapped": {
+      "markdown_path": "terminology/waits/sanmen-nobetan.md", 
+      "tags": [
+        "Terminology", 
+        "Machi"
+      ], 
+      "title": "Sanmen nobetan"
+    }, 
+    "title": "Sanmen nobetan", 
+    "updated": "2016-08-13T11:06:07Z"
+  }, 
+  "Sanmenchan": {
+    "id": "388", 
+    "mapped": {
+      "markdown_path": "terminology/waits/sanmenchan.md", 
+      "tags": [
+        "Terminology", 
+        "Machi"
+      ], 
+      "title": "Sanmenchan"
+    }, 
+    "title": "Sanmenchan", 
+    "updated": "2019-09-20T16:37:20Z"
+  }, 
+  "Sanshoku_doujun": {
+    "id": "370", 
+    "mapped": {
+      "markdown_path": "yaku/sanshoku-doujun.md", 
+      "tags": [
+        "Yaku"
+      ], 
+      "title": "Sanshoku doujun"
+    }, 
+    "title": "Sanshoku doujun", 
+    "updated": "2018-10-26T08:44:54Z"
+  }, 
+  "Sanshoku_doujun__Replays": {
+    "id": "3498", 
+    "mapped": {
+      "markdown_path": "yaku/replays/sanshoku-doujun-replays.md", 
+      "tags": [
+        "Yaku replays"
+      ], 
+      "title": "Sanshoku doujun/Replays"
+    }, 
+    "title": "Sanshoku doujun/Replays", 
+    "updated": "2019-04-01T11:27:05Z"
+  }, 
+  "Sanshoku_doukou": {
+    "id": "326", 
+    "mapped": {
+      "markdown_path": "yaku/sanshoku-doukou.md", 
+      "tags": [
+        "Yaku"
+      ], 
+      "title": "Sanshoku doukou"
+    }, 
+    "title": "Sanshoku doukou", 
+    "updated": "2019-06-07T08:19:22Z"
+  }, 
+  "Sanshoku_doukou__Replays": {
+    "id": "3209", 
+    "mapped": {
+      "markdown_path": "yaku/replays/sanshoku-doukou-replays.md", 
+      "tags": [
+        "Yaku replays"
+      ], 
+      "title": "Sanshoku doukou/Replays"
+    }, 
+    "title": "Sanshoku doukou/Replays", 
+    "updated": "2019-04-10T01:34:24Z"
+  }, 
+  "Sashikomi": {
+    "id": "3200", 
+    "mapped": {
+      "markdown_path": "strategy/sashikomi.md", 
+      "tags": [
+        "Strategy", 
+        "Terminology"
+      ], 
+      "title": "Sashikomi"
+    }, 
+    "title": "Sashikomi", 
+    "updated": "2018-03-06T11:04:14Z"
+  }, 
+  "Score_table_memorization": {
+    "id": "2421", 
+    "mapped": {
+      "markdown_path": "strategy/score-table-memorization.md", 
+      "tags": [
+        "Strategy", 
+        "Scoring"
+      ], 
+      "title": "Score table memorization"
+    }, 
+    "title": "Score table memorization", 
+    "updated": "2019-09-30T09:12:19Z"
+  }, 
+  "Scoring_table": {
+    "id": "2522", 
+    "mapped": {
+      "markdown_path": "strategy/scoring-table.md", 
+      "tags": [
+        "Strategy"
+      ], 
+      "title": "Scoring table"
+    }, 
+    "title": "Scoring table", 
+    "updated": "2018-05-01T21:38:45Z"
+  }, 
+  "Scoring_variations": {
+    "id": "2569", 
+    "mapped": {
+      "markdown_path": "rules/variations/scoring-variations.md", 
+      "tags": [
+        "Rule variations", 
+        "Scoring"
+      ], 
+      "title": "Scoring variations"
+    }, 
+    "title": "Scoring variations", 
+    "updated": "2015-12-30T07:36:08Z"
+  }, 
+  "Sega_MJ": {
+    "id": "3318", 
+    "mapped": {
+      "markdown_path": "online/sega-mj.md", 
+      "tags": [
+        "Games", 
+        "Online"
+      ], 
+      "title": "Sega MJ"
+    }, 
+    "title": "Sega MJ", 
+    "updated": "2020-03-25T21:49:30Z"
+  }, 
+  "Sekinin_barai": {
+    "id": "378", 
+    "mapped": {
+      "markdown_path": "rules/sekinin-barai.md", 
+      "tags": [
+        "Terminology", 
+        "Game rules"
+      ], 
+      "title": "Sekinin barai"
+    }, 
+    "title": "Sekinin barai", 
+    "updated": "2019-10-06T01:27:30Z"
+  }, 
+  "Shanpon": {
+    "id": "2416", 
+    "mapped": {
+      "markdown_path": "terminology/waits/shanpon.md", 
+      "tags": [
+        "Terminology", 
+        "Machi"
+      ], 
+      "title": "Shanpon"
+    }, 
+    "title": "Shanpon", 
+    "updated": "2016-05-10T04:00:22Z"
+  }, 
+  "Shanten": {
+    "id": "269", 
+    "mapped": {
+      "markdown_path": "strategy/shanten.md", 
+      "tags": [
+        "Terminology", 
+        "Strategy"
+      ], 
+      "title": "Shanten"
+    }, 
+    "title": "Shanten", 
+    "updated": "2019-12-17T05:49:22Z"
+  }, 
+  "Shousangen": {
+    "id": "362", 
+    "mapped": {
+      "markdown_path": "yaku/shousangen.md", 
+      "tags": [
+        "Yaku"
+      ], 
+      "title": "Shousangen"
+    }, 
+    "title": "Shousangen", 
+    "updated": "2015-07-16T19:37:46Z"
+  }, 
+  "Shousangen__Replays": {
+    "id": "3156", 
+    "mapped": {
+      "markdown_path": "yaku/replays/shousangen-replays.md", 
+      "tags": [
+        "Yaku replays"
+      ], 
+      "title": "Shousangen/Replays"
+    }, 
+    "title": "Shousangen/Replays", 
+    "updated": "2017-12-25T10:50:49Z"
+  }, 
+  "Single_suit_mahjong": {
+    "id": "3235", 
+    "mapped": {
+      "markdown_path": "rules/single-suit-mahjong.md", 
+      "tags": [
+        "Game rules"
+      ], 
+      "title": "Single suit mahjong"
+    }, 
+    "title": "Single suit mahjong", 
+    "updated": "2015-08-20T04:51:20Z"
+  }, 
+  "Single_suit_modified": {
+    "id": "3227", 
+    "mapped": {
+      "markdown_path": "rules/single-suit-modified.md", 
+      "tags": [
+        "Game rules"
+      ], 
+      "title": "Single suit modified"
+    }, 
+    "title": "Single suit modified", 
+    "updated": "2019-04-24T03:58:58Z"
+  }, 
+  "Space_mahjong": {
+    "id": "3706", 
+    "mapped": {
+      "markdown_path": "rules/variations/space-mahjong.md", 
+      "tags": [
+        "Rule variations"
+      ], 
+      "title": "Space mahjong"
+    }, 
+    "title": "Space mahjong", 
+    "updated": "2019-09-19T19:31:25Z"
+  }, 
+  "Suji": {
+    "id": "2455", 
+    "mapped": {
+      "markdown_path": "strategy/suji.md", 
+      "tags": [
+        "Terminology", 
+        "Strategy"
+      ], 
+      "title": "Suji"
+    }, 
+    "title": "Suji", 
+    "updated": "2019-06-05T16:59:58Z"
+  }, 
+  "Suuankou": {
+    "id": "200", 
+    "mapped": {
+      "markdown_path": "yakuman/suuankou.md", 
+      "tags": [
+        "Yakuman"
+      ], 
+      "title": "Suuankou"
+    }, 
+    "title": "Suuankou", 
+    "updated": "2019-12-27T03:48:35Z"
+  }, 
+  "Suuankou__Replays": {
+    "id": "3297", 
+    "mapped": {
+      "markdown_path": "yaku/replays/suuankou-replays.md", 
+      "tags": [
+        "Yaku replays"
+      ], 
+      "title": "Suuankou/Replays"
+    }, 
+    "title": "Suuankou/Replays", 
+    "updated": "2019-04-12T06:30:50Z"
+  }, 
+  "Suukantsu": {
+    "id": "235", 
+    "mapped": {
+      "markdown_path": "yakuman/suukantsu.md", 
+      "tags": [
+        "Yakuman"
+      ], 
+      "title": "Suukantsu"
+    }, 
+    "title": "Suukantsu", 
+    "updated": "2020-02-13T22:58:54Z"
+  }, 
+  "Suukantsu__Replays": {
+    "id": "3327", 
+    "mapped": {
+      "markdown_path": "yaku/replays/suukantsu-replays.md", 
+      "tags": [
+        "Yaku replays"
+      ], 
+      "title": "Suukantsu/Replays"
+    }, 
+    "title": "Suukantsu/Replays", 
+    "updated": "2019-08-06T00:47:21Z"
+  }, 
+  "Suushiihou": {
+    "id": "233", 
+    "mapped": {
+      "markdown_path": "yakuman/suushiihou.md", 
+      "tags": [
+        "Yakuman"
+      ], 
+      "title": "Suushiihou"
+    }, 
+    "title": "Suushiihou", 
+    "updated": "2019-04-18T05:51:35Z"
+  }, 
+  "Suushiihou__Replays": {
+    "id": "3180", 
+    "mapped": {
+      "markdown_path": "yaku/replays/suushiihou-replays.md", 
+      "tags": [
+        "Yaku replays"
+      ], 
+      "title": "Suushiihou/Replays"
+    }, 
+    "title": "Suushiihou/Replays", 
+    "updated": "2019-03-06T22:22:58Z"
+  }, 
+  "Takame_and_yasume": {
+    "id": "2441", 
+    "mapped": {
+      "markdown_path": "strategy/takame-and-yasume.md", 
+      "tags": [
+        "Terminology", 
+        "Strategy"
+      ], 
+      "title": "Takame and yasume"
+    }, 
+    "title": "Takame and yasume", 
+    "updated": "2015-09-06T12:40:47Z"
+  }, 
+  "Tanki": {
+    "id": "432", 
+    "mapped": {
+      "markdown_path": "terminology/waits/tanki.md", 
+      "tags": [
+        "Terminology", 
+        "Machi"
+      ], 
+      "title": "Tanki"
+    }, 
+    "title": "Tanki", 
+    "updated": "2018-03-06T11:02:43Z"
+  }, 
+  "Tanyao": {
+    "id": "221", 
+    "mapped": {
+      "markdown_path": "yaku/tanyao.md", 
+      "tags": [
+        "Yaku"
+      ], 
+      "title": "Tanyao"
+    }, 
+    "title": "Tanyao", 
+    "updated": "2016-03-29T09:17:01Z"
+  }, 
+  "Tatsumaki": {
+    "id": "3091", 
+    "mapped": {
+      "markdown_path": "terminology/waits/tatsumaki.md", 
+      "tags": [
+        "Terminology", 
+        "Machi"
+      ], 
+      "title": "Tatsumaki"
+    }, 
+    "title": "Tatsumaki", 
+    "updated": "2019-09-20T16:45:14Z"
+  }, 
+  "Tenbou": {
+    "id": "2489", 
+    "mapped": {
+      "markdown_path": "terminology/tenbou.md", 
+      "tags": [
+        "Terminology"
+      ], 
+      "title": "Tenbou"
+    }, 
+    "title": "Tenbou", 
+    "updated": "2019-06-26T00:08:50Z"
+  }, 
+  "Tenhou": {
+    "id": "219", 
+    "mapped": {
+      "markdown_path": "online/tenhou/tenhou.md", 
+      "tags": [
+        "Tenhou.net"
+      ], 
+      "title": "Tenhou"
+    }, 
+    "title": "Tenhou", 
+    "updated": "2014-07-21T04:16:59Z"
+  }, 
+  "Tenhou.net": {
+    "id": "43", 
+    "mapped": {
+      "markdown_path": "", 
+      "tags": [], 
+      "title": ""
+    }, 
+    "title": "Tenhou.net", 
+    "updated": "2020-04-22T12:12:24Z"
+  }, 
+  "Tenhou.net_manual": {
+    "id": "3196", 
+    "mapped": {
+      "markdown_path": "", 
+      "tags": [], 
+      "title": ""
+    }, 
+    "title": "Tenhou.net manual", 
+    "updated": "2017-04-05T00:40:38Z"
+  }, 
+  "Tenhou.net_ranking": {
+    "id": "2559", 
+    "mapped": {
+      "markdown_path": "", 
+      "tags": [], 
+      "title": ""
+    }, 
+    "title": "Tenhou.net ranking", 
+    "updated": "2019-09-19T03:00:03Z"
+  }, 
+  "Tenhou.net_rules": {
+    "id": "48", 
+    "mapped": {
+      "markdown_path": "", 
+      "tags": [], 
+      "title": ""
+    }, 
+    "title": "Tenhou.net rules", 
+    "updated": "2020-01-17T14:18:48Z"
+  }, 
+  "Tenhou_and_chiihou": {
+    "id": "248", 
+    "mapped": {
+      "markdown_path": "yakuman/tenhou-and-chiihou.md", 
+      "tags": [
+        "Yakuman"
+      ], 
+      "title": "Tenhou and chiihou"
+    }, 
+    "title": "Tenhou and chiihou", 
+    "updated": "2015-12-09T08:02:10Z"
+  }, 
+  "Tenhou_and_chiihou__Replays": {
+    "id": "3482", 
+    "mapped": {
+      "markdown_path": "yaku/replays/tenhou-and-chiihou-replays.md", 
+      "tags": [
+        "Yaku replays"
+      ], 
+      "title": "Tenhou and chiihou/Replays"
+    }, 
+    "title": "Tenhou and chiihou/Replays", 
+    "updated": "2017-12-25T11:35:55Z"
+  }, 
+  "Tenpai": {
+    "id": "228", 
+    "mapped": {
+      "markdown_path": "strategy/tenpai.md", 
+      "tags": [
+        "Terminology", 
+        "Strategy"
+      ], 
+      "title": "Tenpai"
+    }, 
+    "title": "Tenpai", 
+    "updated": "2020-07-14T15:55:41Z"
+  }, 
+  "Tile_efficiency": {
+    "id": "2519", 
+    "mapped": {
+      "markdown_path": "strategy/tile-efficiency.md", 
+      "tags": [
+        "Strategy"
+      ], 
+      "title": "Tile efficiency"
+    }, 
+    "title": "Tile efficiency", 
+    "updated": "2019-04-01T04:08:19Z"
+  }, 
+  "Tochuu_ryuukyoku": {
+    "id": "250", 
+    "mapped": {
+      "markdown_path": "rules/tochuu-ryuukyoku.md", 
+      "tags": [
+        "Terminology", 
+        "Game rules"
+      ], 
+      "title": "Tochuu ryuukyoku"
+    }, 
+    "title": "Tochuu ryuukyoku", 
+    "updated": "2020-01-17T14:19:26Z"
+  }, 
+  "Toitoihou": {
+    "id": "405", 
+    "mapped": {
+      "markdown_path": "yaku/toitoihou.md", 
+      "tags": [
+        "Yaku"
+      ], 
+      "title": "Toitoihou"
+    }, 
+    "title": "Toitoihou", 
+    "updated": "2019-06-06T08:39:24Z"
+  }, 
+  "Toitsu": {
+    "id": "2445", 
+    "mapped": {
+      "markdown_path": "terminology/toitsu.md", 
+      "tags": [
+        "Terminology"
+      ], 
+      "title": "Toitsu"
+    }, 
+    "title": "Toitsu", 
+    "updated": "2017-03-15T21:37:45Z"
+  }, 
+  "Tonpuusen": {
+    "id": "402", 
+    "mapped": {
+      "markdown_path": "rules/tonpuusen.md", 
+      "tags": [
+        "Terminology", 
+        "Game rules"
+      ], 
+      "title": "Tonpuusen"
+    }, 
+    "title": "Tonpuusen", 
+    "updated": "2018-04-30T17:08:24Z"
+  }, 
+  "Toutenkou": {
+    "id": "3719", 
+    "mapped": {
+      "markdown_path": "rules/variations/toutenkou.md", 
+      "tags": [
+        "Rule Variations"
+      ], 
+      "title": "Toutenkou"
+    }, 
+    "title": "Toutenkou", 
+    "updated": "2019-10-06T03:42:56Z"
+  }, 
+  "Tsumo": {
+    "id": "231", 
+    "mapped": {
+      "markdown_path": "terminology/tsumo.md", 
+      "tags": [
+        "Terminology"
+      ], 
+      "title": "Tsumo"
+    }, 
+    "title": "Tsumo", 
+    "updated": "2014-01-27T00:06:02Z"
+  }, 
+  "Tsuuiisou": {
+    "id": "265", 
+    "mapped": {
+      "markdown_path": "yakuman/tsuuiisou.md", 
+      "tags": [
+        "Yakuman"
+      ], 
+      "title": "Tsuuiisou"
+    }, 
+    "title": "Tsuuiisou", 
+    "updated": "2016-02-01T04:49:55Z"
+  }, 
+  "Tsuuiisou__Replays": {
+    "id": "3096", 
+    "mapped": {
+      "markdown_path": "yaku/replays/tsuuiisou-replays.md", 
+      "tags": [
+        "Yaku replays"
+      ], 
+      "title": "Tsuuiisou/Replays"
+    }, 
+    "title": "Tsuuiisou/Replays", 
+    "updated": "2015-12-20T09:26:00Z"
+  }, 
+  "Ukeire": {
+    "id": "3512", 
+    "mapped": {
+      "markdown_path": "strategy/ukeire.md", 
+      "tags": [
+        "Terminology", 
+        "Strategy"
+      ], 
+      "title": "Ukeire"
+    }, 
+    "title": "Ukeire", 
+    "updated": "2020-06-29T12:03:29Z"
+  }, 
+  "Wanpai": {
+    "id": "271", 
+    "mapped": {
+      "markdown_path": "rules/wanpai.md", 
+      "tags": [
+        "Terminology", 
+        "Game rules"
+      ], 
+      "title": "Wanpai"
+    }, 
+    "title": "Wanpai", 
+    "updated": "2015-10-26T06:39:45Z"
+  }, 
+  "Wareme": {
+    "id": "3040", 
+    "mapped": {
+      "markdown_path": "rules/wareme.md", 
+      "tags": [
+        "Game rules", 
+        "Terminology"
+      ], 
+      "title": "Wareme"
+    }, 
+    "title": "Wareme", 
+    "updated": "2015-12-30T07:37:46Z"
+  }, 
+  "Washizu_mahjong": {
+    "id": "3222", 
+    "mapped": {
+      "markdown_path": "rules/washizu-mahjong.md", 
+      "tags": [
+        "Game rules"
+      ], 
+      "title": "Washizu mahjong"
+    }, 
+    "title": "Washizu mahjong", 
+    "updated": "2018-05-02T10:18:20Z"
+  }, 
+  "Yakitori": {
+    "id": "2695", 
+    "mapped": {
+      "markdown_path": "rules/yakitori.md", 
+      "tags": [
+        "Game rules", 
+        "Terminology"
+      ], 
+      "title": "Yakitori"
+    }, 
+    "title": "Yakitori", 
+    "updated": "2014-08-13T20:59:13Z"
+  }, 
+  "Yaku": {
+    "id": "279", 
+    "mapped": {
+      "markdown_path": "yaku/yaku.md", 
+      "tags": [
+        "Terminology", 
+        "Yaku", 
+        "Scoring"
+      ], 
+      "title": "Yaku"
+    }, 
+    "title": "Yaku", 
+    "updated": "2019-12-14T20:19:59Z"
+  }, 
+  "Yaku_compatibility": {
+    "id": "2377", 
+    "mapped": {
+      "markdown_path": "strategy/yaku-compatibility.md", 
+      "tags": [
+        "Yaku", 
+        "Strategy"
+      ], 
+      "title": "Yaku compatibility"
+    }, 
+    "title": "Yaku compatibility", 
+    "updated": "2019-06-10T23:31:21Z"
+  }, 
+  "Yaku_variations": {
+    "id": "2568", 
+    "mapped": {
+      "markdown_path": "rules/variations/yaku-variations.md", 
+      "tags": [
+        "Rule variations"
+      ], 
+      "title": "Yaku variations"
+    }, 
+    "title": "Yaku variations", 
+    "updated": "2019-12-05T00:16:19Z"
+  }, 
+  "Yakuhai": {
+    "id": "373", 
+    "mapped": {
+      "markdown_path": "rules/yakuhai.md", 
+      "tags": [
+        "Yaku", 
+        "Game rules"
+      ], 
+      "title": "Yakuhai"
+    }, 
+    "title": "Yakuhai", 
+    "updated": "2019-12-16T02:26:00Z"
+  }, 
+  "Yakuhai__Replays": {
+    "id": "3304", 
+    "mapped": {
+      "markdown_path": "yaku/replays/yakuhai-replays.md", 
+      "tags": [
+        "Yaku replays"
+      ], 
+      "title": "Yakuhai/Replays"
+    }, 
+    "title": "Yakuhai/Replays", 
+    "updated": "2018-06-20T21:30:17Z"
+  }, 
+  "Yakuman": {
+    "id": "410", 
+    "mapped": {
+      "markdown_path": "yakuman/yakuman.md", 
+      "tags": [
+        "Yakuman", 
+        "Terminology"
+      ], 
+      "title": "Yakuman"
+    }, 
+    "title": "Yakuman", 
+    "updated": "2015-07-27T17:55:48Z"
   }
 }

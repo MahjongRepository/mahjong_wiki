@@ -1,6 +1,7 @@
 +++
 title = "List of mahjong books"
 arcturus_wiki_id = "3673"
+updated = "2019-05-21T05:20:05Z"
 tags = ["Books"]
 +++
 

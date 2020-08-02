@@ -1,6 +1,7 @@
 +++
 title = "Daisharin"
 arcturus_wiki_id = "3207"
+updated = "2020-01-14T08:26:51Z"
 tags = ["Yaku", "Optional yaku"]
 +++
 

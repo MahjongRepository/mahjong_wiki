@@ -1,6 +1,7 @@
 +++
 title = "Ikkyokusen"
 arcturus_wiki_id = "3332"
+updated = "2016-06-23T07:20:32Z"
 tags = ["Rule variations"]
 +++
 

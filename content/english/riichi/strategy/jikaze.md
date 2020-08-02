@@ -1,6 +1,7 @@
 +++
 title = "Jikaze"
 arcturus_wiki_id = "2395"
+updated = "2017-09-26T20:30:21Z"
 tags = ["Terminology", "Strategy", "Yaku", "Game rules"]
 +++
 

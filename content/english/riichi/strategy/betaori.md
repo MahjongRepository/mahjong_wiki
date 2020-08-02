@@ -1,6 +1,7 @@
 +++
 title = "Betaori"
 arcturus_wiki_id = "442"
+updated = "2014-12-06T06:59:31Z"
 tags = ["Terminology", "Strategy"]
 +++
 

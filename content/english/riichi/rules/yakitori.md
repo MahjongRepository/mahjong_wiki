@@ -1,6 +1,7 @@
 +++
 title = "Yakitori"
 arcturus_wiki_id = "2695"
+updated = "2014-08-13T20:59:13Z"
 tags = ["Game rules", "Terminology"]
 +++
 

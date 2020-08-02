@@ -1,6 +1,7 @@
 +++
 title = "Sanankou/Replays"
 arcturus_wiki_id = "3291"
+updated = "2018-09-10T06:28:59Z"
 tags = ["Yaku replays"]
 +++
 

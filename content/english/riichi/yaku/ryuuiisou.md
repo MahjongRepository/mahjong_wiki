@@ -1,6 +1,7 @@
 +++
 title = "Ryuuiisou"
 arcturus_wiki_id = "203"
+updated = "2018-03-15T05:39:02Z"
 tags = ["Yaku"]
 +++
 

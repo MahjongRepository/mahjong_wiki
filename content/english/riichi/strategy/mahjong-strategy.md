@@ -1,6 +1,7 @@
 +++
 title = "Mahjong strategy"
 arcturus_wiki_id = "2671"
+updated = "2017-01-06T11:04:49Z"
 tags = ["Strategy"]
 +++
 
@@ -92,7 +93,6 @@ the yaku requirement.
 <!-- end list -->
 
 -
-
 
     Translated strategy material from various Japanese sources.
 

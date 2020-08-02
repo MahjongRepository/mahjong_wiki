@@ -1,6 +1,7 @@
 +++
 title = "Shanten"
 arcturus_wiki_id = "269"
+updated = "2019-12-17T05:49:22Z"
 tags = ["Terminology", "Strategy"]
 +++
 

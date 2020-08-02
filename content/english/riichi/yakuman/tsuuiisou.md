@@ -1,6 +1,7 @@
 +++
 title = "Tsuuiisou"
 arcturus_wiki_id = "265"
+updated = "2016-02-01T04:49:55Z"
 tags = ["Yakuman"]
 +++
 

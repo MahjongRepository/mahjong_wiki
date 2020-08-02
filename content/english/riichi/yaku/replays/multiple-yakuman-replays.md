@@ -1,6 +1,7 @@
 +++
 title = "Multiple yakuman/Replays"
 arcturus_wiki_id = "3170"
+updated = "2018-11-16T08:41:33Z"
 tags = ["Yaku replays"]
 +++
 

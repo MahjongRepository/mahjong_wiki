@@ -1,6 +1,7 @@
 +++
 title = "Wareme"
 arcturus_wiki_id = "3040"
+updated = "2015-12-30T07:37:46Z"
 tags = ["Game rules", "Terminology"]
 +++
 

@@ -1,6 +1,7 @@
 +++
 title = "Machi"
 arcturus_wiki_id = "267"
+updated = "2019-01-13T06:23:53Z"
 tags = ["Terminology", "Strategy", "Machi"]
 +++
 
@@ -183,7 +184,6 @@ kanchan wait and eating up some of the available tiles. Usually this refers to a
 
 -
 
-
     Forum list of various patterns
 
 <!-- end list -->
@@ -193,7 +193,6 @@ kanchan wait and eating up some of the available tiles. Usually this refers to a
 <!-- end list -->
 
 -
-
 
     Wait survey quiz in Tenhou.net
 

@@ -1,6 +1,7 @@
 +++
 title = "List of mahjong video games"
 arcturus_wiki_id = "2745"
+updated = "2019-11-30T15:00:58Z"
 tags = ["Games"]
 +++
 

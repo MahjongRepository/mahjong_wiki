@@ -1,6 +1,7 @@
 +++
 title = "Scoring table"
 arcturus_wiki_id = "2522"
+updated = "2018-05-01T21:38:45Z"
 tags = ["Strategy"]
 +++
 
@@ -105,7 +106,6 @@ to be classed as a regular mangan. So, under this rule, these values are recount
 
 -
 
-
     † - Values can be changed to mangan, via kiriage mangan rules.
 
 ## Nondealer
@@ -182,7 +182,6 @@ to be classed as a regular mangan. So, under this rule, these values are recount
 ```
 
 -
-
 
     † - Values can be changed to mangan, via kiriage mangan rules.
 

@@ -1,6 +1,7 @@
 +++
 title = "Suushiihou"
 arcturus_wiki_id = "233"
+updated = "2019-04-18T05:51:35Z"
 tags = ["Yakuman"]
 +++
 

@@ -1,6 +1,7 @@
 +++
 title = "Tile efficiency"
 arcturus_wiki_id = "2519"
+updated = "2019-04-01T04:08:19Z"
 tags = ["Strategy"]
 +++
 

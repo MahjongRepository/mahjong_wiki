@@ -1,6 +1,7 @@
 +++
 title = "Oya"
 arcturus_wiki_id = "2526"
+updated = "2015-06-17T18:57:50Z"
 tags = ["Game rules", "Terminology"]
 +++
 

@@ -1,6 +1,7 @@
 +++
 title = "Suushiihou/Replays"
 arcturus_wiki_id = "3180"
+updated = "2019-03-06T22:22:58Z"
 tags = ["Yaku replays"]
 +++
 

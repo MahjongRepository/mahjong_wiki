@@ -1,6 +1,7 @@
 +++
 title = "List of Tenhoui"
 arcturus_wiki_id = "3307"
+updated = "2020-07-10T08:44:28Z"
 tags = ["Tenhou.net"]
 +++
 

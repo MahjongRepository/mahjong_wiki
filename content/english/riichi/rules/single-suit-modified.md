@@ -1,6 +1,7 @@
 +++
 title = "Single suit modified"
 arcturus_wiki_id = "3227"
+updated = "2019-04-24T03:58:58Z"
 tags = ["Game rules"]
 +++
 
@@ -36,21 +37,21 @@ are connected together to form a single double stacked line.
 
 {{< table >}}
 
-| | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
--------------------------------------------- | -------------- | -------------- | -------------- |
--------------- | -------------- | -------------- | -------------- | -------------- | --------------
-| -------------- | -------------- | -------------- | -------------- | -------------- |
--------------- | -------------- | -------------- | -------------- | -------------- | --------------
-| -------------- | -------------- | -------------- | -------------- | -------------- | |
--------------- | | Example wall, with break at dice roll of 5|- | Top | {{< t 0z >}} | {{< t 0z >}}
-| {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} |
-{{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} |
-{{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | | {{< t 0z >}} |
-{{< t 6p >}} | {{< t 0z >}} | {{< t 0z >}} | | {{< t 0z >}} | | Bottom | {{< t 0z >}} | {{< t 0z >}}
-| {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} |
-{{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} |
-{{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} |
-{{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | | | |
+|                |                |                                            |                |                |                |              |              |              |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| -------------- | -------------- | ------------------------------------------ | -------------- | -------------- | -------------- | ------------ | ------------ | ------------ | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| -------------- | -------------- | --------------                             | -------------- | -------------- | -------------- |
+| -------------- | -------------- | --------------                             | -------------- | -------------- |
+| -------------- | -------------- | --------------                             | -------------- | -------------- | -------------- |
+| -------------- | -------------- | --------------                             | -------------- | -------------- |                |
+| -------------- |                | Example wall, with break at dice roll of 5 | -              | Top            | {{< t 0z >}}   | {{< t 0z >}} |
+| {{< t 0z >}}   | {{< t 0z >}}   | {{< t 0z >}}                               | {{< t 0z >}}   | {{< t 0z >}}   | {{< t 0z >}}   |
+| {{< t 0z >}}   | {{< t 0z >}}   | {{< t 0z >}}                               | {{< t 0z >}}   | {{< t 0z >}}   | {{< t 0z >}}   |
+| {{< t 0z >}}   | {{< t 0z >}}   | {{< t 0z >}}                               | {{< t 0z >}}   | {{< t 0z >}}   |                | {{< t 0z >}} |
+| {{< t 6p >}}   | {{< t 0z >}}   | {{< t 0z >}}                               |                | {{< t 0z >}}   |                | Bottom       | {{< t 0z >}} | {{< t 0z >}} |
+| {{< t 0z >}}   | {{< t 0z >}}   | {{< t 0z >}}                               | {{< t 0z >}}   | {{< t 0z >}}   | {{< t 0z >}}   |
+| {{< t 0z >}}   | {{< t 0z >}}   | {{< t 0z >}}                               | {{< t 0z >}}   | {{< t 0z >}}   | {{< t 0z >}}   |
+| {{< t 0z >}}   | {{< t 0z >}}   | {{< t 0z >}}                               | {{< t 0z >}}   | {{< t 0z >}}   | {{< t 0z >}}   |
+| {{< t 0z >}}   | {{< t 0z >}}   | {{< t 0z >}}                               | {{< t 0z >}}   |                |                |              |
 
 {{</ table >}}
 
@@ -83,7 +84,6 @@ omitted. Furthermore, most of the yaku retain their original values, but some ar
 
 -
 
-
     1 han closed only. A limit of closed only is applied, as every hand is essentially a honitsu.
 
 <!-- end list -->
@@ -93,7 +93,6 @@ omitted. Furthermore, most of the yaku retain their original values, but some ar
 <!-- end list -->
 
 -
-
 
     2 han (1 han open). The original value is severely reduced, as only one numbered suit is used.
 
@@ -105,7 +104,6 @@ omitted. Furthermore, most of the yaku retain their original values, but some ar
 
 -
 
-
     1 han closed only.
 
 <!-- end list -->
@@ -115,7 +113,6 @@ omitted. Furthermore, most of the yaku retain their original values, but some ar
 <!-- end list -->
 
 -
-
 
     1 han closed only.
 
@@ -127,7 +124,6 @@ omitted. Furthermore, most of the yaku retain their original values, but some ar
 
 -
 
-
     3 han closed only.
 
 <!-- end list -->
@@ -137,7 +133,6 @@ omitted. Furthermore, most of the yaku retain their original values, but some ar
 <!-- end list -->
 
 -
-
 
     2 han.
 
@@ -149,7 +144,6 @@ omitted. Furthermore, most of the yaku retain their original values, but some ar
 
 -
 
-
     1 han each.
 
 <!-- end list -->
@@ -159,7 +153,6 @@ omitted. Furthermore, most of the yaku retain their original values, but some ar
 <!-- end list -->
 
 -
-
 
     2 han. This optional yaku is reincorporated to make up for omitted yaku. However, its cousin, iishoku sanjun, is not used.
 
@@ -171,7 +164,6 @@ omitted. Furthermore, most of the yaku retain their original values, but some ar
 
 -
 
-
     2 han (1 han open).
 
 <!-- end list -->
@@ -181,7 +173,6 @@ omitted. Furthermore, most of the yaku retain their original values, but some ar
 <!-- end list -->
 
 -
-
 
     2 han.
 
@@ -193,7 +184,6 @@ omitted. Furthermore, most of the yaku retain their original values, but some ar
 
 -
 
-
     2 han (1 han open)
 
 <!-- end list -->
@@ -203,7 +193,6 @@ omitted. Furthermore, most of the yaku retain their original values, but some ar
 <!-- end list -->
 
 -
-
 
     3 han (2 han open)
 
@@ -215,7 +204,6 @@ omitted. Furthermore, most of the yaku retain their original values, but some ar
 
 -
 
-
     2 han.
 
 <!-- end list -->
@@ -225,7 +213,6 @@ omitted. Furthermore, most of the yaku retain their original values, but some ar
 <!-- end list -->
 
 -
-
 
     1 han plus 2 yakuhai, for 3 han. A collection of two honor tile groups, while pairing the third kind.
 
@@ -237,7 +224,6 @@ omitted. Furthermore, most of the yaku retain their original values, but some ar
 
 -
 
-
     2 han plus 2 yakuhai, for 4 han. A collection of three honor tile groups, which is essentially all of them.
 
 <!-- end list -->
@@ -247,7 +233,6 @@ omitted. Furthermore, most of the yaku retain their original values, but some ar
 <!-- end list -->
 
 -
-
 
     2 han.
 

@@ -1,6 +1,7 @@
 +++
 title = "Chinroutou/Replays"
 arcturus_wiki_id = "3249"
+updated = "2015-10-20T01:36:03Z"
 tags = ["Yaku replays"]
 +++
 

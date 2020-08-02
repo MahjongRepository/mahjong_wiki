@@ -1,6 +1,7 @@
 +++
 title = "Agari houki"
 arcturus_wiki_id = "291"
+updated = "2015-07-13T19:00:26Z"
 tags = ["Game rules"]
 +++
 

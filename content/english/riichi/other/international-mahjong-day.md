@@ -1,6 +1,7 @@
 +++
 title = "International Mahjong Day"
 arcturus_wiki_id = "3837"
+updated = "2020-07-08T21:59:04Z"
 tags = ["Other"]
 +++
 

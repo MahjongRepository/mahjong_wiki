@@ -1,6 +1,7 @@
 +++
 title = "Yakuhai/Replays"
 arcturus_wiki_id = "3304"
+updated = "2018-06-20T21:30:17Z"
 tags = ["Yaku replays"]
 +++
 

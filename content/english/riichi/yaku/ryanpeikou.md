@@ -1,6 +1,7 @@
 +++
 title = "Ryanpeikou"
 arcturus_wiki_id = "412"
+updated = "2020-01-28T18:27:44Z"
 tags = ["Yaku"]
 +++
 

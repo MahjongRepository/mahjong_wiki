@@ -1,6 +1,7 @@
 +++
 title = "Suukantsu"
 arcturus_wiki_id = "235"
+updated = "2020-02-13T22:58:54Z"
 tags = ["Yakuman"]
 +++
 

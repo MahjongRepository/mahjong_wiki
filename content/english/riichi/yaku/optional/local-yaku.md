@@ -415,6 +415,7 @@ Usually an optional restriction of ryanhan-shibari will be applied to the dealer
   - Value: Yakuman
 
 The following charts show their differences on tracking a valid state of paarenchan:
+{{< table >}}
 
 <table>
 <thead>
@@ -485,6 +486,9 @@ wind</p></th>
 </tr>
 </tbody>
 </table>
+
+{{</ table >}}
+{{< table >}}
 
 <table>
 <thead>
@@ -579,6 +583,8 @@ wind</p></th>
 </tr>
 </tbody>
 </table>
+
+{{</ table >}}
 
 Depending on ruleset, the dealership may automatically rotate after paarenchan, or allowing to continue the next loop of paarenchan progress.
 

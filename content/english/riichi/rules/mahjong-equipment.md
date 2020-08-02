@@ -40,19 +40,27 @@ All tiles listed here follow the order used for dora.
 
 ### Kazehai
 
+{{< table >}}
+
 |                |                |                |                |
 | :------------: | :------------: | :------------: | :------------: |
 | {{< t 1z >}} | {{< t 2z >}} | {{< t 3z >}} | {{< t 4z >}} |
 |      Ton       |      Nan       |      Shaa      |      Pei       |
 
+{{</ table >}}
+
 **Kazehai** {{< kana "風牌" >}} are the wind tiles. They are indicated as East, South, West, and North. The wind tiles correlate to the player seating, and so therefore, it is best to remember the wind tiles in the East, South, West, and North order, as they correspond to the seating order. Likewise, this is significant to note for yakuhai.
 
 ### Sangenpai
+
+{{< table >}}
 
 |                |                |                |
 | :------------: | :------------: | :------------: |
 | {{< t 5z >}} | {{< t 6z >}} | {{< t 7z >}} |
 |      Haku      |     Hatsu      |      Chun      |
+
+{{</ table >}}
 
 **Sangenpai** {{< kana "三元牌" >}} are the dragon tiles. They are known as the dragons: white, green, and red. Just noting their color is sufficient enough here.
 

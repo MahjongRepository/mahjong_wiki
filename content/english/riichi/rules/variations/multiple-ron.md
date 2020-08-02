@@ -23,6 +23,7 @@ An alternate common variation, called *atamahane* (head bump) is to award a win 
 ## Scoring treatment
 
 Wins may be treated differently according to the rules in effect in a pro league, a jansou (or chain), a game server, or an organization.
+{{< table >}}
 
 | Location                  | Winners | Riichi deposits      | Current riichi sticks          | Bonus counters | Dealership   |
 | ------------------------- | ------- | -------------------- | ------------------------------ | -------------- | ------------ |
@@ -36,6 +37,7 @@ Wins may be treated differently according to the rules in effect in a pro league
 | Japanese Wikipedia        | Varies  | Implied »            | Priority                       | Varies         | Varies       |
 | EMA2016                   | 3       | Priority             | Winners reclaim, rest priority | Both           | Dealer keeps |
 
+{{</ table >}}
 1\. Please note that many organizations use head bump rules. These include...  
 2\. "Priority" designates current player priority (from discarder: Right \> Across \> Left), and not game seating priority as used to split ties on Tenhou (starting: East \> South \> West \> North).
 

@@ -36,6 +36,8 @@ In English, pinfu is sometimes referred to as "all sequences". However, the yaku
 
 The following examples are all "all sequence hands"; but they are not pinfu.
 
+{{< table >}}
+
 |                                                                                       |                                                                                                                                                                                                                                                                                        |
 | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ```machi|pattern = 456m345p78p55s8z5'67s|tilewaits = 69p|wait status = Agari``` | Every tile group is a sequence, but this hand is open.                                                                                                                                                                                                              |
@@ -49,6 +51,8 @@ The following examples are all "all sequence hands"; but they are not pinfu.
 | ```machi|pattern = 123m234s79s22567p|tilewaits = 8s|wait status = Agari```      | The middle wait does not qualify this hand as pinfu.                                                                                                                                                                                                             |
 |                                                                                       |                                                                                                                                                                                                                                                                                        |
 | ```machi|pattern = 456m123s3456678p|tilewaits = 369p|wait status = Agari```     | This hand qualifies for pinfu using either 6-pin or 9-pin. However, the first tile, 3-pin, functions as tanki. Coupled with the 6-pin, it is on a 3-6 nobetan. Nevertheless, 6-pin still qualifies for pinfu, because the han increase takes precedence over fu. |
+
+{{</ table >}}
 
 ## Fu
 

@@ -32,6 +32,8 @@ During hand development, it is important to understand the hand's machi for two 
 
 These five are essentially the basic wait patterns. Upon tenpai, they only look to complete either the last tile group or the pair.
 
+{{< table >}}
+
 | Name                          | Kanji/Kana | Header text                                                   |
 | ----------------------------- | ---------- | ------------------------------------------------------------- |
 | Ryanmen | 両面         | ```machi|pattern = 000z45s00000000z|tilewaits = 36s```  |
@@ -40,9 +42,13 @@ These five are essentially the basic wait patterns. Upon tenpai, they only look 
 | Kanchan | 嵌張         | ```machi|pattern = 000000z35m00000z|tilewaits = 4m```   |
 | Tanki     | 単騎         | ```machi|pattern = 0000000000001z|tilewaits = 1z```     |
 
+{{</ table >}}
+
 ## Named combinations
 
 The basic patterns can be combined for more complex patterns; and the wait patterns listed here have taken on names.
+
+{{< table >}}
 
 | Name                                  | Kanji/Kana | Header text                                                         |
 | ------------------------------------- | ---------- | ------------------------------------------------------------------- |
@@ -57,6 +63,8 @@ The basic patterns can be combined for more complex patterns; and the wait patte
 | Kantankan     |            | ```machi|pattern = 3335777s000000z|tilewaits = 456s```        |
 | Tatsumaki     | 竜巻         | ```machi|pattern = 6667888p000000z|tilewaits = 56789p```      |
 | Happoubijin | 八方美人       | ```machi|pattern = 2223456777s 000z|tilewaits = 12345678s ``` |
+
+{{</ table >}}
 
 ## Double yakuman patterns
 

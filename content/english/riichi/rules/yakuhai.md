@@ -23,6 +23,8 @@ tags = ["Yaku", "Game rules"]
 
 ## Tile patterns
 
+{{< table >}}
+
 | Yakupai    | Kanji | Yakupai      | Kanji |
 | ---------- | ----- | ------------ | ----- |
 | East seat  | 自風 東  | East round   | 場風 東  |
@@ -30,6 +32,8 @@ tags = ["Yaku", "Game rules"]
 | West seat  | 自風 西  | West round   | 場風 西  |
 | North seat | 自風 北  | Green dragon | 役牌 發  |
 | Red dragon | 役牌 中  | White dragon | 役牌 白  |
+
+{{</ table >}}
 
 All that is required for yakuhai is a single triplet or quad of an eligible tile. The three dragon tiles are always eligible, but among the wind tiles, only the round wind and the player's seat wind are eligible. Guest winds are ineligible.
 

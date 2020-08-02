@@ -10,7 +10,9 @@ Template for additional row entries can be found here: Template:Videogamerow
 
 ## List
 
-<table style="width:100%;">
+{{< table >}}
+
+<table>
 <colgroup>
 <col style="width: 20%" />
 <col style="width: 10%" />
@@ -344,6 +346,8 @@ Nintendo</p></th>
 <tbody>
 </tbody>
 </table>
+
+{{</ table >}}
 
 ## References
 

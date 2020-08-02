@@ -17,12 +17,16 @@ Japanese mahjong is quite complex with its many rules and special cases. This ar
   - In total, there are 136 tiles
   - The following are the three main suits, plus a class of "honor" tiles:
 
+{{< table >}}
+
 |                                |                                                  |
 | ------------------------------ | ------------------------------------------------ |
 | ``` \#mjt:123456789m ``` | 36 tiles in the **man** suit |
 | ``` \#mjt:123456789p ``` | 36 tiles in the **pin** suit |
 | ``` \#mjt:123456789s ``` | 36 tiles in the **sou** suit |
 | ``` \#mjt:1234567z ```   | 28 honor tiles               |
+
+{{</ table >}}
 
 ## Setup
 

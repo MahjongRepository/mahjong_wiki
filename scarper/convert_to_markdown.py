@@ -23,7 +23,7 @@ def main():
         meta = meta_info[wiki_file_name.split(".")[0]]
 
         # for debug
-        # if meta["id"] != "261":
+        # if meta["id"] != "3673":
         #     continue
 
         print(meta["title"], meta["id"])
@@ -91,6 +91,7 @@ def preprocess_wiki_file_content(content):
     content = process_infobox_blocks(content)
     content = process_kana_template(content)
     content = process_tiles_template(content)
+    content = process_tables(content)
 
     # let's just escape all unknown templates
     content = process_template_blocks(content)
@@ -120,7 +121,7 @@ def convert_to_markdown(meta):
             "%s:/data" % current_directory,
             "--user",
             "1000:1000",
-            "pandoc/core:2.9.2.1",
+            "pandoc/core:2.10",
             temp_wiki_file_path,
             "-o",
             temp_md_file_path,
@@ -221,6 +222,16 @@ def process_infobox_blocks(content):
     regex = r"{{infobox ([\S\s]*?)}}\n\n"
     content = re.sub(regex, r"```\1```\n\n", content)
 
+    return content
+
+
+def process_tables(content):
+    """
+    Wrap table to custom shortcut for better rendering.
+    """
+    regex = r"{\|([\S\s]*?)\|}"
+    content = re.sub(regex, r"{{< table >}}\n{|\1|}{{</ table >}}", content)
+    content = content.replace("Advanced(!!!)", "Advanced")
     return content
 
 

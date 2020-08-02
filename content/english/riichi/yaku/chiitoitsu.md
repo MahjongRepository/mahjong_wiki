@@ -44,6 +44,7 @@ Unlike most mahjong hands, chiitoitsu is an exception to the "four groups and a 
 ### Shanten
 
 The shanten count for chiitoitsu is simpler to count, which can be marked by the number of pairs in the hand.
+{{< table >}}
 
 <table>
 <colgroup>
@@ -101,6 +102,8 @@ The shanten count for chiitoitsu is simpler to count, which can be marked by the
 </tbody>
 </table>
 
+{{</ table >}}
+
 ### Acquiring ankou
 
 For chiitoitsu, the hand has numerous pairs during development. One of the pairs may develop into a triplet. This may encourage a player to develop the hand for toitoi, sanankou, or even suuankou.
@@ -125,10 +128,14 @@ A chiitoitsu hand may collect sequential series of paired tiles. The pattern wou
 
 As a special exception to the usual scoring rules, this hand is always given 25 fu. No other fu are awarded, even though a chiitoitsu hand would qualify for 2 fu due to the pair wait which it must have. The value is not rounded up to 30 fu. This produces a unique set of scoring values for chiitoitsu hands at a given han value, although they are the same as a hand with one fewer han and 50 fu. Like all hands, once a chiitoitsu hand is valued at 5 han or more, then it is counted for mangan or greater. Chiitoitsu with mentsumo produces a 3-han hand. Since chiitoitsu can only occur in a closed hand, it is not possible to produce a 2-han chiitoitsu hand by tsumo.
 
+{{< table >}}
+
 | Position                                                         | 2 han                                                | 3 han                                          | 4 han                                           | 5 han or more         |
 | ---------------------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------- | ----------------------------------------------- | --------------------- |
 | ```Score cell|tsumo=Non-dealer tsumo|ron=Non-dealer ron``` | ```Score cell|tsumo=*Not possible*|ron=1600``` | ```Score cell|tsumo=800/1600|ron=3200``` | ```Score cell|tsumo=1600/3200|ron=6400``` | Mangan, Haneman, etc. |
 | ```Score cell|tsumo=Dealer tsumo|ron=Dealer ron```         | ```Score cell|tsumo=*Not possible*|ron=2400``` | ```Score cell|tsumo=1600|ron=4800```     | ```Score cell|tsumo=3200|ron=9600```      |                       |
+
+{{</ table >}}
 
 High scoring chiitoitsu hands are possible without dora. The highest possible involves riichi, ippatsu, tsumo, haitei and chinitsu. With the 2 han for chiitoitsu, the combination brings the hand to a whopping 12 han. Note that tanyao cannot be added, as the hand 22334455667788 can be scored as ryanpeikou and pinfu for an additional 2 han over chiitoitsu. In some rule variations, this hand is an optional yakuman, known as "daisharin", "daichikurin", or "daisuurin", depending on the suit..
 

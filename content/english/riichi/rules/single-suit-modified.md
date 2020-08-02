@@ -18,10 +18,14 @@ This version takes the number of players into account. The regular four player m
 
 With 48 tiles, the wall is arranged as a single line of tiles. Each of the two players here are responsible for shuffling and then rearranging the tiles into a 12-tile width double stacked wall. Then players arrange their own walls left oriented to the opposite player's wall. Then the two walls are connected together to form a single double stacked line.
 
+{{< table >}}
+
 |                                              |                |                |                |                |                |                |                |                |                |                |                |                |                |                |                |                |                |                |                |                |                |                |                |                |                |  |                |
 | -------------------------------------------- | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- |  | -------------- |
 | Example wall, with break at dice roll of 5|- | Top            | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} |                | {{< t 0z >}} | {{< t 6p >}} | {{< t 0z >}} | {{< t 0z >}} |  | {{< t 0z >}} |
 | Bottom                                       | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}} |                |  |                |
+
+{{</ table >}}
 
 ### Dice procedure
 

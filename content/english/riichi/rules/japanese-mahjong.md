@@ -113,17 +113,25 @@ There are two notable **exceptions** to the 4 tile groups and a pair pattern. Pl
 
   - **Consecutive same suit Sequences**. Sequences must be in consecutive numbers per the following examples:
 
+{{< table >}}
+
 | Closed           | Open              |
 | ---------------- | ----------------- |
 | {{< t 123m >}} | {{< t -435p >}} |
 | {{< t 678p >}} | {{< t -456s >}} |
 
+{{</ table >}}
+
   - **Same suit triplets**. Triplets are three-of-a-kind. As such, the tiles must be of the same kind both in number and suit. Per examples:
+
+{{< table >}}
 
 | Closed           | Open              |
 | ---------------- | ----------------- |
 | {{< t 111p >}} | {{< t 6-66z >}} |
 | {{< t 777m >}} | {{< t 33-3z >}} |
+
+{{</ table >}}
 
   - **Quads** occur, when a player is in possession of all four tiles of a specific tile type. With possession of all four of a tile type, a player has the option to invoke special rules applied to this tile grouping. Even though, the tile group consists of four tiles, it is, in an actual sense, counted as three-of-a-kind plus one extra, where players are actually awarded special privileges for possessing four of one type of tile.
 

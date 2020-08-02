@@ -25,6 +25,8 @@ A tournament suite is available for users to become hosts and create their own t
 
 ### Rooms
 
+{{< table >}}
+
 <table>
 <thead>
 <tr class="header">
@@ -73,6 +75,7 @@ A tournament suite is available for users to become hosts and create their own t
 </tbody>
 </table>
 
+{{</ table >}}
 **Notes**:
 
   - The coin requirement is applied as follows:
@@ -84,6 +87,8 @@ A tournament suite is available for users to become hosts and create their own t
   - Depends on room description, some special room matches may require copper coins. If required, requirement of copper coins is usually applied identically to Silver Room. Meanwhile, the progression of special room chests will be activated.
 
 ### Rank Upgrade
+
+{{< table >}}
 
 <table>
 <thead>
@@ -200,6 +205,7 @@ A tournament suite is available for users to become hosts and create their own t
 </tbody>
 </table>
 
+{{</ table >}}
 **Notes**:
 
   - Players will not be downgraded in Novice rank, but will still lose upgrading points.
@@ -223,6 +229,8 @@ Formula: `PtsGain = EndScore + RankPts`
 
 The result is always rounded up to an integer. (e.g. +68.2 → `+69`, -1.9 → `-1`)
 
+{{< table >}}
+
 |               |             |                   |                   |
 | ------------- | ----------- | ----------------- | ----------------- |
 | Rank Points|- | Room        | 4P (East / South) | 3P (East / South) |
@@ -232,6 +240,8 @@ The result is always rounded up to an integer. (e.g. +68.2 → `+69`, -1.9 → `
 | Gold Room     | \+40 / +80  | \+20 / +40        | \+55 / +105       |
 | Jade Room     | \+55 / +110 | \+30 / +60        | \+75 / +160       |
 | Throne Room   | \+60 / +120 | \+30 / +60        | \+120 / +240      |
+
+{{</ table >}}
 
 #### Calculation of Copper Coins
 
@@ -244,6 +254,7 @@ For the Gain/Lost of match, the whole procedure is listed as follows:
 
 1.  Calculate End Score based on final point results.
 2.  Calculate Copper-coin lost for negative End Scores based on the exchange rate. The lost is always capped to a maximum lost (`MaximumLost = EntryLimit - EntryFee`) if exceeded the limit (`EndScore < -40`).
+    {{< table >}}
     <table>
     <thead>
     <tr class="header">
@@ -308,12 +319,15 @@ For the Gain/Lost of match, the whole procedure is listed as follows:
     </tr>
     </tbody>
     </table>
+    {{</ table >}}
     Formula: `CoinsLost = EndScore<-40 ? MaximumLost : EndScore*ExchangeRate`
 3.  Sum up the total lost.
 4.  Distribute the coins proportionally to other players based on End Score.
     Formula: `CoinsGain = Sum(CoinsLosts) * EndScore / Sum(PositiveEndScores)`
 
 ### Chests
+
+{{< table >}}
 
 <table>
 <thead>
@@ -386,7 +400,11 @@ to Open</p></th>
 </tbody>
 </table>
 
+{{</ table >}}
+
 ### Chest Items
+
+{{< table >}}
 
 | Room          | Chest Name          | Available Items                                  | Quantity |
 | ------------- | ------------------- | ------------------------------------------------ | -------- |
@@ -395,6 +413,8 @@ to Open</p></th>
 | Jade Room     | Jade Chest          | Blue Presents, Spheres, sometimes Green Presents | 2        |
 | Throne Room   | Throne Chest        | ?                                                | ?        |
 | Special Rooms | Ichihime's Gift Box | ?                                                | ?        |
+
+{{</ table >}}
 
 ## Characters
 
@@ -875,6 +895,8 @@ Currently there're 27 characters in game, including 19 females and 8 males.
 
 Each character has a unique Bond Value. The value can be enhanced by gaming or gifting to unlock corresponding vocals and story plots. At the maximum affection level, all voice lines will be unlocked, and the character will read out yakus after winning a hand. Characters can be entangled to unlock new appearance as a skin that can be chosen, accompanying with 3 extra emotes.
 
+{{< table >}}
+
 |               |       |           |                |
 | ------------- | ----- | --------- | -------------- |
 | Bond Values|- | Level | Upgrading | Total Required |
@@ -883,6 +905,8 @@ Each character has a unique Bond Value. The value can be enhanced by gaming or g
 | ❤❤❤           | 10000 | 18000     |                |
 | ❤❤❤❤          | 20000 | 38000     |                |
 | ❤❤❤❤❤         | 50000 | 88000     |                |
+
+{{</ table >}}
 
 Bond values can be acquired as follows:
 
@@ -898,12 +922,15 @@ If playing with a max-bond character, the bond values will be tracked such that 
 ### Gifts
 
 Gifts can be given to a character to increase your bond with that character (see Bond System section) or turned into gold dust. 50 gold dust can be used at the lucky cat to attempt getting larger rewards, including a new character.
+{{< table >}}
 
 | Gift Quality | Resulting Gold Dust |
 | ------------ | ------------------- |
 | Green        | 1                   |
 | Blue         | 5                   |
 | Purple       | 25                  |
+
+{{</ table >}}
 
 ## Rules
 
@@ -1074,6 +1101,8 @@ The tournament lobby has been made available, and Yostar launched the first Catf
 
 The following titles are acquired by satisfying enough amount on charge. The title gets upgraded when acquiring the next level, accompanying with corresponding rewards and bonus effects.
 
+{{< table >}}
+
 <table>
 <thead>
 <tr class="header">
@@ -1219,6 +1248,8 @@ The following titles are acquired by satisfying enough amount on charge. The tit
 </tbody>
 </table>
 
+{{</ table >}}
+
 **Notes:**
 
   - A rough calculation between VIP points and actual cost can be done by the following formula:  
@@ -1237,6 +1268,8 @@ The following titles are acquired by satisfying enough amount on charge. The tit
 ## External links
 
 #### General
+
+{{< table >}}
 
 <table>
 <thead>
@@ -1275,6 +1308,8 @@ Youtube: <a href="https://www.youtube.com/channel/UC8Wn_3U-fssptm6US_nsoOA">【�
 </tr>
 </tbody>
 </table>
+
+{{</ table >}}
 
 #### Other Links
 

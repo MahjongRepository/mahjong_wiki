@@ -38,9 +38,13 @@ If the optional yaku daichisei is being used, since it is necessarily a special 
 
 Yakuman point values are transferred as follows:
 
+{{< table >}}
+
 | Dealer ron                | Dealer tsumo            | Non-dealer ron            | Non-dealer tsumo                                   |
 | ------------------------- | ----------------------- | ------------------------- | -------------------------------------------------- |
 | 48,000 from the discarder | 16,000 from all players | 32,000 from the discarder | 16,000 from the dealer; 8,000 from the non-dealers |
+
+{{</ table >}}
 
 With multiple yakuman, point values are based on the yakuman point values and multiplied by the applied number of yakuman in the hand. With the single yakuman cap, this multiplier is irrelevant.
 

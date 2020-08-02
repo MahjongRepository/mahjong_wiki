@@ -8,6 +8,8 @@ This is a list of various iterations and permutations for the yakuman, chuuren p
 
 ### Tenpai configurations
 
+{{< table >}}
+
 <table>
 <thead>
 <tr class="header">
@@ -198,6 +200,8 @@ This is a list of various iterations and permutations for the yakuman, chuuren p
 </tr>
 </tbody>
 </table>
+
+{{</ table >}}
 
 The remaining configurations are all mirrors of the ones listed above.
 

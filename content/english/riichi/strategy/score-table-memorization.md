@@ -89,6 +89,8 @@ Points for tsumo total exactly or closely to that of the ron values. When a non-
 
 ### Mangan and more
 
+{{< table >}}
+
 <table>
 <thead>
 <tr class="header">
@@ -139,6 +141,8 @@ Any yakuman</p></td>
 </tbody>
 </table>
 
+{{</ table >}}
+
 For **mangan** {{< kana "満貫" >}} and beyond, a point cap is applied, such that counting fu may not be necessary. Fu is still be counted; but for scoring purposes, it is not necessary to count fu, due to the cap on the basic points calculation. Mangan begins with hands valued at 3 han and 70 fu, 4 han and 40 fu, or 5 han. For each, if the fu count is greater, they are retained at mangan.
 
 So, this section of the scoring table easy to remember. For easier memorization, these higher values possess specific names, namely: haneman, baiman, sanbaiman, and yakuman. Likewise, they are worth factors more than mangan.
@@ -160,24 +164,36 @@ Among the hands valued at 1 han to 4 han, the most common scores involve 30 fu o
 
 Naturally, the first score to consider involves 1 han and 30 fu. Of all the hand values possible, this is the smallest. While the 20 fu values exist, 1 han and 20 fu does not, as no hand can be valued as such. For non-dealer ron, the points for 1 han and 30 fu is 1000, or **senten**. For non-dealer tsumo, it is 300/500 or 500/300, which may be referred as **gomii**.
 
+{{< table >}}
+
 | Position                                                         | 1 han 30 fu                                   | 2 han 30 fu                                    | 3 han 30 fu                                     | 4 han 30 fu                                     |
 | ---------------------------------------------------------------- | --------------------------------------------- | ---------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
 | ```Score cell|tsumo=Non-dealer tsumo|ron=Non-dealer ron``` | ```Score cell|tsumo=300/500|ron=1000``` | ```Score cell|tsumo=500/1000|ron=2000``` | ```Score cell|tsumo=1000/2000|ron=3900``` | ```Score cell|tsumo=2000/3900|ron=7700``` |
 | ```Score cell|tsumo=Dealer tsumo|ron=Dealer ron```         | ```Score cell|tsumo=500|ron=1500```     | ```Score cell|tsumo=1000|ron=2900```     | ```Score cell|tsumo=2000|ron=5800```      | ```Score cell|tsumo=3900|ron=11600```     |
+
+{{</ table >}}
+
+{{< table >}}
 
 | Position                                                         | 1 han 40 fu                                   | 2 han 40 fu                                    | 3 han 40 fu                                     |
 | ---------------------------------------------------------------- | --------------------------------------------- | ---------------------------------------------- | ----------------------------------------------- |
 | ```Score cell|tsumo=Non-dealer tsumo|ron=Non-dealer ron``` | ```Score cell|tsumo=400/700|ron=1300``` | ```Score cell|tsumo=700/1300|ron=2600``` | ```Score cell|tsumo=1300/2600|ron=5200``` |
 | ```Score cell|tsumo=Dealer tsumo|ron=Dealer ron```         | ```Score cell|tsumo=700|ron=2000```     | ```Score cell|tsumo=1300|ron=3900```     | ```Score cell|tsumo=2600|ron=7700```      |
 
+{{</ table >}}
+
 ### 25 fu
 
 The 25 fu column involves the yaku, chiitoitsu. This yaku is unique enough, such that it has its own fu column dedicated to it. The uniqueness stems from its own hand pattern, as it does not follow the typical "4 tile groups and a pair" pattern like most hands. Unlike the general rule to counting fu, the fu for chiitoitsu is not rounded. Instead, it remains at 25 fu. This is set by definition.
+
+{{< table >}}
 
 | Position                                                         | 2 han                                         | 3 han                                          | 4 han                                           |
 | ---------------------------------------------------------------- | --------------------------------------------- | ---------------------------------------------- | ----------------------------------------------- |
 | ```Score cell|tsumo=Non-dealer tsumo|ron=Non-dealer ron``` | ```Score cell|tsumo=400/800|ron=1600``` | ```Score cell|tsumo=800/1600|ron=3200``` | ```Score cell|tsumo=1600/3200|ron=6400``` |
 | ```Score cell|tsumo=Dealer tsumo|ron=Dealer ron```         | ```Score cell|tsumo=800|ron=2400```     | ```Score cell|tsumo=1600|ron=4800```     | ```Score cell|tsumo=3200|ron=9600```      |
+
+{{</ table >}}
 
 Once again, a chiitoitsu valued at 5 han or greater follows the "mangan" scoring pattern.
 
@@ -191,34 +207,48 @@ In general, if a fu count is divisible by 2 and a fu column of that result exist
 
 Hands with 20 fu only applies to pinfu with mentsumo. This yaku is defined as a hand that does not earn fu. Although, it still earns the 10 fu with closed ron. Otherwise, the hand does not produce fu by any other means.
 
+{{< table >}}
+
 | Position                                                         | 1 han 40 fu = 2 han 20 fu                     | 2 han 40 fu = 3 han 20 fu                      | 3 han 40 fu = 4 han 20 fu                       |
 | ---------------------------------------------------------------- | --------------------------------------------- | ---------------------------------------------- | ----------------------------------------------- |
 | ```Score cell|tsumo=Non-dealer tsumo|ron=Non-dealer ron``` | ```Score cell|tsumo=400/700|ron=1300``` | ```Score cell|tsumo=700/1300|ron=2600``` | ```Score cell|tsumo=1300/2600|ron=5200``` |
 | ```Score cell|tsumo=Dealer tsumo|ron=Dealer ron```         | ```Score cell|tsumo=700|ron=2000```     | ```Score cell|tsumo=1300|ron=3900```     | ```Score cell|tsumo=2600|ron=7700```      |
 
+{{</ table >}}
+
 ### 25 fu and 50 fu
 
 Now, 25 fu can be doubled to 50 fu. So, knowing the "chiitoitsu" point values, one would already know the 50 fu column.
+
+{{< table >}}
 
 | Position                                                         | 2 han 25 fu = 1 han 50 fu                     | 3 han 25 fu = 2 han 50 fu                      | 4 han 25 fu = 3 han 50 fu                       |
 | ---------------------------------------------------------------- | --------------------------------------------- | ---------------------------------------------- | ----------------------------------------------- |
 | ```Score cell|tsumo=Non-dealer tsumo|ron=Non-dealer ron``` | ```Score cell|tsumo=800/400|ron=1600``` | ```Score cell|tsumo=1600/800|ron=3200``` | ```Score cell|tsumo=3200/1600|ron=6400``` |
 | ```Score cell|tsumo=Dealer tsumo|ron=Dealer ron```         | ```Score cell|tsumo=800|ron=2400```     | ```Score cell|tsumo=1600|ron=4800```     | ```Score cell|tsumo=3200|ron=9600```      |
 
+{{</ table >}}
+
 Continuing the equivalences place the point values at mangan.
 
 ### 30 fu and 60 fu
+
+{{< table >}}
 
 | Position                                                         | 2 han 30 fu = 1 han 60 fu                      | 3 han 30 fu = 2 han 60 fu                       | 4 han 30 fu = 3 han 60 fu                       |
 | ---------------------------------------------------------------- | ---------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
 | ```Score cell|tsumo=Non-dealer tsumo|ron=Non-dealer ron``` | ```Score cell|tsumo=500/1000|ron=2000``` | ```Score cell|tsumo=1000/2000|ron=3900``` | ```Score cell|tsumo=2000/3900|ron=7700``` |
 | ```Score cell|tsumo=Dealer tsumo|ron=Dealer ron```         | ```Score cell|tsumo=1000|ron=2900```     | ```Score cell|tsumo=2000|ron=5800```      | ```Score cell|tsumo=3900|ron=11600```     |
 
+{{</ table >}}
+
 ## 70 fu and more
 
 This portion of the scoring table is the least used. Hands scored at 70+ fu rarely occur; but they most certainly do occur. To score 70+ fu, the hand needs the large amount of fu generated by closed kan involving terminal or honor tiles. Otherwise, the hand may also involve any multiple kan calls. Furthermore, the 70+ fu scores only apply to 1 or 2 han hands. With 3 han or more, the value is already set to mangan.
 
-<table style="width:120%;">
+{{< table >}}
+
+<table>
 <colgroup>
 <col style="width: 55%" />
 <col style="width: 32%" />
@@ -254,21 +284,31 @@ This portion of the scoring table is the least used. Hands scored at 70+ fu rare
 </tbody>
 </table>
 
+{{</ table >}}
+
 Point equivalences continue to apply for the 40 fu and 80 fu column, as well as the 50 fu and 100 fu column. The columns for 70 fu, 90 fu, and 110 fu all produce unique point values not found elsewhere on the scoring table. Therefore, those may have to be memorized on their own. Again, they do not occur frequently; so it is best and practical to learn these values after learning the rest of the scoring table.
 
 ### 40 fu and 80 fu
+
+{{< table >}}
 
 | Position                                                         | 2 han 40 fu = 1 han 80 fu                      | 3 han 40 fu = 2 han 80 fu                       |
 | ---------------------------------------------------------------- | ---------------------------------------------- | ----------------------------------------------- |
 | ```Score cell|tsumo=Non-dealer tsumo|ron=Non-dealer ron``` | ```Score cell|tsumo=700/1300|ron=2600``` | ```Score cell|tsumo=1300/2600|ron=5200``` |
 | ```Score cell|tsumo=Dealer tsumo|ron=Dealer ron```         | ```Score cell|tsumo=1300|ron=3900```     | ```Score cell|tsumo=2600|ron=7700```      |
 
+{{</ table >}}
+
 ### 50 fu and 100 fu
+
+{{< table >}}
 
 | Position                                                         | 2 han 50 fu = 1 han 100 fu                     | 4 han3 han 50 fu = 2 han 100 fu                 |
 | ---------------------------------------------------------------- | ---------------------------------------------- | ----------------------------------------------- |
 | ```Score cell|tsumo=Non-dealer tsumo|ron=Non-dealer ron``` | ```Score cell|tsumo=800/1600|ron=3200``` | ```Score cell|tsumo=1600/3200|ron=6400``` |
 | ```Score cell|tsumo=Dealer tsumo|ron=Dealer ron```         | ```Score cell|tsumo=1600|ron=4800```     | ```Score cell|tsumo=3200|ron=9600```      |
+
+{{</ table >}}
 
 Once again, these two values are directly linked to the chiitoitsu values. However, these han and fu combinations do not apply to chiitoitsu. As a reminder, the equivalences are (2 han 50 fu = 3 and 25 fu) and (3 han 50 fu = 4 and 25 fu).
 

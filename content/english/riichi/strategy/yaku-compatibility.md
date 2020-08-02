@@ -10,6 +10,8 @@ This is a table showing the compatibilities of the different yaku with each othe
 
 ## Yaku
 
+{{< table >}}
+
 | Key         |
 | ----------- |
 | Abbrevation |
@@ -39,6 +41,8 @@ This is a table showing the compatibilities of the different yaku with each othe
 | HAI         |
 | HOU         |
 | CHK         |
+
+{{</ table >}}
 
 Yaku strategy involves viability to form yaku and maximizing hand value, if possible. This maximization often involves the recognition of the different yaku forming in one hand. Often, this affects the decision which tiles to keep and which to discard.
 
@@ -74,6 +78,8 @@ Even different yakuman may be combined. As a result, point values may increase b
 
 ### Compatibility
 
+{{< table >}}
+
 |                                             |     |                 |                 |                 |                 |                 |                 |                 |                 |                 |                 |                 |
 | ------------------------------------------- | --- | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- |
 |                                             | KMU | DSG             | SUA             | SSS             | DSS             | TSU             | RYU             | CHR             | CHU             | SUK             | TEN             | CHH             |
@@ -89,6 +95,8 @@ Even different yakuman may be combined. As a result, point values may increase b
 | Suukantsu           | SUK | ```no```  | ```yes``` | ```yes``` | ```yes``` | ```yes``` | ```yes``` | ```yes``` | ```yes``` | ```no```  |                 | ```no```  |
 | Tenhou     | TEN | ```yes``` | ```yes``` | ```yes``` | ```yes``` | ```yes``` | ```yes``` | ```yes``` | ```yes``` | ```yes``` | ```no```  |                 |
 | Chiihou    | CHH | ```yes``` | ```yes``` | ```yes``` | ```yes``` | ```yes``` | ```yes``` | ```yes``` | ```yes``` | ```yes``` | ```no```  |                 |
+
+{{</ table >}}
 
 ## External links
 

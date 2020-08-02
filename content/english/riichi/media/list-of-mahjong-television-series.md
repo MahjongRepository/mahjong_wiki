@@ -8,6 +8,8 @@ This is an incomplete list of televised series portraying mahjong.
 
 ## Series
 
+{{< table >}}
+
 | Title                                                                       | Medium          | Studio                              | Series aired                       | Episode count | Ref        |
 | --------------------------------------------------------------------------- | --------------- | ----------------------------------- | ---------------------------------- | ------------- | ---------- |
 | Akagi: Yami ni Oritatta Tensai | Animated series | Madhouse                            | October 4, 2005 – March 28, 2006   | 26            | \[1\]      |
@@ -22,6 +24,8 @@ This is an incomplete list of televised series portraying mahjong.
 | Shin Janki                                                                  | TV series       |                                     |                                    |               |            |
 | Shin Janki                                                                  | Movies          |                                     |                                    |               |            |
 | Shoubushi Densetsu Tetsuya         | Animated series | Toei Animation                      | October 7, 2000 – March 24, 2001   | 20            | \[11\]     |
+
+{{</ table >}}
 
 ## References
 

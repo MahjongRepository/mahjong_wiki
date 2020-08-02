@@ -11,12 +11,16 @@ tags = ["Terminology", "Game rules"]
 ![Dead wall showing 2-pin as the dora indicator.](Dora_and_Wanpai.jpg "Dead wall showing 2-pin as the dora indicator.")
 The fourteen tiles for the dead wall are arranged accordingly. Also, the last four tiles to the live wall are also included.
 
+{{< table >}}
+
 | Dead wall      |                | End of live wall                  |
 | -------------- | -------------- | --------------------------------- |
 | {{< t 0z >}} | {{< t 0z >}} | {{< t 2p >}}                    |
 | 1st kan draw   | 3rd kan draw   | Dora indicator |
 | {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}}                    |
 | 2nd kan draw   | 4th kan draw   | 1st uradora                       |
+
+{{</ table >}}
 
 For every hand, the dead wall always starts with the very same arrangement. The kan draws are always the four tiles clockwise to the dora indicator. These are the **rinshanpai** {{< kana "嶺上牌" >}}, which are only accessible via calls for kan. Not necessary but recommended, the first kan draw can be placed to the side of the second kan draw, like in the image to the right. This is to prevent accidental revealing of that first tile, in case it gets knocked off.
 

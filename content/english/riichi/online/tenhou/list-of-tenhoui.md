@@ -8,6 +8,8 @@ A player acquiring the rank of Tenhoui has reached the highest rank possible on 
 
 ## Tenhoui
 
+{{< table >}}
+
 | \# | Acquired Rank Date | Player ID                       | Games Played | Notes                          | Stats                                               |
 | -- | ------------------ | ------------------------------- | ------------ | ------------------------------ | --------------------------------------------------- |
 | 1  | 2011-02-04         | ASAPIN     | 4899戦        |                                | [1](https://nodocchi.moe/tenhoulog/#name=ASAPIN)    |
@@ -27,7 +29,11 @@ A player acquiring the rank of Tenhoui has reached the highest rank possible on 
 | 15 | 2020-01-27         | 右折するひつじ      | 2778戦        | おかもと's duplicate account \[1\] | [14](https://nodocchi.moe/tenhoulog/#name=右折するひつじ)  |
 | 16 | 2020-07-04         | 藤井聡太        | 4010戦        | 太くないお's duplicate account      | [15](https://nodocchi.moe/tenhoulog/#name=藤井聡太)     |
 
+{{</ table >}}
+
 ## Sanma Tenhoui
+
+{{< table >}}
 
 | \# | Acquired Rank Date | Player ID                      | Games Played | Notes                                                                        | Stats                                                |
 | -- | ------------------ | ------------------------------ | ------------ | ---------------------------------------------------------------------------- | ---------------------------------------------------- |
@@ -47,6 +53,8 @@ A player acquiring the rank of Tenhoui has reached the highest rank possible on 
 | 14 | 2019-06-20         | 藤井聡太                           | 1173戦        | First player achieving tenhouis in both 4P (id: 太くないお) and 3P mahjongs \[2\] | [25](https://nodocchi.moe/tenhoulog/#name=藤井聡太)      |
 | 15 | 2019-08-08         | ！”＃＄％＆’（                       | 20955戦       |                                                                              | \[<https://nodocchi.moe/tenhoulog/#name=>！”＃＄％＆’（\]  |
 | 16 | 2020-04-04         | NEGITS                         | 4315戦        |                                                                              | [26](https://nodocchi.moe/tenhoulog/#name=NEGITS)    |
+
+{{</ table >}}
 
 ## References
 

@@ -12,10 +12,14 @@ Mahjong features four types of tiles in terms of suits: the numbered suits and h
 
 ### Shuntsu
 
+{{< table >}}
+
 |                  |                   |                                      |
 | :--------------: | :---------------: | :----------------------------------: |
 | {{< t 123m >}} | {{< t -123p >}} |          {{< t -213s >}}           |
 |  Anjun - Closed  |   Minjun - Open   | Minjun - Open (middle number called) |
+
+{{</ table >}}
 
 **Shuntsu** {{< kana "順子" >}} is a tile group consisting of three sequential numbered tiles. Self-drawn sequences are called **anjun** {{< kana "暗順" >}}. The open variety are **minjun** {{< kana "明順" >}}.
 
@@ -23,21 +27,28 @@ To form a **minjun**, players are limited to calling tiles from kamicha, or the 
 
 ### Koutsu
 
+{{< table >}}
+
 |                  |                   |
 | :--------------: | :---------------: |
 | {{< t 111z >}} | {{< t 33-3z >}} |
 |  Ankou - Closed  |   Minkou - Open   |
+
+{{</ table >}}
 
 **Koutsu** {{< kana "刻子" >}} is a tile group, consisting of three of the same type of tiles. In English, koutsu are referred as "triplets". Players may develop **minkou** {{< kana "明刻" >}} (open triplets) by calling on discarded tiles, while in possession of pairs.
 
 ### Kantsu
 
 ```main|Kan```
+{{< table >}}
 
 |                     |                    |                           |
 | :-----------------: | :----------------: | :-----------------------: |
 | {{< t 0z99p0z >}} | {{< t 555-5m >}} |    {{< t 7-7-77s >}}    |
 |   Ankan - Closed    |   Minkan - Open    | Shouminkan - Open (added) |
+
+{{</ table >}}
 
 Tile groups involving four-of-a-kind take on a different nature than the other tile groups. **Kantsu** {{< kana "槓子" >}} must be declared by kan, to be useful. Kan is a special tile call in the game. This call forms a meld from four identical tiles. After the declaration of "kan", then a special set of rules are invoked.
 

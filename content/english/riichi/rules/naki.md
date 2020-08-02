@@ -22,6 +22,8 @@ In addition, kuikae is an additional rule to tile calls. Players may have tile g
 
 ## Tile calls
 
+{{< table >}}
+
 |      |    |                 |
 | ---- | :-: | --------------- |
 | Chii | チー | Sequences       |
@@ -29,6 +31,7 @@ In addition, kuikae is an additional rule to tile calls. Players may have tile g
 | Kan  | カン | Four-of-a-kind  |
 | Ron  | ロン | Win on discard  |
 
+{{</ table >}}
 For each **immediate** discard, players have the option to make claims on discarded tiles based on the following conditions:
 
   - For all claims, a player must have 2 out of the 3 tiles in the hand necessary to form a complete meld.
@@ -47,11 +50,14 @@ For each **immediate** discard, players have the option to make claims on discar
 
 ### Pon
 
+{{< table >}}
+
 |                   |                   |                   |
 | :---------------: | :---------------: | :---------------: |
 |       Left        |      Across       |       Right       |
 | {{< t -111p >}} | {{< t 1-11p >}} | {{< t 11-1p >}} |
 
+{{</ table >}}
 Toitsu, or pairs, may be upgraded to minkou, or open triplets. Unlike "chii", the call for **pon** {{< kana "ポン" >}} may be called from any player on the board. As long as a player possess two identical tiles and a third is discarded, the player may call for that discarded tile regardless. Because any player may call, sometimes a player's turn may be skipped.
 
 ### Kan
@@ -93,11 +99,15 @@ Finally, some yaku are not affected by kuisagari. Even when open, they retain th
 
 The following yaku are affected by kuisagari:
 
+{{< table >}}
+
 | From 2 han to 1 han             | From 3 han to 2 han           | From 6 han to 5 han             |
 | ------------------------------- | ----------------------------- | ------------------------------- |
 | Sanshoku | Honitsu | Chinitsu |
 | Ittsu       | Junchan |                                 |
 | Chanta     |                               |                                 |
+
+{{</ table >}}
 
 ### Atozuke
 
@@ -107,12 +117,16 @@ A side effect to kuisagari involves **atozuke**. Tile calls may put a hand into 
 
 ## Other tile calls
 
+{{< table >}}
+
 |                |                          |                                         |
 | -------------- | ------------------------ | --------------------------------------- |
 | nowrap| Kan    | align=center nowrap| カン  | Forming a quad                          |
 | nowrap| Kita   | align=center nowrap| キタ  | Picking a North dora |
 | nowrap| Riichi | align=center nowrap| リーチ | Ready hand declaration                  |
 | nowrap| Tsumo  | align=center nowrap| ツモ  | Win by self-draw                        |
+
+{{</ table >}}
 
 These tile calls do not apply to discards. Just like the discard calls, these calls are announcements.
 

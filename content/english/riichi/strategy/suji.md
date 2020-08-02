@@ -12,6 +12,8 @@ tags = ["Terminology", "Strategy"]
 
 The intervals for suji apply to any of the numbered suits. Nine types of intervals are available. For these examples, each of the three suits are used; but they apply to all of them. Four tile patterns particularly utilize these intervals: ryanmen, ryanmenten, nobetan, and sanmentan. In the following table, only the first two are examined.
 
+{{< table >}}
+
 <table style="width:10%;">
 <colgroup>
 <col style="width: 2%" />
@@ -109,6 +111,8 @@ OR<br />
 </tbody>
 </table>
 
+{{</ table >}}
+
 The left column shows tiles that may appear in a player's hand, while the middle tiles show the tiles needed in order to complete a needed tile group. The recognition makes it helpful to identify waiting tiles by association. In the case of these waiting patterns, if a hand is waiting for one tile, it is likely waiting for another tile in the interval. Even if these take on Japanese names, they are simply the numbers. Finally, the end result shows the the waiting tiles as the completed tile grouping(s).
 
 ### Nakasuji
@@ -141,11 +145,15 @@ The dora itself can also change things. If the 1 or 2 is dora, the player would 
 
 For defense, eighteen different suji are in consideration as listed above. Six basic suji multiplied by the three suits produces the count of eighteen suji. After all, hand shapes frequently depend on ryanmen to win, as they are the most efficient and have the widest range of waiting tiles involving just two tiles in the hand. By counting the number of visible suji, players can determine roughly how risky it is to discard a dangerous tile.
 
+{{< table >}}
+
 |                       |                       |                       |
 | --------------------- | --------------------- | --------------------- |
 | Manzu (1 - 4) (4 - 7) | Pinzu (1 - 4) (4 - 7) | Souzu (1 - 4) (4 - 7) |
 | Manzu (2 - 5) (5 - 8) | Pinzu (2 - 5) (5 - 8) | Souzu (2 - 5) (5 - 8) |
 | Manzu (3 - 6) (6 - 9) | Pinzu (3 - 6) (6 - 9) | Souzu (3 - 6) (6 - 9) |
+
+{{</ table >}}
 
 ## Offense
 

@@ -1,0 +1,5 @@
+{{ $htmlTable := .Inner | markdownify }}
+{{ $old := "<table>" }}
+{{ $new := printf "<table class=\"table table-striped table-bordered\">" }}
+{{ $htmlTable := replace $htmlTable $old $new }}
+{{ $htmlTable | safeHTML }}

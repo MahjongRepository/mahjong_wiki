@@ -7,6 +7,7 @@ tags = ["Terminology"]
 **Tenbou** {{< kana "点棒" >}} are the **point sticks** used to keep track of scores. In a sense, these sticks may be viewed as the game's "currency". When points are exchanged between players, they may either give exact values or give values while requiring some change. Some gambling games may actually tie these point sticks to money.
 
 In the event of honba, players use 100 point sticks and add them to the round indicator. These merely serve as markers, and when a dealer rotation occur, players keep their 100 point sticks used to keep track of the honba count, after a dealer rotation.
+{{< table >}}
 
 |                                                     |                   |
 | :-------------------------------------------------: | ----------------- |
@@ -15,6 +16,7 @@ In the event of honba, players use 100 point sticks and add them to the round in
 |  ![Tenbou\_5K.png](Tenbou_5K.png "Tenbou_5K.png")   | 5000 point stick  |
 | ![Tenbou\_10K.png](Tenbou_10K.png "Tenbou_10K.png") | 10000 point stick |
 
+{{</ table >}}
 At the start of the game, players begin with the regular 25,000 points:
 
   - A single 10,000 stick
@@ -32,11 +34,15 @@ Most sets come with white tenbou. Some come with colored tenbou, or they can be 
 
 Given the scores on the score table, certain amounts can be exchanged efficiently via larger score payments while receiving change. Naturally, various score amounts can also be paid exactly while via efficient exchanges. The following are some specific examples:
 
+{{< table >}}
+
 | Payment | Amount paid | Tenbou                    | Amount returned | Tenbou               |
 | ------- | ----------- | ------------------------- | --------------- | -------------------- |
 | 3900    | 5000        | 5k stick                  | 1100            | 1k stick + 100 stick |
 | 8000    | 10000       | 10k stick                 | 2000            | Two 1k sticks        |
 | 11600   | 12000       | 10k stick + two 1k sticks | 400             | Four 100 sticks      |
+
+{{</ table >}}
 
 ## External links
 

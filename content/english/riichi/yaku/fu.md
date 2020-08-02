@@ -13,6 +13,8 @@ tags = ["Terminology", "Yaku", "Scoring"]
 
 For shuntsu (sequences), the fu count is 0. For koutsu (triplet) and kantsu (four-of-a-kind), the fu value depends on whether they are tanyaohai (simples) or jihai/routouhai (honor/terminals).
 
+{{< table >}}
+
 | English        | Romaji                      | Simples | Honor/Terminal |
 | -------------- | --------------------------- | ------- | -------------- |
 | Open triplet   | Minkou | 2 fu    | 4 fu           |
@@ -20,11 +22,15 @@ For shuntsu (sequences), the fu count is 0. For koutsu (triplet) and kantsu (fou
 | Closed triplet | Ankou  | 4 fu    | 8 fu           |
 | Closed kan     | Ankan     | 16 fu   | 32 fu          |
 
+{{</ table >}}
+
 ### Waits
 
 The different basic wait patterns count for fu as well. Combination wait patterns are not listed, such as nobetan, sanmentan, and ryanmenten. Both nobetan and sanmentan counts for tanki; and ryanmenten counts for ryanmen. Other combination patterns factor fu the same as the basic patterns listed here. However, the fu counts only one time. For example, a combination of tanki and kanchan only generates 2 fu from one pattern but not for both.
 
 As for shanpon, the fu generated with this pattern rests on the tile groupings themselves as indicated in the above table.
+
+{{< table >}}
 
 | English     | Romaji                        | Fu value |
 | ----------- | ----------------------------- | -------- |
@@ -32,6 +38,8 @@ As for shanpon, the fu generated with this pattern rests on the tile groupings t
 | Closed wait | Kanchan | 2 fu     |
 | Edge wait   | Penchan | 2 fu     |
 | Pair wait   | Tanki     | 2 fu     |
+
+{{</ table >}}
 
 ### Yakuhai pair
 

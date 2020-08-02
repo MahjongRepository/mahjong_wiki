@@ -55,6 +55,7 @@ Reasonable development of this hand begins with a dealt set of tiles that gives 
 ### Attempting kokushi
 
 ![Kokushi musou with real tiles.](Kokushi_real.jpg "Kokushi musou with real tiles.")
+{{< table >}}
 
 |                                              |      |                 |                   |        |                                                                              |      |
 | -------------------------------------------- | ---- | --------------- | ----------------- | ------ | ---------------------------------------------------------------------------- | ---- |
@@ -67,6 +68,8 @@ Reasonable development of this hand begins with a dealt set of tiles that gives 
 | ```kyoku|S|2|0```                      | 11   | 2nd             | Ron after 2nd     | 7447   | [6](http://tenhou.net/0/?log=2013100905gm-0009-7447-xbe578c7d4e93&tw=1&ts=5) |      |
 | ```kyoku|E|2|1```                      | 9    | 6th             | Tsumo on 8th      | 鳳凰     | [7](http://tenhou.net/0/?log=2015042708gm-00a9-0000-02413cc0&tw=0&ts=4)      |      |
 | *Yaochuhai start includes the initial draw.* |      |                 |                   |        |                                                                              |      |
+
+{{</ table >}}
 
 Any player attempting kokushi musou makes the decision at the beginning of the hand. This decision stems on a couple conditions, by which the primary decision rests on the number of unique yaochuhai at the start. The points and the current hand also influences the decision. Sometimes, players need yakuman in order to win or improve point standing.
 

@@ -230,7 +230,7 @@ def process_tables(content):
     Wrap table to custom shortcut for better rendering.
     """
     regex = r"{\|([\S\s]*?)\|}"
-    content = re.sub(regex, r"{{< table >}}\n{|\1|}{{</ table >}}", content)
+    content = re.sub(regex, r"{{< table >}}\n{|\1|}{{</ table >}}\n", content)
     content = content.replace("Advanced(!!!)", "Advanced")
     return content
 

@@ -91,5 +91,6 @@ This is a number of select replays featuring tsuuiisou.
 
 ## External links
 
-```Navbox yaku replays```
+`Navbox yaku replays`
+
 - [Source of this page [arcturus wiki]](http://arcturus.su/wiki/Tsuuiisou/Replays)

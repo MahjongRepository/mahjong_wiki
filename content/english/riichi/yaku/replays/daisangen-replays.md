@@ -59,6 +59,7 @@ Hands may be tenpai with shousangen, by which the takame tile produces the yakum
 | url = <http://tenhou.net/0/?log=2017041508gm-0009-0000-9d7e5f45&tw=3&ts=2>
 | comment = Yakuman might not have been possible, if it weren't for kamicha riichi bringing out toimen's haku.
 ```
+
 ```Replay/Tenhou.net|
 | player = Mill
 | playerrank = 4d
@@ -94,6 +95,7 @@ Hands may be tenpai with shousangen, by which the takame tile produces the yakum
 | url = <http://tenhou.net/0/?log=2015033106gm-0089-0000-c02d667b&tw=0&ts=2>
 | comment = Daiminkan rinshan pao.
 ```
+
 ```Replay/Tenhou.net|
 | player = もめんなちゃい
 | playerrank = 8d
@@ -109,6 +111,7 @@ Hands may be tenpai with shousangen, by which the takame tile produces the yakum
 | url = <http://tenhou.net/0/?log=2015090517gm-00a9-0000-6c5dec24&tw=3&ts=7>
 | comment = Upon acquiring yakuman tenpai, an accidental misclick discarded hatsu that caused toimen to discard hatsu. [1](https://twitter.com/ripplesummer/status/640082651752235009)
 ```
+
 ```Replay/Tenhou.net|
 | player = 龍之介二世
 | playerrank = 4d
@@ -143,5 +146,6 @@ Hands may be tenpai with shousangen, by which the takame tile produces the yakum
 
 ## External links
 
-```navbox yaku replays```
+`navbox yaku replays`
+
 - [Source of this page [arcturus wiki]](http://arcturus.su/wiki/Daisangen/Replays)

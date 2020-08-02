@@ -57,6 +57,7 @@ This list features hands that produces ryanpeikou, listed by three different wai
 | url = <http://tenhou.net/0/?log=2018040310gm-0009-7447-eab31761&tw=0&ts=1>
 | comment = Riichi called on a kanchan wait, with only one tile available.
 ```
+
 ```Replay/Tenhou.net|
 | player = KyuuAA
 | playerrank = 4d
@@ -77,5 +78,6 @@ This list features hands that produces ryanpeikou, listed by three different wai
 
 ## External links
 
-```Navbox yaku replays```
+`Navbox yaku replays`
+
 - [Source of this page [arcturus wiki]](http://arcturus.su/wiki/Ryanpeikou/Replays)

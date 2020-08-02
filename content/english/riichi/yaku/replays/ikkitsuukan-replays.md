@@ -46,5 +46,6 @@ These are games involving ittsuu.
 
 ## External links
 
-```Navbox yaku replays```
+`Navbox yaku replays`
+
 - [Source of this page [arcturus wiki]](http://arcturus.su/wiki/Ikkitsuukan/Replays)

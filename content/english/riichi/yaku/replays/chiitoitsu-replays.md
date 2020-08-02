@@ -64,5 +64,6 @@ This is a collection of various hands featuring chiitoitsu.
 
 ## External links
 
-```Navbox yaku replays```
+`Navbox yaku replays`
+
 - [Source of this page [arcturus wiki]](http://arcturus.su/wiki/Chiitoitsu/Replays)

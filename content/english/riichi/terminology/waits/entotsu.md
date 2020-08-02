@@ -17,34 +17,38 @@ tags = ["Terminology", "Machi"]
 
 ```
 
-**Entotsu** {{< kana "エントツ" >}} is a combination wait pattern, that utilizes two basic patterns: ryanmen and shanpon. Together, the pattern produces a 3-sided wait, or waits on three tile types.
+**Entotsu** {{< kana "エントツ" >}} is a combination wait pattern, that utilizes two basic patterns:
+ryanmen and shanpon. Together, the pattern produces a 3-sided wait, or waits on three tile types.
 
 ## Tile pattern
 
 {{< t 34555s33000000z >}} Waiting for: {{< t 2s >}}, {{< t 5s >}}, or {{< t 3z >}}
 
-The pattern consists of middle numbered tiles and an extra pair of any other tiles. If the numbered tiles included terminals, then the pattern is a simple shanpon.
+The pattern consists of middle numbered tiles and an extra pair of any other tiles. If the numbered
+tiles included terminals, then the pattern is a simple shanpon.
 
-**Example**: *Not entotsu*
-{{< t 77789m44s000000z >}} Waiting for: {{< t 7m >}} or {{< t 4s >}}
+**Example**: _Not entotsu_ {{< t 77789m44s000000z >}} Waiting for: {{< t 7m >}} or {{< t 4s >}}
 
 If a 10-man tile exists, then this would be entotsu; but of course, that is not the case.
 
 ## Fu
 
-```main|Fu```
+`main|Fu`
 
-This tile pattern does not reward fu on its own. Instead, fu is earned via the composition of the triplet. Regardless of the winning tile, the pattern guarantees one triplet.
+This tile pattern does not reward fu on its own. Instead, fu is earned via the composition of the
+triplet. Regardless of the winning tile, the pattern guarantees one triplet.
 
 ## Double entotsu
 
 {{< t 23444p56777s000z >}} Waiting for: {{< t 1p >}}, {{< t 4p >}}, {{< t 4s >}}, or {{< t 7s >}}
 
-The wait pattern can be doubled, such that it occurs into one hand. Essentially, they can be viewed as a pair of ryanmen. However, this pattern is not possible without the entotsu patterns.
+The wait pattern can be doubled, such that it occurs into one hand. Essentially, they can be viewed
+as a pair of ryanmen. However, this pattern is not possible without the entotsu patterns.
 
 ## External links
 
-```jpwiki|聴牌\#エントツ形```
+`jpwiki|聴牌\#エントツ形`
 
-```Navbox machi```
+`Navbox machi`
+
 - [Source of this page [arcturus wiki]](http://arcturus.su/wiki/Entotsu)

@@ -28,7 +28,8 @@ tags = ["Yaku"]
 
 ```
 
-**Sanshoku doukou** {{< kana "三色同刻" >}} is a standard yaku. This yaku involves koutsu (triplets) of the same numbered tiles across the three main suits.
+**Sanshoku doukou** {{< kana "三色同刻" >}} is a standard yaku. This yaku involves koutsu (triplets)
+of the same numbered tiles across the three main suits.
 
 ## Tile pattern cases
 
@@ -38,28 +39,36 @@ For this sanshoku doukou there are cases where the yaku is guaranteed and cases 
 
 {{< t 333m33367s33z >}} {{< t 3-33p >}} Agari: {{< t 5s >}} or {{< t 8s >}}
 
-Here, all three koutsu of number three are already on the hand, and sanshoku doukou is guaranteed for both tiles waited on.
+Here, all three koutsu of number three are already on the hand, and sanshoku doukou is guaranteed
+for both tiles waited on.
 
 ### Case where sanshoku doukou is not guaranteed
 
 {{< t 333m3345666s >}} {{< t 3-33p >}} Agari: {{< t 3s >}}
 
-*Note*: This hand is also waiting for {{< t 6s >}}, but that would not give sanshoku doukou.
+_Note_: This hand is also waiting for {{< t 6s >}}, but that would not give sanshoku doukou.
 
 {{< t 333m33678s33z >}} {{< t 3-33p >}} Agari: {{< t 3s >}}  
-*Note*: This hand is also waiting for {{< t 3z >}}, but that would not give sanshoku doukou.
+_Note_: This hand is also waiting for {{< t 3z >}}, but that would not give sanshoku doukou.
 
 ## Formation
 
-This yaku is actually a fairly difficult yaku to complete. For every number across the three different suits, there are only 12 tiles. A sanshoku douko hand has to have 9 of the 12 tiles of one number. The 3 tiles of that number *not* in the hand has to be one of each suit, which yields pretty bad odds.
+This yaku is actually a fairly difficult yaku to complete. For every number across the three
+different suits, there are only 12 tiles. A sanshoku douko hand has to have 9 of the 12 tiles of one
+number. The 3 tiles of that number _not_ in the hand has to be one of each suit, which yields pretty
+bad odds.
 
 ### Compatability
 
-```main|Yaku compatability```
+`main|Yaku compatability`
 
-```Yaku compatibility table|SDO```
+`Yaku compatibility table|SDO`
 
-Sanshoku doukou is incompatible with any yaku requiring more than one sequence, namely pinfu, iipeikou, ittsuu, sanshoku doujun, and ryanpeikou. It cannot be combined with honitsu and chinitsu, which require tiles of a single suit. chiitoitsu requires seven pars, which precludes the triplets for sanshoku doukou. Finally, shousangen's two dragon triplets do not leave enough room for the three triplets of suited tiles required.
+Sanshoku doukou is incompatible with any yaku requiring more than one sequence, namely pinfu,
+iipeikou, ittsuu, sanshoku doujun, and ryanpeikou. It cannot be combined with honitsu and chinitsu,
+which require tiles of a single suit. chiitoitsu requires seven pars, which precludes the triplets
+for sanshoku doukou. Finally, shousangen's two dragon triplets do not leave enough room for the
+three triplets of suited tiles required.
 
 ## Value
 
@@ -67,7 +76,8 @@ Whether open or closed, this yaku remains at 2 han.
 
 ## External links
 
-```jpwiki|三色同刻```
+`jpwiki|三色同刻`
 
-```Navbox yaku```
+`Navbox yaku`
+
 - [Source of this page [arcturus wiki]](http://arcturus.su/wiki/Sanshoku_doukou)

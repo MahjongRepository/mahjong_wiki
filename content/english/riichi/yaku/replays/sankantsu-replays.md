@@ -40,6 +40,7 @@ The following is a list of replays involving sankantsu.
 | url = <http://tenhou.net/0/?log=2015090416gm-0089-0000-88dd1163&tw=1&ts=1>
 | comment = Two triplets and a pair of south wind in the opening hand pointed to a quick hand, possibly toitoi. After ponning and then kanning the south winds, a daiminkan of 6m led to tenpai. The subsequent daiminkan of 2s led to a rinshan kaihou tsumo.
 ```
+
 ```Replay/Tenhou.net|
 | player = Sinsi
 | playerrank = 7d
@@ -75,5 +76,6 @@ The following is a list of replays involving sankantsu.
 
 ## External links
 
-```Navbox yaku replays```
+`Navbox yaku replays`
+
 - [Source of this page [arcturus wiki]](http://arcturus.su/wiki/Sankantsu/Replays)

@@ -23,6 +23,7 @@ Replays involving suushiihou are included there. This includes shousuushii and d
 | url = <http://tenhou.net/0/?log=2014022518gm-0089-0000-e7dd81b5&tw=3&ts=4>
 | comment = With all four winds in the hand while two are paired, it was presumed to be a reasonable hand to attempt the yakuman. After two tile calls, a call for a third was declined to make the yakuman as inconspicuous as possible.
 ```
+
 ```Replay/Tenhou.net|
 | player = HRK店長
 | playerrank = 2d
@@ -38,6 +39,7 @@ Replays involving suushiihou are included there. This includes shousuushii and d
 | url = <http://tenhou.net/0/?log=2016050612gm-00c1-0000-ecf28926&tw=1&ts=5>
 | comment = Initial hand showed yakuman potential with three pairs of the wind tiles along with an extra Pei. After making calls on the Ton, Nan and Shaa, the fourth Shaa was drawn, a late Kan was made, and the hand was completed with the Pei via Rinshan Kaihou.
 ```
+
 ```Replay/Tenhou.net|
 | player = ドイツ人
 | playerrank = 3d
@@ -53,6 +55,7 @@ Replays involving suushiihou are included there. This includes shousuushii and d
 | url = <http://tenhou.net/0/?log=2016100817gm-0009-7447-a1b64686&tw=0&ts=4>
 | comment = Double kan rinshan, after the other three players provided called tiles.
 ```
+
 ```Replay/Tenhou.net|
 | player = Doragan
 | playerrank = 4d
@@ -68,8 +71,9 @@ Replays involving suushiihou are included there. This includes shousuushii and d
 | url = <http://tenhou.net/0/?log=2017010205gm-0029-0000-64bdc730&tw=3&ts=11>
 | comment = Hadaka tanki for shousuushii, showing three winds. Toimen discarded the last wind type anyways.
 ```
+
 ```Replay/Tenhou.net|
-| player = Onjouji怜 
+| player = Onjouji怜
 | playerrank = 2d
 | date = 2018-08-31
 | windround = South
@@ -101,6 +105,7 @@ Replays involving suushiihou are included there. This includes shousuushii and d
 | url = <http://tenhou.net/0/?log=2014091717gm-0009-0000-60c126ec&tw=3&ts=4>
 | comment = Closed daisuushii with an intial chase for honitsu.
 ```
+
 ```Replay/Tenhou.net|
 | player = 里中亜矢子
 | playerrank = 7d
@@ -119,5 +124,6 @@ Replays involving suushiihou are included there. This includes shousuushii and d
 
 ## External links
 
-```Navbox yaku replays```
+`Navbox yaku replays`
+
 - [Source of this page [arcturus wiki]](http://arcturus.su/wiki/Suushiihou/Replays)

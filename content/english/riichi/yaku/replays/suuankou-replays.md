@@ -43,6 +43,7 @@ This is a collection of replays featuring suuankou.
 | url = <http://tenhou.net/0/?log=2014121602gm-0029-0000-137bc601>
 | comment = Dueling suuankou hands, as kamicha was tenpai via shanpon.
 ```
+
 ```Replay/Tenhou.net|
 | player = らいふがーどすき
 | playerrank = 8d
@@ -58,6 +59,7 @@ This is a collection of replays featuring suuankou.
 | url = <http://tenhou.net/0/?log=2015091600gm-00e1-0000-3151f045&tw=1>
 | comment = Suuankou tanki haipai, with double riichi called for ippatsu ron.
 ```
+
 ```Replay/Tenhou.net|
 | player = 相戸優希
 | playerrank = 6d
@@ -73,6 +75,7 @@ This is a collection of replays featuring suuankou.
 | url = <http://tenhou.net/0/?log=2017070815gm-0029-0000-0b421e77&tw=3&ts=7>
 | comment = Riichi called on suuankou tanki to impose a suji baited discard.
 ```
+
 ```Replay/Tenhou.net|
 | player = なつとら
 | playerrank = 3d
@@ -108,6 +111,7 @@ Calls of ankan do not affect the status of suuankou hands.
 | url = <http://tenhou.net/0/?log=2016123021gm-0029-0000-b210f9d8&tw=0&ts=2>
 | comment = Hand began with only three pairs, but matching tiles were drawn. Tenpai for yakuman acquired after three consecutive kan calls. Ippatsu if riichi was called.
 ```
+
 ```Replay/Tenhou.net|
 | player = しまだま
 | playerrank = 8d
@@ -123,6 +127,7 @@ Calls of ankan do not affect the status of suuankou hands.
 | url = <http://tenhou.net/0/?log=2017091312gm-00a9-0000-68b3a190&tw=2&ts=6>
 | comment = Late switch to jigoku produces a hit on a Tenhoui player.
 ```
+
 ```Replay/Tenhou.net|
 | player = モーテンセン
 | playerrank = 2k
@@ -141,5 +146,6 @@ Calls of ankan do not affect the status of suuankou hands.
 
 ## External links
 
-```navbox yaku replays```
+`navbox yaku replays`
+
 - [Source of this page [arcturus wiki]](http://arcturus.su/wiki/Suuankou/Replays)

@@ -351,18 +351,19 @@ Nintendo</p></th>
 
 ## References
 
-```reflist```
+`reflist`
 
 ## External links
 
-```jpwiki|麻雀ゲームソフト一覧```
+`jpwiki|麻雀ゲームソフト一覧`
+
 ```Youtube
 | url = <https://www.youtube.com/watch?v=inMwG1xVZZ4>
 | linkname = Mahjong Video Games-Part 1: Overview and Tutorial
 | description = Overview at channel Game Escape
 ```
 
-  - [Wikidot list](http://mahjong.wikidot.com/video-games)
+- [Wikidot list](http://mahjong.wikidot.com/video-games)
 
 <!-- end list -->
 
@@ -375,4 +376,5 @@ Nintendo</p></th>
 7.  <http://touhou.wikia.com/wiki/Touhou_Unreal_Mahjong>
 8.  <http://www.mariowiki.com/Yakuman_DS>
 9.  <http://www.gamefaqs.com/ds/924913-yakuman-ds>
+
 - [Source of this page [arcturus wiki]](http://arcturus.su/wiki/List_of_mahjong_video_games)

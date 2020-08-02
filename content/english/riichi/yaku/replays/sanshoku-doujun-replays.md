@@ -29,6 +29,7 @@ This is a list of games featuring sanshoku doujun.
 ## Embedded
 
 Open or closed hands, where the sanshoku is not dependent on the winning tile.
+
 ```Replay/Tenhou.net|
 | player = KyuuAA
 | playerrank = 4d
@@ -47,5 +48,6 @@ Open or closed hands, where the sanshoku is not dependent on the winning tile.
 
 ## External links
 
-```Navbox yaku replays```
+`Navbox yaku replays`
+
 - [Source of this page [arcturus wiki]](http://arcturus.su/wiki/Sanshoku_doujun/Replays)

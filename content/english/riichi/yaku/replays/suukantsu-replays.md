@@ -23,6 +23,7 @@ This is list of hands scoring suukantsu.
 | url = <http://tenhou.net/0/?log=2008052220gm-0041-0000-4d64f3c2&tw=1&ts=3>
 | comment = Relatively easy suukantsu, with an early open added kan and tenpai for sanankou tanki. Each ankou converted with daiminkan.
 ```
+
 ```Replay/Tenhou.net|
 | player = 飛ムカデ
 | playerrank = 2d
@@ -38,6 +39,7 @@ This is list of hands scoring suukantsu.
 | url = <http://tenhou.net/0/?log=2009100523gm-00c1-0000-d55ac52d&tw=1&ts=2>
 | comment = Hadaka tanki toitoi upgraded to yakuman with four consecutive kan calls.
 ```
+
 ```Replay/Tenhou.net|
 | player = makato
 | playerrank = 5d
@@ -53,6 +55,7 @@ This is list of hands scoring suukantsu.
 | url = <http://tenhou.net/0/?log=2015090911gm-0029-0000-f2b24272&tw=0&ts=11>
 | comment = Toimen discards a very dangerous 5-pin kan dora to fall into double ron of sanbaiman and yakuman.
 ```
+
 ```Replay/Tenhou.net|
 | player = モッッッッッコス
 | playerrank = 6d
@@ -71,5 +74,6 @@ This is list of hands scoring suukantsu.
 
 ## External links
 
-```Navbox yaku replays```
+`Navbox yaku replays`
+
 - [Source of this page [arcturus wiki]](http://arcturus.su/wiki/Suukantsu/Replays)

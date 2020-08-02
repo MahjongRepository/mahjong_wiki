@@ -4,7 +4,9 @@ arcturus_wiki_id = "3279"
 tags = ["Yakuman"]
 +++
 
-This is a list of various iterations and permutations for the yakuman, chuuren poutou. Only the pure chuuren produces a multiple tile wait, where the result produces yakuman. For all others, a single tile type completes the yakuman, while any other waiting tiles results in chiniisou.
+This is a list of various iterations and permutations for the yakuman, chuuren poutou. Only the pure
+chuuren produces a multiple tile wait, where the result produces yakuman. For all others, a single
+tile type completes the yakuman, while any other waiting tiles results in chiniisou.
 
 ### Tenpai configurations
 
@@ -206,4 +208,5 @@ This is a list of various iterations and permutations for the yakuman, chuuren p
 The remaining configurations are all mirrors of the ones listed above.
 
 ## External links
+
 - [Source of this page [arcturus wiki]](http://arcturus.su/wiki/List_of_chuuren_configurations)

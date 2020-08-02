@@ -9,4 +9,5 @@ tags = ["Terminology", "Strategy"]
 ## Usage
 
 ## External links
+
 - [Source of this page [arcturus wiki]](http://arcturus.su/wiki/Sakigiri)

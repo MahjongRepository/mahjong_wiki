@@ -12,13 +12,13 @@ This is a collection of replays featuring yakuhai.
 
 #### Double
 
------
+---
 
 ### Nan
 
 #### Double
 
------
+---
 
 ### Shaa
 
@@ -40,7 +40,7 @@ This is a collection of replays featuring yakuhai.
 | comment = Double west scored to end the game at 30,000.
 ```
 
------
+---
 
 ### Pei
 
@@ -56,6 +56,6 @@ This is a collection of replays featuring yakuhai.
 
 ## External links
 
-```navbox yaku replays```
-\[\[Category:Yaku replays}}
+`navbox yaku replays` \[\[Category:Yaku replays}}
+
 - [Source of this page [arcturus wiki]](http://arcturus.su/wiki/Yakuhai/Replays)

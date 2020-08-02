@@ -87,7 +87,8 @@ This is a number of select replays featuring nagashi mangan.
 
 ## External links
 
-```jpwiki|流し満貫```
+`jpwiki|流し満貫`
 
-```Navbox yaku replays```
+`Navbox yaku replays`
+
 - [Source of this page [arcturus wiki]](http://arcturus.su/wiki/Nagashi_mangan/Replays)

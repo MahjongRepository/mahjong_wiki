@@ -41,6 +41,7 @@ This is a collection of replays featuring chinitsu.
 | url = <http://tenhou.net/0/?log=2016012316gm-0089-0000-6b57f3e7&tw=3&ts=4>
 | comment = Damaten menchiniisou, which would have scored sanbaiman and won the game if riichi was called.
 ```
+
 ```Replay/Tenhou.net|
 | player = ペンギンナイト
 | playerrank = 5k
@@ -56,6 +57,7 @@ This is a collection of replays featuring chinitsu.
 | url = <http://tenhou.net/0/?log=2016102608gm-0009-0000-d632cc4e&tw=2&ts=1>
 | comment = Ippatsu kazoe yakuman.
 ```
+
 ```Replay/Tenhou.net|
 | player = 【Ellan】
 | playerrank = 6d
@@ -125,6 +127,7 @@ This is a collection of replays featuring chinitsu.
 | url = <http://tenhou.net/0/?log=2009122209gm-0009-0000-16c1785c&tw=0&ts=6>
 | comment = Very well developed haipai
 ```
+
 ```Replay/Tenhou.net|
 | player = 幸福について
 | playerrank = 4d
@@ -140,6 +143,7 @@ This is a collection of replays featuring chinitsu.
 | url = <http://tenhou.net/0/?log=2015082408gm-0089-0000-93df10d3&tw=3&ts=5>
 | comment = Fast tenpai hand broken to push for chinitsu, in an attempt to chase down first place.
 ```
+
 ```Replay/Tenhou.net|
 | player = KyuuAA
 | playerrank = 5d
@@ -155,6 +159,7 @@ This is a collection of replays featuring chinitsu.
 | url = <http://tenhou.net/0/?log=2018060913gm-0029-0000-1c85ddb8&tw=1&ts=6>
 | comment = Cheap tenpai converted into chinitsu.
 ```
+
 ```Replay/Tenhou.net|
 | player = 幸福について
 | playerrank = 4d
@@ -191,5 +196,6 @@ This is a collection of replays featuring chinitsu.
 
 ## External links
 
-```Navbox yaku replays```
+`Navbox yaku replays`
+
 - [Source of this page [arcturus wiki]](http://arcturus.su/wiki/Chiniisou/Replays)

@@ -44,5 +44,6 @@ The following are replays featuring haitei raoyue and houtei raoyui.
 
 ## External links
 
-```Navbox yaku replays```
+`Navbox yaku replays`
+
 - [Source of this page [arcturus wiki]](http://arcturus.su/wiki/Haitei_raoyue_and_houtei_raoyui/Replays)

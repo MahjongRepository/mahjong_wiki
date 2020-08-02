@@ -10,7 +10,11 @@ tags = ["Terminology", "Strategy", "Machi"]
 
 </div>
 
-These patterns involve waits which are infrequent and generally nameless combinations. They are all based on combinations of other basic wait patterns, often in many different ways. They consist of consecutive, or closely consecutive, numbered tiles. Recognition of these patterns can produce some significantly powerful waits, which may be immune to suji and have large numbers of waiting tiles. This list is not exhaustive and not every possible waiting pattern is included.
+These patterns involve waits which are infrequent and generally nameless combinations. They are all
+based on combinations of other basic wait patterns, often in many different ways. They consist of
+consecutive, or closely consecutive, numbered tiles. Recognition of these patterns can produce some
+significantly powerful waits, which may be immune to suji and have large numbers of waiting tiles.
+This list is not exhaustive and not every possible waiting pattern is included.
 
 ## 2 tile wait
 
@@ -93,10 +97,10 @@ These patterns involve waits which are infrequent and generally nameless combina
 |tilewaits = 5678m
 ```
 
-  - 
-    
-      -   
-        This is different from the ryanmen with shanpon described by entotsu.
+- -
+
+
+      This is different from the ryanmen with shanpon described by entotsu.
 
 ### Ryanmen with nested shanpon
 
@@ -111,6 +115,7 @@ These patterns involve waits which are infrequent and generally nameless combina
 |pattern = 000z4445066p000z
 |tilewaits = 4567p
 ```
+
 ```machi
 |pattern = 000z2223334m000z
 |tilewaits = 2345m
@@ -136,6 +141,7 @@ These patterns involve waits which are infrequent and generally nameless combina
 |pattern = 2233334s000000z
 |tilewaits = 1245s
 ```
+
 ```machi
 |pattern = 4566777s000000z
 |tilewaits = 3568s
@@ -173,10 +179,10 @@ These patterns involve waits which are infrequent and generally nameless combina
 |tilewaits = 235689p
 ```
 
-  - 
-    
-      -   
-        Ryanmenten + Sanmentan
+- -
+
+
+      Ryanmenten + Sanmentan
 
 ```machi
 |pattern = 2233444505666m
@@ -210,7 +216,9 @@ These patterns involve waits which are infrequent and generally nameless combina
 |tilewaits = 1245689m
 ```
 
-This pattern is notable because it has 23 winning tiles, like the chuuren poutou kyuumen machi, but unlike most other hands waiting on 23 tiles, it cannot completed by a hypothetical fifth copy of any tile (a 3m or a 7m would not complete this hand).
+This pattern is notable because it has 23 winning tiles, like the chuuren poutou kyuumen machi, but
+unlike most other hands waiting on 23 tiles, it cannot completed by a hypothetical fifth copy of any
+tile (a 3m or a 7m would not complete this hand).
 
 ```machi
 |pattern = 2344445666678s
@@ -256,5 +264,6 @@ This pattern waits on 22 tiles.
 
 [ReachMahjong wait guide](http://reachmahjong.com/en/forum/viewtopic.php?f=5&t=52599)
 
-```Navbox machi```
+`Navbox machi`
+
 - [Source of this page [arcturus wiki]](http://arcturus.su/wiki/Complex_waits)

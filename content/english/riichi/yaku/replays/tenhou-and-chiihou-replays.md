@@ -28,5 +28,6 @@ These are replays featuring tenhou and chiihou.
 
 ## External links
 
-```Navbox yaku replays```
+`Navbox yaku replays`
+
 - [Source of this page [arcturus wiki]](http://arcturus.su/wiki/Tenhou_and_chiihou/Replays)

@@ -29,4 +29,5 @@ This is a collection of replays including sanankou.
 ## With shuntsu
 
 ## Suuankou tenpai
+
 - [Source of this page [arcturus wiki]](http://arcturus.su/wiki/Sanankou/Replays)

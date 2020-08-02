@@ -4,7 +4,8 @@ arcturus_wiki_id = "3366"
 tags = ["Yaku replays"]
 +++
 
-This is a list of games featuring honroutou. Under all cases, they include either toitoi or chiitoitsu.
+This is a list of games featuring honroutou. Under all cases, they include either toitoi or
+chiitoitsu.
 
 ## Honroutou
 
@@ -23,6 +24,7 @@ This is a list of games featuring honroutou. Under all cases, they include eithe
 | url = <http://tenhou.net/0/?log=2016011402gm-0009-0000-4bb9a4c1&tw=3&ts=8>
 | comment = Direct collection of honor and terminal pairs and groups, where tile calls made at the first opportunity of each instance.
 ```
+
 ```Replay/Tenhou.net|
 | player = KyuuAA
 | playerrank = 4d
@@ -38,6 +40,7 @@ This is a list of games featuring honroutou. Under all cases, they include eithe
 | url = <http://tenhou.net/0/?log=2017032617gm-0029-0000-92c57b4a&tw=2&ts=10>
 | comment = Multiple initial chances to call tiles declined, until limited tile availability was realized.
 ```
+
 ```Replay/Tenhou.net|
 | player = すーぱーづがん
 | playerrank = 4d
@@ -74,5 +77,6 @@ This is a list of games featuring honroutou. Under all cases, they include eithe
 
 ## External links
 
-```navbox yaku replays```
+`navbox yaku replays`
+
 - [Source of this page [arcturus wiki]](http://arcturus.su/wiki/Honroutou/Replays)

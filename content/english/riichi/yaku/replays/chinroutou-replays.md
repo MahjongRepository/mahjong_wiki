@@ -23,6 +23,7 @@ This is a collection of replays with chinroutou.
 | url = <http://tenhou.net/0/?log=2012110110gm-0009-7447-a7f72e7e&tw=2>
 | comment = Chinroutou pons developing faster than a potential tsuuiisou hand.
 ```
+
 ```Replay/Tenhou.net|
 | player = Ⓟ堀内正人
 | playerrank = 8k
@@ -38,6 +39,7 @@ This is a collection of replays with chinroutou.
 | url = <http://tenhou.net/0/?log=2015070715gm-00c1-0000-9405451f&tw=0&ts=5>
 | comment = Chinroutou by Horiuchi-pro. Hand started with four terminal pairs, which makes it natural to call pon enough times for collection.
 ```
+
 ```Replay/Tenhou.net|
 | player = 名脇役
 | playerrank = 5d
@@ -53,6 +55,7 @@ This is a collection of replays with chinroutou.
 | url = <http://tenhou.net/0/?log=2015090316gm-0061-0000-39db868b&tw=2&ts=3>
 | comment = Desperation attempt for a yakuman in oorasu actually manifested into one.
 ```
+
 ```Replay/Tenhou.net|
 | player = Ｙａｍａｔｏ＠ｋ
 | playerrank = 4d
@@ -68,6 +71,7 @@ This is a collection of replays with chinroutou.
 | url = <http://tenhou.net/0/?log=2015091603gm-0089-0000-0a9db7b6&tw=0&ts=9>
 | comment = Decision for at least a junchan made at the onset, with the intial 9-pin pon and a complete break down of a 345 sequence.
 ```
+
 ```Replay/Tenhou.net|
 | player = ますくはがし
 | playerrank = 7d
@@ -104,5 +108,6 @@ This is a collection of replays with chinroutou.
 
 ## External links
 
-```Navbox yaku replays```
+`Navbox yaku replays`
+
 - [Source of this page [arcturus wiki]](http://arcturus.su/wiki/Chinroutou/Replays)

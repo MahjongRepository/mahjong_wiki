@@ -23,6 +23,7 @@ This is a collection of replays featuring sanshoku doukou.
 | url = <http://tenhou.net/0/?log=2014010610gm-0009-7447-dfd7e99e&tw=4>
 | comment = Tiles constantly fed into the hand.
 ```
+
 ```Replay/Tenhou.net|
 | player = Coppro
 | playerrank = 3d
@@ -38,6 +39,7 @@ This is a collection of replays featuring sanshoku doukou.
 | url = <http://tenhou.net/0/?log=2015041904gm-0089-0000-04a42ab2&tw=2&ts=3>
 | comment = Chiitoitsu tenpai converted into sanshoku doukou by calling pon the necessary number of times. From the other players' perspectives, the hand appeared poised for chinroutou.
 ```
+
 ```Replay/Tenhou.net|
 | player = 清姫様大好き
 | playerrank = 1d
@@ -74,5 +76,6 @@ This is a collection of replays featuring sanshoku doukou.
 
 ## External links
 
-```Navbox yaku replays```
+`Navbox yaku replays`
+
 - [Source of this page [arcturus wiki]](http://arcturus.su/wiki/Sanshoku_doukou/Replays)

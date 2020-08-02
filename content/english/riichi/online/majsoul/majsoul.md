@@ -13,11 +13,18 @@ tags = ["Majsoul"]
 |year = 2018
 ```
 
-**Majsoul** (aka **Mahjong Soul**, **Jantama**) is a Japanese mahjong game platform developed by CATFOOD STUDIO and distributed by Yostar. The game has some resemblance to Janryumon, in terms of graphics. The tile layout and graphical hands, as in "physical" hands, are displayed during game play.
+**Majsoul** (aka **Mahjong Soul**, **Jantama**) is a Japanese mahjong game platform developed by
+CATFOOD STUDIO and distributed by Yostar. The game has some resemblance to Janryumon, in terms of
+graphics. The tile layout and graphical hands, as in "physical" hands, are displayed during game
+play.
 
-The platform functions as a gacha game. Players may use in game currency to access various functions, such as items and ingame characters. On occasion, periodical events are available for special items, characters, and/or bonuses.
+The platform functions as a gacha game. Players may use in game currency to access various
+functions, such as items and ingame characters. On occasion, periodical events are available for
+special items, characters, and/or bonuses.
 
-A tournament suite is available for users to become hosts and create their own tournaments. The interface allows hosts to set up tournament systems and custom rules not available in the main platform.
+A tournament suite is available for users to become hosts and create their own tournaments. The
+interface allows hosts to set up tournament systems and custom rules not available in the main
+platform.
 
 ![Emoticon panel used during games.](Nekoface.png "Emoticon panel used during games.")
 
@@ -76,15 +83,20 @@ A tournament suite is available for users to become hosts and create their own t
 </table>
 
 {{</ table >}}
+
 **Notes**:
 
-  - The coin requirement is applied as follows:
-      - Entry Limit is the minimum coin permission to enter into a specific room.
-      - Entry Fee is the actual cost when a match is started.
-  - Players are not allowed to stream Jade Room / Throne Room matches in real-time. A delay of 5 minutes should be applied when performing a stream.
-  - In-game Hints are disabled in Throne Room.
-  - Matches in Special Rooms are not recorded in player's statistics and do not affect to player's rank.
-  - Depends on room description, some special room matches may require copper coins. If required, requirement of copper coins is usually applied identically to Silver Room. Meanwhile, the progression of special room chests will be activated.
+- The coin requirement is applied as follows:
+  - Entry Limit is the minimum coin permission to enter into a specific room.
+  - Entry Fee is the actual cost when a match is started.
+- Players are not allowed to stream Jade Room / Throne Room matches in real-time. A delay of 5
+  minutes should be applied when performing a stream.
+- In-game Hints are disabled in Throne Room.
+- Matches in Special Rooms are not recorded in player's statistics and do not affect to player's
+  rank.
+- Depends on room description, some special room matches may require copper coins. If required,
+  requirement of copper coins is usually applied identically to Silver Room. Meanwhile, the
+  progression of special room chests will be activated.
 
 ### Rank Upgrade
 
@@ -206,20 +218,21 @@ A tournament suite is available for users to become hosts and create their own t
 </table>
 
 {{</ table >}}
+
 **Notes**:
 
-  - Players will not be downgraded in Novice rank, but will still lose upgrading points.
-  - Players will not be downgraded in Celestial rank. The ranking is sorted by the current points.
+- Players will not be downgraded in Novice rank, but will still lose upgrading points.
+- Players will not be downgraded in Celestial rank. The ranking is sorted by the current points.
 
 ### Calculations
 
 #### Calculation of End-Score Points
 
-  - Oka Points: Not applied
-  - Uma Points:
-      - **4P**: 1st `+15`, 2nd `+5`, 3rd `-5`, 4th `-15`
-      - **3P**: 1st `+15`, 2nd `±0`, 3rd `-15`
-  - Starting Points: **4P** `25000`; **3P** `35000`
+- Oka Points: Not applied
+- Uma Points:
+  - **4P**: 1st `+15`, 2nd `+5`, 3rd `-5`, 4th `-15`
+  - **3P**: 1st `+15`, 2nd `±0`, 3rd `-15`
+- Starting Points: **4P** `25000`; **3P** `35000`
 
 Formula: `EndScore = (MatchResult - StartingPts) / 1000 + UmaPts`
 
@@ -231,15 +244,15 @@ The result is always rounded up to an integer. (e.g. +68.2 → `+69`, -1.9 → `
 
 {{< table >}}
 
-|               |             |                   |                   |
-| ------------- | ----------- | ----------------- | ----------------- |
-| Rank Points|- | Room        | 4P (East / South) | 3P (East / South) |
-| 1st           | 2nd         | 3rd               | 4th               |
-| Bronze Room   | \+10 / +20  | \+5 / +10         | ±0                |
-| Silver Room   | \+20 / +40  | \+10 / +20        | \+30 / +60        |
-| Gold Room     | \+40 / +80  | \+20 / +40        | \+55 / +105       |
-| Jade Room     | \+55 / +110 | \+30 / +60        | \+75 / +160       |
-| Throne Room   | \+60 / +120 | \+30 / +60        | \+120 / +240      |
+|             |             |            |                   |
+| ----------- | ----------- | ---------- | ----------------- |
+| Rank Points | -           | Room       | 4P (East / South) | 3P (East / South) |
+| 1st         | 2nd         | 3rd        | 4th               |
+| Bronze Room | \+10 / +20  | \+5 / +10  | ±0                |
+| Silver Room | \+20 / +40  | \+10 / +20 | \+30 / +60        |
+| Gold Room   | \+40 / +80  | \+20 / +40 | \+55 / +105       |
+| Jade Room   | \+55 / +110 | \+30 / +60 | \+75 / +160       |
+| Throne Room | \+60 / +120 | \+30 / +60 | \+120 / +240      |
 
 {{</ table >}}
 
@@ -248,13 +261,15 @@ The result is always rounded up to an integer. (e.g. +68.2 → `+69`, -1.9 → `
 ![An example of Copper-coin's calculation](Majsoul_Calculation_Copper-coins.png "An example of Copper-coin's calculation")
 The calculation of copper coins is a bit complex.
 
-The Entry Fee is always applied as long as a match is taken successfully, although it's not shown in the final result.
+The Entry Fee is always applied as long as a match is taken successfully, although it's not shown in
+the final result.
 
 For the Gain/Lost of match, the whole procedure is listed as follows:
 
 1.  Calculate End Score based on final point results.
-2.  Calculate Copper-coin lost for negative End Scores based on the exchange rate. The lost is always capped to a maximum lost (`MaximumLost = EntryLimit - EntryFee`) if exceeded the limit (`EndScore < -40`).
-    {{< table >}}
+2.  Calculate Copper-coin lost for negative End Scores based on the exchange rate. The lost is
+    always capped to a maximum lost (`MaximumLost = EntryLimit - EntryFee`) if exceeded the limit
+    (`EndScore < -40`). {{< table >}}
     <table>
     <thead>
     <tr class="header">
@@ -322,8 +337,8 @@ For the Gain/Lost of match, the whole procedure is listed as follows:
     {{</ table >}}
     Formula: `CoinsLost = EndScore<-40 ? MaximumLost : EndScore*ExchangeRate`
 3.  Sum up the total lost.
-4.  Distribute the coins proportionally to other players based on End Score.
-    Formula: `CoinsGain = Sum(CoinsLosts) * EndScore / Sum(PositiveEndScores)`
+4.  Distribute the coins proportionally to other players based on End Score. Formula:
+    `CoinsGain = Sum(CoinsLosts) * EndScore / Sum(PositiveEndScores)`
 
 ### Chests
 
@@ -424,505 +439,489 @@ Currently there're 27 characters in game, including 19 females and 8 males.
 
 #### Females
 
-  - ```Majsoul/Character images|Ichihime|cos1=summer|cos2=spring```
-    **Ichihime** (一姫) <small style="color:#999;">(Default)</small>
-      - Height: 154cm
-      - Birth Date: *January 11th*
-      - Age: Unknown
-      - Blood Type: A
-      - Vocal: Maaya Uchida (内田真礼)
-      - Interest: Food, Sleep
-    <hr style="
-    width: calc(100% - 1.6em * 2);
-    height: 0;
-    margin: .2em auto 0;
-    border-top: 1px dashed #ccc;
-    background-color: transparent;
-    "/>
-      - Preferred Gifts: Cookies
-      - Spheres for Bond: Innocence, Hope
-  - ```Majsoul/Character images|Miki Nikaidou|cos1=halloween|cos2=spring```
-    **Miki Nikaidou** (二階堂美樹) <small style="color:#999;">(Free)</small>
-      - Height: 168cm
-      - Birth Date: *February 14th*
-      - Age: 24
-      - Blood Type: A
-      - Vocal: Chiwa Saitou (斎藤千和)
-      - Interest: Gems, Hedgehog pets
-    <hr style="
-    width: calc(100% - 1.6em * 2);
-    height: 0;
-    margin: .2em auto 0;
-    border-top: 1px dashed #ccc;
-    background-color: transparent;
-    "/>
-      - Preferred Gifts: Gems
-      - Spheres for Bond: Love, Wisdom
-  - ```Majsoul/Character images|Chiori Mikami|cos1=christmas```
-    **Chiori Mikami** (三上千織)
-      - Height: 143cm
-      - Birth Date: *May 23rd*
-      - Age: 14
-      - Blood Type: B
-      - Vocal: Yuka Iguchi (井口裕香)
-      - Interest: Teddy bears
-    <hr style="
-    width: calc(100% - 1.6em * 2);
-    height: 0;
-    margin: .2em auto 0;
-    border-top: 1px dashed #ccc;
-    background-color: transparent;
-    "/>
-      - Preferred Gifts: Dolls
-      - Spheres for Bond: Honesty, Innocence
-  - ```Majsoul/Character images|Kana Fujita|cos1=christmas```
-    **Kana Fujita** (藤田佳奈)
-      - Height: 159cm
-      - Birth Date: *April 27th*
-      - Age: 17
-      - Blood Type: B
-      - Vocal: Maaya Uchida (内田真礼)
-      - Interest: Gaming
-    <hr style="
-    width: calc(100% - 1.6em * 2);
-    height: 0;
-    margin: .2em auto 0;
-    border-top: 1px dashed #ccc;
-    background-color: transparent;
-    "/>
-      - Preferred Gifts:
-          - Gaming devices <small style="color:#999;">(Gifting)</small>
-          - Paints <small style="color:#999;">(Bond)</small>
-      - Spheres for Bond: Honesty, Innocence
-  - ```Majsoul/Character images|Mai Aihara|cos1=summer```
-    **Mai Aihara** (相原舞)
-      - Height: 165cm
-      - Birth Date: *June 26th*
-      - Age: 18
-      - Blood Type: O
-      - Vocal: Yuka Iguchi (井口裕香)
-      - Interest: Reading
-    <hr style="
-    width: calc(100% - 1.6em * 2);
-    height: 0;
-    margin: .2em auto 0;
-    border-top: 1px dashed #ccc;
-    background-color: transparent;
-    "/>
-      - Preferred Gifts: Magazines
-      - Spheres for Bond: Will, Light
-  - ```Majsoul/Character images|Nadeshiko|cos1=summer```
-    **Nadeshiko** (撫子)
-      - Height: 175cm
-      - Birth Date: *August 14th*
-      - Age: 28 \[1\]
-      - Blood Type: AB
-      - Vocal: Chiwa Saitou (斎藤千和)
-      - Interest: Beer, Traveling
-    <hr style="
-    width: calc(100% - 1.6em * 2);
-    height: 0;
-    margin: .2em auto 0;
-    border-top: 1px dashed #ccc;
-    background-color: transparent;
-    "/>
-      - Preferred Gifts: Wines
-      - Spheres for Bond: Courage, Honesty
-  - ```Majsoul/Character images|Yui Yagi|cos1=christmas```
-    **Yui Yagi** (八木唯)
-      - Height: 162cm
-      - Birth Date: *September 7th*
-      - Age: 19
-      - Blood Type: AB
-      - Vocal: Ami Koshimizu (小清水亜美)
-      - Interest: Snacks, Coffee, Swimming
-    <hr style="
-    width: calc(100% - 1.6em * 2);
-    height: 0;
-    margin: .2em auto 0;
-    border-top: 1px dashed #ccc;
-    background-color: transparent;
-    "/>
-      - Preferred Gifts: Cookies
-      - Spheres for Bond: Will, Wisdom
-  - ```Majsoul/Character images|Riu Kujou|cos1=summer```
-    **Riu Kujou** (九条璃雨)
-      - Height: 161cm
-      - Birth Date: *November 29th*
-      - Age: 19
-      - Blood Type: O
-      - Vocal: Ami Koshimizu (小清水亜美)
-      - Interest: Taekwondo, Black tea, Clothing
-    <hr style="
-    width: calc(100% - 1.6em * 2);
-    height: 0;
-    margin: .2em auto 0;
-    border-top: 1px dashed #ccc;
-    background-color: transparent;
-    "/>
-      - Preferred Gifts: Clothes
-      - Spheres for Bond: Love, Light
-  - ```Majsoul/Character images|Xenia|cos1=halloween```
-    **Xenia** (ジニア)
-      - Height: 158cm
-      - Birth Date: *February 2nd*
-      - Age: 17
-      - Blood Type: O
-      - Vocal: Mai Nakahara (中原麻衣)
-      - Interest: Gaming, Camping, Cooking
-    <hr style="
-    width: calc(100% - 1.6em * 2);
-    height: 0;
-    margin: .2em auto 0;
-    border-top: 1px dashed #ccc;
-    background-color: transparent;
-    "/>
-      - Preferred Gifts: Gaming devices
-      - Spheres for Bond: Courage, Will
-  - ```Majsoul/Character images|Kaavi```
-    **Kaavi** (カーヴィ)
-      - Height: 165cm
-      - Birth Date: *October 12th*
-      - Age: 24
-      - Blood Type: A
-      - Vocal: Mai Nakahara (中原麻衣)
-      - Interest: Gems, Inevitable fate
-    <hr style="
-    width: calc(100% - 1.6em * 2);
-    height: 0;
-    margin: .2em auto 0;
-    border-top: 1px dashed #ccc;
-    background-color: transparent;
-    "/>
-      - Preferred Gifts: Gems
-      - Spheres for Bond: Honesty, Wisdom
-  - ```Majsoul/Character images|Sara|cos1=spring```
-    **Sara** (サラ)
-      - Height: 158cm
-      - Birth Date: *September 25th*
-      - Age: 19
-      - Blood Type: O
-      - Vocal: M・A・O / Mao Ichimichi (市道真央)
-      - Interest: Skirts, Dance, Cats
-    <hr style="
-    width: calc(100% - 1.6em * 2);
-    height: 0;
-    margin: .2em auto 0;
-    border-top: 1px dashed #ccc;
-    background-color: transparent;
-    "/>
-      - Preferred Gifts: Clothes
-      - Spheres for Bond: Love, Light
-  - ```Majsoul/Character images|Hana Ninomiya|cos1=spring```
-    **Hana Ninomiya** (二之宮花)
-      - Height: 155cm
-      - Birth Date: *July 12th*
-      - Age: 17
-      - Blood Type: A
-      - Vocal: Konomi Kohara (小原好美)
-      - Interest: Gardening, Reading
-    <hr style="
-    width: calc(100% - 1.6em * 2);
-    height: 0;
-    margin: .2em auto 0;
-    border-top: 1px dashed #ccc;
-    background-color: transparent;
-    "/>
-      - Preferred Gifts: Magazines
-      - Spheres for Bond: Innocence, Light
-  - ```Majsoul/Character images|Keikumusume```
-    **Keikumusume** (軽庫娘) <small style="color:#999;">(Event)</small>
-      - Height: 159cm
-      - Birth Date: *September 9th*
-      - Age: 17
-      - Blood Type: AB
-      - Vocal: Konomi Kohara (小原好美)
-      - Interest: Light novels, Teasing her younger sister
-    <hr style="
-    width: calc(100% - 1.6em * 2);
-    height: 0;
-    margin: .2em auto 0;
-    border-top: 1px dashed #ccc;
-    background-color: transparent;
-    "/>
-      - Preferred Gifts:
-          - Magazines <small style="color:#999;">(Gifting)</small>
-          - Light novels <small style="color:#999;">(Bond)</small>
-      - Spheres for Bond: Honesty, Wisdom, Courage, Hope
-  - ```Majsoul/Character images|Nana Shiraishi```
-    **Nana Shiraishi** (白石奈々)
-      - Height: 167cm
-      - Birth Date: *May 31st*
-      - Age: 17
-      - Blood Type: O
-      - Vocal: M・A・O / Mao Ichimichi (市道真央)
-      - Interest: Sports, Teen mangas
-    <hr style="
-    width: calc(100% - 1.6em * 2);
-    height: 0;
-    margin: .2em auto 0;
-    border-top: 1px dashed #ccc;
-    background-color: transparent;
-    "/>
-      - Preferred Gifts: Magazines
-      - Spheres for Bond: Courage, Light
-  - ```Majsoul/Character images|Hinata Takanashi```
-    **Hinata Takanashi** (小鳥遊雛田)
-      - Height: 155cm
-      - Birth Date: *June 28th*
-      - Age: 20
-      - Blood Type: A
-      - Vocal: Rie Murakawa (村川梨衣)
-      - Interest: Photography, Gardening, Doll
-    <hr style="
-    width: calc(100% - 1.6em * 2);
-    height: 0;
-    margin: .2em auto 0;
-    border-top: 1px dashed #ccc;
-    background-color: transparent;
-    "/>
-      - Preferred Gifts: Dolls
-      - Spheres for Bond: Purity, Hope
-  - ```Majsoul/Character images|Haruna Igarashi```
-    **Haruna Igarashi** (五十嵐陽菜)
-      - Height: 134cm
-      - Birth Date: *November 24th*
-      - Age: 11
-      - Blood Type: AB
-      - Vocal: Rie Murakawa (村川梨衣)
-      - Interest: Game consoles, Street cat, Ice pop
-    <hr style="
-    width: calc(100% - 1.6em * 2);
-    height: 0;
-    margin: .2em auto 0;
-    border-top: 1px dashed #ccc;
-    background-color: transparent;
-    "/>
-      - Preferred Gifts: Gaming devices
-      - Spheres for Bond: Hope, Purity
-  - ```Majsoul/Character images|Anju Suzumiya```
-    **Anju Suzumiya** (涼宮杏樹)
-      - Height: 148cm
-      - Birth Date: *May 16th*
-      - Age: 14
-      - Blood Type: AB
-      - Vocal: Aya Suzaki (洲崎綾)
-      - Interest: Artwork, Recording, Strawberry milk
-    <hr style="
-    width: calc(100% - 1.6em * 2);
-    height: 0;
-    margin: .2em auto 0;
-    border-top: 1px dashed #ccc;
-    background-color: transparent;
-    "/>
-      - Preferred Gifts: Paints
-      - Spheres for Bond: Purity, Light
-  - ```Majsoul/Character images|Sawako Kitami```
-    **Sawako Kitami** (北見紗和子)
-      - Height: 160cm
-      - Birth Date: *October 15th*
-      - Age: 32
-      - Blood Type: B
-      - Vocal: Aya Suzaki (洲崎綾)
-      - Interest: Card game, Dress
-    <hr style="
-    width: calc(100% - 1.6em * 2);
-    height: 0;
-    margin: .2em auto 0;
-    border-top: 1px dashed #ccc;
-    background-color: transparent;
-    "/>
-      - Preferred Gifts: Clothes
-      - Spheres for Bond: Love, Will
-  - ```Majsoul/Character images|Momo Hina```
-    **Momo Hina** (雛桃)
-      - Height: 133cm
-      - Birth Date: *June 6th*
-      - Age: 11
-      - Blood Type: A
-      - Vocal: Mariya Ise (伊瀬茉莉也)
-      - Interest: Fairy tale, Fantasy, Toys
-    <hr style="
-    width: calc(100% - 1.6em * 2);
-    height: 0;
-    margin: .2em auto 0;
-    border-top: 1px dashed #ccc;
-    background-color: transparent;
-    "/>
-      - Preferred Gifts: Dolls
-      - Spheres for Bond: Honesty, Innocence
+- `Majsoul/Character images|Ichihime|cos1=summer|cos2=spring` **Ichihime** (一姫)
+  <small style="color:#999;">(Default)</small>
+  - Height: 154cm
+  - Birth Date: _January 11th_
+  - Age: Unknown
+  - Blood Type: A
+  - Vocal: Maaya Uchida (内田真礼)
+  - Interest: Food, Sleep
+  <hr style="
+  width: calc(100% - 1.6em * 2);
+  height: 0;
+  margin: .2em auto 0;
+  border-top: 1px dashed #ccc;
+  background-color: transparent;
+  "/>
+  - Preferred Gifts: Cookies
+  - Spheres for Bond: Innocence, Hope
+- `Majsoul/Character images|Miki Nikaidou|cos1=halloween|cos2=spring` **Miki Nikaidou** (二階堂美樹)
+  <small style="color:#999;">(Free)</small>
+  - Height: 168cm
+  - Birth Date: _February 14th_
+  - Age: 24
+  - Blood Type: A
+  - Vocal: Chiwa Saitou (斎藤千和)
+  - Interest: Gems, Hedgehog pets
+  <hr style="
+  width: calc(100% - 1.6em * 2);
+  height: 0;
+  margin: .2em auto 0;
+  border-top: 1px dashed #ccc;
+  background-color: transparent;
+  "/>
+  - Preferred Gifts: Gems
+  - Spheres for Bond: Love, Wisdom
+- `Majsoul/Character images|Chiori Mikami|cos1=christmas` **Chiori Mikami** (三上千織)
+  - Height: 143cm
+  - Birth Date: _May 23rd_
+  - Age: 14
+  - Blood Type: B
+  - Vocal: Yuka Iguchi (井口裕香)
+  - Interest: Teddy bears
+  <hr style="
+  width: calc(100% - 1.6em * 2);
+  height: 0;
+  margin: .2em auto 0;
+  border-top: 1px dashed #ccc;
+  background-color: transparent;
+  "/>
+  - Preferred Gifts: Dolls
+  - Spheres for Bond: Honesty, Innocence
+- `Majsoul/Character images|Kana Fujita|cos1=christmas` **Kana Fujita** (藤田佳奈)
+  - Height: 159cm
+  - Birth Date: _April 27th_
+  - Age: 17
+  - Blood Type: B
+  - Vocal: Maaya Uchida (内田真礼)
+  - Interest: Gaming
+  <hr style="
+  width: calc(100% - 1.6em * 2);
+  height: 0;
+  margin: .2em auto 0;
+  border-top: 1px dashed #ccc;
+  background-color: transparent;
+  "/>
+  - Preferred Gifts:
+    - Gaming devices <small style="color:#999;">(Gifting)</small>
+    - Paints <small style="color:#999;">(Bond)</small>
+  - Spheres for Bond: Honesty, Innocence
+- `Majsoul/Character images|Mai Aihara|cos1=summer` **Mai Aihara** (相原舞)
+  - Height: 165cm
+  - Birth Date: _June 26th_
+  - Age: 18
+  - Blood Type: O
+  - Vocal: Yuka Iguchi (井口裕香)
+  - Interest: Reading
+  <hr style="
+  width: calc(100% - 1.6em * 2);
+  height: 0;
+  margin: .2em auto 0;
+  border-top: 1px dashed #ccc;
+  background-color: transparent;
+  "/>
+  - Preferred Gifts: Magazines
+  - Spheres for Bond: Will, Light
+- `Majsoul/Character images|Nadeshiko|cos1=summer` **Nadeshiko** (撫子)
+  - Height: 175cm
+  - Birth Date: _August 14th_
+  - Age: 28 \[1\]
+  - Blood Type: AB
+  - Vocal: Chiwa Saitou (斎藤千和)
+  - Interest: Beer, Traveling
+  <hr style="
+  width: calc(100% - 1.6em * 2);
+  height: 0;
+  margin: .2em auto 0;
+  border-top: 1px dashed #ccc;
+  background-color: transparent;
+  "/>
+  - Preferred Gifts: Wines
+  - Spheres for Bond: Courage, Honesty
+- `Majsoul/Character images|Yui Yagi|cos1=christmas` **Yui Yagi** (八木唯)
+  - Height: 162cm
+  - Birth Date: _September 7th_
+  - Age: 19
+  - Blood Type: AB
+  - Vocal: Ami Koshimizu (小清水亜美)
+  - Interest: Snacks, Coffee, Swimming
+  <hr style="
+  width: calc(100% - 1.6em * 2);
+  height: 0;
+  margin: .2em auto 0;
+  border-top: 1px dashed #ccc;
+  background-color: transparent;
+  "/>
+  - Preferred Gifts: Cookies
+  - Spheres for Bond: Will, Wisdom
+- `Majsoul/Character images|Riu Kujou|cos1=summer` **Riu Kujou** (九条璃雨)
+  - Height: 161cm
+  - Birth Date: _November 29th_
+  - Age: 19
+  - Blood Type: O
+  - Vocal: Ami Koshimizu (小清水亜美)
+  - Interest: Taekwondo, Black tea, Clothing
+  <hr style="
+  width: calc(100% - 1.6em * 2);
+  height: 0;
+  margin: .2em auto 0;
+  border-top: 1px dashed #ccc;
+  background-color: transparent;
+  "/>
+  - Preferred Gifts: Clothes
+  - Spheres for Bond: Love, Light
+- `Majsoul/Character images|Xenia|cos1=halloween` **Xenia** (ジニア)
+  - Height: 158cm
+  - Birth Date: _February 2nd_
+  - Age: 17
+  - Blood Type: O
+  - Vocal: Mai Nakahara (中原麻衣)
+  - Interest: Gaming, Camping, Cooking
+  <hr style="
+  width: calc(100% - 1.6em * 2);
+  height: 0;
+  margin: .2em auto 0;
+  border-top: 1px dashed #ccc;
+  background-color: transparent;
+  "/>
+  - Preferred Gifts: Gaming devices
+  - Spheres for Bond: Courage, Will
+- `Majsoul/Character images|Kaavi` **Kaavi** (カーヴィ)
+  - Height: 165cm
+  - Birth Date: _October 12th_
+  - Age: 24
+  - Blood Type: A
+  - Vocal: Mai Nakahara (中原麻衣)
+  - Interest: Gems, Inevitable fate
+  <hr style="
+  width: calc(100% - 1.6em * 2);
+  height: 0;
+  margin: .2em auto 0;
+  border-top: 1px dashed #ccc;
+  background-color: transparent;
+  "/>
+  - Preferred Gifts: Gems
+  - Spheres for Bond: Honesty, Wisdom
+- `Majsoul/Character images|Sara|cos1=spring` **Sara** (サラ)
+  - Height: 158cm
+  - Birth Date: _September 25th_
+  - Age: 19
+  - Blood Type: O
+  - Vocal: M・A・O / Mao Ichimichi (市道真央)
+  - Interest: Skirts, Dance, Cats
+  <hr style="
+  width: calc(100% - 1.6em * 2);
+  height: 0;
+  margin: .2em auto 0;
+  border-top: 1px dashed #ccc;
+  background-color: transparent;
+  "/>
+  - Preferred Gifts: Clothes
+  - Spheres for Bond: Love, Light
+- `Majsoul/Character images|Hana Ninomiya|cos1=spring` **Hana Ninomiya** (二之宮花)
+  - Height: 155cm
+  - Birth Date: _July 12th_
+  - Age: 17
+  - Blood Type: A
+  - Vocal: Konomi Kohara (小原好美)
+  - Interest: Gardening, Reading
+  <hr style="
+  width: calc(100% - 1.6em * 2);
+  height: 0;
+  margin: .2em auto 0;
+  border-top: 1px dashed #ccc;
+  background-color: transparent;
+  "/>
+  - Preferred Gifts: Magazines
+  - Spheres for Bond: Innocence, Light
+- `Majsoul/Character images|Keikumusume` **Keikumusume** (軽庫娘)
+  <small style="color:#999;">(Event)</small>
+  - Height: 159cm
+  - Birth Date: _September 9th_
+  - Age: 17
+  - Blood Type: AB
+  - Vocal: Konomi Kohara (小原好美)
+  - Interest: Light novels, Teasing her younger sister
+  <hr style="
+  width: calc(100% - 1.6em * 2);
+  height: 0;
+  margin: .2em auto 0;
+  border-top: 1px dashed #ccc;
+  background-color: transparent;
+  "/>
+  - Preferred Gifts:
+    - Magazines <small style="color:#999;">(Gifting)</small>
+    - Light novels <small style="color:#999;">(Bond)</small>
+  - Spheres for Bond: Honesty, Wisdom, Courage, Hope
+- `Majsoul/Character images|Nana Shiraishi` **Nana Shiraishi** (白石奈々)
+  - Height: 167cm
+  - Birth Date: _May 31st_
+  - Age: 17
+  - Blood Type: O
+  - Vocal: M・A・O / Mao Ichimichi (市道真央)
+  - Interest: Sports, Teen mangas
+  <hr style="
+  width: calc(100% - 1.6em * 2);
+  height: 0;
+  margin: .2em auto 0;
+  border-top: 1px dashed #ccc;
+  background-color: transparent;
+  "/>
+  - Preferred Gifts: Magazines
+  - Spheres for Bond: Courage, Light
+- `Majsoul/Character images|Hinata Takanashi` **Hinata Takanashi** (小鳥遊雛田)
+  - Height: 155cm
+  - Birth Date: _June 28th_
+  - Age: 20
+  - Blood Type: A
+  - Vocal: Rie Murakawa (村川梨衣)
+  - Interest: Photography, Gardening, Doll
+  <hr style="
+  width: calc(100% - 1.6em * 2);
+  height: 0;
+  margin: .2em auto 0;
+  border-top: 1px dashed #ccc;
+  background-color: transparent;
+  "/>
+  - Preferred Gifts: Dolls
+  - Spheres for Bond: Purity, Hope
+- `Majsoul/Character images|Haruna Igarashi` **Haruna Igarashi** (五十嵐陽菜)
+  - Height: 134cm
+  - Birth Date: _November 24th_
+  - Age: 11
+  - Blood Type: AB
+  - Vocal: Rie Murakawa (村川梨衣)
+  - Interest: Game consoles, Street cat, Ice pop
+  <hr style="
+  width: calc(100% - 1.6em * 2);
+  height: 0;
+  margin: .2em auto 0;
+  border-top: 1px dashed #ccc;
+  background-color: transparent;
+  "/>
+  - Preferred Gifts: Gaming devices
+  - Spheres for Bond: Hope, Purity
+- `Majsoul/Character images|Anju Suzumiya` **Anju Suzumiya** (涼宮杏樹)
+  - Height: 148cm
+  - Birth Date: _May 16th_
+  - Age: 14
+  - Blood Type: AB
+  - Vocal: Aya Suzaki (洲崎綾)
+  - Interest: Artwork, Recording, Strawberry milk
+  <hr style="
+  width: calc(100% - 1.6em * 2);
+  height: 0;
+  margin: .2em auto 0;
+  border-top: 1px dashed #ccc;
+  background-color: transparent;
+  "/>
+  - Preferred Gifts: Paints
+  - Spheres for Bond: Purity, Light
+- `Majsoul/Character images|Sawako Kitami` **Sawako Kitami** (北見紗和子)
+  - Height: 160cm
+  - Birth Date: _October 15th_
+  - Age: 32
+  - Blood Type: B
+  - Vocal: Aya Suzaki (洲崎綾)
+  - Interest: Card game, Dress
+  <hr style="
+  width: calc(100% - 1.6em * 2);
+  height: 0;
+  margin: .2em auto 0;
+  border-top: 1px dashed #ccc;
+  background-color: transparent;
+  "/>
+  - Preferred Gifts: Clothes
+  - Spheres for Bond: Love, Will
+- `Majsoul/Character images|Momo Hina` **Momo Hina** (雛桃)
+  - Height: 133cm
+  - Birth Date: _June 6th_
+  - Age: 11
+  - Blood Type: A
+  - Vocal: Mariya Ise (伊瀬茉莉也)
+  - Interest: Fairy tale, Fantasy, Toys
+  <hr style="
+  width: calc(100% - 1.6em * 2);
+  height: 0;
+  margin: .2em auto 0;
+  border-top: 1px dashed #ccc;
+  background-color: transparent;
+  "/>
+  - Preferred Gifts: Dolls
+  - Spheres for Bond: Honesty, Innocence
 
 #### Males
 
-  - ```Majsoul/Character images|Wanjirou|cos1=halloween```
-    **Wanjirou** (ワン次郎)
-      - Height: 165cm
-      - Birth Date: *January 13th*
-      - Age: Unknown
-      - Blood Type: A
-      - Vocal: Yuuki Ono (小野友樹)
-      - Interest: Food, Sleep
-    <hr style="
-    width: calc(100% - 1.6em * 2);
-    height: 0;
-    margin: .2em auto 0;
-    border-top: 1px dashed #ccc;
-    background-color: transparent;
-    "/>
-      - Preferred Gifts: Cookies
-      - Spheres for Bond: Wisdom, Hope
-  - ```Majsoul/Character images|Natsuki Shinomiya|cos1=halloween```
-    **Natsuki Shinomiya** (四宮夏生)
-      - Height: 178cm
-      - Birth Date: *December 14th*
-      - Age: 24
-      - Blood Type: AB
-      - Vocal: Jun Fukuyama (福山潤)
-      - Interest: Mahjong, Gaming, Bartending
-    <hr style="
-    width: calc(100% - 1.6em * 2);
-    height: 0;
-    margin: .2em auto 0;
-    border-top: 1px dashed #ccc;
-    background-color: transparent;
-    "/>
-      - Preferred Gifts: Wines
-      - Spheres for Bond: Courage, Honesty
-  - ```Majsoul/Character images|Sora Ichinose|cos1=christmas```
-    **Sora Ichinose** (一ノ瀬空)
-      - Height: 147cm
-      - Birth Date: *March 14th*
-      - Age: 13
-      - Blood Type: B
-      - Vocal: Junko Minagawa (皆川純子)
-      - Interest: Reading, Math, Rubik's cubes
-    <hr style="
-    width: calc(100% - 1.6em * 2);
-    height: 0;
-    margin: .2em auto 0;
-    border-top: 1px dashed #ccc;
-    background-color: transparent;
-    "/>
-      - Preferred Gifts: Gaming devices
-      - Spheres for Bond: Wisdom, Purity
-  - ```Majsoul/Character images|Hideki Akechi```
-    **Hideki Akechi** (明智英樹)
-      - Height: 177cm
-      - Birth Date: *January 9th*
-      - Age: 20
-      - Blood Type: O
-      - Vocal: Shinnosuke Tachibana (立花慎之介)
-      - Interest: Horse riding, Playing Go
-    <hr style="
-    width: calc(100% - 1.6em * 2);
-    height: 0;
-    margin: .2em auto 0;
-    border-top: 1px dashed #ccc;
-    background-color: transparent;
-    "/>
-      - Preferred Gifts: Paints
-      - Spheres for Bond: Love, Light
-  - ```Majsoul/Character images|Osamu Saitou```
-    **Osamu Saitou** (斎藤治)
-      - Height: 190cm
-      - Birth Date: *May 18th*
-      - Age: 29
-      - Blood Type: O
-      - Vocal: Hiroki Yasumoto (安元洋貴)
-      - Interest: Gem, Sudoku
-    <hr style="
-    width: calc(100% - 1.6em * 2);
-    height: 0;
-    margin: .2em auto 0;
-    border-top: 1px dashed #ccc;
-    background-color: transparent;
-    "/>
-      - Preferred Gifts: Gems
-      - Spheres for Bond: Will, Wisdom
-  - ```Majsoul/Character images|Joseph```
-    **Joseph** (ジョセフ)
-      - Height: 189cm
-      - Birth Date: *January 17th*
-      - Age: 35
-      - Blood Type: A
-      - Vocal: Hiroki Yasumoto (安元洋貴)
-      - Interest: Liquor, Adventure, Fishing
-    <hr style="
-    width: calc(100% - 1.6em * 2);
-    height: 0;
-    margin: .2em auto 0;
-    border-top: 1px dashed #ccc;
-    background-color: transparent;
-    "/>
-      - Preferred Gifts: Wines
-      - Spheres for Bond: Courage, Honesty
-  - ```Majsoul/Character images|Ein```
-    **Ein** (エイン)
-      - Height: 175cm
-      - Birth Date: *April 13th*
-      - Age: 18
-      - Blood Type: AB
-      - Vocal: Tetsuya Kakihara (柿原徹也)
-      - Interest: Game consoles, Hunting, Fruit
-    <hr style="
-    width: calc(100% - 1.6em * 2);
-    height: 0;
-    margin: .2em auto 0;
-    border-top: 1px dashed #ccc;
-    background-color: transparent;
-    "/>
-      - Preferred Gifts: Gaming devices
-      - Spheres for Bond: Will, Hope
-  - ```Majsoul/Character images|Zan Tsukimi```
-    **Zan Tsukimi** (月見山)
-      - Height: 187cm
-      - Birth Date: *July 2nd*
-      - Age: 33
-      - Blood Type: B
-      - Vocal: Tomoaki Maeno (前野智昭)
-      - Interest: Liquor, Taking care of kids
-    <hr style="
-    width: calc(100% - 1.6em * 2);
-    height: 0;
-    margin: .2em auto 0;
-    border-top: 1px dashed #ccc;
-    background-color: transparent;
-    "/>
-      - Preferred Gifts: Wines
-      - Spheres for Bond: Love, Light
+- `Majsoul/Character images|Wanjirou|cos1=halloween` **Wanjirou** (ワン次郎)
+  - Height: 165cm
+  - Birth Date: _January 13th_
+  - Age: Unknown
+  - Blood Type: A
+  - Vocal: Yuuki Ono (小野友樹)
+  - Interest: Food, Sleep
+  <hr style="
+  width: calc(100% - 1.6em * 2);
+  height: 0;
+  margin: .2em auto 0;
+  border-top: 1px dashed #ccc;
+  background-color: transparent;
+  "/>
+  - Preferred Gifts: Cookies
+  - Spheres for Bond: Wisdom, Hope
+- `Majsoul/Character images|Natsuki Shinomiya|cos1=halloween` **Natsuki Shinomiya** (四宮夏生)
+  - Height: 178cm
+  - Birth Date: _December 14th_
+  - Age: 24
+  - Blood Type: AB
+  - Vocal: Jun Fukuyama (福山潤)
+  - Interest: Mahjong, Gaming, Bartending
+  <hr style="
+  width: calc(100% - 1.6em * 2);
+  height: 0;
+  margin: .2em auto 0;
+  border-top: 1px dashed #ccc;
+  background-color: transparent;
+  "/>
+  - Preferred Gifts: Wines
+  - Spheres for Bond: Courage, Honesty
+- `Majsoul/Character images|Sora Ichinose|cos1=christmas` **Sora Ichinose** (一ノ瀬空)
+  - Height: 147cm
+  - Birth Date: _March 14th_
+  - Age: 13
+  - Blood Type: B
+  - Vocal: Junko Minagawa (皆川純子)
+  - Interest: Reading, Math, Rubik's cubes
+  <hr style="
+  width: calc(100% - 1.6em * 2);
+  height: 0;
+  margin: .2em auto 0;
+  border-top: 1px dashed #ccc;
+  background-color: transparent;
+  "/>
+  - Preferred Gifts: Gaming devices
+  - Spheres for Bond: Wisdom, Purity
+- `Majsoul/Character images|Hideki Akechi` **Hideki Akechi** (明智英樹)
+  - Height: 177cm
+  - Birth Date: _January 9th_
+  - Age: 20
+  - Blood Type: O
+  - Vocal: Shinnosuke Tachibana (立花慎之介)
+  - Interest: Horse riding, Playing Go
+  <hr style="
+  width: calc(100% - 1.6em * 2);
+  height: 0;
+  margin: .2em auto 0;
+  border-top: 1px dashed #ccc;
+  background-color: transparent;
+  "/>
+  - Preferred Gifts: Paints
+  - Spheres for Bond: Love, Light
+- `Majsoul/Character images|Osamu Saitou` **Osamu Saitou** (斎藤治)
+  - Height: 190cm
+  - Birth Date: _May 18th_
+  - Age: 29
+  - Blood Type: O
+  - Vocal: Hiroki Yasumoto (安元洋貴)
+  - Interest: Gem, Sudoku
+  <hr style="
+  width: calc(100% - 1.6em * 2);
+  height: 0;
+  margin: .2em auto 0;
+  border-top: 1px dashed #ccc;
+  background-color: transparent;
+  "/>
+  - Preferred Gifts: Gems
+  - Spheres for Bond: Will, Wisdom
+- `Majsoul/Character images|Joseph` **Joseph** (ジョセフ)
+  - Height: 189cm
+  - Birth Date: _January 17th_
+  - Age: 35
+  - Blood Type: A
+  - Vocal: Hiroki Yasumoto (安元洋貴)
+  - Interest: Liquor, Adventure, Fishing
+  <hr style="
+  width: calc(100% - 1.6em * 2);
+  height: 0;
+  margin: .2em auto 0;
+  border-top: 1px dashed #ccc;
+  background-color: transparent;
+  "/>
+  - Preferred Gifts: Wines
+  - Spheres for Bond: Courage, Honesty
+- `Majsoul/Character images|Ein` **Ein** (エイン)
+  - Height: 175cm
+  - Birth Date: _April 13th_
+  - Age: 18
+  - Blood Type: AB
+  - Vocal: Tetsuya Kakihara (柿原徹也)
+  - Interest: Game consoles, Hunting, Fruit
+  <hr style="
+  width: calc(100% - 1.6em * 2);
+  height: 0;
+  margin: .2em auto 0;
+  border-top: 1px dashed #ccc;
+  background-color: transparent;
+  "/>
+  - Preferred Gifts: Gaming devices
+  - Spheres for Bond: Will, Hope
+- `Majsoul/Character images|Zan Tsukimi` **Zan Tsukimi** (月見山)
+  - Height: 187cm
+  - Birth Date: _July 2nd_
+  - Age: 33
+  - Blood Type: B
+  - Vocal: Tomoaki Maeno (前野智昭)
+  - Interest: Liquor, Taking care of kids
+  <hr style="
+  width: calc(100% - 1.6em * 2);
+  height: 0;
+  margin: .2em auto 0;
+  border-top: 1px dashed #ccc;
+  background-color: transparent;
+  "/>
+  - Preferred Gifts: Wines
+  - Spheres for Bond: Love, Light
 
 ### Bond System
 
-Each character has a unique Bond Value. The value can be enhanced by gaming or gifting to unlock corresponding vocals and story plots. At the maximum affection level, all voice lines will be unlocked, and the character will read out yakus after winning a hand. Characters can be entangled to unlock new appearance as a skin that can be chosen, accompanying with 3 extra emotes.
+Each character has a unique Bond Value. The value can be enhanced by gaming or gifting to unlock
+corresponding vocals and story plots. At the maximum affection level, all voice lines will be
+unlocked, and the character will read out yakus after winning a hand. Characters can be entangled to
+unlock new appearance as a skin that can be chosen, accompanying with 3 extra emotes.
 
 {{< table >}}
 
-|               |       |           |                |
-| ------------- | ----- | --------- | -------------- |
-| Bond Values|- | Level | Upgrading | Total Required |
-| ❤             | 2000  | 2000      |                |
-| ❤❤            | 6000  | 8000      |                |
-| ❤❤❤           | 10000 | 18000     |                |
-| ❤❤❤❤          | 20000 | 38000     |                |
-| ❤❤❤❤❤         | 50000 | 88000     |                |
+|             |       |       |           |
+| ----------- | ----- | ----- | --------- |
+| Bond Values | -     | Level | Upgrading | Total Required |
+| ❤           | 2000  | 2000  |           |
+| ❤❤          | 6000  | 8000  |           |
+| ❤❤❤         | 10000 | 18000 |           |
+| ❤❤❤❤        | 20000 | 38000 |           |
+| ❤❤❤❤❤       | 50000 | 88000 |           |
 
 {{</ table >}}
 
 Bond values can be acquired as follows:
 
-  - Completing a match in Silver Room or higher:
-      - 4P East `+40`, 4P South `+60`; 3P East `+25`, 3P South `+40`.
-      - Extra bond-value enhancement is applied according to the charge amount. (See Charge-related Titles section)
-  - Gifting directly:
-      - Green Presents `+200`, Blue `+1000`, Purple `+5000`.
-      - An enhancement of 50% extra bond-values is applied, if the gift type matches character's interest \[2\].
+- Completing a match in Silver Room or higher:
+  - 4P East `+40`, 4P South `+60`; 3P East `+25`, 3P South `+40`.
+  - Extra bond-value enhancement is applied according to the charge amount. (See Charge-related
+    Titles section)
+- Gifting directly:
+  - Green Presents `+200`, Blue `+1000`, Purple `+5000`.
+  - An enhancement of 50% extra bond-values is applied, if the gift type matches character's
+    interest \[2\].
 
-If playing with a max-bond character, the bond values will be tracked such that every 1000 points grants a "bond gift". Similarly to other blue gifts, this can be given to another character to increase 1000 points of bond value, and also can be donated for 5 dust.
+If playing with a max-bond character, the bond values will be tracked such that every 1000 points
+grants a "bond gift". Similarly to other blue gifts, this can be given to another character to
+increase 1000 points of bond value, and also can be donated for 5 dust.
 
 ### Gifts
 
-Gifts can be given to a character to increase your bond with that character (see Bond System section) or turned into gold dust. 50 gold dust can be used at the lucky cat to attempt getting larger rewards, including a new character.
-{{< table >}}
+Gifts can be given to a character to increase your bond with that character (see Bond System
+section) or turned into gold dust. 50 gold dust can be used at the lucky cat to attempt getting
+larger rewards, including a new character. {{< table >}}
 
 | Gift Quality | Resulting Gold Dust |
 | ------------ | ------------------- |
@@ -936,119 +935,152 @@ Gifts can be given to a character to increase your bond with that character (see
 
 ### General
 
-  - Ranked Matches:
-      - 4-Player East
-      - 4-Player South
-      - 3-Player East
-      - 3-Player South
-  - Friendly Matches:
-      - Mode: 4-Player / 3-Player
-      - Length: One-Game / East / South / Vs AI
-      - Thinking time: 3+5s / 5+10s / 5+20s / 60+0s / 300+0s
-      - Advanced settings:
-          - Local yakus\[3\] <small style="color:#999;">(4P)</small>: Disabled by default
-          - Tsumo-loss <small style="color:#999;">(3P)</small>: Enabled by default
-          - Red Fives: None / 2 <small style="color:#999;">(3P)</small> / 3 <small style="color:#999;">(4P)</small> / 4 <small style="color:#999;">(4P)</small>
-          - Open Tanyao: Enabled by default
-          - Minimum han: 1 / 2 / 4
-          - In-game hints: Enabled by default
-          - Computer level: Easy <small style="color:#999;">(<s>Saint</s>)</small> / Normal <small style="color:#999;">(<s>Celestial</s>)</small>
-          - Show all hands: Disabled by default
-  - Tournaments: Available \[4\]
-  - Special Rooms:
-      - <s>Melee Room: Temporary available. 4P only.</s> \[5\]
-      - Casual Room: Available. Requires rank Adept or above.
-      - <s>DoraDorara: Temporary available. 4P-South only.</s>
-      - <s>Open Hand Match: Temporary available. 4P-South only. Requires Copper coins.</s>
-      - <s>Chaotic Wall Break: Temporary available. 4P-South only. Requires Copper coins.</s>
-      - Path of Trial: Temporary available. 4P-East only. Requires Copper coins (1500 coins per match, no exchange).
+- Ranked Matches:
+  - 4-Player East
+  - 4-Player South
+  - 3-Player East
+  - 3-Player South
+- Friendly Matches:
+  - Mode: 4-Player / 3-Player
+  - Length: One-Game / East / South / Vs AI
+  - Thinking time: 3+5s / 5+10s / 5+20s / 60+0s / 300+0s
+  - Advanced settings:
+    - Local yakus\[3\] <small style="color:#999;">(4P)</small>: Disabled by default
+    - Tsumo-loss <small style="color:#999;">(3P)</small>: Enabled by default
+    - Red Fives: None / 2 <small style="color:#999;">(3P)</small> / 3
+      <small style="color:#999;">(4P)</small> / 4 <small style="color:#999;">(4P)</small>
+    - Open Tanyao: Enabled by default
+    - Minimum han: 1 / 2 / 4
+    - In-game hints: Enabled by default
+    - Computer level: Easy <small style="color:#999;">(<s>Saint</s>)</small> / Normal
+      <small style="color:#999;">(<s>Celestial</s>)</small>
+    - Show all hands: Disabled by default
+- Tournaments: Available \[4\]
+- Special Rooms:
+  - <s>Melee Room: Temporary available. 4P only.</s> \[5\]
+  - Casual Room: Available. Requires rank Adept or above.
+  - <s>DoraDorara: Temporary available. 4P-South only.</s>
+  - <s>Open Hand Match: Temporary available. 4P-South only. Requires Copper coins.</s>
+  - <s>Chaotic Wall Break: Temporary available. 4P-South only. Requires Copper coins.</s>
+  - Path of Trial: Temporary available. 4P-East only. Requires Copper coins (1500 coins per match,
+    no exchange).
 
 ### Gameplay
 
-  - All Simples in opened hand <small style="color:#999;">(*Kuitan*)</small>: Allowed
-  - Gaining yaku upon the claim of a winning tile <small style="color:#999;">(*Atozuke*)</small>: Allowed
-  - Swap calling <small style="color:#999;">(*Kuikae*)</small>: Not allowed
-  - Red fives: 3 tiles (1 for each suit)
-  - Double-wind pair: 4 fu
-  - Multiple rons: Available
-  - Dealership holding <small style="color:#999;">(*Renchan*)</small>:
-      - Multiple rons: Keeps as long as dealer wins, otherwise rotates
-      - Mangan at Draw <small style="color:#999;">(*Nagashi Mangan*)</small>: Keeps as long as dealer is ready <small style="color:#999;">(*Tenpai*)</small>, while rotates if not <small style="color:#999;">(*No-ten*)</small>
-  - Extended match / Extra wind round <small style="color:#999;">(*Enchousen*)</small>: Applied
-  - Bankruptcy <small style="color:#999;">(*Tobi*)</small>:
-      - Negative points: Applied
-      - Zero point: Not applied
-  - Kandora flipping:
-      - Closed kan: Flips immediately
-      - Opened kan: Flips after
-  - Closed kan during Riichi is allowed as long as:
-      - The tile for kan is drawn instantly.
-      - The wait pattern does not change after the kan.
-  - Seat wind tie-breaker: Applied
-  - Abortive Draws <small style="color:#999;">(*Tochuu Ryuukyoku*)</small>:
-      - Four-wind Discarded <small style="color:#999;">(*Suufuu Renda*)</small>: Yes
-      - Four-kan Abortion <small style="color:#999;">(*Suukan Nagare*)</small>: Yes
-      - Nine Different Terminals and Honors <small style="color:#999;">(*Kyuushu Kyuuhai*)</small>: Yes
-      - Four-player Riichi <small style="color:#999;">(*Suucha Riichi*)</small>: Yes
-      - Three-player Ron <small style="color:#999;">(*Sanchahou*)</small>: No
+- All Simples in opened hand <small style="color:#999;">(_Kuitan_)</small>: Allowed
+- Gaining yaku upon the claim of a winning tile <small style="color:#999;">(_Atozuke_)</small>:
+  Allowed
+- Swap calling <small style="color:#999;">(_Kuikae_)</small>: Not allowed
+- Red fives: 3 tiles (1 for each suit)
+- Double-wind pair: 4 fu
+- Multiple rons: Available
+- Dealership holding <small style="color:#999;">(_Renchan_)</small>:
+  - Multiple rons: Keeps as long as dealer wins, otherwise rotates
+  - Mangan at Draw <small style="color:#999;">(_Nagashi Mangan_)</small>: Keeps as long as dealer is
+    ready <small style="color:#999;">(_Tenpai_)</small>, while rotates if not
+    <small style="color:#999;">(_No-ten_)</small>
+- Extended match / Extra wind round <small style="color:#999;">(_Enchousen_)</small>: Applied
+- Bankruptcy <small style="color:#999;">(_Tobi_)</small>:
+  - Negative points: Applied
+  - Zero point: Not applied
+- Kandora flipping:
+  - Closed kan: Flips immediately
+  - Opened kan: Flips after
+- Closed kan during Riichi is allowed as long as:
+  - The tile for kan is drawn instantly.
+  - The wait pattern does not change after the kan.
+- Seat wind tie-breaker: Applied
+- Abortive Draws <small style="color:#999;">(_Tochuu Ryuukyoku_)</small>:
+  - Four-wind Discarded <small style="color:#999;">(_Suufuu Renda_)</small>: Yes
+  - Four-kan Abortion <small style="color:#999;">(_Suukan Nagare_)</small>: Yes
+  - Nine Different Terminals and Honors <small style="color:#999;">(_Kyuushu Kyuuhai_)</small>: Yes
+  - Four-player Riichi <small style="color:#999;">(_Suucha Riichi_)</small>: Yes
+  - Three-player Ron <small style="color:#999;">(_Sanchahou_)</small>: No
 
 ### Yakus
 
-```Majsoul/Yaku table```
-**Notes**:
+`Majsoul/Yaku table` **Notes**:
 
-  - Pinfu <small style="color:#999;">(*Pinfu*)</small>: Tsumo 20 fu, Ron 30 fu
-  - Seven Pairs <small style="color:#999;">(*Chiitoitsu*)</small>: 25 fu
-  - Ippatsu <small style="color:#999;">(*Ippatsu*)</small> / Under the Sea <small style="color:#999;">(*Haitei Raoyue*)</small> cannot be combined with After a Kan <small style="color:#999;">(*Rinshan Kaihou*)</small>
-  - Robbing a concealed kan with Thirteen Orphans <small style="color:#999;">(*Kokushi Musou*)</small>: Allowed
-  - Robbing a concealed kan with Nine Gates <small style="color:#999;">(*Chuuren Poutou*)</small>: Not allowed
-  - Responsibility payment <small style="color:#999;">(*Sekinin barai / Pao*)</small>:
-      - Apply for: Big Three Dragons <small style="color:#999;">(*Daisangen*)</small>, Four Big Winds <small style="color:#999;">(*Daisuushi*)</small>
-      - Composite yakuman: Seperated responsibility for each yakuman \[6\]
-  - Dealer starts with 14 tiles directly (instead of regular 13+1 tiles), each tile can be treated as tsumo tiles when achieving Blessing of Heaven <small style="color:#999;">(*Tenhou*)</small>. The last tile in default tile-sequence is treated as the winning tile by default on the result screen. When the hand is composed with another yakumans, it is always treated as the highest yakuman: Single-wait Four Concealed Triplets <small style="color:#999;">(*Suuankou Tanki*)</small>, Thirteen-wait Thirteen Orphans <small style="color:#999;">(*Kokushi Musou Juusanmen Machi*)</small> and True Nine Gates <small style="color:#999;">(*Junsei Chuuren Poutou*)</small>. In those cases the hand is counted as triple yakuman. \[7\]
+- Pinfu <small style="color:#999;">(_Pinfu_)</small>: Tsumo 20 fu, Ron 30 fu
+- Seven Pairs <small style="color:#999;">(_Chiitoitsu_)</small>: 25 fu
+- Ippatsu <small style="color:#999;">(_Ippatsu_)</small> / Under the Sea
+  <small style="color:#999;">(_Haitei Raoyue_)</small> cannot be combined with After a Kan
+  <small style="color:#999;">(_Rinshan Kaihou_)</small>
+- Robbing a concealed kan with Thirteen Orphans <small style="color:#999;">(_Kokushi
+  Musou_)</small>: Allowed
+- Robbing a concealed kan with Nine Gates <small style="color:#999;">(_Chuuren Poutou_)</small>: Not
+  allowed
+- Responsibility payment <small style="color:#999;">(_Sekinin barai / Pao_)</small>:
+  - Apply for: Big Three Dragons <small style="color:#999;">(_Daisangen_)</small>, Four Big Winds
+    <small style="color:#999;">(_Daisuushi_)</small>
+  - Composite yakuman: Seperated responsibility for each yakuman \[6\]
+- Dealer starts with 14 tiles directly (instead of regular 13+1 tiles), each tile can be treated as
+  tsumo tiles when achieving Blessing of Heaven <small style="color:#999;">(_Tenhou_)</small>. The
+  last tile in default tile-sequence is treated as the winning tile by default on the result screen.
+  When the hand is composed with another yakumans, it is always treated as the highest yakuman:
+  Single-wait Four Concealed Triplets <small style="color:#999;">(_Suuankou Tanki_)</small>,
+  Thirteen-wait Thirteen Orphans <small style="color:#999;">(_Kokushi Musou Juusanmen
+  Machi_)</small> and True Nine Gates <small style="color:#999;">(_Junsei Chuuren Poutou_)</small>.
+  In those cases the hand is counted as triple yakuman. \[7\]
 
 ### 3P-Mahjong
 
-**3P-Mahjong** <small style="color:#999;">(*Sanma*)</small> is a variation based on regular mahjong, allowing 3 players to start a match.
+**3P-Mahjong** <small style="color:#999;">(_Sanma_)</small> is a variation based on regular mahjong,
+allowing 3 players to start a match.
 
-The ruleset of Majsoul Sanma basically refers to Tenhou. Most of the rules are identical to Tenhou Sanma.
+The ruleset of Majsoul Sanma basically refers to Tenhou. Most of the rules are identical to Tenhou
+Sanma.
 
-There're two different scoring mechanics ingame, by default Tsumo-Loss is applied in Ranked Matches, while North-Bisection is provided as an alternative option in Friendly Matches.
+There're two different scoring mechanics ingame, by default Tsumo-Loss is applied in Ranked Matches,
+while North-Bisection is provided as an alternative option in Friendly Matches.
 
 #### Ruleset in details
 
-  - Starting points: `35000`, End points: `40000`
-  - Uma points: First `+15`, Second `±0`, Third `-15`
-  - Rinshan-tile amount: 8 tiles
-  - Tiles from {{< t 2m >}} to {{< t 8m >}} are not used, thus Mixed Triple Sequence <small style="color:#999;">(*Sanshoku Doujun*)</small> yaku is unavailable.
-  - When Dora indicator is {{< t 1m >}}, Dora is {{< t 9m >}}.
-  - Red fives: 2 tiles ({{< t 0p >}} and {{< t 0s >}})
-  - Honba point: 200 points for each Honba stick
-  - No-ten penalty: 2000 points
-  - Completing a sequence by calling Chii: Disabled
-  - North can be used for replacement dora "Kita" <small style="color:#999;">(*Nukidora / Kita*)</small>.
-      - After a Kan <small style="color:#999;">(*Rinshan Kaihou*)</small> yaku is applied when winning a hand with rinshan tile from North replacing.
-      - North replacing can be robbed even with non-yakuman hand. However Robbing a Kan <small style="color:#999;">(*Chankan*)</small> yaku is not applied, the hand itself still requires another yaku to win with.
-      - North replacing cannot be claimed immediately right after Pon.
-      - North replacing is similar to a calling action, thus this can nullify Ippatsu <small style="color:#999;">(*Ippatsu*)</small>, Blessing of Earth <small style="color:#999;">(*Chiihou*)</small>, Nine Different Terminals and Honors <small style="color:#999;">(*Kyuushu Kyuuhai*)</small> and Double Riichi <small style="color:#999;">(*Daburu Riichi*)</small>.
-      - North replacing does not lead to a furiten of North.
-  - North is treated as guest-wind tiles <small style="color:#999;">(*Otakaze*)</small>, a triplet of North cannot get 1 han as Value Tiles <small style="color:#999;">(*Yakuhai* / *Fanpai*)</small>.
-  - Due to lacking of North seat, there're no abortive draws of Four-wind Discarded <small style="color:#999;">(*Suufon Renda*)</small> and Four-player Riichi <small style="color:#999;">(*Suucha Riichi*)</small>.
+- Starting points: `35000`, End points: `40000`
+- Uma points: First `+15`, Second `±0`, Third `-15`
+- Rinshan-tile amount: 8 tiles
+- Tiles from {{< t 2m >}} to {{< t 8m >}} are not used, thus Mixed Triple Sequence
+  <small style="color:#999;">(_Sanshoku Doujun_)</small> yaku is unavailable.
+- When Dora indicator is {{< t 1m >}}, Dora is {{< t 9m >}}.
+- Red fives: 2 tiles ({{< t 0p >}} and {{< t 0s >}})
+- Honba point: 200 points for each Honba stick
+- No-ten penalty: 2000 points
+- Completing a sequence by calling Chii: Disabled
+- North can be used for replacement dora "Kita" <small style="color:#999;">(_Nukidora /
+  Kita_)</small>.
+  - After a Kan <small style="color:#999;">(_Rinshan Kaihou_)</small> yaku is applied when winning a
+    hand with rinshan tile from North replacing.
+  - North replacing can be robbed even with non-yakuman hand. However Robbing a Kan
+    <small style="color:#999;">(_Chankan_)</small> yaku is not applied, the hand itself still
+    requires another yaku to win with.
+  - North replacing cannot be claimed immediately right after Pon.
+  - North replacing is similar to a calling action, thus this can nullify Ippatsu
+    <small style="color:#999;">(_Ippatsu_)</small>, Blessing of Earth
+    <small style="color:#999;">(_Chiihou_)</small>, Nine Different Terminals and Honors
+    <small style="color:#999;">(_Kyuushu Kyuuhai_)</small> and Double Riichi
+    <small style="color:#999;">(_Daburu Riichi_)</small>.
+  - North replacing does not lead to a furiten of North.
+- North is treated as guest-wind tiles <small style="color:#999;">(_Otakaze_)</small>, a triplet of
+  North cannot get 1 han as Value Tiles <small style="color:#999;">(_Yakuhai_ / _Fanpai_)</small>.
+- Due to lacking of North seat, there're no abortive draws of Four-wind Discarded
+  <small style="color:#999;">(_Suufon Renda_)</small> and Four-player Riichi
+  <small style="color:#999;">(_Suucha Riichi_)</small>.
 
 #### Calculation of Scoring Points
 
 Currently there're 2 different scoring methods ingame:
 
-  - **Tsumo-Loss** (default): Winner loses the income from North seat when the hand is completed by Tsumo.
-  - **North-Bisection**: The income from North is equally divided and distributed towards every other seats.
+- **Tsumo-Loss** (default): Winner loses the income from North seat when the hand is completed by
+  Tsumo.
+- **North-Bisection**: The income from North is equally divided and distributed towards every other
+  seats.
 
 In Ranked Match Tsumo-Loss is applied.
 
 The scoring table with Tsumo-Loss is basically identical to regular 4P-mahjong:
-```Majsoul/3P-Mahjong scoring table/tsumo-loss```
-When North-Bisection is applied, the scoring table on Tsumo is as follows:
-```Majsoul/3P-Mahjong scoring table/bisection```
-The calculation on Tsumo is finished by the following steps:
+`Majsoul/3P-Mahjong scoring table/tsumo-loss` When North-Bisection is applied, the scoring table on
+Tsumo is as follows: `Majsoul/3P-Mahjong scoring table/bisection` The calculation on Tsumo is
+finished by the following steps:
 
 1.  Calculate the scoring points based on 4P-Mahjong.
 2.  Equally divide North seat's payment (round up to whole hundreds).
@@ -1066,40 +1098,61 @@ The tournament lobby has been made available, and Yostar launched the first Catf
 
 ## Titles
 
-  - <span style="color:#ff4b32;">**Primal Fire**</span>: Memorial title of server release.
-      - <small style="color:#999;"><CN></small> For players participated in a closed-beta early access from *June 8th, 2018* to *July 2nd, 2018*.
-      - <small style="color:#999;"><EN / JP></small> For players registered during Grand Launch period from *April 25th, 2019* to *May 6th, 2019*.
-  - <span style="color:#96cc33;">**Light of Firefly**</span> <small style="color:#999;"><CN></small>: For players attended in Majsoul's live event held in Shanghai Firefly Animé Expo during *October 2nd, 2018* to *October 4th, 2018*.
-  - <span style="color:#42b37a;">**Grand Renewal**</span> <small style="color:#999;"><CN></small>: Memorial title of CN server migration. Awarded for players achieved Adapt rank or above in previous CN server before *June 10th, 2020*.
+- <span style="color:#ff4b32;">**Primal Fire**</span>: Memorial title of server release.
+  - <small style="color:#999;"><CN></small> For players participated in a closed-beta early access
+    from _June 8th, 2018_ to _July 2nd, 2018_.
+  - <small style="color:#999;"><EN / JP></small> For players registered during Grand Launch period
+    from _April 25th, 2019_ to _May 6th, 2019_.
+- <span style="color:#96cc33;">**Light of Firefly**</span> <small style="color:#999;"><CN></small>:
+  For players attended in Majsoul's live event held in Shanghai Firefly Animé Expo during _October
+  2nd, 2018_ to _October 4th, 2018_.
+- <span style="color:#42b37a;">**Grand Renewal**</span> <small style="color:#999;"><CN></small>:
+  Memorial title of CN server migration. Awarded for players achieved Adapt rank or above in
+  previous CN server before _June 10th, 2020_.
 
 ### Activity / Event Title
 
-  - <span style="color:#fef3e2; background-color:#283268; padding:2px 4px;">**Season 1 Challenger**</span>: For the players achieving Trial Rank Lv20 in Path of Trial Season 1 from *July 26th, 2020* to *October 24th, 2020*.
+- <span style="color:#fef3e2; background-color:#283268; padding:2px 4px;">**Season 1
+  Challenger**</span>: For the players achieving Trial Rank Lv20 in Path of Trial Season 1 from
+  _July 26th, 2020_ to _October 24th, 2020_.
 
 ### Player-specified Titles
 
-  - <span style="color:#9192e5;">**Approved Player**</span> <small style="color:#999;"><JP></small>: For the winner in the VTuber Mahjong Tournament Match (Shirakami Fubuki Cup). Currently held by [鴨神にゅう](https://amae-koromo.sapk.ch/player/72042909).\<\!--
+- <span style="color:#9192e5;">**Approved Player**</span> <small style="color:#999;"><JP></small>:
+  For the winner in the VTuber Mahjong Tournament Match (Shirakami Fubuki Cup). Currently held by
+  [鴨神にゅう](https://amae-koromo.sapk.ch/player/72042909).\<\!--
 
 \--\>\[8\]
 
-  - <span style="color:#db5382;">**The First Saint**</span>: For the *first* player who acquired Saint ladder. Currently held by:
-      - **4P**: [天才麻将杏杏](https://amae-koromo.sapk.ch/player/33336) <small style="color:#999;"><CN></small>\<\!--
+- <span style="color:#db5382;">**The First Saint**</span>: For the _first_ player who acquired Saint
+  ladder. Currently held by:
+  - **4P**: [天才麻将杏杏](https://amae-koromo.sapk.ch/player/33336)
+    <small style="color:#999;"><CN></small>\<\!--
 
-\--\>\[9\] , [阿撰](https://amae-koromo.sapk.ch/player/120120415) <small style="color:#999;"><EN></small> and [3週間](https://amae-koromo.sapk.ch/player/72066219) <small style="color:#999;"><JP></small>.
+\--\>\[9\] , [阿撰](https://amae-koromo.sapk.ch/player/120120415)
+<small style="color:#999;"><EN></small> and [3 週間](https://amae-koromo.sapk.ch/player/72066219)
+<small style="color:#999;"><JP></small>.
 
-  -   - **3P**: [<span title="进击の梨樹">天铳麻将梨樹</span>](https://ikeda.sapk.ch/player/268053) <small style="color:#999;"><CN></small>, [Corak](https://ikeda.sapk.ch/player/120179843) <small style="color:#999;"><EN></small> and [絵筆と希望の唄](https://ikeda.sapk.ch/player/71981413) <small style="color:#999;"><JP></small>.
+- - **3P**: [<span title="进击の梨樹">天铳麻将梨樹</span>](https://ikeda.sapk.ch/player/268053)
+    <small style="color:#999;"><CN></small>, [Corak](https://ikeda.sapk.ch/player/120179843)
+    <small style="color:#999;"><EN></small> and
+    [絵筆と希望の唄](https://ikeda.sapk.ch/player/71981413) <small style="color:#999;"><JP></small>.
 
-  - <span style="color:#185ecd;">**The First Celestial**</span>: For the *first* player who acquired Celestial ladder. Currently held by:
-    
-      - **4P**: 咲畑梨深 <small style="color:#999;"><CN></small>\<\!--
+- <span style="color:#185ecd;">**The First Celestial**</span>: For the _first_ player who acquired
+  Celestial ladder. Currently held by:
 
-\--\>\[10\] and [ハピリット](https://amae-koromo.sapk.ch/player/72012041) <small style="color:#999;"><JP></small>.
+  - **4P**: 咲畑梨深 <small style="color:#999;"><CN></small>\<\!--
 
-  -   - **3P**: [けんてぃー](https://ikeda.sapk.ch/player/68002192) <small style="color:#999;"><JP></small>.
+\--\>\[10\] and [ハピリット](https://amae-koromo.sapk.ch/player/72012041)
+<small style="color:#999;"><JP></small>.
+
+- - **3P**: [けんてぃー](https://ikeda.sapk.ch/player/68002192)
+    <small style="color:#999;"><JP></small>.
 
 ### Charge-related Titles
 
-The following titles are acquired by satisfying enough amount on charge. The title gets upgraded when acquiring the next level, accompanying with corresponding rewards and bonus effects.
+The following titles are acquired by satisfying enough amount on charge. The title gets upgraded
+when acquiring the next level, accompanying with corresponding rewards and bonus effects.
 
 {{< table >}}
 
@@ -1252,10 +1305,14 @@ The following titles are acquired by satisfying enough amount on charge. The tit
 
 **Notes:**
 
-  - A rough calculation between VIP points and actual cost can be done by the following formula:  
-    `6 VIP points` = `6 CNY` `≈30 NTD or ≈1 USD` <small style="color:#999;"><CN></small> / `1 USD` <small style="color:#999;"><EN></small> / `≈120 JPY` <small style="color:#999;"><JP></small>.
-      - The prices in JP server are slightly increased from *October 1st, 2019* due to an increasement of consumption tax.
-      - The currency in CN server is switched to New Taiwan Dollar after the server migration from *June 9th, 2020*, while US Dollar is also available in Steam client released on *July 15th, 2020*. Overall prices are higher, while rewarded jades are also increased slightly.
+- A rough calculation between VIP points and actual cost can be done by the following formula:  
+  `6 VIP points` = `6 CNY` `≈30 NTD or ≈1 USD` <small style="color:#999;"><CN></small> / `1 USD`
+  <small style="color:#999;"><EN></small> / `≈120 JPY` <small style="color:#999;"><JP></small>.
+  - The prices in JP server are slightly increased from _October 1st, 2019_ due to an increasement
+    of consumption tax.
+  - The currency in CN server is switched to New Taiwan Dollar after the server migration from _June
+    9th, 2020_, while US Dollar is also available in Steam client released on _July 15th, 2020_.
+    Overall prices are higher, while rewarded jades are also increased slightly.
 
 ## References
 
@@ -1313,20 +1370,32 @@ Youtube: <a href="https://www.youtube.com/channel/UC8Wn_3U-fssptm6US_nsoOA">【�
 
 #### Other Links
 
-  - [Fandom Wiki](https://mahjongsoul.fandom.com/wiki/MahjongSoul_Wiki)
-  - [English guide](https://riichireporter.com/mahjong-soul-guide) on Riichi Reporter
-  - [Amae Koromo](https://amae-koromo.sapk.ch/): 3rd-party replay site
+- [Fandom Wiki](https://mahjongsoul.fandom.com/wiki/MahjongSoul_Wiki)
+- [English guide](https://riichireporter.com/mahjong-soul-guide) on Riichi Reporter
+- [Amae Koromo](https://amae-koromo.sapk.ch/): 3rd-party replay site
 
 <!-- end list -->
 
-1.  Nadeshiko's age was set to 21 before. This is modified probably for avoiding the under-aged drinking policy.
-2.  However this is not always reliable, and sometimes it's misleading. Interests of some characters can match more than one type of gifts (e.g. Natsuki Shinomiya), while some of them can't match any at all (e.g. Hideki Akechi).
-3.  
-4.  Guide of Tournament Management: [Twitter post](https://twitter.com/KyuuCC/status/1240247063318847488) / [Google docs](https://docs.google.com/document/d/15MW4yLDGqpc8FjySEqYmHFyUAq5mJWW8PtQwG-Hdw3s).
-5.  List of local yakus in Melee Room: [Twitter post](https://twitter.com/MahjongSoul_EN/status/1136937232747466752) / [Picture](https://pbs.twimg.com/media/D8c15s-UIAIwNIB?format=jpg&name=orig).
+1.  Nadeshiko's age was set to 21 before. This is modified probably for avoiding the under-aged
+    drinking policy.
+2.  However this is not always reliable, and sometimes it's misleading. Interests of some characters
+    can match more than one type of gifts (e.g. Natsuki Shinomiya), while some of them can't match
+    any at all (e.g. Hideki Akechi).
+3.
+4.  Guide of Tournament Management:
+    [Twitter post](https://twitter.com/KyuuCC/status/1240247063318847488) /
+    [Google docs](https://docs.google.com/document/d/15MW4yLDGqpc8FjySEqYmHFyUAq5mJWW8PtQwG-Hdw3s).
+5.  List of local yakus in Melee Room:
+    [Twitter post](https://twitter.com/MahjongSoul_EN/status/1136937232747466752) /
+    [Picture](https://pbs.twimg.com/media/D8c15s-UIAIwNIB?format=jpg&name=orig).
 6.  [Responsibility payment screenshot of composite yakuman](https://cdn.discordapp.com/attachments/150412836500275200/513656427890475008/TIM20181118175603RGBnoiseLevel2.png)
-7.  [Composite yakuman: Blessing of Heaven + Thirteen-wait Thirteen Orphans](https://mahjongsoul.game.yo-star.com/?paipu=200108-a85dc57e-3512-4995-81c0-18874087c8dc_a61983483) (East 1 Round 1 honba, East seat)
-8.  <small style="color:#999;"><JP></small>Twitter post of Approved Player: <https://twitter.com/MahjongSoul_JP/status/1135822862806278144>
-9.  <small style="color:#999;"><CN></small>Interview of first Saint: <https://weibo.com/ttarticle/p/show?id=2309404287860789408788>
-10. <small style="color:#999;"><CN></small>Interview of first Celestial: <https://media.weibo.cn/article?id=2309404339951075503457>
+7.  [Composite yakuman: Blessing of Heaven + Thirteen-wait Thirteen Orphans](https://mahjongsoul.game.yo-star.com/?paipu=200108-a85dc57e-3512-4995-81c0-18874087c8dc_a61983483)
+    (East 1 Round 1 honba, East seat)
+8.  <small style="color:#999;"><JP></small>Twitter post of Approved Player:
+    <https://twitter.com/MahjongSoul_JP/status/1135822862806278144>
+9.  <small style="color:#999;"><CN></small>Interview of first Saint:
+    <https://weibo.com/ttarticle/p/show?id=2309404287860789408788>
+10. <small style="color:#999;"><CN></small>Interview of first Celestial:
+    <https://media.weibo.cn/article?id=2309404339951075503457>
+
 - [Source of this page [arcturus wiki]](http://arcturus.su/wiki/Majsoul)

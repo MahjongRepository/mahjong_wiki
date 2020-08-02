@@ -4,28 +4,39 @@ arcturus_wiki_id = "2522"
 tags = ["Strategy"]
 +++
 
-The score table is generated using the **Basic points** and the **Payment multipliers**. Similar to a multiplication table, the awarded points are arranged in accordance to **Han** and **Fu** values. With known **Han** and **Fu** values, the appropriate point values can simply be read straight off the table. This brings convenience towards memorizing the score table, especially when the numbers arrange themselves into patterns.
+The score table is generated using the **Basic points** and the **Payment multipliers**. Similar to
+a multiplication table, the awarded points are arranged in accordance to **Han** and **Fu** values.
+With known **Han** and **Fu** values, the appropriate point values can simply be read straight off
+the table. This brings convenience towards memorizing the score table, especially when the numbers
+arrange themselves into patterns.
 
 ## Mangan
 
-!Hand scoring a mangan via [tsumo.](Mangan_tsumo.png "Hand scoring a mangan via tsumo.")
-For **mangan** {{< kana "満貫" >}} and beyond, a point cap is applied such that counting the exact amount of fu may not be necessary for scoring purposes. Mangan begins with hands valued at 3 han and 70 fu, 4 han and 40 fu, or 5 han. For each, if the fu count is greater, total points stay at mangan.
+!Hand scoring a mangan via [tsumo.](Mangan_tsumo.png "Hand scoring a mangan via tsumo.") For
+**mangan** {{< kana "満貫" >}} and beyond, a point cap is applied such that counting the exact
+amount of fu may not be necessary for scoring purposes. Mangan begins with hands valued at 3 han and
+70 fu, 4 han and 40 fu, or 5 han. For each, if the fu count is greater, total points stay at mangan.
 
-Furthermore, higher scoring hands are then awarded as multiples of mangan. So, in addition to mangan itself, these higher values possess specific names, namely: haneman, baiman, sanbaiman, and yakuman.
+Furthermore, higher scoring hands are then awarded as multiples of mangan. So, in addition to mangan
+itself, these higher values possess specific names, namely: haneman, baiman, sanbaiman, and yakuman.
 
-  - **Haneman** {{< kana "跳満" >}} = 50% more than mangan
-  - **Baiman** {{< kana "倍満" >}} = 100% more than mangan (double)
-  - **Sanbaiman** {{< kana "三倍満" >}} = 200% more than mangan (triple)
-  - **Yakuman** {{< kana "役満" >}} = 300% more than mangan (quadruple)
+- **Haneman** {{< kana "跳満" >}} = 50% more than mangan
+- **Baiman** {{< kana "倍満" >}} = 100% more than mangan (double)
+- **Sanbaiman** {{< kana "三倍満" >}} = 200% more than mangan (triple)
+- **Yakuman** {{< kana "役満" >}} = 300% more than mangan (quadruple)
 
 ### Kiriage mangan
 
-As an added scoring variation, **kiriage mangan** {{< kana "切り上げ満貫" >}} may be implemented. The difference in points for a 4 han 30 fu or 3 han 60 fu hand is negligible enough (300-400 points) to be classed as a regular mangan. So, under this rule, these values are recounted as mangan.
+As an added scoring variation, **kiriage mangan** {{< kana "切り上げ満貫" >}} may be implemented.
+The difference in points for a 4 han 30 fu or 3 han 60 fu hand is negligible enough (300-400 points)
+to be classed as a regular mangan. So, under this rule, these values are recounted as mangan.
 
 ## Dealer
 
-  - The upper value to each scoring pair are the points awarded for **tsumo**. All nondealer players pay this amount to the dealer.
-  - The lower value to each scoring pair are the points awarded for **ron**. The ron values are approximately or exactly three times the amount of the "tsumo" values.
+- The upper value to each scoring pair are the points awarded for **tsumo**. All nondealer players
+  pay this amount to the dealer.
+- The lower value to each scoring pair are the points awarded for **ron**. The ron values are
+  approximately or exactly three times the amount of the "tsumo" values.
 
 ```Score table horizontal
 |1and30tsumo=500
@@ -92,13 +103,18 @@ As an added scoring variation, **kiriage mangan** {{< kana "切り上げ満貫" 
 |yakumanron=48000
 ```
 
-  -   
+-
+
+
     † - Values can be changed to mangan, via kiriage mangan rules.
 
 ## Nondealer
 
-  - The upper value to each scoring pair are the points awarded for **tsumo**. These points are arranged in pairs because of non-dealers and the dealer. All nondealer players pay the smaller amount, while the dealer pays the larger amount.
-  - The lower value to each scoring pair are the points awarded for **ron**. The ron values are approximately or exactly the same as the dealer points plus two times the non-dealer points.
+- The upper value to each scoring pair are the points awarded for **tsumo**. These points are
+  arranged in pairs because of non-dealers and the dealer. All nondealer players pay the smaller
+  amount, while the dealer pays the larger amount.
+- The lower value to each scoring pair are the points awarded for **ron**. The ron values are
+  approximately or exactly the same as the dealer points plus two times the non-dealer points.
 
 ```Score table horizontal
 |1and30tsumo=300/500
@@ -165,12 +181,15 @@ As an added scoring variation, **kiriage mangan** {{< kana "切り上げ満貫" 
 |yakumanron=32000
 ```
 
-  -   
+-
+
+
     † - Values can be changed to mangan, via kiriage mangan rules.
 
 ## Scoring terminology
 
-The following is a short list of terms, related to scoring. They are generally short cuts to saying different point values from the scoring table.
+The following is a short list of terms, related to scoring. They are generally short cuts to saying
+different point values from the scoring table.
 
 ```Term list
 | Romaji = Goumii
@@ -178,18 +197,21 @@ The following is a short list of terms, related to scoring. They are generally s
 | English = 1100 pts
 | Explanation = The cheapest tsumo value, of 500 points from the dealer and 300 points from the non-dealers.
 ```
+
 ```Term list
 | Romaji = Senten
 | Kanji = センテン
 | English = 1000 pts
 | Explanation = A 1,000 point hand.
 ```
+
 ```Term list
 | Romaji = Sankyuu
 | Kanji = サンキュー
 | English = 3900 pts
 | Explanation = One of the most common hand values of 3,900 points. Combination of san(3) kyuu(9).
 ```
+
 ```Term list
 | Romaji = Chiichii
 | Kanji = チーチー
@@ -198,4 +220,5 @@ The following is a short list of terms, related to scoring. They are generally s
 ```
 
 ## External links
+
 - [Source of this page [arcturus wiki]](http://arcturus.su/wiki/Scoring_table)

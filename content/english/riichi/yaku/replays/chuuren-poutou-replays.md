@@ -4,7 +4,8 @@ arcturus_wiki_id = "3479"
 tags = ["Yaku replays"]
 +++
 
-This is a collection of replays featuring chuuren poutou. The complicated wait patterns enable a wide variety of chuuren poutou tenpai configurations.
+This is a collection of replays featuring chuuren poutou. The complicated wait patterns enable a
+wide variety of chuuren poutou tenpai configurations.
 
 ## 1 tile wait
 
@@ -25,6 +26,7 @@ This is a collection of replays featuring chuuren poutou. The complicated wait p
 | url = <http://tenhou.net/0/?log=2016102715gm-0029-0000-a2c96fb4&tw=1&ts=1>
 | comment = Chase for honitsu, then chinitsu, became chuuren.
 ```
+
 ```Replay/Tenhou.net|
 | player = 中出役滿娘大好き
 | playerrank = 5d
@@ -65,5 +67,6 @@ This is a collection of replays featuring chuuren poutou. The complicated wait p
 
 ## External links
 
-```Navbox yaku replays```
+`Navbox yaku replays`
+
 - [Source of this page [arcturus wiki]](http://arcturus.su/wiki/Chuuren_poutou/Replays)

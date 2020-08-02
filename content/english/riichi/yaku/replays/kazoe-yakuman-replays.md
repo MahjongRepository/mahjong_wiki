@@ -4,7 +4,8 @@ arcturus_wiki_id = "3302"
 tags = ["Yaku replays"]
 +++
 
-This is a collection of replays showing kazoe yakuman. Different forms of kazoe are shown from the chiniisou, shousangen, and hands with large dora counts.
+This is a collection of replays showing kazoe yakuman. Different forms of kazoe are shown from the
+chiniisou, shousangen, and hands with large dora counts.
 
 ## Dora
 
@@ -27,6 +28,7 @@ The early dora ankou and pair of yakuhai make this a decent hand with an incredi
 
 After drawing another 5s, toitoi looks quite viable. The next 2s, on only the fifth go-round. gives a devastating push towards toitoi, with suuankou potential. Drawing a third ton puts the hand to suuankou tenpai on the 8th go-round, with yasume haneman (toitoi sankanou dabuton dora 3), and only one winning tile (the third non-red 5s) fails to produce baiman. Toimen's questionable daiminkan of 2p on the ninth go-round reveals another 8p, putting the hand into sanbaiman territory. Putting off the riichi until the eleventh go-round was an interesting decision (and questionable given the situation; a riichi this late only reduces the chances of winning what is a minimum 24000 and likely 36000 hand). Shimocha's immediate ankans to break ippatsu reveals hatsu, guaranteeing kazoe yakuman on any ron. Two pei on ura dora bring the hand to riichi toitoi sanankou dabuton dora 8 aka 1 ura 6, for a total of 22 han.
 ```
+
 ```Replay/Tenhou.net|
 | player = jsdf
 | playerrank = 2d
@@ -49,5 +51,6 @@ After drawing another 5s, toitoi looks quite viable. The next 2s, on only the fi
 
 ## External links
 
-```Navbox yaku replays```
+`Navbox yaku replays`
+
 - [Source of this page [arcturus wiki]](http://arcturus.su/wiki/Kazoe_yakuman/Replays)

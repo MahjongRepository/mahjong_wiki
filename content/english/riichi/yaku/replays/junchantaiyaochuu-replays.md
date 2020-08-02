@@ -30,5 +30,6 @@ This is a collection of replays featuring junchan.
 
 ## External links
 
-```Navbox yaku replays```
+`Navbox yaku replays`
+
 - [Source of this page [arcturus wiki]](http://arcturus.su/wiki/Junchantaiyaochuu/Replays)

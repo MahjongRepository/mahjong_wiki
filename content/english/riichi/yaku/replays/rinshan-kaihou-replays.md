@@ -40,6 +40,7 @@ These replays features hands with rinshan kaihou.
 | url = <http://tenhou.net/0/?log=2016050112gm-0089-0000-3b554915&tw=2&ts=8>
 | comment = Ankan is called at the last possible moment to draw the winning tile and win the game with gyakuten. This opportunity was made possible by kamicha's pon immediately beforehand, which was perhaps called to prevent toimen from getting a final draw and thus possibly haitei and gyakuten.
 ```
+
 ```Replay/Tenhou.net|
 | player = KyuuAA
 | playerrank = 4d
@@ -78,6 +79,7 @@ Consecutive kan calls, where the end results in rinshan kaihou.
 | url = <http://tenhou.net/0/?log=2012090616gm-0009-0000-ef78f6ce&tw=1&ts=6>
 | comment = Chance to call kan held at 1-shanten, until opportunity to call two successive kans.
 ```
+
 ```Replay/Tenhou.net|
 | player = Gwaur
 | playerrank = 1d
@@ -96,5 +98,6 @@ Consecutive kan calls, where the end results in rinshan kaihou.
 
 ## External links
 
-```Navbox yaku replays```
+`Navbox yaku replays`
+
 - [Source of this page [arcturus wiki]](http://arcturus.su/wiki/Rinshan_kaihou/Replays)

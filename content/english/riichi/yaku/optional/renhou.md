@@ -17,7 +17,11 @@ tags = ["Yaku", "Optional yaku"]
 
 ```
 
-**Renhou** {{< kana "人和" >}} is an optional yaku. It is defined by a player declaring ron with a starting hand before the dealer gets a second turn or before any  called tile. This premise is similar to the chiihou, except the hand wins by discard (ron). In some instances, it may be considered as a yakuman, mangan, or not used at all. Only non-dealers may invoke renhou, as the first discard always comes from the dealer (except when the dealer wins by tenhou).
+**Renhou** {{< kana "人和" >}} is an optional yaku. It is defined by a player declaring ron with a
+starting hand before the dealer gets a second turn or before any called tile. This premise is
+similar to the chiihou, except the hand wins by discard (ron). In some instances, it may be
+considered as a yakuman, mangan, or not used at all. Only non-dealers may invoke renhou, as the
+first discard always comes from the dealer (except when the dealer wins by tenhou).
 
 ## Variations
 
@@ -25,52 +29,63 @@ tags = ["Yaku", "Optional yaku"]
 
 Because of number of variations and interpretations to renhou, it is viewed as optional.
 
-  - **Mangan**
+- **Mangan**
 
 <!-- end list -->
 
-  -   
+-
+
+
     By default, renhou can be defaulted as a mangan hand. In this case, if the hand could score more using normal counting of yaku and dora, it will be scored for the alternate value (since the highest-scoring hand must always be chosen). The hand must have at least one yaku for this, however; dora alone cannot allow the hand to be scored separately.
 
 <!-- end list -->
 
-  - **Yakuman**
+- **Yakuman**
 
 <!-- end list -->
 
-  -   
+-
+
+
     Likewise, it can be set as a yakuman.
 
 <!-- end list -->
 
-  - **Baiman**
+- **Baiman**
 
 <!-- end list -->
 
-  -   
+-
+
+
     A few rulesets set renhou as a baiman, though this is relatively rare.
 
 <!-- end list -->
 
-  - **Yaku**
+- **Yaku**
 
 <!-- end list -->
 
-  -   
+-
+
+
     Renhou may be considered as a yaku, to be cumulative with other yaku, with a variable han value. It is frequently set at 4 han, so that the hand is always worth mangan minimum if it has any other yaku.
 
 <!-- end list -->
 
-  - **Nashi**
+- **Nashi**
 
 <!-- end list -->
 
-  -   
+-
+
+
     Renhou may not be used at all.
 
 ## External links
 
-```jpwiki|人和```
+`jpwiki|人和`
 
-```navbox yaku```
+`navbox yaku`
+
 - [Source of this page [arcturus wiki]](http://arcturus.su/wiki/Renhou)

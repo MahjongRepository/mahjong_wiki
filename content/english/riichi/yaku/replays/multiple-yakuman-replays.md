@@ -4,7 +4,8 @@ arcturus_wiki_id = "3170"
 tags = ["Yaku replays"]
 +++
 
-Only a limited number of yakuman may combine to produce higher scoring hands than regular yakuman. This is only assuming the rules allow multiple yakuman in the first place.
+Only a limited number of yakuman may combine to produce higher scoring hands than regular yakuman.
+This is only assuming the rules allow multiple yakuman in the first place.
 
 ## Double yakuman
 
@@ -23,6 +24,7 @@ Only a limited number of yakuman may combine to produce higher scoring hands tha
 | url = <http://tenhou.net/0/?log=2014041718gm-0029-0000-9038d831&tw=1&ts=0>
 | comment = Double yakuman essentially inevitable, as the other three players defend against it.
 ```
+
 ```Replay/Tenhou.net|
 | player = soso
 | playerrank = 3d
@@ -38,6 +40,7 @@ Only a limited number of yakuman may combine to produce higher scoring hands tha
 | url = <http://tenhou.net/0/?log=2014060115gm-00c1-0000-e5928372&tw=2&ts=3>
 | comment = Straight forward tenpai acquired by the fourth draw.
 ```
+
 ```Replay/Tenhou.net|
 | player = すずめクレイジー
 | playerrank = Ten
@@ -53,6 +56,7 @@ Only a limited number of yakuman may combine to produce higher scoring hands tha
 | url = <http://tenhou.net/0/?log=2014092416gm-00a9-0000-3263f602&tw=1&ts=4>
 | comment = A haipai with four honor pairs. The west became an ankou before any tile calls, which made it even easier to complete. Toimen discarded Nan as genbutsu against shimocha riichi.
 ```
+
 ```Replay/Tenhou.net|
 | player = チソポ
 | playerrank = 2d
@@ -67,6 +71,7 @@ Only a limited number of yakuman may combine to produce higher scoring hands tha
 | url = <http://tenhou.net/0/?log=2015032213gm-0001-0000-7f1b80a1&tw=2&ts=1>
 | comment = Starting with only 4 winds, pushed quickly to a honitsu. Drew and kept many winds in the process so that, by the time all the pinzu and manzu were out, the hand had 8 winds. After toimen riichi, broke tenpai to hold onto the winds. Shortly after kamicha riichi, completed suuankou daisuushii.
 ```
+
 ```Replay/Tenhou.net|
 | player = peace-
 | playerrank = 4d
@@ -82,6 +87,7 @@ Only a limited number of yakuman may combine to produce higher scoring hands tha
 | url = <http://tenhou.net/0/?log=2015080816gm-0029-0000-52e43888&tw=1&ts=4>
 | comment = Suuankou tanki developed within 5 tile draws. Hand began with two ankou of the dragons.
 ```
+
 ```Replay/Tenhou.net|
 | player = 武田信玄
 | playerrank = 2d
@@ -97,6 +103,7 @@ Only a limited number of yakuman may combine to produce higher scoring hands tha
 | url = <http://tenhou.net/0/?log=2015110318gm-0089-0000-89f71b3b&tw=2&ts=4>
 | comment = Shousuushi set up for tile calls. However, no opportunity to make tile calls occurred. Instead, the needed tiles are drawn.
 ```
+
 ```Replay/Tenhou.net|
 | player = colnago
 | playerrank = 1d
@@ -112,6 +119,7 @@ Only a limited number of yakuman may combine to produce higher scoring hands tha
 | url = <http://tenhou.net/0/?log=2015112423gm-0009-0000-eee9f0ba&tw=3&ts=0>
 | comment = Opening hand is weak with lots of different honours, but has two dora. By the 9th go-around, the hand is tenpai for chiitoitsu honitsu dora 2, a haneman, with pairs of all four winds and haku. With only two winds in the river, when toimen discards ton, it is ponned. Pons of nan and shaa off of kamicha follow, with live dora discarded. The ron of toimen gives daisuushii tsuuiisou. It is interesting that the winds were ponned in order.
 ```
+
 ```Replay/Tenhou.net|
 | player = Mr-XXX
 | playerrank = 4d
@@ -127,6 +135,7 @@ Only a limited number of yakuman may combine to produce higher scoring hands tha
 | url = <http://tenhou.net/0/?log=2017090410gm-0029-0000-7f7bc93e&tw=0&ts=10>
 | comment = Rinshan suuankou daisangen in the West round.
 ```
+
 ```Replay/Tenhou.net|
 | player = ちくきの弟子^^
 | playerrank = 2d
@@ -160,6 +169,7 @@ Only a limited number of yakuman may combine to produce higher scoring hands tha
 | url = <http://tenhou.net/0/?log=2013111023gm-0061-0000-87740a4c&tw=3&ts=5>
 | comment = Triple yakuman, where the hand was already tenpai for ryanmen for shousuushi. Then the hand was switched to suuankou tanki, when the east pair became a triplet. Toimen failed to prevent the yakuman by passing up winning tiles twice. Finally, a play was made to risk completion of the hand by going to a hell wait with two haku already discarded. The hand was finished anyways.
 ```
+
 ```Replay/Tenhou.net|
 | player = Lorian
 | playerrank = 7k
@@ -202,6 +212,7 @@ Only a limited number of yakuman may combine to produce higher scoring hands tha
 7.  The hand won on the haitei draw.
 
 ```
+
 ```Replay/Tenhou.net|
 | player = y,y
 | playerrank = 5k
@@ -217,6 +228,7 @@ Only a limited number of yakuman may combine to produce higher scoring hands tha
 | url = <http://tenhou.net/0/?log=2015080301gm-0009-0000-1cf7fc0f&tw=1&ts=8>
 | comment = Daisangen combined with suukantsu, while invoking the pao rule.
 ```
+
 ```Replay/Tenhou.net|
 | player = みけねこすき
 | playerrank = 2d
@@ -232,6 +244,7 @@ Only a limited number of yakuman may combine to produce higher scoring hands tha
 | url = <http://tenhou.net/0/?log=2016051320gm-00c1-0000-3e439565&tw=2&ts=3>
 | comment = Suuankou tanki and suukantsu. After an immediate call for kan, the remaining three pairs in the hand became triplets and eventually quads. A choice between 2-pin or 7-man could have relegated this hand to just a single yakuman, instead of this rare combination.
 ```
+
 ```Replay/Tenhou.net|
 | player = Concert
 | playerrank = 4d
@@ -247,6 +260,7 @@ Only a limited number of yakuman may combine to produce higher scoring hands tha
 | url = <http://tenhou.net/0/?log=2017080923gm-0029-0000-8f0fbb7d&tw=1&ts=6>
 | comment = Hand begins with early indication for ryuuiisou, and no tile calls necessary.
 ```
+
 ```Replay/Tenhou.net|
 | player = kugi
 | playerrank = 1k
@@ -262,6 +276,7 @@ Only a limited number of yakuman may combine to produce higher scoring hands tha
 | url = <http://tenhou.net/0/?log=2017100815gm-0089-0000-bc6f546c&tw=2&ts=1>
 | comment = Furiten tanki, due to the winning terminal discarded on the third turn.
 ```
+
 ```Replay/Tenhou.net|
 | player = ダテメガネ
 | playerrank = 2d
@@ -280,5 +295,6 @@ Only a limited number of yakuman may combine to produce higher scoring hands tha
 
 ## External links
 
-```Navbox yaku replays```
+`Navbox yaku replays`
+
 - [Source of this page [arcturus wiki]](http://arcturus.su/wiki/Multiple_yakuman/Replays)

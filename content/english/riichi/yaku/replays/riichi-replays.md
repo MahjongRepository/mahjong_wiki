@@ -27,6 +27,7 @@ The following is a collection of games featuring riichi, double riichi, and ippa
 | url = <http://tenhou.net/0/?log=2017032013gm-0089-0000-eee7dbb5&tw=0&ts=6>
 | comment = Double riichi ippatsu chiitoitsu, with an opportune pei tanki wait normally considered high on player's defense considerations.
 ```
+
 ```Replay/Tenhou.net|
 | player = Onjouji怜
 | playerrank = 3d
@@ -42,6 +43,7 @@ The following is a collection of games featuring riichi, double riichi, and ippa
 | url = <http://tenhou.net/0/?log=2018110309gm-000b-13925-7f44566d&tw=0&ts=5>
 | comment = Delay riichi by one turn to produce ippatsu tsumo.
 ```
+
 ```Replay/Tenhou.net|
 | player = KyuuAA
 | playerrank = 4d
@@ -60,7 +62,7 @@ The following is a collection of games featuring riichi, double riichi, and ippa
 
 ## Double riichi
 
-```main|Daburu riichi```
+`main|Daburu riichi`
 
 ```Replay/Tenhou.net|
 | player = ヒルベルト
@@ -77,6 +79,7 @@ The following is a collection of games featuring riichi, double riichi, and ippa
 | url = <http://tenhou.net/0/?log=2014082913gm-00a9-0000-3e87e321&tw=03&ts=11>
 | comment = Game ending double riichi with immediate ippatsu ron. A 5-8 sou nobetan wait declined for a shaa (west) tanki.
 ```
+
 ```Replay/Tenhou.net|
 | player = KyuuAA
 | playerrank = 5d
@@ -95,5 +98,6 @@ The following is a collection of games featuring riichi, double riichi, and ippa
 
 ## External links
 
-```Navbox yaku replays```
+`Navbox yaku replays`
+
 - [Source of this page [arcturus wiki]](http://arcturus.su/wiki/Riichi/Replays)

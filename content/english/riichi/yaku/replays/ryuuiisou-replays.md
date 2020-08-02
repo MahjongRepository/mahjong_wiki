@@ -19,6 +19,7 @@ tags = ["Yaku replays"]
 | url = <http://tenhou.net/0/?log=2015062522gm-0041-0000-c3ab144a&tw=3&ts=4>
 | comment = A quick pon of hatsu led this player to push a honitsu which quickly turned into a viable ryuuiisou. The lack of calls and the early tenpai makes this victory rather stunning.
 ```
+
 ```Replay/Tenhou.net|
 | player = ミヒャエル
 | playerrank = 6d
@@ -55,5 +56,6 @@ tags = ["Yaku replays"]
 
 ## External links
 
-```Navbox yaku replays```
+`Navbox yaku replays`
+
 - [Source of this page [arcturus wiki]](http://arcturus.su/wiki/Ryuuiisou/Replays)

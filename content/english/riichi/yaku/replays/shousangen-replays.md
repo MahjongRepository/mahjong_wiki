@@ -61,6 +61,7 @@ Hands with shousangen may often be tenpai for daisangen.
 | url = <http://tenhou.net/0/?log=2012111415gm-0009-7447-c8bfceef&tw=2&ts=11>
 | comment = Natural daisangen opportunity as the three dragon types paired during development. Ron was called at the first opportunity.
 ```
+
 ```Replay/Tenhou.net|
 | player = 柚比楓仁
 | playerrank = 9d
@@ -81,5 +82,6 @@ Hands with shousangen may often be tenpai for daisangen.
 
 ## External links
 
-```Navbox yaku replays```
+`Navbox yaku replays`
+
 - [Source of this page [arcturus wiki]](http://arcturus.su/wiki/Shousangen/Replays)

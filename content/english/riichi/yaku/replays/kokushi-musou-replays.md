@@ -4,7 +4,9 @@ arcturus_wiki_id = "3216"
 tags = ["Yaku replays"]
 +++
 
-This is a collection of replays where kokushi musou is completed or attempted. Regarding starting hands, the number of kokushi tiles needed is assessed before even attempting the yakuman. Naturally, those numbers are taken into consideration. As a note, the initial draw is included into this count.
+This is a collection of replays where kokushi musou is completed or attempted. Regarding starting
+hands, the number of kokushi tiles needed is assessed before even attempting the yakuman. Naturally,
+those numbers are taken into consideration. As a note, the initial draw is included into this count.
 
 ## 7-starting or less
 
@@ -41,6 +43,7 @@ This is a collection of replays where kokushi musou is completed or attempted. R
 | url = <http://tenhou.net/0/?log=2015110815gm-0089-0000-540780b6&tw=0&ts=2>
 | comment = Kokushi scored via chankan.
 ```
+
 ```Replay/Tenhou.net|
 | player = もぐら000
 | playerrank = 7d
@@ -90,6 +93,7 @@ This is a collection of replays where kokushi musou is completed or attempted. R
 | url = <http://tenhou.net/0/?log=2017020214gm-0029-0000-c2941eb6&tw=0&ts=2>
 | comment = The hand for kokushi maintained, despite the pon for East.
 ```
+
 ```Replay/Tenhou.net|
 | player = 外人
 | playerrank = 3d
@@ -123,6 +127,7 @@ This is a collection of replays where kokushi musou is completed or attempted. R
 | url = <http://tenhou.net/0/?log=2015022810gm-0009-7447-1eb09da1&tw=0&ts=10>
 | comment = Semi-hidden kokushi scored after a response to a riichi call.
 ```
+
 ```Replay/Tenhou.net|
 | player = タカティン83
 | playerrank = 5d
@@ -175,5 +180,6 @@ This is a collection of replays where kokushi musou is completed or attempted. R
 
 ## External links
 
-```Navbox yaku replays```
+`Navbox yaku replays`
+
 - [Source of this page [arcturus wiki]](http://arcturus.su/wiki/Kokushi_musou/Replays)

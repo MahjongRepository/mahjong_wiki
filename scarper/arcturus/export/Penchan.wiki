@@ -7,6 +7,7 @@
 |tilePattern = {{#mjt:12s}}
 |gameExample = [http://tenhou.net/0/?log=2014021820gm-0089-0000-70dd5966&tw=3&ts=9 Penchan] (1-2)
 }}
+
 A '''penchan machi''' {{kana|辺張待ち}} is a common type of [[machi|wait pattern]].  This wait pattern contains the tiles 1 and 2 of the same suit, or 8 and 9 of the same suit.  The pattern is limited to waiting for the completion of the [[shuntsu]] with a 3 or 7.  At maximum, only four tiles are available for completion.
 
 == Pattern ==
@@ -16,7 +17,7 @@ A '''penchan machi''' {{kana|辺張待ち}} is a common type of [[machi|wait pat
 
 == Fu ==
 
-Because the winning tile does not complete a shuntsu which was completable on two sides, winning from a penchan awards 2 [[fu]] to the hand and does not count as [[pinfu]]. Sometimes, a winning tile can be interpreted to complete either a penchan or something else, and the higher-scoring interpretation will be used. 
+Because the winning tile does not complete a shuntsu which was completable on two sides, winning from a penchan awards 2 [[fu]] to the hand and does not count as [[pinfu]]. Sometimes, a winning tile can be interpreted to complete either a penchan or something else, and the higher-scoring interpretation will be used.
 
 {{#mjt:22m12345p345678s}}, winning tiles: {{#mjt:3p}} or {{#mjt:6p}}
 

@@ -1,10 +1,10 @@
-# coding=utf-8
+#!/usr/bin/env python2
+# -*- coding: utf-8 -*-
+
 import json
 import os
 import re
 import subprocess
-
-from slugify import slugify
 
 current_directory = os.path.dirname(os.path.abspath(__file__))
 export_dir = os.path.join(current_directory, "arcturus", "export")
@@ -22,51 +22,17 @@ def main():
 
         meta = meta_info[wiki_file_name.split(".")[0]]
 
-        # prefix = ''
-        # categories = meta['mapped']['tags']
-        # if 'Terminology' in categories:
-        #     prefix = 'terminology/'
-        # if 'Yaku' in categories:
-        #     prefix = 'yaku/'
-        # if 'Yakuman' in categories:
-        #     prefix = 'yakuman/'
-        # if 'Game rules' in categories:
-        #     prefix = 'rules/'
-        # if 'Media' in categories:
-        #     prefix = 'media/'
-        # if 'Yaku replays' in categories:
-        #     prefix = 'yaku/replays/'
-        # if 'Rule variations' in categories:
-        #     prefix = 'rules/variations/'
-        # if 'Tenhou.net' in categories:
-        #     prefix = 'online/tenhou/'
-        # if 'Majsoul' in categories:
-        #     prefix = 'online/majsoul/'
-        # if 'Optional yaku' in categories:
-        #     prefix = 'yaku/optional/'
-        # if 'Machi' in categories:
-        #     prefix = 'terminology/waits/'
-        # if 'Strategy' in categories:
-        #     prefix = 'strategy/'
-        # meta['mapped']['markdown_path'] = prefix + slugify(meta['title']) + '.md'
-        # meta['mapped']['title'] = meta['title']
-        # with open(os.path.join(export_dir, '_meta.json'), 'w') as f:
-        #     f.write(json.dumps(meta_info, indent=2))
-        # continue
-
         # for debug
-        # if meta['id'] != '261':
+        # if meta["id"] != "261":
         #     continue
 
         print(meta["title"], meta["id"])
-        wiki_content = load_and_prepare_wiki_file_content(wiki_file_name)
+        source_content = load_and_prepare_wiki_file_content(wiki_file_name)
         title = meta["title"]
         temp_wiki_file_path = os.path.join("temp.wiki")
 
-        categories, wiki_content = preprocess_wiki_file_content(wiki_content)
-
         with open(temp_wiki_file_path, "w") as f:
-            _, wiki_content = preprocess_wiki_file_content(wiki_content)
+            wiki_content = preprocess_wiki_file_content(source_content)
             f.write(wiki_content)
 
         markdown_content, final_md_file_path = convert_to_markdown(meta)
@@ -80,8 +46,8 @@ def main():
             f.seek(0, 0)
             f.write("+++\n")
             f.write('title = "%s"\n' % title)
-            f.write('id = "%s"\n' % meta["id"])
-            f.write('categories = "%s"\n' % ", ".join(categories))
+            f.write('arcturus_wiki_id = "%s"\n' % meta["id"])
+            f.write("tags = [%s]\n" % ", ".join(['"%s"' % x for x in meta["mapped"]["tags"]]))
             f.write("+++\n\n")
 
             f.write(markdown_content)
@@ -119,7 +85,7 @@ def load_and_prepare_wiki_file_content(wiki_file_name):
 
 
 def preprocess_wiki_file_content(content):
-    categories, content = process_categories(content)
+    content = remove_categories(content)
 
     content = process_table_headers(content)
     content = process_infobox_blocks(content)
@@ -129,7 +95,7 @@ def preprocess_wiki_file_content(content):
     # let's just escape all unknown templates
     content = process_template_blocks(content)
 
-    return categories, content
+    return content
 
 
 def convert_to_markdown(meta):
@@ -266,14 +232,10 @@ def process_wiki_links(content):
     return re.sub(regex, r"\1", content)
 
 
-def process_categories(content):
-    """
-    Extract page categories and remove them from wiki file.
-    """
+def remove_categories(content):
     regex = r"\[\[Category:(.*?)\]\]"
-    categories = [x.strip() for x in re.findall(regex, content)]
     content = re.sub(regex, r"", content)
-    return categories, content
+    return content
 
 
 def process_table_headers(content):

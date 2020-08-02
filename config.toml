@@ -4,6 +4,9 @@ theme = "wiki"
 defaultContentLanguage = "en"
 enableRobotsTXT = "true"
 
+[taxonomies]
+  tag = "tags"
+
 [languages]
   [languages.en]
     languageName = "English"

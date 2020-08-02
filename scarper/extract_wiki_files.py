@@ -1,4 +1,6 @@
-# coding=utf-8
+#!/usr/bin/env python2
+# -*- coding: utf-8 -*-
+
 import json
 import os
 
@@ -26,7 +28,6 @@ def main():
         "User:",
         "Talk:",
     ]
-
     skip_pages = [
         u"2015 WAML season 1 results",
         u"List of North American riichi mahjong clubs",
@@ -159,9 +160,8 @@ def main():
         u"Tenhou.net client",
         u"Saikyo no Mahjong 3D",
         u"Janryumon",
-        u"Professional League Game Rules"
+        u"Professional League Game Rules",
     ]
-
     pages = []
     with open(xml_file, "r") as f:
         root = etree.fromstring(f.read())
@@ -207,9 +207,7 @@ def main():
             f.write(page["text"].encode("utf-8"))
 
         if not pages_meta_data.get(file_name):
-            pages_meta_data[file_name] = {
-                "mapped": {}
-            }
+            pages_meta_data[file_name] = {"mapped": {}}
 
         pages_meta_data[file_name]["title"] = page["title"]
         pages_meta_data[file_name]["id"] = page["id"]

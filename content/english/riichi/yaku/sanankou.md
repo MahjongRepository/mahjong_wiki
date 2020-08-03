@@ -12,27 +12,28 @@ tags = ["Yaku"]
 |value = 2 han
 |yakuSpeed = Medium
 |difficulty = Medium
-|yakuCombine = \* Sanshoku doukou
+|yakuCombine = \* [Sanshoku doukou]({{< ref "/riichi/yaku/sanshoku-doukou.md" >}})
 
-  - Toi toi
-  - Chinitsu
-  - Yakuhai
-  - Tanyao
-  - Honroutou
+  - [Toi toi]({{< ref "/riichi/yaku/toitoihou.md" >}})
+  - [Chinitsu]({{< ref "/riichi/yaku/chiniisou.md" >}})
+  - [Yakuhai]({{< ref "/riichi/rules/yakuhai.md" >}})
+  - [Tanyao]({{< ref "/riichi/yaku/tanyao.md" >}})
+  - [Honroutou]({{< ref "/riichi/yaku/honroutou.md" >}})
 
 |gameExample = \* [Open sanankou](http://tenhou.net/0/?log=2013080718gm-0009-7447-d18f3fc2&tw=3)
 
   - [Sanankou](http://tenhou.net/0/?log=2015010715gm-0009-7447-5ffe4a04&tw=3&ts=5) as only yaku
   - [Closed sanankou](http://tenhou.net/0/?log=2014011202gm-0089-0000-c5a5f508&tw=3&ts=5)
-  - Sanankou for suuankou
+  - Sanankou for [suuankou]({{< ref "/riichi/yakuman/suuankou.md" >}})
 
 ```
 
-**Sanankou** {{< kana "三暗刻" >}} is a yaku, consisting of three concealed triplets (ankou). The
-third must not be completed off of another player's discard, as this would not count as concealed.
-However, if it is completed with a tsumo, then the yaku is awarded. A concealed kan is also counted
-as a concealed triplet. The hand this yaku is awarded to may be open or closed, as long as it meets
-the conditions. This yaku is awarded 2 han.
+**Sanankou** {{< kana "三暗刻" >}} is a yaku, consisting of three concealed triplets
+([ankou]({{< ref "/riichi/terminology/mentsu.md" >}})). The third must not be completed off of
+another player's discard, as this would not count as concealed. However, if it is completed with a
+[tsumo]({{< ref "/riichi/terminology/tsumo.md" >}}), then the yaku is awarded. A concealed kan is
+also counted as a concealed triplet. The hand this yaku is awarded to may be open or closed, as long
+as it meets the conditions. This yaku is awarded 2 han.
 
 ## Tile pattern cases
 
@@ -42,12 +43,14 @@ the conditions. This yaku is awarded 2 han.
 {{< t 3p >}} or {{< t 6p >}}
 
 3\. Case where the hand is won by discard. {{< t 777m888p33s11777z >}} Ron: {{< t 3s >}} or
-{{< t 1z >}} _Note_: A tsumo results in the suuankou yakuman.
+{{< t 1z >}} _Note_: A tsumo results in the [suuankou]({{< ref "/riichi/yakuman/suuankou.md" >}})
+yakuman.
 
 ## Formation
 
 This yaku requires three closed triplets, as it is defined as such. This leaves only one allowable
-tile call. It can be any open tile group.
+[tile call]({{< ref "/riichi/rules/naki.md" >}}). It can be any open [tile
+group]({{< ref "/riichi/terminology/mentsu.md" >}}).
 
 ### Compatability
 
@@ -55,20 +58,25 @@ tile call. It can be any open tile group.
 
 `Yaku compatibility table|SNA`
 
-Sanankou is incompatible with any yaku requiring more than one sequence, namely pinfu, iipeikou,
-ittsu, sanshoku, and ryanpeikou. It is incompatible with chiitoitsu, which requires no mentsu at
-all.
+Sanankou is incompatible with any yaku requiring more than one sequence, namely
+[pinfu]({{< ref "/riichi/yaku/pinfu.md" >}}), [iipeikou]({{< ref "/riichi/yaku/iipeikou.md" >}}),
+[ittsu]({{< ref "/riichi/yaku/ikkitsuukan.md" >}}),
+[sanshoku]({{< ref "/riichi/yaku/sanshoku-doujun.md" >}}), and
+[ryanpeikou]({{< ref "/riichi/yaku/ryanpeikou.md" >}}). It is incompatible with
+[chiitoitsu]({{< ref "/riichi/yaku/chiitoitsu.md" >}}), which requires no
+[mentsu]({{< ref "/riichi/terminology/mentsu.md" >}}) at all.
 
-A natural combination involves toitoi. With one tile call, the hand needs to win by tsumo; otherwise
-by ron, only toitoi is counted. This premise is a similar case involving suuankou, which counts as
-yakuman via tsumo. Otherwise, it may not.
+A natural combination involves [toitoi]({{< ref "/riichi/yaku/toitoihou.md" >}}). With one tile
+call, the hand needs to win by tsumo; otherwise by ron, only toitoi is counted. This premise is a
+similar case involving suuankou, which counts as yakuman via tsumo. Otherwise, it may not.
 
 ### Suuankou tenpai
 
-A tenpai hand with sanankou with toitoi is tenpai for suuankou. When this hand wins by discard, then
-the hand is not counted as suuankou. Instead, it is the combination of sanankou and toitoi. The
-fourth triplet completed by the discarded tile counts as an "open triplet", rather than a fourth
-closed one.
+A tenpai hand with sanankou with [toitoi]({{< ref "/riichi/yaku/toitoihou.md" >}}) is tenpai for
+[suuankou]({{< ref "/riichi/yakuman/suuankou.md" >}}). When this hand wins by discard, then the hand
+is not counted as suuankou. Instead, it is the combination of sanankou and toitoi. The fourth
+triplet completed by the discarded tile counts as an "open triplet", rather than a fourth closed
+one.
 
 ## External links
 

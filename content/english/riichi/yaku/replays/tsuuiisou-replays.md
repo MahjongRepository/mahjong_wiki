@@ -5,7 +5,8 @@ updated = "2015-12-20T09:26:00Z"
 tags = ["Yaku replays"]
 +++
 
-This is a number of select replays featuring tsuuiisou.
+This is a number of select replays featuring
+[tsuuiisou]({{< ref "/riichi/yakuman/tsuuiisou.md" >}}).
 
 ## Tsuuiisou
 
@@ -22,7 +23,7 @@ This is a number of select replays featuring tsuuiisou.
 | off = Toimen
 | agari = 5z
 | url = <http://tenhou.net/0/?log=2013122618gm-0041-0000-7d63acef&tw=3>
-| comment = Very fast tsuuiisou, starting with 1 honor ankou along with 3 honor pairs.
+| comment = Very fast tsuuiisou, starting with 1 honor [ankou]({{< ref "/riichi/terminology/mentsu.md" >}}) along with 3 honor pairs.
 ```
 
 ```Replay/Tenhou.net|
@@ -70,7 +71,7 @@ This is a number of select replays featuring tsuuiisou.
 |draw=7m
 |hand=1223344556677z
 |agari=1z
-|comment= Toimen disconnected. Passed a very early Hatsu discard and committed to kokushi musou at the onset, switched to daichiisei at the decision point. Never had another opportunity to form a koutsu.
+|comment= Toimen disconnected. Passed a very early Hatsu discard and committed to [kokushi musou]({{< ref "/riichi/terminology/waits/kokushi-musou.md" >}}) at the onset, switched to daichiisei at the decision point. Never had another opportunity to form a [koutsu]({{< ref "/riichi/terminology/mentsu.md" >}}).
 |url=<http://tenhou.net/0/?log=2015041115gm-0009-0000-164efd58&tw=0&ts=0>
 ```
 
@@ -86,7 +87,7 @@ This is a number of select replays featuring tsuuiisou.
 |hand=1122334556677z
 |off=kamicha
 |agari=4z
-|comment= Toimen disconnected. Hand transitioned from developing honroutou towards tsuuiisou (daichiisei), breaking a tenpai in the process. No opportunities to call a pon after the first round of discards.
+|comment= Toimen disconnected. Hand transitioned from developing honroutou towards tsuuiisou (daichiisei), breaking a [tenpai]({{< ref "/riichi/strategy/tenpai.md" >}}) in the process. No opportunities to call a [pon]({{< ref "/riichi/rules/naki.md" >}}) after the first round of discards.
 |url=<http://tenhou.net/0/?log=2014012115gm-0049-0000-6270bfa6&tw=3&ts=2>
 ```
 

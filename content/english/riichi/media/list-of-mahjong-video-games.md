@@ -5,7 +5,7 @@ updated = "2019-11-30T15:00:58Z"
 tags = ["Games"]
 +++
 
-This is a list of Japanese mahjong video games.
+This is a list of [Japanese mahjong]({{< ref "/riichi/rules/japanese-mahjong.md" >}}) video games.
 
 Template for additional row entries can be found here: Template:Videogamerow
 

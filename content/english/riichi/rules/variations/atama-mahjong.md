@@ -5,21 +5,23 @@ updated = "2020-06-12T01:53:57Z"
 tags = ["Rule variations"]
 +++
 
-**Atama mahjong** {{< kana "アタマ麻雀" >}} is a modification to mahjong rules. It features the
-ability to call on tile by virtue of possession of a single tile. In other words, tile calls can be
-made to complete pairs or **atama**, hence the name "atama mahjong".
+**Atama mahjong** {{< kana "アタマ麻雀" >}} is a modification to
+[mahjong]({{< ref "/riichi/rules/japanese-mahjong.md" >}}) rules. It features the ability to call on
+tile by virtue of possession of a single tile. In other words, tile calls can be made to complete
+[pairs]({{< ref "/riichi/terminology/toitsu.md" >}}) or **atama**, hence the name "atama mahjong".
 
 ## Rule modifications
 
 ## Tenpai states
 
-The rule modifications changes the perception to tenpai. The basic shapes to tenpai is the same per
-regular rules. Yet, they key differences stem from the possibility of the open shanpon wait.
+The rule modifications changes the perception to [tenpai]({{< ref "/riichi/strategy/tenpai.md" >}}).
+The basic shapes to tenpai is the same per regular rules. Yet, they key differences stem from the
+possibility of the open [shanpon]({{< ref "/riichi/terminology/waits/shanpon.md" >}}) wait.
 
 ## Strategy
 
 In terms of speed, game play heavily favors tile calling. The emphasis on pairs increases the usage
-of chiitoitsu.
+of [chiitoitsu]({{< ref "/riichi/yaku/chiitoitsu.md" >}}).
 
 ## External links
 

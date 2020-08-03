@@ -7,9 +7,11 @@ tags = ["Terminology", "Game rules", "Strategy"]
 
 **Kawa** {{< kana "河" >}} is formed by the discarded tiles. In Japanese, it literally means
 "river", and it can also be referred to as the "pond". Regardless of reference, the tile discards
-provide players with different information regarding the current state of the hand. For defensive
-play, players rely on the discards to determine safe tiles. They can also be used to determine
-probable hands of other players, especially when particular yaku are sought for.
+provide players with different information regarding the current state of the hand. For [defensive
+play]({{< ref "/riichi/strategy/defense.md" >}}), players rely on the discards to determine [safe
+tiles]({{< ref "/riichi/strategy/betaori.md" >}}). They can also be used to determine probable hands
+of other players, especially when particular [yaku]({{< ref "/riichi/yaku/yaku.md" >}}) are sought
+for.
 
 In most variants to mahjong, discarded tiles are simply placed in a disorganized pile at the center
 of the playing area. However, for Japanese mahjong, each player is in charge of maintaining one's

@@ -8,7 +8,7 @@ tags = ["Terminology"]
 **Mentanpin** {{< kana "メンタンピン" >}} is an abbreviation for the combination of the following
 three yaku:
 
-- Riichi
-- Tanyao
-- Pinfu
+- [Riichi]({{< ref "/riichi/rules/riichi.md" >}})
+- [Tanyao]({{< ref "/riichi/yaku/tanyao.md" >}})
+- [Pinfu]({{< ref "/riichi/yaku/pinfu.md" >}})
 - [Source of this page [arcturus wiki]](http://arcturus.su/wiki/Mentanpin)

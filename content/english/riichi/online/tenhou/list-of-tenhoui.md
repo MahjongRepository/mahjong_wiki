@@ -5,8 +5,8 @@ updated = "2020-07-10T08:44:28Z"
 tags = ["Tenhou.net"]
 +++
 
-A player acquiring the rank of Tenhoui has reached the highest rank possible on the Tenhou.net
-ladder system.
+A player acquiring the rank of Tenhoui has reached the highest rank possible on the
+[Tenhou.net]({{< ref "/riichi/" >}}) [ladder system]({{< ref "/riichi/" >}}).
 
 ## Tenhoui
 

@@ -18,8 +18,9 @@ tags = ["Terminology", "Machi"]
 
 ```
 
-**Shanpon** {{< kana "双ポン" >}} is a wait pattern involving two groups of paired tiles, where
-either is looking to complete a triplet.
+**Shanpon** {{< kana "双ポン" >}} is a [wait pattern]({{< ref "/riichi/strategy/machi.md" >}})
+involving two groups of paired tiles, where either is looking to complete a
+[triplet]({{< ref "/riichi/terminology/mentsu.md" >}}).
 
 ## Pattern
 
@@ -27,15 +28,18 @@ either is looking to complete a triplet.
 
 ## Fu
 
-`main|Fu` The fu generated from a shanpon depends on the tiles themselves. Triplets using honor
-tiles or terminals are worth more than simples. When claimed for a win, the newly completed triplet
+`main|Fu` The fu generated from a shanpon depends on the tiles themselves. Triplets using [honor
+tiles]({{< ref "/riichi/terminology/jihai.md" >}}) or
+[terminals]({{< ref "/riichi/yakuman/chinroutou.md" >}}) are worth more than
+[simples]({{< ref "/riichi/yaku/tanyao.md" >}}). When claimed for a win, the newly completed triplet
 is considered to be open.
 
 ## Usage
 
 At most, a shanpon wait looks for 4 tiles of 2 tile types (2 tiles each). The pattern has one main
-advantage, by which it is immune to suji. Plus, it can easily incorporate honor tiles. Players
-looking to defend may fall to these traps fairly easily.
+advantage, by which it is immune to [suji]({{< ref "/riichi/strategy/suji.md" >}}). Plus, it can
+easily incorporate honor tiles. Players looking to
+[defend]({{< ref "/riichi/strategy/defense.md" >}}) may fall to these traps fairly easily.
 
 The major disadvantage to shanpon involves locked tiles. In this case, pairs of waiting tiles may be
 incorporated into other player(s) waiting hands, which may or may not be dropped. If this happens,
@@ -44,9 +48,12 @@ such a player decided to split a pair and discard the needed tile.
 
 ### Combinations
 
-Shanpon may combine with other tile waits. Shanpon with ryanmen produces entotsu. This combination
-may be increased with ryanmenten. Shanpon has the ability to mix with itself. This is only possible
-with a built-in pattern of iipeikou, plus a fourth numbered pair in the sequence.
+Shanpon may combine with other tile waits. Shanpon with
+[ryanmen]({{< ref "/riichi/terminology/waits/ryanmen.md" >}}) produces
+[entotsu]({{< ref "/riichi/terminology/waits/entotsu.md" >}}). This combination may be increased
+with [ryanmenten]({{< ref "/riichi/terminology/waits/sanmenchan.md" >}}). Shanpon has the ability to
+mix with itself. This is only possible with a built-in pattern of
+[iipeikou]({{< ref "/riichi/yaku/iipeikou.md" >}}), plus a fourth numbered pair in the sequence.
 
 ## External links
 

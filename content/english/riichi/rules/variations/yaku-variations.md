@@ -5,9 +5,10 @@ updated = "2019-12-05T00:16:19Z"
 tags = ["Rule variations"]
 +++
 
-Different yaku may be subject to rule variations. The variations may include altering the different
-strengths of the yaku, in relation to point values. A number of yaku are simply not considered
-standard.
+Different [yaku]({{< ref "/riichi/yaku/yaku.md" >}}) may be subject to [rule
+variations]({{< ref "/riichi/rules/variations/rule-variations.md" >}}). The variations may include
+altering the different strengths of the yaku, in relation to point values. A number of yaku are
+simply not considered standard.
 
 ## Chiitoitsu
 
@@ -17,33 +18,39 @@ standard.
 
 `main|Double riichi`
 
-Score riichi as 2 han yaku instead of 1 han if called within the first uninterrupted go-around of a
-hand.
+Score [riichi]({{< ref "/riichi/rules/riichi.md" >}}) as 2 han yaku instead of 1 han if called
+within the first uninterrupted go-around of a hand.
 
 - Ari – Score daburu riichi as 2 han instead of 1 han.
 - Nashi – Always score 1 han per riichi declaration.
 
 ## Haitei and houtei
 
-Score the 1-han yaku haitei raoyue for winning with the last tile from the live wall, or score the
-1-han yaku houtei raoyui for winning on a discard while the live wall is empty.
+Score the 1-han yaku [haitei raoyue]({{< ref "/riichi/yaku/haitei-raoyue-and-houtei-raoyui.md" >}})
+for winning with the last tile from the live wall, or score the 1-han yaku [houtei
+raoyui]({{< ref "/riichi/yaku/haitei-raoyue-and-houtei-raoyui.md" >}}) for winning on a discard
+while the live wall is empty.
 
 - Ari – Both yaku are allowed.
 - Nashi – Neither yaku is allowed.
 
 ## Haitei and rinshan
 
-When a kantsu is declared with exactly one tile left in the live wall, that tile, called the
-haiteihai, is appended to the dead wall and never drawn. This rule makes the replacement tile the
-haiteihai, so winning with that tile scores both rinshan kaihou (winning after kan) and haitei
-raoyue (winning with the last tile).
+When a [kantsu]({{< ref "/riichi/terminology/mentsu.md" >}}) is declared with exactly one tile left
+in the live wall, that tile, called the
+[haiteihai]({{< ref "/riichi/yaku/haitei-raoyue-and-houtei-raoyui.md" >}}), is appended to the dead
+wall and never drawn. This rule makes the replacement tile the haiteihai, so winning with that tile
+scores both [rinshan kaihou]({{< ref "/riichi/yaku/rinshan-kaihou.md" >}}) (winning after kan) and
+[haitei raoyue]({{< ref "/riichi/yaku/haitei-raoyue-and-houtei-raoyui.md" >}}) (winning with the
+last tile).
 
 - Ari – Allow this combination. I consider this a bug in the 2012 EMA RCR.
 - Nashi – Do not allow this combination. This is Japanese default.
 
 ## Ippatsu
 
-Score an additional han for winning a riichi declaration within the next go-around.
+Score an additional han for winning a [riichi]({{< ref "/riichi/rules/riichi.md" >}}) declaration
+within the next go-around.
 
 - Ari – Score ippatsu as an extra 1-han yaku.
 - Nashi – Don't score ippatsu.
@@ -61,8 +68,8 @@ Score a hand with 13 han or more as a yakuman.
 
 `main|Kokushi musou|Chankan`
 
-Sometimes, it is allowable for a tenpai kokushi musou to declare ron on an ankan and thereby
-invoking the ability for chankan.
+Sometimes, it is allowable for a tenpai kokushi musou to declare ron on an
+[ankan]({{< ref "/riichi/rules/kan.md" >}}) and thereby invoking the ability for chankan.
 
 - Ari – Allowed
 - Nashi – Disallowed
@@ -75,8 +82,11 @@ Score each of the listed patterns as a double yakuman.
 
 - Nashi – All yakuman count as single yakuman. See combined yakuman below for another possibility to
   score a multiple yakuman.
-- D – Daisuushii may be scored as double on its own, or else relegated to a single.
-- S – Suuankou tanki may be scored as double on its own, or else relegated to a single.
+- D – [Daisuushii]({{< ref "/riichi/yakuman/suushiihou.md" >}}) may be scored as double on its own,
+  or else relegated to a single.
+- S – [Suuankou]({{< ref "/riichi/yakuman/suuankou.md" >}})
+  [tanki]({{< ref "/riichi/terminology/waits/tanki.md" >}}) may be scored as double on its own, or
+  else relegated to a single.
 - K – Kokushi musou shiisanmen machi : Thirteen orphans winning from the thirteen-sided wait on the
   pair.
 - 9 – Junsei chuuren poutou : Nine heavenly gates winning from the nine-sided wait 1112345678999.
@@ -92,17 +102,22 @@ more than one yakuman if multiple yakuman are achieved by the same hand.
 
 `main|Optional yaku`
 
-The main list of yaku does not include various other possible tile combinations, as they are not
-accepted as "standard yaku". With this, house rules may include additional yaku to the list, if
-desired. The following are particularly common examples; the optional yaku page contains more
-detailed rules and many more yaku.
+The main [list of yaku]({{< ref "/riichi/yaku/list-of-yaku.md" >}}) does not include various other
+possible tile combinations, as they are not accepted as "standard yaku". With this, house rules may
+include additional yaku to the list, if desired. The following are particularly common examples; the
+[optional yaku]({{< ref "/riichi/yaku/optional/local-yaku.md" >}}) page contains more detailed rules
+and many more yaku.
 
 ### Daisharin
 
-Daisharin is an optional yaku. This involves a closed hand with pairs of each of the simples of the
-suit, pinzu. Sometimes it is regarded as a yakuman. Otherwise, the hand is counted normally with its
-yaku counterparts. The hand is at least 11 han with a combined chinitsu, ryanpeikou, tanyao, and
-pinfu.
+Daisharin is an [optional yaku]({{< ref "/riichi/yaku/optional/local-yaku.md" >}}). This involves a
+closed hand with pairs of each of the simples of the suit,
+[pinzu]({{< ref "/riichi/rules/mahjong-equipment.md" >}}). Sometimes it is regarded as a
+[yakuman]({{< ref "/riichi/yakuman/yakuman.md" >}}). Otherwise, the hand is counted normally with
+its yaku counterparts. The hand is at least 11 han with a combined
+[chinitsu]({{< ref "/riichi/yaku/chiniisou.md" >}}),
+[ryanpeikou]({{< ref "/riichi/yaku/ryanpeikou.md" >}}),
+[tanyao]({{< ref "/riichi/yaku/tanyao.md" >}}), and [pinfu]({{< ref "/riichi/yaku/pinfu.md" >}}).
 
 {{< t 2233445566778s >}} Agari: {{< t 8s >}}
 
@@ -154,8 +169,9 @@ discards, which gives players particular advantages.
 ### Daisangen and daisuushii
 
 Impose a liability payment on the player who has dealt the third pon/kanned dragon tile, or the
-fourth pon/kanned wind tile, if the caller wins with daisangen (big three dragons) or daisuushii
-(big four winds) later.
+fourth pon/kanned wind tile, if the caller wins with
+[daisangen]({{< ref "/riichi/yakuman/daisangen.md" >}}) (big three dragons) or
+[daisuushii]({{< ref "/riichi/yakuman/suushiihou.md" >}}) (big four winds) later.
 
 - Ari – Liable player pays full on tsumo, half on ron.
 - Nashi – No liability for daisangen or daisuushii.
@@ -163,15 +179,17 @@ fourth pon/kanned wind tile, if the caller wins with daisangen (big three dragon
 ### Suukantsu
 
 Impose a liability payment on the player who has dealt the fourth kanned tile, if the caller wins
-with suukantsu (four kantsu) later.
+with [suukantsu]({{< ref "/riichi/yakuman/suukantsu.md" >}}) (four
+[kantsu]({{< ref "/riichi/terminology/mentsu.md" >}})) later.
 
 - Ari – Liable player pays full on tsumo, half on ron.
 - Nashi – No liability for suukantsu.
 
 ### Daiminkan rinshan
 
-Require that a player pay for a hand, as for a ron, when his or her discard is called for daiminkan
-and the caller wins a tsumo for rinshan kaihou on the replacement tile.
+Require that a player pay for a hand, as for a ron, when his or her discard is called for
+[daiminkan]({{< ref "/riichi/rules/kan.md" >}}) and the caller wins a tsumo for [rinshan
+kaihou]({{< ref "/riichi/yaku/rinshan-kaihou.md" >}}) on the replacement tile.
 
 - Ari – Player dealing into daiminkan pays for the whole hand.
 - Nashi – All players pay for the hand, as normal for a tsumo.
@@ -212,7 +230,8 @@ self-drawn tile.
 
 ## Ryuuiisou
 
-A limit may be imposed on ryuuiisou to include or exclude hatsu.
+A limit may be imposed on [ryuuiisou]({{< ref "/riichi/yaku/ryuuiisou.md" >}}) to include or exclude
+[hatsu]({{< ref "/riichi/terminology/jihai.md" >}}).
 
 - Incl – Include hatsu
 - Req – Require hatsu

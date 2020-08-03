@@ -5,9 +5,9 @@ updated = "2017-11-29T21:27:31Z"
 tags = ["Terminology", "Techniques"]
 +++
 
-**Moupai** {{< kana "盲牌" >}} is the practice of reading mahjong tiles by touch. Normally, this act
-utilizes the thumb and/or fingers. It is even possible to identify tiles by rubbing them on a play
-surface.
+**Moupai** {{< kana "盲牌" >}} is the practice of reading [mahjong
+tiles]({{< ref "/riichi/rules/mahjong-equipment.md" >}}) by touch. Normally, this act utilizes the
+thumb and/or fingers. It is even possible to identify tiles by rubbing them on a play surface.
 
 ## Drills
 

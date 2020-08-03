@@ -5,7 +5,7 @@ updated = "2019-08-06T00:47:21Z"
 tags = ["Yaku replays"]
 +++
 
-This is list of hands scoring suukantsu.
+This is list of hands scoring [suukantsu]({{< ref "/riichi/yakuman/suukantsu.md" >}}).
 
 ## Suukantsu
 

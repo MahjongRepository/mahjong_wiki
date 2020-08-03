@@ -15,9 +15,11 @@ tags = ["Terminology", "Machi"]
 |gameExample = \* [Sanmentan](http://tenhou.net/0/?log=2014022520gm-0009-7447-f8c467e5&tw=0&ts=8)
 ```
 
-**Sanmentan** is an extension to nobetan, which utilizes multiple tanki (pair waits). While nobetan
-uses two, sanmentan uses three. Sanmentan is recognizable as a pattern of seven consecutive tiles.
-Always, the wait pattern utilizes a whole suji triple, like 2-5-8.
+**Sanmentan** is an extension to [nobetan]({{< ref "/riichi/terminology/waits/nobetan.md" >}}),
+which utilizes multiple [tanki]({{< ref "/riichi/terminology/waits/tanki.md" >}}) (pair waits).
+While nobetan uses two, sanmentan uses three. Sanmentan is recognizable as a pattern of seven
+consecutive tiles. Always, the [wait pattern]({{< ref "/riichi/strategy/machi.md" >}}) utilizes a
+whole [suji]({{< ref "/riichi/strategy/suji.md" >}}) triple, like 2-5-8.
 
 ## Tile pattern
 
@@ -27,15 +29,17 @@ Always, the wait pattern utilizes a whole suji triple, like 2-5-8.
 
 `main|Fu`
 
-Since the pattern seeks to complete the pair, this pattern is awarded 2 fu. It counts for the pair
-wait, despite multiple instances of it.
+Since the pattern seeks to complete the [pair]({{< ref "/riichi/terminology/jantou.md" >}}), this
+pattern is awarded 2 fu. It counts for the [pair
+wait]({{< ref "/riichi/terminology/waits/tanki.md" >}}), despite multiple instances of it.
 
 ## Development
 
 This waiting pattern is always a string of 7 numbered tiles. Within this string of 7 tiles, two
-sequential tile groups can be formed, which may be shifted depending on the paired tile. To
-determine the tile wait with this pattern, especially when a hybrid complex pattern is involved, the
-player needs to identify which tile will be the paired tile in the hand.
+sequential tile groups can be formed, which may be shifted depending on the [paired
+tile]({{< ref "/riichi/terminology/jantou.md" >}}). To determine the tile wait with this pattern,
+especially when a hybrid complex pattern is involved, the player needs to identify which tile will
+be the paired tile in the hand.
 
 ## External links
 

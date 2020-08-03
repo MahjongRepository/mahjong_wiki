@@ -5,7 +5,8 @@ updated = "2019-04-10T01:34:24Z"
 tags = ["Yaku replays"]
 +++
 
-This is a collection of replays featuring sanshoku doukou.
+This is a collection of replays featuring [sanshoku
+doukou]({{< ref "/riichi/yaku/sanshoku-doukou.md" >}}).
 
 ## Open
 

@@ -5,7 +5,7 @@ updated = "2019-04-10T01:52:21Z"
 tags = ["Yaku replays"]
 +++
 
-The following is a list of replays involving sankantsu.
+The following is a list of replays involving [sankantsu]({{< ref "/riichi/yaku/sankantsu.md" >}}).
 
 ## Gradual
 
@@ -39,7 +39,7 @@ The following is a list of replays involving sankantsu.
 | hand = 33p55s8z22'22s6'666m2"22z
 | agari = 5s
 | url = <http://tenhou.net/0/?log=2015090416gm-0089-0000-88dd1163&tw=1&ts=1>
-| comment = Two triplets and a pair of south wind in the opening hand pointed to a quick hand, possibly toitoi. After ponning and then kanning the south winds, a daiminkan of 6m led to tenpai. The subsequent daiminkan of 2s led to a rinshan kaihou tsumo.
+| comment = Two triplets and a pair of [south wind]({{< ref "/riichi/strategy/jikaze.md" >}}) in the opening hand pointed to a quick hand, possibly [toitoi]({{< ref "/riichi/yaku/toitoihou.md" >}}). After ponning and then kanning the south winds, a [daiminkan]({{< ref "/riichi/rules/kan.md" >}}) of 6m led to tenpai. The subsequent daiminkan of 2s led to a [rinshan kaihou]({{< ref "/riichi/yaku/rinshan-kaihou.md" >}}) tsumo.
 ```
 
 ```Replay/Tenhou.net|

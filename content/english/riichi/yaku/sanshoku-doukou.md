@@ -12,16 +12,16 @@ tags = ["Yaku"]
 |value = 2 han
 |yakuSpeed = Very slow
 |difficulty = Very hard
-|yakuCombine = \* Riichi
+|yakuCombine = \* [Riichi]({{< ref "/riichi/rules/riichi.md" >}})
 
-  - Ippatsu
-  - Menzen tsumo
-  - Tanyao
-  - Toitoi
-  - Sanankou
-  - Chanta
-  - Junchan
-  - Sankantsu
+  - [Ippatsu]({{< ref "/riichi/yaku/optional/ippatsu.md" >}})
+  - [Menzen tsumo]({{< ref "/riichi/yaku/menzenchin-tsumohou.md" >}})
+  - [Tanyao]({{< ref "/riichi/yaku/tanyao.md" >}})
+  - [Toitoi]({{< ref "/riichi/yaku/toitoihou.md" >}})
+  - [Sanankou]({{< ref "/riichi/yaku/sanankou.md" >}})
+  - [Chanta]({{< ref "/riichi/yaku/chanta.md" >}})
+  - [Junchan]({{< ref "/riichi/yaku/junchantaiyaochuu.md" >}})
+  - [Sankantsu]({{< ref "/riichi/yaku/sankantsu.md" >}})
 
 |gameExample = \* [Open](http://tenhou.net/0/?log=2014010610gm-0009-7447-dfd7e99e&tw=4)
 
@@ -29,8 +29,9 @@ tags = ["Yaku"]
 
 ```
 
-**Sanshoku doukou** {{< kana "三色同刻" >}} is a standard yaku. This yaku involves koutsu (triplets)
-of the same numbered tiles across the three main suits.
+**Sanshoku doukou** {{< kana "三色同刻" >}} is a standard yaku. This yaku involves
+[koutsu]({{< ref "/riichi/terminology/mentsu.md" >}}) (triplets) of the same numbered tiles across
+the three main suits.
 
 ## Tile pattern cases
 
@@ -40,8 +41,8 @@ For this sanshoku doukou there are cases where the yaku is guaranteed and cases 
 
 {{< t 333m33367s33z >}} {{< t 3-33p >}} Agari: {{< t 5s >}} or {{< t 8s >}}
 
-Here, all three koutsu of number three are already on the hand, and sanshoku doukou is guaranteed
-for both tiles waited on.
+Here, all three [koutsu]({{< ref "/riichi/terminology/mentsu.md" >}}) of number three are already on
+the hand, and sanshoku doukou is guaranteed for both tiles waited on.
 
 ### Case where sanshoku doukou is not guaranteed
 
@@ -65,11 +66,16 @@ bad odds.
 
 `Yaku compatibility table|SDO`
 
-Sanshoku doukou is incompatible with any yaku requiring more than one sequence, namely pinfu,
-iipeikou, ittsuu, sanshoku doujun, and ryanpeikou. It cannot be combined with honitsu and chinitsu,
-which require tiles of a single suit. chiitoitsu requires seven pars, which precludes the triplets
-for sanshoku doukou. Finally, shousangen's two dragon triplets do not leave enough room for the
-three triplets of suited tiles required.
+Sanshoku doukou is incompatible with any yaku requiring more than one sequence, namely
+[pinfu]({{< ref "/riichi/yaku/pinfu.md" >}}), [iipeikou]({{< ref "/riichi/yaku/iipeikou.md" >}}),
+[ittsuu]({{< ref "/riichi/yaku/ikkitsuukan.md" >}}), [sanshoku
+doujun]({{< ref "/riichi/yaku/sanshoku-doujun.md" >}}), and
+[ryanpeikou]({{< ref "/riichi/yaku/ryanpeikou.md" >}}). It cannot be combined with
+[honitsu]({{< ref "/riichi/yaku/honiisou.md" >}}) and
+[chinitsu]({{< ref "/riichi/yaku/chiniisou.md" >}}), which require tiles of a single suit.
+[chiitoitsu]({{< ref "/riichi/yaku/chiitoitsu.md" >}}) requires seven pars, which precludes the
+triplets for sanshoku doukou. Finally, [shousangen]({{< ref "/riichi/yaku/shousangen.md" >}})'s two
+dragon triplets do not leave enough room for the three triplets of suited tiles required.
 
 ## Value
 

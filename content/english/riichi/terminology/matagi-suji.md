@@ -5,9 +5,9 @@ updated = "2020-05-25T06:37:30Z"
 tags = ["Terminology"]
 +++
 
-**Matagi suji** is a specific suji read that examines tiles near numbered tiles. For numbers 3-7,
-they point to numbered tiles -2 or +2 away from them. For 2 and 8, they point to tiles 1-4 and 6-9
-respectively.
+**Matagi suji** is a specific [suji]({{< ref "/riichi/strategy/suji.md" >}}) read that examines
+tiles near numbered tiles. For numbers 3-7, they point to numbered tiles -2 or +2 away from them.
+For 2 and 8, they point to tiles 1-4 and 6-9 respectively.
 
 ## Table
 

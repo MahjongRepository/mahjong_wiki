@@ -5,27 +5,34 @@ updated = "2019-10-06T03:42:56Z"
 tags = ["Rule Variations"]
 +++
 
-**Toutenkou** {{< kana "東天紅" >}} is a special 3-player mahjong variation mainly popular in Kanto
-region. Currently available in Tenhou computer matches (beta test).
+**Toutenkou** {{< kana "東天紅" >}} is a special [3-player
+mahjong]({{< ref "/riichi/rules/sanma.md" >}}) variation mainly popular in Kanto region. Currently
+available in [Tenhou]({{< ref "/riichi/" >}}) computer matches (beta test).
 
 **Disclaimer**: This page only introduces rules used in Tenhou. Details are not consistent, and
 variation exists in other platforms.
 
 ## Rule Introduction
 
-Only uses {{< t 159m >}} of manzu tiles, while all of pinzu, souzu and honor tiles are used
-(including red fives {{< t 0m0p0s >}}). 112 tiles in total.
+Only uses {{< t 159m >}} of [manzu]({{< ref "/riichi/rules/mahjong-equipment.md" >}}) tiles, while
+all of [pinzu]({{< ref "/riichi/rules/mahjong-equipment.md" >}}),
+[souzu]({{< ref "/riichi/rules/mahjong-equipment.md" >}}) and
+[honor]({{< ref "/riichi/terminology/jihai.md" >}}) tiles are used (including red fives
+{{< t 0m0p0s >}}). 112 tiles in total.
 
 {{< t 159m4z >}} are gari {{< kana "ガリ" >}} (similar to nukidora). 20 rinshan tiles in total.
 
 A valid winning hand must include at least one of any regular yakus (identical to regular riichi
 mahjong yakus). A hand cannot win with only special yakus.
 
-Instead of calculating with fu and han, the score is only counted with points.
+Instead of calculating with [fu]({{< ref "/riichi/yaku/fu.md" >}}) and
+[han]({{< ref "/riichi/strategy/japanese-mahjong-scoring-rules.md" >}}), the score is only counted
+with points.
 
-Ron takes points from only one opponent (with 8 more extra points than tsumo).
+[Ron]({{< ref "/riichi/rules/naki.md" >}}) takes points from only one opponent (with 8 more extra
+points than tsumo).
 
-Tsumo takes points from two opponents.
+[Tsumo]({{< ref "/riichi/terminology/tsumo.md" >}}) takes points from two opponents.
 
 ## Special Yakus
 
@@ -36,7 +43,8 @@ yakus.
 
 (1 pt) **Menzen** {{< kana "門前" >}}: Add one point when the winning hand is concealed.
 
-(1 pt) **Honba** {{< kana "本場" >}}: Add one point for each honba.
+(1 pt) **Honba** {{< kana "本場" >}}: Add one point for each
+[honba]({{< ref "/riichi/rules/honba.md" >}}).
 
 (1 pt) **Gari** {{< kana "ガリ" >}}: Add one point for each nukidora ({{< t 159m4z >}}). For
 {{< t 0m >}} it is also a red dora, so it actually worths 2 points.
@@ -68,14 +76,16 @@ be stacked with gari.
   is claimed as a nukidora.
 - Set is still acquirable with some gari tiles used in hand. They're not required to be all claimed
   as nukidora.
-- Riichi values 1 point. Riichi bet is also 1 point.
+- [Riichi]({{< ref "/riichi/rules/riichi.md" >}}) values 1 point. Riichi bet is also 1 point.
 - A single round ends when there's no tile left before dora indicators.
-- Noten penalty of ryuukyoku is 20 points.
+- Noten penalty of [ryuukyoku]({{< ref "/riichi/rules/ryuukyoku.md" >}}) is 20 points.
 - Gari can be claimed even in last turn.
-- Rinshan Kaihou is available with rinshan tiles drawn from Gari.
+- [Rinshan Kaihou]({{< ref "/riichi/yaku/rinshan-kaihou.md" >}}) is available with rinshan tiles
+  drawn from Gari.
 - Crow / Karasu requires no any gari tiles both existing in hand, in discards and used as nukidoras.
-- Yakuman yakus cannot stack with other regular non-yakuman yakus as usual, though they can still
-  stack with toutenkou-specified special yakus. Each yakuman yaku values 20 points.
+- [Yakuman]({{< ref "/riichi/yakuman/yakuman.md" >}}) yakus cannot stack with other regular
+  non-yakuman yakus as usual, though they can still stack with toutenkou-specified special yakus.
+  Each yakuman yaku values 20 points.
 
 ## References
 

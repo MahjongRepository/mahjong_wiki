@@ -15,8 +15,10 @@ tags = ["Terminology", "Machi"]
 |gameExample = [Baiman tsumo](http://tenhou.net/0/?log=2016012115gm-0089-0000-2208b14b&tw=3&ts=1)
 ```
 
-**Kantan** is a named combination wait, which features to basic patterns of kanchan and tanki. It is
-formed with a numbered closed triplet tied with a number tile two away from said triplet.
+**Kantan** is a named combination [wait]({{< ref "/riichi/strategy/machi.md" >}}), which features to
+basic patterns of [kanchan]({{< ref "/riichi/terminology/waits/kanchan.md" >}}) and
+[tanki]({{< ref "/riichi/terminology/waits/tanki.md" >}}). It is formed with a numbered closed
+triplet tied with a number tile two away from said triplet.
 
 ## Tile pattern
 

@@ -12,11 +12,11 @@ tags = ["Yaku"]
 |value = 2 han (Closed only)
 |yakuSpeed = Medium
 |difficulty = Medium
-|yakuCombine = \* Tanyao
+|yakuCombine = \* [Tanyao]({{< ref "/riichi/yaku/tanyao.md" >}})
 
-  - Honroutou
-  - Honitsu
-  - Chinitsu
+  - [Honroutou]({{< ref "/riichi/yaku/honroutou.md" >}})
+  - [Honitsu]({{< ref "/riichi/yaku/honiisou.md" >}})
+  - [Chinitsu]({{< ref "/riichi/yaku/chiniisou.md" >}})
 
 |gameExample = \* [Chiitoitsu](http://tenhou.net/0/?log=2013010402gm-0009-7447-x1ba0b4910bee&tw=3&ts=2)
 
@@ -27,8 +27,8 @@ tags = ["Yaku"]
 **Chiitoitsu** {{< kana "七対子" >}}, also known as **chiitoi** or **niconico**, is one of the
 standard yaku hands. This hand consists of seven pairs, where no two pairs may be identical. In
 other words, every pair must be distinct. This hand is one of the two exceptions of the "four melds
-and one pair" rule of forming a hand, where the other exception is the kokushi musou. This hand is
-closed only.
+and one pair" rule of forming a hand, where the other exception is the [kokushi
+musou]({{< ref "/riichi/terminology/waits/kokushi-musou.md" >}}). This hand is closed only.
 
 ## Tile diagram
 
@@ -38,26 +38,28 @@ closed only.
 
 Given the number of pairs in this hand, it is often tempting to call pon with matching discards to
 the pairs. However, it is generally noted that toitoi is actually a slower developing hand in this
-instance. This is especially the case, when the potential chiitoitsu hand sits at iishanten; and it
-may actually be recommended to let the hand develop into a chiitoitsu tenpai, rather than forcing
-toitoi. Tenpai for chiitoitsu always uses the wait of tanki (pair wait) in order to complete the
-seventh and last pair for the hand.
+instance. This is especially the case, when the potential chiitoitsu hand sits at
+[iishanten]({{< ref "/riichi/strategy/shanten.md" >}}); and it may actually be recommended to let
+the hand develop into a chiitoitsu [tenpai]({{< ref "/riichi/strategy/tenpai.md" >}}), rather than
+forcing [toitoi]({{< ref "/riichi/yaku/toitoihou.md" >}}). Tenpai for chiitoitsu always uses the
+wait of [tanki]({{< ref "/riichi/terminology/waits/tanki.md" >}}) (pair wait) in order to complete
+the seventh and last pair for the hand.
 
 Nevertheless, transition to other yaku may actually be favorable, if the hand develops at least one
-ankou. In this case, players may find themselves looking to develop a toitoi hand, sanankou, or even
-suuankou. Whatever the case may be, this consideration does take some discretion, particularly when
-taking into account the number of tiles available, current point standing, and/or number of tile
-draws remaining.
+[ankou]({{< ref "/riichi/terminology/mentsu.md" >}}). In this case, players may find themselves
+looking to develop a toitoi hand, sanankou, or even suuankou. Whatever the case may be, this
+consideration does take some discretion, particularly when taking into account the number of tiles
+available, current point standing, and/or number of tile draws remaining.
 
 Finally, the pairs must be distinct. A group of tiles forming ankan does not count as 2 tile
 pairings.
 
 ### Hand interpretation
 
-Unlike most mahjong hands, chiitoitsu is an exception to the "four groups and a pair" pattern.
-Instead, tiles are groups into pairs or toitsu. As such, the tile groupings cannot be interpreted
-other ways. For this reason, chiitoitsu is also granted a unique fu count of 25, which remains
-static.
+Unlike most mahjong hands, chiitoitsu is an exception to the "four
+[groups]({{< ref "/riichi/terminology/mentsu.md" >}}) and a pair" pattern. Instead, tiles are groups
+into pairs or toitsu. As such, the tile groupings cannot be interpreted other ways. For this reason,
+chiitoitsu is also granted a unique fu count of 25, which remains static.
 
 ### Shanten
 
@@ -125,7 +127,10 @@ the hand. {{< table >}}
 ### Acquiring ankou
 
 For chiitoitsu, the hand has numerous pairs during development. One of the pairs may develop into a
-triplet. This may encourage a player to develop the hand for toitoi, sanankou, or even suuankou.
+triplet. This may encourage a player to develop the hand for
+[toitoi]({{< ref "/riichi/yaku/toitoihou.md" >}}),
+[sanankou]({{< ref "/riichi/yaku/sanankou.md" >}}), or even
+[suuankou]({{< ref "/riichi/yakuman/suuankou.md" >}}).
 
 ## Compatability
 
@@ -134,37 +139,47 @@ triplet. This may encourage a player to develop the hand for toitoi, sanankou, o
 `Yaku compatibility table|CHI`
 
 The composition of this yaku makes it very restrictive regarding its combination with other yaku.
-Chiitoitsu cannot be combined with any yaku dependent on tile groups of three. As the yaku demands,
-all tiles must be in pairs. Chiitoitsu combined with chanta gives honroutou, and it cannot be
-combined with junchan as there are only six different terminals, but chiitoi requires seven distinct
-pairs.
+Chiitoitsu cannot be combined with any yaku dependent on [tile groups of
+three]({{< ref "/riichi/terminology/mentsu.md" >}}). As the yaku demands, all tiles must be in
+pairs. Chiitoitsu combined with [chanta]({{< ref "/riichi/yaku/chanta.md" >}}) gives
+[honroutou]({{< ref "/riichi/yaku/honroutou.md" >}}), and it cannot be combined with
+[junchan]({{< ref "/riichi/yaku/junchantaiyaochuu.md" >}}) as there are only six different
+terminals, but chiitoi requires seven distinct pairs.
 
-As for rinshan and chankan, this yaku may combine with neither. Rinshan requires a call of kan, but
-that is not allowed with chiitoitsu. A player may draw all four of a specific tile, but they are not
-treated as distinct pairs. For chankan, all chiitoitsu tenpai hands utilize tanki, or single tile
-wait. In order to win with a chiitoitsu hand, that single tile must be paired, and it is physically
-impossible for it to be used for an added kan call.
+As for [rinshan]({{< ref "/riichi/yaku/rinshan-kaihou.md" >}}) and
+[chankan]({{< ref "/riichi/yaku/chankan.md" >}}), this yaku may combine with neither. Rinshan
+requires a call of [kan]({{< ref "/riichi/rules/kan.md" >}}), but that is not allowed with
+chiitoitsu. A player may draw all four of a specific tile, but they are not treated as distinct
+pairs. For chankan, all chiitoitsu [tenpai]({{< ref "/riichi/strategy/tenpai.md" >}}) hands utilize
+[tanki]({{< ref "/riichi/terminology/waits/tanki.md" >}}), or single tile wait. In order to win with
+a chiitoitsu hand, that single tile must be paired, and it is physically impossible for it to be
+used for an added kan call.
 
 ### With iipeikou or ryanpeikou
 
 A chiitoitsu hand may collect sequential series of paired tiles. The pattern would simply look like
-iipeikou or even ryanpeikou. For both of these yaku, neither are compatible with chiitoitsu. Once
-again, all tiles are considered to be pairs, instead of three-tiled-groups. For both iipeikou or
-ryanpeikou, sequences are required for completion, which simply does not fit the definition of
-chiitoitsu. This is especially the case for ryanpeikou, which actually looks like a collection of
-seven pairs on its own.
+[iipeikou]({{< ref "/riichi/yaku/iipeikou.md" >}}) or even
+[ryanpeikou]({{< ref "/riichi/yaku/ryanpeikou.md" >}}). For both of these yaku, neither are
+compatible with chiitoitsu. Once again, all tiles are considered to be pairs, instead of
+[three-tiled-groups]({{< ref "/riichi/terminology/mentsu.md" >}}). For both iipeikou or ryanpeikou,
+sequences are required for completion, which simply does not fit the definition of chiitoitsu. This
+is especially the case for ryanpeikou, which actually looks like a collection of seven pairs on its
+own.
 
 ## Value
 
 `main|Scoring table`
 
-As a special exception to the usual scoring rules, this hand is always given 25 fu. No other fu are
-awarded, even though a chiitoitsu hand would qualify for 2 fu due to the pair wait which it must
-have. The value is not rounded up to 30 fu. This produces a unique set of scoring values for
+As a special exception to the usual scoring rules, this hand is always given 25
+[fu]({{< ref "/riichi/yaku/fu.md" >}}). No other fu are awarded, even though a chiitoitsu hand would
+qualify for 2 fu due to the [pair wait]({{< ref "/riichi/terminology/waits/tanki.md" >}}) which it
+must have. The value is not rounded up to 30 fu. This produces a unique set of scoring values for
 chiitoitsu hands at a given han value, although they are the same as a hand with one fewer han and
 50 fu. Like all hands, once a chiitoitsu hand is valued at 5 han or more, then it is counted for
-mangan or greater. Chiitoitsu with mentsumo produces a 3-han hand. Since chiitoitsu can only occur
-in a closed hand, it is not possible to produce a 2-han chiitoitsu hand by tsumo.
+[mangan]({{< ref "/riichi/strategy/scoring-table.md" >}}) or greater. Chiitoitsu with
+[mentsumo]({{< ref "/riichi/yaku/menzenchin-tsumohou.md" >}}) produces a 3-han hand. Since
+chiitoitsu can only occur in a closed hand, it is not possible to produce a 2-han chiitoitsu hand by
+tsumo.
 
 {{< table >}}
 
@@ -175,11 +190,18 @@ in a closed hand, it is not possible to produce a 2-han chiitoitsu hand by tsumo
 
 {{</ table >}}
 
-High scoring chiitoitsu hands are possible without dora. The highest possible involves riichi,
-ippatsu, tsumo, haitei and chinitsu. With the 2 han for chiitoitsu, the combination brings the hand
-to a whopping 12 han. Note that tanyao cannot be added, as the hand 22334455667788 can be scored as
-ryanpeikou and pinfu for an additional 2 han over chiitoitsu. In some rule variations, this hand is
-an optional yakuman, known as "daisharin", "daichikurin", or "daisuurin", depending on the suit..
+High scoring chiitoitsu hands are possible without dora. The highest possible involves
+[riichi]({{< ref "/riichi/rules/riichi.md" >}}),
+[ippatsu]({{< ref "/riichi/yaku/optional/ippatsu.md" >}}),
+[tsumo]({{< ref "/riichi/yaku/menzenchin-tsumohou.md" >}}),
+[haitei]({{< ref "/riichi/yaku/haitei-raoyue-and-houtei-raoyui.md" >}}) and
+[chinitsu]({{< ref "/riichi/yaku/chiniisou.md" >}}). With the 2 han for chiitoitsu, the combination
+brings the hand to a whopping 12 han. Note that [tanyao]({{< ref "/riichi/yaku/tanyao.md" >}})
+cannot be added, as the hand 22334455667788 can be scored as
+[ryanpeikou]({{< ref "/riichi/yaku/ryanpeikou.md" >}}) and
+[pinfu]({{< ref "/riichi/yaku/pinfu.md" >}}) for an additional 2 han over chiitoitsu. In some rule
+variations, this hand is an optional yakuman, known as "daisharin", "daichikurin", or "daisuurin",
+depending on the suit..
 
 ### With dora
 

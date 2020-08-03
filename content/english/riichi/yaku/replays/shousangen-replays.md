@@ -5,7 +5,8 @@ updated = "2017-12-25T10:50:49Z"
 tags = ["Yaku replays"]
 +++
 
-The following is a number of select plays featuring shousangen.
+The following is a number of select plays featuring
+[shousangen]({{< ref "/riichi/yaku/shousangen.md" >}}).
 
 ## Closed
 
@@ -45,7 +46,8 @@ The following is a number of select plays featuring shousangen.
 
 ## Daisangen tenpai
 
-Hands with shousangen may often be tenpai for daisangen.
+Hands with shousangen may often be tenpai for
+[daisangen]({{< ref "/riichi/yakuman/daisangen.md" >}}).
 
 ```Replay/Tenhou.net|
 | player = KyuuAA

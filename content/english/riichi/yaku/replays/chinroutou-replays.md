@@ -5,7 +5,7 @@ updated = "2015-10-20T01:36:03Z"
 tags = ["Yaku replays"]
 +++
 
-This is a collection of replays with chinroutou.
+This is a collection of replays with [chinroutou]({{< ref "/riichi/yakuman/chinroutou.md" >}}).
 
 ## Open
 
@@ -54,7 +54,7 @@ This is a collection of replays with chinroutou.
 | off = Shimocha
 | agari = 1s
 | url = <http://tenhou.net/0/?log=2015090316gm-0061-0000-39db868b&tw=2&ts=3>
-| comment = Desperation attempt for a yakuman in oorasu actually manifested into one.
+| comment = Desperation attempt for a yakuman in [oorasu]({{< ref "/riichi/rules/end-game-scenarios.md" >}}) actually manifested into one.
 ```
 
 ```Replay/Tenhou.net|
@@ -70,7 +70,7 @@ This is a collection of replays with chinroutou.
 | off = Toimen
 | agari = 9m
 | url = <http://tenhou.net/0/?log=2015091603gm-0089-0000-0a9db7b6&tw=0&ts=9>
-| comment = Decision for at least a junchan made at the onset, with the intial 9-pin pon and a complete break down of a 345 sequence.
+| comment = Decision for at least a [junchan]({{< ref "/riichi/yaku/junchantaiyaochuu.md" >}}) made at the onset, with the intial 9-pin pon and a complete break down of a 345 sequence.
 ```
 
 ```Replay/Tenhou.net|
@@ -104,7 +104,7 @@ This is a collection of replays with chinroutou.
 | off = Kamicha
 | agari = 1s
 | url = <http://tenhou.net/0/?log=2014042620gm-0001-0000-5c73e86b&tw=0&ts=2>
-| comment = Natural junchan oriented haipai developing into chinroutou, which happened to also be tenpai for suuankou.
+| comment = Natural [junchan]({{< ref "/riichi/yaku/junchantaiyaochuu.md" >}}) oriented haipai developing into chinroutou, which happened to also be tenpai for [suuankou]({{< ref "/riichi/yakuman/suuankou.md" >}}).
 ```
 
 ## External links

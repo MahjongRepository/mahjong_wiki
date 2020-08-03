@@ -5,9 +5,11 @@ updated = "2017-11-15T15:12:19Z"
 tags = ["Yaku replays"]
 +++
 
-This is a collection of replays where kokushi musou is completed or attempted. Regarding starting
-hands, the number of kokushi tiles needed is assessed before even attempting the yakuman. Naturally,
-those numbers are taken into consideration. As a note, the initial draw is included into this count.
+This is a collection of replays where [kokushi
+musou]({{< ref "/riichi/terminology/waits/kokushi-musou.md" >}}) is completed or attempted.
+Regarding [starting hands]({{< ref "/riichi/terminology/haipai.md" >}}), the number of kokushi tiles
+needed is assessed before even attempting the yakuman. Naturally, those numbers are taken into
+consideration. As a note, the initial draw is included into this count.
 
 ## 7-starting or less
 

@@ -7,7 +7,8 @@ tags = ["Media"]
 
 **Mudazumo Naki Kaikaku** {{< kana "ムダヅモ無き改革" >}} is alternatively known as **The Legend of
 Koizumi**. The title means "Reform with No Wasted Draws". This series features political leaders,
-who use mahjong as a means to conduct political negotiation and encounters.
+who use [mahjong]({{< ref "/riichi/rules/japanese-mahjong.md" >}}) as a means to conduct political
+negotiation and encounters.
 
 ## External links
 

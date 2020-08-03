@@ -5,7 +5,9 @@ updated = "2019-03-06T22:22:58Z"
 tags = ["Yaku replays"]
 +++
 
-Replays involving suushiihou are included there. This includes shousuushii and daisuushii.
+Replays involving [suushiihou]({{< ref "/riichi/yakuman/suushiihou.md" >}}) are included there. This
+includes [shousuushii]({{< ref "/riichi/yakuman/suushiihou.md" >}}) and
+[daisuushii]({{< ref "/riichi/yakuman/suushiihou.md" >}}).
 
 ## Shousuushii
 

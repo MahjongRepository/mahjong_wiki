@@ -5,11 +5,15 @@ updated = "2015-07-23T23:38:05Z"
 tags = ["Terminology", "Game rules"]
 +++
 
-**Ryanhan shibari** {{< kana "二飜縛り" >}} is a modified rule, which increases the han limit to
-qualify for winning hands. In this rule, the minimum hand value is two han instead of one. In
-addition, dora do not count for the han minimum. Some house rules apply this throughout the game.
-Others, such as the EMA rules, apply it once the game reaches the fifth honba, to increase the
-difficulty of dealer continuation.
+**Ryanhan shibari** {{< kana "二飜縛り" >}} is a modified rule, which increases the
+[han]({{< ref "/riichi/strategy/japanese-mahjong-scoring-rules.md" >}})
+[limit]({{< ref "/riichi/yaku/yaku.md" >}}) to qualify for winning hands. In this rule, the minimum
+hand value is two han instead of one. In addition, dora do not count for the han minimum. Some
+[house rules]({{< ref "/riichi/rules/variations/rule-variations.md" >}}) apply this throughout the
+game. Others, such as the [EMA
+rules]({{< ref "/riichi/rules/variations/ema-riichi-competition-rules.md" >}}), apply it once the
+game reaches the fifth [honba]({{< ref "/riichi/rules/honba.md" >}}), to increase the difficulty of
+[dealer continuation]({{< ref "/riichi/rules/renchan.md" >}}).
 
 ## External links
 

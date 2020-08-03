@@ -6,12 +6,14 @@ tags = ["Terminology", "Strategy"]
 +++
 
 ![Damaten applied to a standalone baiman hand. [1](http://tenhou.net/0/?log=2014070418gm-0089-0000-092c00f3&tw=2)](Damaten.png "Damaten applied to a standalone baiman hand. 1")
-**Damaten** {{< kana "黙聴" >}} is a strategy used with closed tenpai hands. This strategy may also
-be referred to as a "hidden tenpai". Riichi is an optional play, rather than a mandatory one.
-Therefore, a player may sit and wait with a closed tenpai hand, hoping to win the hand without
-riichi. Typically during damaten, the player usually already has a valid yaku in their hand;
-otherwise, menzen tsumo (or other circumstancial yaku) would be the only option for winning. An
-older term **yamiten** used to refer to the same cases.
+**Damaten** {{< kana "黙聴" >}} is a strategy used with closed
+[tenpai]({{< ref "/riichi/strategy/tenpai.md" >}}) hands. This strategy may also be referred to as a
+"hidden tenpai". [Riichi]({{< ref "/riichi/rules/riichi.md" >}}) is an optional play, rather than a
+mandatory one. Therefore, a player may sit and wait with a closed tenpai hand, hoping to win the
+hand without riichi. Typically during damaten, the player usually already has a valid yaku in their
+hand; otherwise, [menzen tsumo]({{< ref "/riichi/yaku/menzenchin-tsumohou.md" >}}) (or other
+circumstancial yaku) would be the only option for winning. An older term **yamiten** used to refer
+to the same cases.
 
 ## Usage
 

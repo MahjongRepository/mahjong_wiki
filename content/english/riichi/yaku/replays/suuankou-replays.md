@@ -5,7 +5,7 @@ updated = "2019-04-12T06:30:50Z"
 tags = ["Yaku replays"]
 +++
 
-This is a collection of replays featuring suuankou.
+This is a collection of replays featuring [suuankou]({{< ref "/riichi/yakuman/suuankou.md" >}}).
 
 ## Shanpon
 
@@ -95,7 +95,7 @@ This is a collection of replays featuring suuankou.
 
 ## With ankan
 
-Calls of ankan do not affect the status of suuankou hands.
+Calls of [ankan]({{< ref "/riichi/rules/kan.md" >}}) do not affect the status of suuankou hands.
 
 ```Replay/Tenhou.net|
 | player = -Shinki-

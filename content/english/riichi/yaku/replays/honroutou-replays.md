@@ -5,8 +5,9 @@ updated = "2018-09-06T06:07:50Z"
 tags = ["Yaku replays"]
 +++
 
-This is a list of games featuring honroutou. Under all cases, they include either toitoi or
-chiitoitsu.
+This is a list of games featuring [honroutou]({{< ref "/riichi/yaku/honroutou.md" >}}). Under all
+cases, they include either [toitoi]({{< ref "/riichi/yaku/toitoihou.md" >}}) or
+[chiitoitsu]({{< ref "/riichi/yaku/chiitoitsu.md" >}}).
 
 ## Honroutou
 

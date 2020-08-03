@@ -12,13 +12,13 @@ tags = ["Yakuman"]
 |value = Yakuman
 |yakuSpeed = Extremely slow
 |difficulty = The most difficult
-|yakuCombine = \* Daisangen
+|yakuCombine = \* [Daisangen]({{< ref "/riichi/yakuman/daisangen.md" >}})
 
-  - Suuankou
-  - Shousuushii
-  - Daisuushii
-  - Ryuuiisou
-  - Chinroutou
+  - [Suuankou]({{< ref "/riichi/yakuman/suuankou.md" >}})
+  - [Shousuushii]({{< ref "/riichi/yakuman/suushiihou.md" >}})
+  - [Daisuushii]({{< ref "/riichi/yakuman/suushiihou.md" >}})
+  - [Ryuuiisou]({{< ref "/riichi/yaku/ryuuiisou.md" >}})
+  - [Chinroutou]({{< ref "/riichi/yakuman/chinroutou.md" >}})
 
 |gameExample = \* [Single suited](http://tenhou.net/0/?log=2009110921gm-0029-0000-ad0f061b&tw=1&ts=2)
 
@@ -28,12 +28,17 @@ tags = ["Yakuman"]
 
 ```
 
-**Suukantsu** {{< kana "四槓子" >}} is a standard yakuman, where the hand has collected kan four
-times. As a result, this hand always has uses a hadaka tanki machi, because four tile calls are
-required. Unlike all the other patterns, this yakuman cannot afford to have particular tiles
-unavailable via discards, the dead wall, or used in other player's hands. By far, it is the longest
-possible hand in the game, requiring 18-tiles. Of all the hands possible, suukantsu is the rarest.
-It is even more rare than either tenhou or chiihou.
+**Suukantsu** {{< kana "四槓子" >}} is a standard
+[yakuman]({{< ref "/riichi/yakuman/yakuman.md" >}}), where the hand has collected
+[kan]({{< ref "/riichi/rules/kan.md" >}}) four times. As a result, this hand always has uses a
+[hadaka tanki machi]({{< ref "/riichi/terminology/waits/tanki.md" >}}), because four [tile
+calls]({{< ref "/riichi/rules/naki.md" >}}) are required. Unlike all the other patterns, this
+yakuman cannot afford to have particular tiles unavailable via discards, the [dead
+wall]({{< ref "/riichi/rules/wanpai.md" >}}), or used in other player's hands. By far, it is the
+longest possible hand in the game, requiring 18-tiles. Of all the hands possible, suukantsu is the
+rarest. It is even more rare than either
+[tenhou]({{< ref "/riichi/yakuman/tenhou-and-chiihou.md" >}}) or
+[chiihou]({{< ref "/riichi/yakuman/tenhou-and-chiihou.md" >}}).
 
 ## Tile pattern
 
@@ -41,9 +46,10 @@ It is even more rare than either tenhou or chiihou.
 
 ## Viability
 
-This yakuman requires four kan calls. As a result, the hand in tenpai always uses hadaka tanki. In
-order to call a single kan, a player must draw at least 3 out of 4 of a single tile type under any
-of these three scenarios:
+This yakuman requires four kan calls. As a result, the hand in
+[tenpai]({{< ref "/riichi/strategy/tenpai.md" >}}) always uses [hadaka
+tanki]({{< ref "/riichi/terminology/waits/tanki.md" >}}). In order to call a single kan, a player
+must draw at least 3 out of 4 of a single tile type under any of these three scenarios:
 
 - A player has a pair and calls pon. Then draws the fourth to call kan.
 - A player has a closed triplet and calls kan on a discarded fourth.
@@ -57,16 +63,18 @@ virtually impossible.
 ### Pitfalls
 
 ![Suukantsu tenpai with an [unescapable hadaka tanki situation](http://tenhou.net/0/?log=2014031007gm-0009-7447-xfcc2dd624f0d&tw=3).](Hadakabind.png "Suukantsu tenpai with an unescapable hadaka tanki situation.")
-The difficulty of this yakuman stems from the numerous pitfalls during its hand development. Any one
-of these scenarios can prevent this yakuman from completion.
+The difficulty of this yakuman stems from the numerous pitfalls during its [hand
+development]({{< ref "/riichi/strategy/tile-efficiency.md" >}}). Any one of these scenarios can
+prevent this yakuman from completion.
 
 - Another player developing and winning with a faster and easier hand. This may be the case for any
   hand.
 - The winning tile is made unavailable, which again may be the case for any hand.
 - The player had avoided calling kan(s), in order to deny any additional dora.
-- The player has called pon on a tile type, but the fourth tile was not available - either discarded
-  earlier, drawn by another player, or in the dead wall.
-- The added kan to a previously called pon may be subject to chankan.
+- The player has called [pon]({{< ref "/riichi/rules/naki.md" >}}) on a tile type, but the fourth
+  tile was not available - either discarded earlier, drawn by another player, or in the dead wall.
+- The added kan to a previously called pon may be subject to
+  [chankan]({{< ref "/riichi/yaku/chankan.md" >}}).
 - Another player has called kan. This prevents one player from calling kan four times.
 - Hadaka tanki may create a perilous situation, where the last remaining tile and drawn tile are
   both dangerous tiles.
@@ -76,16 +84,16 @@ of these scenarios can prevent this yakuman from completion.
 ## Value
 
 Despite the greater degree of difficulty (Of particular note, unless a dead wall draw is used to
-form a meld, all hands viable for suukantsu could have been used for a suuankou while the converse
-is not true) and exceptionally low frequency of occurrence, the value remains as that of the other
-single yakuman.
+form a meld, all hands viable for suukantsu could have been used for a
+[suuankou]({{< ref "/riichi/yakuman/suuankou.md" >}}) while the converse is not true) and
+exceptionally low frequency of occurrence, the value remains as that of the other single yakuman.
 
 ## External links
 
 `jpwiki|四槓子`
 
 ````Youtube
-| url = <https://www.youtube.com/watch?v=luRbYfi0qPg>| linkname = 雀龍門でこれはひどい麻雀 四槓子・四暗刻単騎 聴牌| description = Tenpai with suuankou tanki```
+| url = <https://www.youtube.com/watch?v=luRbYfi0qPg>| linkname = 雀龍門でこれはひどい麻雀 四槓子・四暗刻単騎 聴牌| description = Tenpai with [suuankou tanki]({{< ref "/riichi/yakuman/suuankou.md" >}})```
 
 ```Navbox yaku```
 - [Source of this page [arcturus wiki]](http://arcturus.su/wiki/Suukantsu)

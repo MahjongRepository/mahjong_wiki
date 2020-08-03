@@ -5,7 +5,8 @@ updated = "2017-11-29T12:29:38Z"
 tags = ["Rule variations"]
 +++
 
-The use of dora may be subject to variation.
+The use of [dora]({{< ref "/riichi/rules/dora.md" >}}) may be subject to
+[variation]({{< ref "/riichi/rules/variations/rule-variations.md" >}}).
 
 ## Akadora
 
@@ -32,7 +33,7 @@ benefit from this.
 the next dora indicator only after discarding. If rinshan kaihou occurs, then the new kandora is not
 revealed.
 
-:\*If chankan occurs, no kandora is revealed.
+:\*If [chankan]({{< ref "/riichi/yaku/chankan.md" >}}) occurs, no kandora is revealed.
 
 - Nashi – Kandora is not used.
 - Start – One kandora is revealed at the beginning of each hand.

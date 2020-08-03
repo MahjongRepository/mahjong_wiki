@@ -5,8 +5,9 @@ updated = "2015-12-30T07:36:08Z"
 tags = ["Rule variations", "Scoring"]
 +++
 
-Scoring allows some flexibility to the rules regarding the start and end scores. Likewise, the oka
-and uma may be adjusted as well.
+[Scoring]({{< ref "/riichi/strategy/japanese-mahjong-scoring-rules.md" >}}) allows [some
+flexibility]({{< ref "/riichi/rules/variations/rule-variations.md" >}}) to the rules regarding the
+start and end scores. Likewise, the oka and uma may be adjusted as well.
 
 ## End game riichibou
 
@@ -30,8 +31,9 @@ Even the counting of fu may have some variation.
 
 ### Double wind fu
 
-A hand with four groups and a pair might have a double wind pair, by which the wind pair is both the
-round wind and the seat wind. This rule decides how many fu such a double wind pair is worth.
+A hand with four groups and a pair might have a [double
+wind]({{< ref "/riichi/rules/yakuhai.md" >}}) pair, by which the wind pair is both the round wind
+and the seat wind. This rule decides how many fu such a double wind pair is worth.
 
 - Ari – The pair counts as 4 fu: 2 from the seat wind, and 2 from the round wind.
 - Nashi – The pair only counts for 2 fu.
@@ -40,18 +42,21 @@ round wind and the seat wind. This rule decides how many fu such a double wind p
 
 `main|Fu`
 
-Normally, 2 fu are awarded for a tsumo (except when the hand scores the pinfu yaku). If the winning
-draw is a kan replacement tile, giving the rinshan kaihou yaku, then the win is a tsumo call; this
-does not always score the 2 fu.
+Normally, 2 fu are awarded for a [tsumo]({{< ref "/riichi/terminology/tsumo.md" >}}) (except when
+the hand scores the [pinfu]({{< ref "/riichi/yaku/pinfu.md" >}}) yaku). If the winning draw is a kan
+replacement tile, giving the [rinshan kaihou]({{< ref "/riichi/yaku/rinshan-kaihou.md" >}}) yaku,
+then the win is a tsumo call; this does not always score the 2 fu.
 
 - Ari – A rinshan still counts the 2 fu for a tsumo.
 - Nashi – A rinshan does not count the 2 fu for a tsumo.
 
 ## Goal score
 
-Used at the end of a hanchan for the next two rules: If oka is used, first place gets a bonus
-payment, called the oka, of 3 × (goal − start score), paid evenly by the others. The game may
-continue into the west round if no player has reached the goal score after the south round.
+Used at the end of a [hanchan]({{< ref "/riichi/rules/hanchan.md" >}}) for the next two rules: If
+oka is used, first place gets a bonus payment, called the oka, of 3 × (goal − start score), paid
+evenly by the others. The game may continue into the [west
+round]({{< ref "/riichi/rules/end-game-scenarios.md" >}}) if no player has reached the goal score
+after the south round.
 
 - Goal \> Start – Oka may be paid, shaaba may used; see those rules.
 - Goal = Start – Oka is zero, shaaba is never used.
@@ -60,12 +65,15 @@ continue into the west round if no player has reached the goal score after the s
 
 `main|Tenpai`
 
-Karaten is a state where a hand in tenpai has all of its winning tiles exhausted via discards, dora
-indicators, open calls, kans, and even in other players' hands.
+[Karaten]({{< ref "/riichi/strategy/tenpai.md" >}}) is a state where a hand in tenpai has all of its
+winning tiles exhausted via discards, dora indicators, [open
+calls]({{< ref "/riichi/rules/naki.md" >}}), [kans]({{< ref "/riichi/rules/kan.md" >}}), and even in
+other players' hands.
 
 - Ari - The hand is tenpai under all karaten situations.
-- Noten - The hand is declared as noten at ryuukyoku.
-- Kan noten - The hand is declared as noten at ryuukyoku, if all of a player's waits are used for
+- Noten - The hand is declared as noten at [ryuukyoku]({{< ref "/riichi/rules/ryuukyoku.md" >}}).
+- Kan noten - The hand is declared as noten at
+  [ryuukyoku]({{< ref "/riichi/rules/ryuukyoku.md" >}}), if all of a player's waits are used for
   one's own kan. The hand is declared as tenpai for all other cases.
 
 ## Kiriage mangan
@@ -88,7 +96,8 @@ end of the hanchan. These points are exchanged in addition to the uma.
 
 `main|Renchan`
 
-Renchan are additional hands, where the wind rotation is not applied. Instead, the wind positions
+[Renchan]({{< ref "/riichi/rules/renchan.md" >}}) are additional hands, where the [wind
+rotation]({{< ref "/riichi/strategy/jikaze.md" >}}) is not applied. Instead, the wind positions
 remain the same for an extra hand.
 
 - Agari – The hand is repeated only when East wins.
@@ -103,7 +112,8 @@ Player scores can be maintained using various means.
 
 - Option – Each tournament can specify a suitable scorekeeping method.
 - Paper – Scores are written down on a scoresheet.
-- Tenbou – Scoring sticks are exchanged after each hand.
+- Tenbou – [Scoring sticks]({{< ref "/riichi/terminology/tenbou.md" >}}) are exchanged after each
+  hand.
 - Mixed – A combination of tenbou and written records are used.
 - Comp – This is a computer game and it keeps track of scores automatically.
 

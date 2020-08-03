@@ -23,7 +23,7 @@ def main():
         meta = meta_info[wiki_file_name.split(".")[0]]
 
         # for debug
-        # if meta["id"] != "261":
+        # if meta["id"] != "3730":
         #     continue
 
         print(meta["title"], meta["id"])
@@ -39,7 +39,7 @@ def main():
         markdown_content = remove_escaping(markdown_content)
 
         with open(final_md_file_path, "w") as f:
-            markdown_content = process_wiki_links(markdown_content)
+            markdown_content = process_wiki_links(markdown_content, meta_info)
             markdown_content = remove_temp_tags(markdown_content)
 
             # insert header
@@ -235,12 +235,40 @@ def process_tables(content):
     return content
 
 
-def process_wiki_links(content):
+def process_wiki_links(content, pages_meta_info):
     """
     Replace [pinzu](pinzu "wikilink") with link name for now.
     """
     regex = r'\[(.*?)\]\((.*?) "wikilink"\)'
-    return re.sub(regex, r"\1", content)
+    for x in list(re.finditer(regex, content)):
+        group = x.group(0)
+        match = re.findall(regex, group)[0]
+        link_name = match[0]
+
+        link_slug = match[1].lower().replace(" ", "_")
+        redirect_slug = match[0].lower()
+        if link_slug in pages_meta_info or redirect_slug in pages_meta_info["_redirects"]:
+            if redirect_slug in pages_meta_info["_redirects"]:
+                link_slug = pages_meta_info["_redirects"][redirect_slug].lower()
+
+            if link_slug in pages_meta_info["_redirects"]:
+                link_slug = pages_meta_info["_redirects"][link_slug].lower()
+
+            if link_slug in pages_meta_info:
+                # replace wiki links with our own inner links
+                content = content.replace(
+                    group,
+                    (
+                        u'[%s]({{< ref "%s" >}})'
+                        % (link_name, "/riichi/%s" % pages_meta_info[link_slug]["mapped"]["markdown_path"])
+                    ).encode("utf-8"),
+                )
+            else:
+                print("Not found link %s" % link_name)
+        else:
+            print("Not found link %s" % link_name)
+            content = content.replace(group, link_name)
+    return content
 
 
 def remove_categories(content):

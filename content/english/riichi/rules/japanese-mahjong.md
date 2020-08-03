@@ -19,23 +19,29 @@ anime and manga, Western interest had significantly sparked a new wave of Wester
 The formation of play groups across North America and Europe is indicative of that trend.
 
 Gin rummy can trace its origins back to the mahjong that was played in China. Gin rummy is a card
-game which centers itself towards developing tile groups of sequences (1-2-3, 6-7-8) and/or triplets
+game which centers itself towards developing [tile
+groups]({{< ref "/riichi/terminology/mentsu.md" >}}) of sequences (1-2-3, 6-7-8) and/or triplets
 (9-9-9).
 
-Besides the tile groups, players also need to meet another condition called yaku. The yaku can be
-synonymous to "poker hands", where yaku are a set of patterns or conditions. Just like a poker hand,
-for example the "full house", each yaku is associated with a name. In addition, yaku directly affect
-the value of a player's hand, as each yaku has an associated value. The yaku add richness and depth
-to the game but at the same time requires some additional starting knowledge. When mahjong is not
-played on/via a computer, scoring by hand also requires additional starting knowledge. The game is
-otherwise known as **riichi mahjong**, due to a feature in the game rules allowing riichi.
+Besides the tile groups, players also need to meet another condition called
+[yaku]({{< ref "/riichi/yaku/yaku.md" >}}). The yaku can be synonymous to "poker hands", where yaku
+are a set of patterns or conditions. Just like a poker hand, for example the "full house", each yaku
+is associated with a name. In addition, yaku directly affect the value of a player's hand, as each
+yaku has an associated value. The yaku add richness and depth to the game but at the same time
+requires some additional starting knowledge. When mahjong is not played on/via a computer, scoring
+by hand also requires additional starting knowledge. The game is otherwise known as **riichi
+mahjong**, due to a feature in the game rules allowing
+[riichi]({{< ref "/riichi/rules/riichi.md" >}}).
 
 Finally, the game is a zero-sum game. All players begin with a certain number of points, usually
 25,000. Player hands are used to take points from other players. So, it is the objective of each
-player to develop their hands to accumulate more points than any of the opponents. Individual hands
-are scored with appropriate yaku and dora. Each winning hand value is determined with the number of
-han and fu, that corresponds to a specific number of points. On the flip side, it is also the
-objective of each player to minimize point losses against opponents.
+player [to develop their hands]({{< ref "/riichi/strategy/tile-efficiency.md" >}}) to accumulate
+more points than any of the opponents. Individual hands are scored with appropriate yaku and
+[dora]({{< ref "/riichi/rules/dora.md" >}}). Each winning hand value is determined with the number
+of [han]({{< ref "/riichi/strategy/japanese-mahjong-scoring-rules.md" >}}) and
+[fu]({{< ref "/riichi/yaku/fu.md" >}}), that corresponds to a specific number of points. On the flip
+side, it is also the objective of each player to [minimize point
+losses]({{< ref "/riichi/strategy/defense.md" >}}) against opponents.
 
 ## Game development history
 
@@ -52,9 +58,9 @@ variations.
 Japanese mahjong features these major aspects of the game, that are not used in many of the other
 mahjong variants. Although, these are not unique to Japanese mahjong.
 
-- Riichi
-- Dora
-- Furiten
+- [Riichi]({{< ref "/riichi/rules/riichi.md" >}})
+- [Dora]({{< ref "/riichi/rules/dora.md" >}})
+- [Furiten]({{< ref "/riichi/strategy/furiten.md" >}})
 - Arranged discards
 
 ### Rules overview
@@ -73,18 +79,21 @@ suits have the value of 1-9 according to their own suit. The face of the one of 
 bird design on them. The number one and nine tiles are called terminals. The number two through
 eight tiles are called simples. Runs don't wrap-around from nine to one.
 
-A fourth set of mahjong tiles is composed of the **jihai** (honor tiles). This set of tiles can be
-further divided into **kazehai** (wind tiles) and **sangenpai** (dragon tiles). Unlike the standard
+A fourth set of mahjong tiles is composed of the
+**[jihai]({{< ref "/riichi/terminology/jihai.md" >}})** (honor tiles). This set of tiles can be
+further divided into **[kazehai]({{< ref "/riichi/terminology/jihai.md" >}})** (wind tiles) and
+**[sangenpai]({{< ref "/riichi/terminology/jihai.md" >}})** (dragon tiles). Unlike the standard
 suits previously mentioned, these honor tiles have special properties towards determining hand
 value. They can also be referred as "word tiles". Unlike the "numbered suits", the different honor
-tiles cannot be mixed together to form tile groupings.
+tiles cannot be mixed together to form [tile
+groupings]({{< ref "/riichi/terminology/mentsu.md" >}}).
 
-Newer Japanese mahjong sets also come with four red-five dora tiles. One number five character tile,
-two number five circle tiles, and one number five bamboo tile are replaced with their matching red
-tiles. These red dora tiles can replace the appropriate number of standard five-tiles. Usage of the
-red dora tiles is optional. In addition, sets also come with flower and season tiles, but these are
-not used in the Japanese game. Instead, flower and seasons are used in other variations like Chinese
-and American styles.
+Newer Japanese mahjong sets also come with four red-five [dora]({{< ref "/riichi/rules/dora.md" >}})
+tiles. One number five character tile, two number five circle tiles, and one number five bamboo tile
+are replaced with their matching red tiles. These red dora tiles can replace the appropriate number
+of standard five-tiles. Usage of the red dora tiles is optional. In addition, sets also come with
+flower and season tiles, but these are not used in the Japanese game. Instead, flower and seasons
+are used in other variations like Chinese and American styles.
 
 ## Game setup
 
@@ -94,8 +103,9 @@ The game's setup features the 136 tiles, arranged in four walls of 17 tiles long
 After shuffling the tiles, all four players are responsible for creating the initial setup, which
 has every tile face down. A dice roll is used to determine both the initial dealer at the start of
 the game as well as the **wall break** at the beginning of each hand. After this process, both the
-dead wall is separated; and the tiles are dealt to each player to produce their starting hands. Play
-begins once the dealer makes the initial draw and discard.
+[dead wall]({{< ref "/riichi/rules/wanpai.md" >}}) is separated; and the tiles are dealt to each
+player to produce their [starting hands]({{< ref "/riichi/terminology/haipai.md" >}}). Play begins
+once the dealer makes the initial draw and discard.
 
 ## Game play
 
@@ -106,7 +116,8 @@ setup procedure may be ignored.
 
 `main|Naki|Jikaze` The game begins with the dealer's initial discard. From here onward, each player
 gets a turn to draw a tile from the wall, all players, except the discarder, has the option of
-claiming a discarded tile by **chii**, **pon**, **kan**, or **ron**.
+[claiming a discarded tile]({{< ref "/riichi/rules/naki.md" >}}) by **chii**, **pon**, **kan**, or
+**ron**.
 
 If no claims of the discard are made, then the next player draws from the wall and makes a discard,
 unless the hand is a winning hand with the declaration of **tsumo**. The turn order are as follows:
@@ -121,8 +132,9 @@ a player's turn with calls of pon or kan.
 Every player's discard is organized and arranged in front of them. Per convention, players line up
 their discarded tiles in rows of six. This is not a necessary convention, but it is the preferred
 convention. The arranged discard pile is used for two primary purposes: as record of a player's
-discards, and as an indicator of safe-tiles for defensive play. Additionally, players learn and are
-able to discern player hand states by reading the discard piles.
+discards, and as an indicator of safe-tiles for [defensive
+play]({{< ref "/riichi/strategy/defense.md" >}}). Additionally, players learn and are able to
+discern player hand states by reading the discard piles.
 
 ### Furiten
 
@@ -163,32 +175,38 @@ have good reason to discard particular tiles, especially when they are already p
 
 The process of drawing and discarding, as well as making claims to discard is the process of hand
 development. As a player, after the initial deal of hands, players have a _start hand_. So, the aim
-of a player is to develop this hand into a **tenpai** hand, and eventually a **complete hand**.
-Typically, a complete mahjong hand is composed of **4 tile groups and a pair**. The hand may be open
-or closed and have **at minimum 1-yaku**. This is a total of 13 tiles plus 1 (the winning tile),
-like so:
+of a player is to develop this hand into a **[tenpai]({{< ref "/riichi/strategy/tenpai.md" >}})**
+hand, and eventually a **complete hand**. Typically, a complete mahjong hand is composed of **4 tile
+groups and a pair**. The hand may be open or closed and have **at [minimum
+1-yaku]({{< ref "/riichi/yaku/yaku.md" >}})**. This is a total of 13 tiles plus 1 (the winning
+tile), like so:
 
 {{< t 234m666s11p567p11z >}} May win with: {{< t 1p >}} or {{< t 1z >}}
 
-Per the yaku rule, it is impossible to win with the first tile by discard unless riichi has been
-declared. However, the the second tile may be claimed for a win under any circumstance in the East
-round, or for the dealer.
+Per [the yaku rule]({{< ref "/riichi/strategy/atozuke.md" >}}), it is impossible to win with the
+first tile by discard unless [riichi]({{< ref "/riichi/rules/riichi.md" >}}) has been declared.
+However, the the second tile may be claimed for a win under any circumstance in the [East
+round]({{< ref "/riichi/rules/hanchan.md" >}}), or for the
+[dealer]({{< ref "/riichi/strategy/jikaze.md" >}}).
 
-A hand that is one tile away from being complete is in tenpai. A hand that is one tile away from
-tenpai is one shanten. A hand that is two tiles away from tenpai is two shanten, and so on.
-Experienced players may sense how likely they are to win a hand based on their initial shanten
-number.
+A hand that is one tile away from being complete is in
+[tenpai]({{< ref "/riichi/strategy/tenpai.md" >}}). A hand that is one tile away from tenpai is one
+[shanten]({{< ref "/riichi/strategy/shanten.md" >}}). A hand that is two tiles away from tenpai is
+two shanten, and so on. Experienced players may sense how likely they are to win a hand based on
+their initial shanten number.
 
 There are two notable **exceptions** to the 4 tile groups and a pair pattern. Players can try to
-form seven pairs or the rare thirteen orphans hand. Both of these hands are closed by default.
+form [seven pairs]({{< ref "/riichi/yaku/chiitoitsu.md" >}}) or the rare [thirteen
+orphans]({{< ref "/riichi/terminology/waits/kokushi-musou.md" >}}) hand. Both of these hands are
+closed by default.
 
 ### Tile groupings
 
 `main|Mentsu`
 
 **Mentsu** {{< kana "面子" >}} are the tile groups used to form mahjong hands. Each individual tile
-group must be composed of a single suit or type of mahjong tile. All groups, except kantsu, are
-composed of groups of 3 tiles.
+group must be composed of a single suit or type of mahjong tile. All groups, except
+[kantsu]({{< ref "/riichi/terminology/mentsu.md" >}}), are composed of groups of 3 tiles.
 
 - **Consecutive same suit Sequences**. Sequences must be in consecutive numbers per the following
   examples:
@@ -224,18 +242,18 @@ composed of groups of 3 tiles.
 
 `main|Kan`
 
-A special set of rules and procedures applies to quads. When in special possession of all four tiles
-of a specific type, a player may invoke these rules, or otherwise, decline the option. Like many
-aspects of the game, this is a risk-reward option. When choosing to invoke the "quad rules", a
-player may declare after the current tile draw, if four tiles or the fourth tile is in the hand. If
-a player possesses three tiles and a player discarded a fourth, then the player may invoke the "quad
-rules" on that discard.
+A special set of rules and procedures applies to [quads]({{< ref "/riichi/rules/kan.md" >}}). When
+in special possession of all four tiles of a specific type, a player may invoke these rules, or
+otherwise, decline the option. Like many aspects of the game, this is a risk-reward option. When
+choosing to invoke the "quad rules", a player may declare after the current tile draw, if four tiles
+or the fourth tile is in the hand. If a player possesses three tiles and a player discarded a
+fourth, then the player may invoke the "quad rules" on that discard.
 
-After the declaration for a quad, then a player gains special access to the dead wall. This is one
-of the first four tiles to the left of the dora-indicator. Afterwards, if the the extra tile does
-not complete the hand, the player must discard and play moves on to the right. As a sidenote, for
-each call kan, the player's tile count increases by one for each quad. Yet once again, a quad counts
-as a triplet plus one.
+After the declaration for a quad, then a player gains special access to the [dead
+wall]({{< ref "/riichi/rules/wanpai.md" >}}). This is one of the first four tiles to the left of the
+dora-indicator. Afterwards, if the the extra tile does not complete the hand, the player must
+discard and play moves on to the right. As a sidenote, for each call kan, the player's tile count
+increases by one for each quad. Yet once again, a quad counts as a triplet plus one.
 
 Furthermore, when a player calls or declares a kan, an additional dora indicator tile is flipped.
 This is called the kandora. Some rules may allow the kandora to be flipped immediately after the kan
@@ -256,9 +274,9 @@ from the other players. In the event a player makes a claim on a discard, then t
 changes from a closed hand to an open hand.
 
 Usually, a player's hand value decreases in the event of an open hand, but this may not always be
-the case, especially for some yakuman hands. Japanese mahjong strategy centers on knowing when to
-appropriately make the above calls. Knowledge of the yaku plays a large part in this decision making
-process.
+the case, especially for some [yakuman]({{< ref "/riichi/yakuman/yakuman.md" >}}) hands. Japanese
+mahjong strategy centers on knowing when to appropriately make the above calls. Knowledge of the
+yaku plays a large part in this decision making process.
 
 ## End of a hand
 
@@ -270,22 +288,27 @@ tiles are reshuffled to setup the next hand, or renchan.
 
 ### Winning a hand
 
-Ideally, players seek to win hands. Once again, a winning hand is composed of a tenpai hand; and a
-winning tile may be claimed. Of course, a player must actively declare the win **(ron or tsumo)**,
-or else, the player may also decline the win. Though, the latter option may be used for specific and
-strategic instances. This can also be attained by the dead-wall draw with the special tsumo of
-rinshan kaihou yaku. Two other special win claims can be attained by ron via chankan.
+Ideally, players seek to win hands. Once again, a winning hand is composed of a
+[tenpai]({{< ref "/riichi/strategy/tenpai.md" >}}) hand; and a winning tile may be claimed. Of
+course, a player must actively declare the win **(ron or tsumo)**, or else, the player may also
+decline the win. Though, the latter option may be used for specific and strategic instances. This
+can also be attained by the dead-wall draw with the special tsumo of [rinshan
+kaihou]({{< ref "/riichi/yaku/rinshan-kaihou.md" >}}) yaku. Two other special win claims can be
+attained by ron via [chankan]({{< ref "/riichi/yaku/chankan.md" >}}).
 
-It is most important to note: **winning a hand requires a minimum of one yaku.** Failure to meet
-this requirement may be subject to a penalty.
+It is most important to note: **winning a hand requires a minimum of one
+[yaku]({{< ref "/riichi/yaku/yaku.md" >}}).** Failure to meet this requirement may be subject to [a
+penalty]({{< ref "/riichi/rules/chombo.md" >}}).
 
 Depending on the rules, multiple winners are also possible for a hand. This event occurs when more
 than one player is waiting on the same tile(s), and the wins are both claimed by discard. This event
-is called a **double ron** or even **triple ron**. Some rules may allow double, but not triple. In
-this case, the losing player must pay the winning players according to their respective hand values.
-Likewise, honba applies for both of them as well. Otherwise, some rules may apply the head bump
-rule, or **atamahane**. In this case, only one of the players may claim the win over the other. The
-former winner may claim the win over the latter, or vice-versa depending on the rules agreed upon.
+is called a **double ron** or even **triple ron**. [Some
+rules]({{< ref "/riichi/rules/variations/rule-variations.md" >}}) may allow double, but not triple.
+In this case, the losing player must pay the winning players according to their respective hand
+values. Likewise, honba applies for both of them as well. Otherwise, some rules may apply the head
+bump rule, or **[atamahane]({{< ref "/riichi/rules/atamahane.md" >}})**. In this case, only one of
+the players may claim the win over the other. The former winner may claim the win over the latter,
+or vice-versa depending on the rules agreed upon.
 
 ### Exhaustive draw
 
@@ -312,9 +335,10 @@ tiles are reshuffled.
 The **chombo** is a penalty to the player, who performs specific illegal procedures. Other illegal
 procedures may be forgivable if done accidentally, like accidentally drawing a tile from a different
 part of the wall. However, things like cheating or winning without a yaku are more serious offenses.
-In the event of a chombo, the player must play out a penalty of points to the amount of a mangan.
-Otherwise, the rules to chombo may be modified. A more common practice involves docking penalized
-points after the game to expedite it and not waste time enforcing the penalty.
+In the event of a chombo, the player must play out a penalty of points to the amount of a
+[mangan]({{< ref "/riichi/strategy/scoring-table.md" >}}). Otherwise, the rules to chombo may be
+modified. A more common practice involves docking penalized points after the game to expedite it and
+not waste time enforcing the penalty.
 
 ## Scoring
 
@@ -327,7 +351,8 @@ sites. Even some automatic tables are capable of scoring calculations.
 
 Dealers receive roughly 50% more points when winning than non-dealers. However, if a non-dealer wins
 by draw, then the dealer must pay roughly 50% while non-dealers pay roughly 25% each. The winner of
-a hand collects any riichi bets on the table and additional points allowed by honba.
+a hand collects any riichi bets on the table and additional points allowed by
+[honba]({{< ref "/riichi/rules/honba.md" >}}).
 
 ## Game Rounds
 
@@ -365,10 +390,12 @@ differently than the standard rounds. This may occur under the following conditi
   dealer may choose to end the match when the match would otherwise continue due to dealer repeats.
   In which case, teams will usually opt to end the match.
 - **Extra rounds**. The game may play out an extra round, when a regular game ends with all of the
-  players under 30,000 points. In the case of tonpuusen, the game extends into the **South round**.
-  For a hanchan, the game extends into the **West round**. This overtime round ends as soon as any
-  player has over 30,000 points. If all the points remains below 30,000 after another full round,
-  then another overtime round may be played in the next prevailing-wind.
+  players under 30,000 points. In the case of [tonpuusen]({{< ref "/riichi/rules/tonpuusen.md" >}}),
+  the game extends into the **South round**. For a
+  [hanchan]({{< ref "/riichi/rules/hanchan.md" >}}), the game extends into the **West round**. This
+  overtime round ends as soon as any player has over 30,000 points. If all the points remains below
+  30,000 after another full round, then another overtime round may be played in the next
+  prevailing-wind.
 
 ### End game score
 
@@ -384,8 +411,9 @@ better reflection on player performance, rather than just using the raw scores.
 `main|Rule variations`
 
 Many rules of the game may be subject to various customization and house rules. Many simply resort
-towards allowing or disallowing certain rules and even hand patterns. Others involve different
-methods of enforcement and point values.
+towards allowing or disallowing certain rules and even [hand
+patterns]({{< ref "/riichi/yaku/yaku.md" >}}). Others involve different methods of enforcement and
+point values.
 
 ### Three player
 
@@ -418,10 +446,11 @@ be so rigorous either. Likewise, less emphasis on winning and losing is placed b
 enjoying the game and other players' company. Formality to the game is increased under tournament
 settings. Here, scores are pressed to the utmost importance, with the objective of placing well in
 the tournament and/or outright winning the event. Naturally, participants are expected to be
-knowledgeable of the rules and strategies. Commercial play are hosted in mahjong parlors, where
-players come to pay-to-play. Either at the parlors, casinos, or residences, gambling may be
-involved, whether it be legal or not legal. Finally, professional play involves televised games; and
-a staff may take detailed record of games and their results.
+knowledgeable of the rules and strategies. Commercial play are hosted in [mahjong
+parlors]({{< ref "/riichi/other/jansou.md" >}}), where players come to pay-to-play. Either at the
+parlors, casinos, or residences, gambling may be involved, whether it be legal or not legal.
+Finally, professional play involves televised games; and a staff may take detailed record of games
+and their results.
 
 ### Club play
 
@@ -431,10 +460,11 @@ a staff may take detailed record of games and their results.
 
 ### Jansou
 
-Jansou are known as mahjong parlors. They're generally commercial establishments catered for mahjong
-play. Most jansou are located in Japan, but a small number are located in the United States.
-Typcially, players enter these establishments to play with a fee. They typically apply their own
-game rules.
+[Jansou]({{< ref "/riichi/other/jansou.md" >}}) are known as mahjong parlors. They're generally
+commercial establishments catered for mahjong play. Most jansou are located in Japan, but a small
+number are located in the United States. Typcially, players enter these establishments to play with
+a fee. They typically apply their own [game
+rules]({{< ref "/riichi/rules/variations/rule-variations.md" >}}).
 
 ### Etiquette practices
 
@@ -456,7 +486,8 @@ game activity, strategy, and overall experience.
 ### Books
 
 `main|List of mahjong books` Books on various game subjects have been written. Many focus on player
-development regarding game strategy and tactics.
+development regarding [game strategy and
+tactics]({{< ref "/riichi/strategy/mahjong-strategy.md" >}}).
 
 ### Television
 

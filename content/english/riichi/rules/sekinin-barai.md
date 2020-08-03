@@ -6,11 +6,13 @@ tags = ["Terminology", "Game rules"]
 +++
 
 **Sekinin barai** {{< kana "責任払い" >}}, or the rule of **pao** {{< kana "パオ" >}}, forces the
-player whose discard is used to form an apparent yakuman to be liable for either partial or full
-payment of the hand if the player who called said discard wins the round. Generally, this applies to
-aiding the formation of certain yakuman hands, however, there also exists a variation that applies
-to rinshan kaihou after a daiminkan. The most common occurrence of sekinin barai involves the
-yakuman, daisangen.
+player whose discard is used to form an apparent [yakuman]({{< ref "/riichi/yakuman/yakuman.md" >}})
+to be liable for either partial or full payment of the hand if the player who called said discard
+wins the round. Generally, this applies to aiding the formation of certain
+[yakuman]({{< ref "/riichi/yakuman/yakuman.md" >}}) hands, however, there also exists a variation
+that applies to [rinshan kaihou]({{< ref "/riichi/yaku/rinshan-kaihou.md" >}}) after a
+[daiminkan]({{< ref "/riichi/rules/kan.md" >}}). The most common occurrence of sekinin barai
+involves the yakuman, [daisangen]({{< ref "/riichi/yakuman/daisangen.md" >}}).
 
 ## Sekinin barai for yakuman
 
@@ -21,23 +23,26 @@ yakuman, daisangen.
 There are two possible scenarios when it comes to how points are exchanged:
 
 - If the yakuman is later won by tsumo, the liable player will pay the full amount of the hand,
-  including any extra points for honba. This is as if ron was called against the liable player.
+  including any extra points for [honba]({{< ref "/riichi/rules/honba.md" >}}). This is as if ron
+  was called against the liable player.
 - If the yakuman is later won by ron against a non-liable player, that player will pay half the
   value of the hand, including any extra points for honba. The liable player will pay the other half
   of the hand.
 
-If playing with rule sets that recognize multiple yakuman, sekinin barai may be invoked only on
-certain yakuman. Point exchanges happen independently for each yakuman scored with extra points for
-any honba paid only once. Honba payments are conducted as normal for any normally scored yakuman
-among the winning hand.
+If playing with rule sets that recognize [multiple
+yakuman]({{< ref "/riichi/rules/variations/multiple-yakuman.md" >}}), sekinin barai may be invoked
+only on certain yakuman. Point exchanges happen independently for each yakuman scored with extra
+points for any honba paid only once. Honba payments are conducted as normal for any normally scored
+yakuman among the winning hand.
 
 ### Yakumans with sekinin barai
 
 #### Daisangen
 
-If a player has called two mentsu of dragon tiles calls for a koutsu/kantsu of the third dragon
-type, upgrading their hand to an apparent daisangen, the player who dealt into the third dragon call
-is deemed liable for full payment if the calling player later wins the hand.
+If a player has called two [mentsu]({{< ref "/riichi/terminology/mentsu.md" >}}) of dragon tiles
+calls for a koutsu/kantsu of the third dragon type, upgrading their hand to an apparent daisangen,
+the player who dealt into the third dragon call is deemed liable for full payment if the calling
+player later wins the hand.
 
 -
 
@@ -150,8 +155,9 @@ both have some limitation of toitsu (the head pair).
 ### Sekinin barai for suukantsu
 
 Uncommonly found in rule sets, sekinin barai may be invoked on the player discarding into a fourth
-kantsu of a suukantsu hand: when there's a hand with 3 existed kantsu (sankantsu) and the player
-claimed the fourth daiminkan, the feeder of fourth kan becomes liable.
+kantsu of a [suukantsu]({{< ref "/riichi/yakuman/suukantsu.md" >}}) hand: when there's a hand with 3
+existed kantsu ([sankantsu]({{< ref "/riichi/yaku/sankantsu.md" >}})) and the player claimed the
+fourth daiminkan, the feeder of fourth kan becomes liable.
 
 -
 
@@ -183,11 +189,12 @@ specific alternatives and can be easily avoided.
 
 ## Sekinin barai for rinshan kaihou
 
-Daiminkan pao for rinshan kaihou is a variation of the rule. Normally, rinshan kaihou would be
-scored as a regular tsumo, however this variation forces the player whose discard is called to form
-a daiminkan to be liable for the full amount of the payment in the event the calling player wins by
-rinshan tsumo. If rinshan tsumo is not achieved, play continues normally with no player being deemed
-liable for sekinin barai. While uncommon, some professional mahjong associations use this rule.
+Daiminkan pao for [rinshan kaihou]({{< ref "/riichi/yaku/rinshan-kaihou.md" >}}) is a variation of
+the rule. Normally, rinshan kaihou would be scored as a regular tsumo, however this variation forces
+the player whose discard is called to form a daiminkan to be liable for the full amount of the
+payment in the event the calling player wins by rinshan tsumo. If rinshan tsumo is not achieved,
+play continues normally with no player being deemed liable for sekinin barai. While uncommon, some
+professional mahjong associations use this rule.
 
 ## References
 

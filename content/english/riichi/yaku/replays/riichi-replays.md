@@ -5,7 +5,9 @@ updated = "2019-03-25T06:05:06Z"
 tags = ["Yaku replays"]
 +++
 
-The following is a collection of games featuring riichi, double riichi, and ippatsu.
+The following is a collection of games featuring [riichi]({{< ref "/riichi/rules/riichi.md" >}}),
+[double riichi]({{< ref "/riichi/yaku/daburu-riichi.md" >}}), and
+[ippatsu]({{< ref "/riichi/yaku/optional/ippatsu.md" >}}).
 
 ## Riichi nomi
 
@@ -78,7 +80,7 @@ The following is a collection of games featuring riichi, double riichi, and ippa
 | off = Shimocha
 | agari = 3z
 | url = <http://tenhou.net/0/?log=2014082913gm-00a9-0000-3e87e321&tw=03&ts=11>
-| comment = Game ending double riichi with immediate ippatsu ron. A 5-8 sou nobetan wait declined for a shaa (west) tanki.
+| comment = Game ending double riichi with immediate [ippatsu]({{< ref "/riichi/yaku/optional/ippatsu.md" >}}) ron. A 5-8 sou [nobetan]({{< ref "/riichi/terminology/waits/nobetan.md" >}}) [wait]({{< ref "/riichi/strategy/machi.md" >}}) declined for a shaa (west) [tanki]({{< ref "/riichi/terminology/waits/tanki.md" >}}).
 ```
 
 ```Replay/Tenhou.net|

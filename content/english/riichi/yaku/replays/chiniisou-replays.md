@@ -5,7 +5,7 @@ updated = "2019-03-11T21:45:56Z"
 tags = ["Yaku replays"]
 +++
 
-This is a collection of replays featuring chinitsu.
+This is a collection of replays featuring [chinitsu]({{< ref "/riichi/yaku/chiniisou.md" >}}).
 
 ## 1-tile wait
 
@@ -90,7 +90,7 @@ This is a collection of replays featuring chinitsu.
 | off = Kamicha
 | agari = 7s
 | url = <http://tenhou.net/0/?log=2017033015gm-0009-7447-f6668040&tw=3&ts=3>
-| comment = Damaten chinitsu with sanankou using kantankan pattern.
+| comment = Damaten chinitsu with sanankou using [kantankan]({{< ref "/riichi/terminology/waits/kantan.md" >}}) pattern.
 ```
 
 ## 4-tile wait

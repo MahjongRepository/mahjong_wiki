@@ -6,12 +6,13 @@ tags = ["Strategy"]
 +++
 
 ![An ill-advised and unnecessary [riichi](http://tenhou.net/0/?log=2014092217gm-0089-0000-3fd71626&tw=3&ts=8).](Bad_riichi.png "An ill-advised and unnecessary riichi.")
-Strategy surrounding the call for riichi entails various considerations. Players may very well
-blindly call riichi without any thought. Sometimes, this move pays off; and the player is rewarded.
-Then on the other hand, players are punished. Even worse, they are dubiously punished. While riichi
-hands gives players the chance for higher scoring hands, players must not be blinded by the
-opportunity without considering the risks. Sometimes, that riichi call may not be necessary anyways.
-Regardless, players win or lose on the risk-reward nature of the riichi declaration.
+Strategy surrounding the call for [riichi]({{< ref "/riichi/rules/riichi.md" >}}) entails various
+considerations. Players may very well blindly call riichi without any thought. Sometimes, this move
+pays off; and the player is rewarded. Then on the other hand, players are punished. Even worse, they
+are dubiously punished. While riichi hands gives players the chance for higher scoring hands,
+players must not be blinded by the opportunity without considering the risks. Sometimes, that riichi
+call may not be necessary anyways. Regardless, players win or lose on the risk-reward nature of the
+riichi declaration.
 
 ## Assessing riichi
 
@@ -23,9 +24,11 @@ When it comes to riichi, one must weigh the advantages and disadvantages.
 
 - Any closed hand becomes eligible for winning by ron.
 - Riichi is an automatic yaku and is eligible to count for 1 additional han (after a win).
-- A win via tsumo is guaranteed an extra han from mentsumo.
-- A possible 3-han riichi combination of: riichi, ippatsu, and mentsumo.
-- Access to the uradora (after a win).
+- A win via tsumo is guaranteed an extra han from
+  [mentsumo]({{< ref "/riichi/yaku/menzenchin-tsumohou.md" >}}).
+- A possible 3-han riichi combination of: riichi,
+  [ippatsu]({{< ref "/riichi/yaku/optional/ippatsu.md" >}}), and mentsumo.
+- Access to the [uradora]({{< ref "/riichi/rules/dora.md" >}}) (after a win).
 - Kans formed by any player provide two extra dora indicators (per kan declaration) for the riichi
   declarer instead of just one.
 - Other players are recommended to defend against riichi calls, if possible or needed. Otherwise,
@@ -35,14 +38,17 @@ When it comes to riichi, one must weigh the advantages and disadvantages.
 
 - **By rule, the hand is locked**. Therefore, it is impossible to change the composition of the hand
   in order to get a better wait or an improved score.
-- Changing a hand while in riichi breaks this rule and imposes chombo.
+- Changing a hand while in riichi breaks this rule and imposes
+  [chombo]({{< ref "/riichi/rules/chombo.md" >}}).
 - Likewise, a player can no longer defend and must wait for a winning tile.
 - Other players retain the ability to develop their hands, if they choose not to defend against the
   riichi.
 - Defending players are less likely to deal in.
 - It is highly recommended to declare the win on the first instance of a winning tile, even if the
-  tile is a yasume or a lower scoring tile (based on yaku). Otherwise, the hand is subject to
-  furiten. Of course, this decision rests on the current scores.
+  tile is a [yasume]({{< ref "/riichi/strategy/takame-and-yasume.md" >}}) or a lower scoring tile
+  (based on yaku). Otherwise, the hand is subject to
+  [furiten]({{< ref "/riichi/strategy/furiten.md" >}}). Of course, this decision rests on the
+  current scores.
 - A riichi call disables a person's ability to be selective of points from particular players (if
   need be).
 - A "riichi stick" of 1,000 points is temporarily spent to call the riichi, with the hopes of
@@ -107,13 +113,16 @@ additional value, then it can be a bigger point of consideration.
 
 ### Hand shape and waits
 
-After a riichi call, the likelihood of the hand winning places itself on its hand shape and tile
-waits. Hands with waits of three tiles or greater, such as ryanmenten or sanmentan, have a favorable
-chance of winning, while one tile waits like kanchan or tanki are less likely to win. Since pretty
-much all the risks associated with riichi is only if the hand fails to win, having a hand with good
-shape waits to win obviously means that they're less of a concern. Bad shape waits may be more
-pressured to keep the possibility of failure in mind, as well as the possibility of changing the
-hand into having a better wait.
+After a riichi call, the likelihood of the hand winning places itself on its hand shape and [tile
+waits]({{< ref "/riichi/strategy/machi.md" >}}). Hands with waits of three tiles or greater, such as
+[ryanmenten]({{< ref "/riichi/terminology/waits/sanmenchan.md" >}}) or
+[sanmentan]({{< ref "/riichi/terminology/waits/sanmen-nobetan.md" >}}), have a favorable chance of
+winning, while one tile waits like [kanchan]({{< ref "/riichi/terminology/waits/kanchan.md" >}}) or
+[tanki]({{< ref "/riichi/terminology/waits/tanki.md" >}}) are less likely to win. Since pretty much
+all the risks associated with riichi is only if the hand fails to win, having a hand with good shape
+waits to win obviously means that they're less of a concern. Bad shape waits may be more pressured
+to keep the possibility of failure in mind, as well as the possibility of changing the hand into
+having a better wait.
 
 ### Intimidation
 
@@ -180,9 +189,9 @@ riichi declarer is liable of playing into another's riichi call. At the time sam
 riichi is often utilized because at least one player is not able to defend. With multiple riichis
 occurring simultaneously, the players end up in a "riichi duel".
 
-The process of four active riichi hands is not possible due to suucha riichi, or four called riichi.
-In this case, the hand ends if the fourth riichi discard is not a winning tile for any of the
-previous three.
+The process of four active riichi hands is not possible due to [suucha
+riichi]({{< ref "/riichi/rules/tochuu-ryuukyoku.md" >}}), or four called riichi. In this case, the
+hand ends if the fourth riichi discard is not a winning tile for any of the previous three.
 
 ## External links
 

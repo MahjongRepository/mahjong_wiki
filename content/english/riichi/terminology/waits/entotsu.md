@@ -8,7 +8,7 @@ tags = ["Terminology", "Machi"]
 ```machi
 |kanji = エントツ
 |english =
-|fu = Triplet dependent
+|fu = Triplet [dependent]({{< ref "/riichi/yaku/fu.md" >}})
 |type = 3
 |available = 7
 |tilePattern =
@@ -18,15 +18,19 @@ tags = ["Terminology", "Machi"]
 
 ```
 
-**Entotsu** {{< kana "エントツ" >}} is a combination wait pattern, that utilizes two basic patterns:
-ryanmen and shanpon. Together, the pattern produces a 3-sided wait, or waits on three tile types.
+**Entotsu** {{< kana "エントツ" >}} is a combination [wait
+pattern]({{< ref "/riichi/strategy/machi.md" >}}), that utilizes two basic patterns:
+[ryanmen]({{< ref "/riichi/terminology/waits/ryanmen.md" >}}) and
+[shanpon]({{< ref "/riichi/terminology/waits/shanpon.md" >}}). Together, the pattern produces a
+3-sided wait, or waits on three tile types.
 
 ## Tile pattern
 
 {{< t 34555s33000000z >}} Waiting for: {{< t 2s >}}, {{< t 5s >}}, or {{< t 3z >}}
 
-The pattern consists of middle numbered tiles and an extra pair of any other tiles. If the numbered
-tiles included terminals, then the pattern is a simple shanpon.
+The pattern consists of [middle numbered tiles]({{< ref "/riichi/yaku/tanyao.md" >}}) and an extra
+pair of any other tiles. If the numbered tiles included
+[terminals]({{< ref "/riichi/yakuman/chinroutou.md" >}}), then the pattern is a simple shanpon.
 
 **Example**: _Not entotsu_ {{< t 77789m44s000000z >}} Waiting for: {{< t 7m >}} or {{< t 4s >}}
 
@@ -44,7 +48,8 @@ triplet. Regardless of the winning tile, the pattern guarantees one triplet.
 {{< t 23444p56777s000z >}} Waiting for: {{< t 1p >}}, {{< t 4p >}}, {{< t 4s >}}, or {{< t 7s >}}
 
 The wait pattern can be doubled, such that it occurs into one hand. Essentially, they can be viewed
-as a pair of ryanmen. However, this pattern is not possible without the entotsu patterns.
+as a pair of [ryanmen]({{< ref "/riichi/terminology/waits/ryanmen.md" >}}). However, this pattern is
+not possible without the entotsu patterns.
 
 ## External links
 

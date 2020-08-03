@@ -15,9 +15,11 @@ tags = ["Terminology", "Machi"]
 |gameExample = \* [Nobetan](http://tenhou.net/0/?log=2014012909gm-0009-7447-58878bb6&tw=0)
 ```
 
-**Nobetan** {{< kana "ノベタン" >}}, or **nobetanki** {{< kana "延べ単騎" >}}, is a tile wait
-pattern that uses two separate tanki waits. With this pattern, the tenpai hand is looking to pair
-either one of two tiles for completion.
+**Nobetan** {{< kana "ノベタン" >}}, or **nobetanki** {{< kana "延べ単騎" >}}, is a [tile wait
+pattern]({{< ref "/riichi/strategy/machi.md" >}}) that uses two separate
+[tanki]({{< ref "/riichi/terminology/waits/tanki.md" >}}) waits. With this pattern, the
+[tenpai]({{< ref "/riichi/strategy/tenpai.md" >}}) hand is looking to pair either one of two tiles
+for completion.
 
 ## Pattern
 
@@ -36,8 +38,9 @@ functions as follows:
 
 ## Fu
 
-The pattern generates 2 fu for the hand. Either tile type produces the pair; and thus, it counts for
-the waiting pattern of tanki.
+The pattern generates 2 fu for the hand. Either tile type produces the
+[pair]({{< ref "/riichi/terminology/jantou.md" >}}); and thus, it counts for the waiting pattern of
+tanki.
 
 ## External links
 

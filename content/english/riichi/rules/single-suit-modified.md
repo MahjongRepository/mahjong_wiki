@@ -13,11 +13,11 @@ modification is devised by Kyuu and members of the Chicago Area Mahjong.
 
 This version was developed while playing the regular single suit game using actual tiles, instead of
 just the flash or app version. However, the problem arose when hands were developed too quickly.
-Basically, every hand was a chinitsu, which is notorious for complex waits. That aspect provided
-hand development with a wide range of tiles in a single suit to use. This prompted an overuse of the
-wall building and tile shuffling process. To slow down the hand development process, honor tiles
-were brought back, as an attempt to bring the essence of the normal four player game into this two
-player version.
+Basically, every hand was a [chinitsu]({{< ref "/riichi/yaku/chiniisou.md" >}}), which is notorious
+for complex waits. That aspect provided hand development with a wide range of tiles in a single suit
+to use. This prompted an overuse of the wall building and tile shuffling process. To slow down the
+hand development process, honor tiles were brought back, as an attempt to bring the essence of the
+normal four player game into this two player version.
 
 ## Tile setup
 
@@ -66,19 +66,20 @@ starting from the right side of the wall.
 
 Given the tile count, the dead wall is shortened. For the 4-player game, the 14-tiles for the dead
 wall is about 10% of the total tile count. Likewise, a similar proportion is used for the dead wall.
-As usual, the dead wall marks the dora, with the second tile from the wall break is flipped. As a
-consequence, kan can only be used two times for the hand, with only two tiles allocated for the
-extra tile draw.
+As usual, the dead wall marks the [dora]({{< ref "/riichi/rules/dora.md" >}}), with the second tile
+from the wall break is flipped. As a consequence, [kan]({{< ref "/riichi/rules/kan.md" >}}) can only
+be used two times for the hand, with only two tiles allocated for the extra tile draw.
 
 ## Game play
 
 ## Yaku
 
-Given the tile count reduction, the yaku involved is also reduced. Some yaku from the four-player
-game are incorporated; and any yaku physically impossible by the tile make up, like sanshoku, are
-omitted. Furthermore, most of the yaku retain their original values, but some are modified.
+Given the tile count reduction, the [yaku]({{< ref "/riichi/yaku/yaku.md" >}}) involved is also
+reduced. Some yaku from the four-player game are incorporated; and any yaku physically impossible by
+the tile make up, like [sanshoku]({{< ref "/riichi/yaku/sanshoku-doujun.md" >}}), are omitted.
+Furthermore, most of the yaku retain their original values, but some are modified.
 
-- Honitsu
+- [Honitsu]({{< ref "/riichi/yaku/honiisou.md" >}})
 
 <!-- end list -->
 
@@ -88,7 +89,7 @@ omitted. Furthermore, most of the yaku retain their original values, but some ar
 
 <!-- end list -->
 
-- Chinitsu
+- [Chinitsu]({{< ref "/riichi/yaku/chiniisou.md" >}})
 
 <!-- end list -->
 
@@ -98,7 +99,7 @@ omitted. Furthermore, most of the yaku retain their original values, but some ar
 
 <!-- end list -->
 
-- Pinfu
+- [Pinfu]({{< ref "/riichi/yaku/pinfu.md" >}})
 
 <!-- end list -->
 
@@ -108,7 +109,7 @@ omitted. Furthermore, most of the yaku retain their original values, but some ar
 
 <!-- end list -->
 
-- Iipeikou
+- [Iipeikou]({{< ref "/riichi/yaku/iipeikou.md" >}})
 
 <!-- end list -->
 
@@ -118,7 +119,7 @@ omitted. Furthermore, most of the yaku retain their original values, but some ar
 
 <!-- end list -->
 
-- Ryanpeikou
+- [Ryanpeikou]({{< ref "/riichi/yaku/ryanpeikou.md" >}})
 
 <!-- end list -->
 
@@ -128,7 +129,7 @@ omitted. Furthermore, most of the yaku retain their original values, but some ar
 
 <!-- end list -->
 
-- Toitoi
+- [Toitoi]({{< ref "/riichi/yaku/toitoihou.md" >}})
 
 <!-- end list -->
 
@@ -138,7 +139,7 @@ omitted. Furthermore, most of the yaku retain their original values, but some ar
 
 <!-- end list -->
 
-- Yakuhai
+- [Yakuhai]({{< ref "/riichi/rules/yakuhai.md" >}})
 
 <!-- end list -->
 
@@ -148,17 +149,17 @@ omitted. Furthermore, most of the yaku retain their original values, but some ar
 
 <!-- end list -->
 
-- Sanrenkou
+- [Sanrenkou](Sanrenkou "wikilink")
 
 <!-- end list -->
 
 -
 
-    2 han. This optional yaku is reincorporated to make up for omitted yaku. However, its cousin, iishoku sanjun, is not used.
+    2 han. This [optional yaku]({{< ref "/riichi/yaku/optional/local-yaku.md" >}}) is reincorporated to make up for omitted yaku. However, its cousin, iishoku sanjun, is not used.
 
 <!-- end list -->
 
-- Ittsu
+- [Ittsu]({{< ref "/riichi/yaku/ikkitsuukan.md" >}})
 
 <!-- end list -->
 
@@ -168,7 +169,7 @@ omitted. Furthermore, most of the yaku retain their original values, but some ar
 
 <!-- end list -->
 
-- Chiitoitsu
+- [Chiitoitsu]({{< ref "/riichi/yaku/chiitoitsu.md" >}})
 
 <!-- end list -->
 
@@ -178,7 +179,7 @@ omitted. Furthermore, most of the yaku retain their original values, but some ar
 
 <!-- end list -->
 
-- Chanta
+- [Chanta]({{< ref "/riichi/yaku/chanta.md" >}})
 
 <!-- end list -->
 
@@ -188,7 +189,7 @@ omitted. Furthermore, most of the yaku retain their original values, but some ar
 
 <!-- end list -->
 
-- Junchan
+- [Junchan]({{< ref "/riichi/yaku/junchantaiyaochuu.md" >}})
 
 <!-- end list -->
 
@@ -198,7 +199,7 @@ omitted. Furthermore, most of the yaku retain their original values, but some ar
 
 <!-- end list -->
 
-- Honroutou
+- [Honroutou]({{< ref "/riichi/yaku/honroutou.md" >}})
 
 <!-- end list -->
 
@@ -214,7 +215,7 @@ omitted. Furthermore, most of the yaku retain their original values, but some ar
 
 -
 
-    1 han plus 2 yakuhai, for 3 han. A collection of two honor tile groups, while pairing the third kind.
+    1 han plus 2 yakuhai, for 3 han. A collection of two honor tile groups, while [pairing]({{< ref "/riichi/terminology/jantou.md" >}}) the third kind.
 
 <!-- end list -->
 
@@ -228,7 +229,7 @@ omitted. Furthermore, most of the yaku retain their original values, but some ar
 
 <!-- end list -->
 
-- Sanankou
+- [Sanankou]({{< ref "/riichi/yaku/sanankou.md" >}})
 
 <!-- end list -->
 
@@ -238,7 +239,7 @@ omitted. Furthermore, most of the yaku retain their original values, but some ar
 
 <!-- end list -->
 
-- Suuankou
+- [Suuankou]({{< ref "/riichi/yakuman/suuankou.md" >}})
 
 <!-- end list -->
 
@@ -246,7 +247,7 @@ omitted. Furthermore, most of the yaku retain their original values, but some ar
 
 <!-- end list -->
 
-- Chuuren poutou
+- [Chuuren poutou]({{< ref "/riichi/yakuman/chuuren-poutou.md" >}})
 
 <!-- end list -->
 
@@ -254,7 +255,8 @@ omitted. Furthermore, most of the yaku retain their original values, but some ar
 
 <!-- end list -->
 
-- Tenhou and Chiihou
+- [Tenhou]({{< ref "/riichi/online/tenhou/tenhou.md" >}}) and
+  [Chiihou]({{< ref "/riichi/yakuman/tenhou-and-chiihou.md" >}})
 
 <!-- end list -->
 
@@ -262,8 +264,9 @@ omitted. Furthermore, most of the yaku retain their original values, but some ar
 
 ## Scoring
 
-Regarding scoring, the values from the scoring table is not used. Instead, a different set of point
-values are used using a modification to the scoring equation.
+Regarding scoring, the values from the [scoring
+table]({{< ref "/riichi/strategy/scoring-table.md" >}}) is not used. Instead, a different set of
+point values are used using a modification to the scoring equation.
 
 ## References
 

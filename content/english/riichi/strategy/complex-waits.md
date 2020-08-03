@@ -11,11 +11,12 @@ tags = ["Terminology", "Strategy", "Machi"]
 
 </div>
 
-These patterns involve waits which are infrequent and generally nameless combinations. They are all
-based on combinations of other basic wait patterns, often in many different ways. They consist of
-consecutive, or closely consecutive, numbered tiles. Recognition of these patterns can produce some
-significantly powerful waits, which may be immune to suji and have large numbers of waiting tiles.
-This list is not exhaustive and not every possible waiting pattern is included.
+These [patterns]({{< ref "/riichi/strategy/machi.md" >}}) involve waits which are infrequent and
+generally nameless combinations. They are all based on combinations of other basic wait patterns,
+often in many different ways. They consist of consecutive, or closely consecutive, numbered tiles.
+Recognition of these patterns can produce some significantly powerful waits, which may be immune to
+[suji]({{< ref "/riichi/strategy/suji.md" >}}) and have large numbers of waiting tiles. This list is
+not exhaustive and not every possible waiting pattern is included.
 
 ## 2 tile wait
 
@@ -56,7 +57,7 @@ This list is not exhaustive and not every possible waiting pattern is included.
 |tilewaits = 134s
 ```
 
-### Aryanmen with kanchan
+### [Aryanmen]({{< ref "/riichi/terminology/waits/aryanmen.md" >}}) with kanchan
 
 ```machi
 |pattern = 000z5567777s000z
@@ -68,7 +69,7 @@ This list is not exhaustive and not every possible waiting pattern is included.
 |tilewaits = 256m
 ```
 
-### Ryanmen with harabote
+### Ryanmen with [harabote]({{< ref "/riichi/terminology/waits/tanki.md" >}})
 
 ```machi
 |pattern = 000z4556777p000z
@@ -84,7 +85,7 @@ This list is not exhaustive and not every possible waiting pattern is included.
 |tilewaits = 2356p
 ```
 
-### Double entotsu
+### Double [entotsu]({{< ref "/riichi/terminology/waits/entotsu.md" >}})
 
 ```machi
 |pattern = 34505m67888p000z
@@ -101,7 +102,7 @@ This list is not exhaustive and not every possible waiting pattern is included.
 - -
 
 
-      This is different from the ryanmen with shanpon described by entotsu.
+      This is different from the ryanmen with shanpon described by [entotsu]({{< ref "/riichi/terminology/waits/entotsu.md" >}}).
 
 ### Ryanmen with nested shanpon
 
@@ -122,7 +123,7 @@ This list is not exhaustive and not every possible waiting pattern is included.
 |tilewaits = 2345m
 ```
 
-### Sanmenchan with shanpon
+### [Sanmenchan]({{< ref "/riichi/terminology/waits/sanmenchan.md" >}}) with shanpon
 
 ```machi
 |pattern = 33345678p11000z
@@ -183,7 +184,7 @@ This list is not exhaustive and not every possible waiting pattern is included.
 - -
 
 
-      Ryanmenten + Sanmentan
+      [Ryanmenten]({{< ref "/riichi/terminology/waits/sanmenchan.md" >}}) + [Sanmentan]({{< ref "/riichi/terminology/waits/sanmen-nobetan.md" >}})
 
 ```machi
 |pattern = 2233444505666m
@@ -217,9 +218,10 @@ This list is not exhaustive and not every possible waiting pattern is included.
 |tilewaits = 1245689m
 ```
 
-This pattern is notable because it has 23 winning tiles, like the chuuren poutou kyuumen machi, but
-unlike most other hands waiting on 23 tiles, it cannot completed by a hypothetical fifth copy of any
-tile (a 3m or a 7m would not complete this hand).
+This pattern is notable because it has 23 winning tiles, like the [chuuren poutou kyuumen
+machi]({{< ref "/riichi/yakuman/chuuren-poutou.md" >}}), but unlike most other hands waiting on 23
+tiles, it cannot completed by a hypothetical fifth copy of any tile (a 3m or a 7m would not complete
+this hand).
 
 ```machi
 |pattern = 2344445666678s

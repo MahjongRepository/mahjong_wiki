@@ -14,10 +14,10 @@ tags = ["Majsoul"]
 |year = 2018
 ```
 
-**Majsoul** (aka **Mahjong Soul**, **Jantama**) is a Japanese mahjong game platform developed by
-CATFOOD STUDIO and distributed by Yostar. The game has some resemblance to Janryumon, in terms of
-graphics. The tile layout and graphical hands, as in "physical" hands, are displayed during game
-play.
+**Majsoul** (aka **Mahjong Soul**, **Jantama**) is a [Japanese
+mahjong]({{< ref "/riichi/rules/japanese-mahjong.md" >}}) game platform developed by CATFOOD STUDIO
+and distributed by Yostar. The game has some resemblance to Janryumon, in terms of graphics. The
+tile layout and graphical hands, as in "physical" hands, are displayed during game play.
 
 The platform functions as a gacha game. Players may use in game currency to access various
 functions, such as items and ingame characters. On occasion, periodical events are available for
@@ -229,8 +229,8 @@ platform.
 
 #### Calculation of End-Score Points
 
-- Oka Points: Not applied
-- Uma Points:
+- [Oka]({{< ref "/riichi/rules/oka-and-uma.md" >}}) Points: Not applied
+- [Uma]({{< ref "/riichi/rules/oka-and-uma.md" >}}) Points:
   - **4P**: 1st `+15`, 2nd `+5`, 3rd `-5`, 4th `-15`
   - **3P**: 1st `+15`, 2nd `±0`, 3rd `-15`
 - Starting Points: **4P** `25000`; **3P** `35000`
@@ -991,7 +991,8 @@ larger rewards, including a new character. {{< table >}}
   - The tile for kan is drawn instantly.
   - The wait pattern does not change after the kan.
 - Seat wind tie-breaker: Applied
-- Abortive Draws <small style="color:#999;">(_Tochuu Ryuukyoku_)</small>:
+- [Abortive Draws]({{< ref "/riichi/rules/tochuu-ryuukyoku.md" >}})
+  <small style="color:#999;">(_Tochuu Ryuukyoku_)</small>:
   - Four-wind Discarded <small style="color:#999;">(_Suufuu Renda_)</small>: Yes
   - Four-kan Abortion <small style="color:#999;">(_Suukan Nagare_)</small>: Yes
   - Nine Different Terminals and Honors <small style="color:#999;">(_Kyuushu Kyuuhai_)</small>: Yes
@@ -1011,7 +1012,8 @@ larger rewards, including a new character. {{< table >}}
   Musou_)</small>: Allowed
 - Robbing a concealed kan with Nine Gates <small style="color:#999;">(_Chuuren Poutou_)</small>: Not
   allowed
-- Responsibility payment <small style="color:#999;">(_Sekinin barai / Pao_)</small>:
+- [Responsibility payment]({{< ref "/riichi/rules/sekinin-barai.md" >}})
+  <small style="color:#999;">(_Sekinin barai / Pao_)</small>:
   - Apply for: Big Three Dragons <small style="color:#999;">(_Daisangen_)</small>, Four Big Winds
     <small style="color:#999;">(_Daisuushi_)</small>
   - Composite yakuman: Seperated responsibility for each yakuman \[6\]
@@ -1029,8 +1031,8 @@ larger rewards, including a new character. {{< table >}}
 **3P-Mahjong** <small style="color:#999;">(_Sanma_)</small> is a variation based on regular mahjong,
 allowing 3 players to start a match.
 
-The ruleset of Majsoul Sanma basically refers to Tenhou. Most of the rules are identical to Tenhou
-Sanma.
+The ruleset of Majsoul Sanma basically refers to [Tenhou]({{< ref "/riichi/" >}}). Most of the rules
+are identical to Tenhou [Sanma]({{< ref "/riichi/rules/sanma.md" >}}).
 
 There're two different scoring mechanics ingame, by default Tsumo-Loss is applied in Ranked Matches,
 while North-Bisection is provided as an alternative option in Friendly Matches.

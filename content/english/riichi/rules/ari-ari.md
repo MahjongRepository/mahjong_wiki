@@ -5,23 +5,26 @@ updated = "2015-08-10T01:56:44Z"
 tags = ["Game rules"]
 +++
 
-**Ari-ari** {{< kana "アリ アリ" >}} is generally the most commonly accepted ruleset pertaining to
-Japanese mahjong. The two instances of "ari" (or "on") applies to the rules of kuitan and atozuke.
+**Ari-ari** {{< kana "アリ アリ" >}} is generally the most commonly accepted
+[ruleset]({{< ref "/riichi/rules/variations/rule-variations.md" >}}) pertaining to [Japanese
+mahjong]({{< ref "/riichi/rules/japanese-mahjong.md" >}}). The two instances of "ari" (or "on")
+applies to the rules of [kuitan]({{< ref "/riichi/yaku/tanyao.md" >}}) and
+[atozuke]({{< ref "/riichi/strategy/atozuke.md" >}}).
 
 ## Game settings
 
-- Agariyame - Nashi
-- Atamahane - Nashi
-- Atozuke - Ari
-- Kuikae - Nashi
-- Kuitan - Ari
-- Tobi - Ari
+- [Agariyame]({{< ref "/riichi/rules/end-game-scenarios.md" >}}) - Nashi
+- [Atamahane]({{< ref "/riichi/rules/atamahane.md" >}}) - Nashi
+- [Atozuke]({{< ref "/riichi/strategy/atozuke.md" >}}) - Ari
+- [Kuikae]({{< ref "/riichi/terminology/kuikae.md" >}}) - Nashi
+- [Kuitan]({{< ref "/riichi/yaku/tanyao.md" >}}) - Ari
+- [Tobi]({{< ref "/riichi/rules/end-game-scenarios.md" >}}) - Ari
 
 ### Dora
 
-- Akadora - Variable
-- Kandora
-- Uradora - Ari
+- [Akadora]({{< ref "/riichi/rules/dora.md" >}}) - Variable
+- [Kandora]({{< ref "/riichi/rules/dora.md" >}})
+- [Uradora]({{< ref "/riichi/rules/dora.md" >}}) - Ari
 
 ## External links
 

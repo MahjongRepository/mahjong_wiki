@@ -5,7 +5,8 @@ updated = "2019-03-06T07:34:51Z"
 tags = ["Yaku replays"]
 +++
 
-This is a collection of various hands featuring chiitoitsu.
+This is a collection of various hands featuring
+[chiitoitsu]({{< ref "/riichi/yaku/chiitoitsu.md" >}}).
 
 ## Nomi
 

@@ -5,11 +5,12 @@ updated = "2019-12-14T20:19:59Z"
 tags = ["Terminology", "Yaku", "Scoring"]
 +++
 
-**Yaku** {{< kana "役" >}} are specific hand patterns or conditions needed in order to score a hand.
-In a sense, they are synonymous to "poker hands". Yet, unlike poker hands, yaku are worth specific
-"han values"; and various yaku may be combined together into one hand. basic mahjong knowledge
-involves learning the yaku, but it is not expected of new players to know them. **Most importantly,
-every hand must include at least one yaku, in order to count as a winning hand**.
+**Yaku** {{< kana "役" >}} are [specific hand patterns or
+conditions]({{< ref "/riichi/yaku/list-of-yaku.md" >}}) needed in order to score a hand. In a sense,
+they are synonymous to "poker hands". Yet, unlike poker hands, yaku are worth specific "han values";
+and various yaku may be combined together into one hand. basic mahjong knowledge involves learning
+the yaku, but it is not expected of new players to know them. **Most importantly, every hand must
+include at least one yaku, in order to count as a winning hand**.
 
 ## Han
 
@@ -25,9 +26,10 @@ combined into a single hand.
 `main|Kuisagari`
 
 Various yaku are affected by the hand's state of being open or closed. After using the different
-tile calls, a yaku may be affected in terms of han value or even validity. Various yaku, and even
-yakuman, are restricted to be closed only. Others, they remain valid but their value is decreased by
-1-han. As for the rest, it is irrelevant whether the hand is open or closed.
+[tile calls]({{< ref "/riichi/rules/naki.md" >}}), a yaku may be affected in terms of han value or
+even validity. Various yaku, and even yakuman, are restricted to be closed only. Others, they remain
+valid but their value is decreased by 1-han. As for the rest, it is irrelevant whether the hand is
+open or closed.
 
 ## Nomi
 
@@ -35,10 +37,12 @@ yakuman, are restricted to be closed only. Others, they remain valid but their v
 other words, it is the lowest value (or second lowest value) for that particular yaku possible. In
 general, this term can be appended to any of the yaku names as a suffix. For example, **riichi
 nomi** {{< kana "リーチノミ" >}} meaning "riichi only". Usually, winning hands in this state are
-cheap low value hands worth only 1 or 2 han. Though, the term used for higher valued yaku, such as
-ryanpeikou or chinitsu, are acceptable; but it's not generally used. When dora is included in the
-hand, then the term is not applicable. As for yakuman, the term nomi is not appended, due to the
-high scoring value.
+cheap low value hands worth only 1 or 2
+[han]({{< ref "/riichi/strategy/japanese-mahjong-scoring-rules.md" >}}). Though, the term used for
+higher valued yaku, such as [ryanpeikou]({{< ref "/riichi/yaku/ryanpeikou.md" >}}) or
+[chinitsu]({{< ref "/riichi/yaku/chiniisou.md" >}}), are acceptable; but it's not generally used.
+When [dora]({{< ref "/riichi/rules/dora.md" >}}) is included in the hand, then the term is not
+applicable. As for yakuman, the term nomi is not appended, due to the high scoring value.
 
 ## Yaku types
 
@@ -59,7 +63,7 @@ draws and discards.
 These two are yaku because the hand is tenpai during specific discard timings. Likewise, these two
 yaku can never be won via drawing a tile.
 
-- Chankan
+- [Chankan]({{< ref "/riichi/yaku/chankan.md" >}})
 
 <!-- end list -->
 
@@ -69,7 +73,7 @@ yaku can never be won via drawing a tile.
 
 <!-- end list -->
 
-- Houtei raoyui
+- [Houtei raoyui]({{< ref "/riichi/yaku/haitei-raoyue-and-houtei-raoyui.md" >}})
 
 <!-- end list -->
 
@@ -79,30 +83,30 @@ yaku can never be won via drawing a tile.
 
 ### Discretionary
 
-- Riichi
+- [Riichi]({{< ref "/riichi/rules/riichi.md" >}})
 
 <!-- end list -->
 
 -
 
-    This is the only yaku, by which players have the option to declare or not. Otherwise, hands may possibly win without it, if it remains closed with other valid yaku.
+    This is the only yaku, by which players have the option to declare or not. Otherwise, hands may possibly [win without it]({{< ref "/riichi/strategy/damaten.md" >}}), if it remains closed with other valid yaku.
 
 <!-- end list -->
 
-- Double riichi
+- [Double riichi]({{< ref "/riichi/yaku/daburu-riichi.md" >}})
 
 <!-- end list -->
 
 -
 
-    This is essentially riichi, but with the added luck of the hand being tenpai upon the initial tile deal, or the opening hand.
+    This is essentially riichi, but with the added luck of the hand being tenpai upon the [initial tile deal]({{< ref "/riichi/terminology/haipai.md" >}}), or the opening hand.
 
 ### Draw based
 
 These are yaku by virtue of the drawn tile. Thus, these three can never be won directly from other
 players.
 
-- Haitei raoyue
+- [Haitei raoyue]({{< ref "/riichi/yaku/haitei-raoyue-and-houtei-raoyui.md" >}})
 
 <!-- end list -->
 
@@ -112,7 +116,7 @@ players.
 
 <!-- end list -->
 
-- Menzenchin tsumohou
+- [Menzenchin tsumohou]({{< ref "/riichi/yaku/menzenchin-tsumohou.md" >}})
 
 <!-- end list -->
 
@@ -122,7 +126,7 @@ players.
 
 <!-- end list -->
 
-- Rinshan kaihou
+- [Rinshan kaihou]({{< ref "/riichi/yaku/rinshan-kaihou.md" >}})
 
 <!-- end list -->
 
@@ -135,7 +139,7 @@ players.
 Honor based tiles depends on the use of honor tile groups. Each of these cases also are mixed with
 the numbered tiles.
 
-- Honitsu
+- [Honitsu]({{< ref "/riichi/yaku/honiisou.md" >}})
 
 <!-- end list -->
 
@@ -145,7 +149,7 @@ the numbered tiles.
 
 <!-- end list -->
 
-- Honroutou
+- [Honroutou]({{< ref "/riichi/yaku/honroutou.md" >}})
 
 <!-- end list -->
 
@@ -155,7 +159,7 @@ the numbered tiles.
 
 <!-- end list -->
 
-- Shousangen
+- [Shousangen]({{< ref "/riichi/yaku/shousangen.md" >}})
 
 <!-- end list -->
 
@@ -165,7 +169,7 @@ the numbered tiles.
 
 <!-- end list -->
 
-- Tanyao
+- [Tanyao]({{< ref "/riichi/yaku/tanyao.md" >}})
 
 <!-- end list -->
 
@@ -175,19 +179,19 @@ the numbered tiles.
 
 <!-- end list -->
 
-- Yakuhai
+- [Yakuhai]({{< ref "/riichi/rules/yakuhai.md" >}})
 
 <!-- end list -->
 
 -
 
-    Specific collection of any dragon, seat wind, or round wind tiles.
+    Specific collection of any dragon, [seat wind]({{< ref "/riichi/strategy/jikaze.md" >}}), or round wind tiles.
 
 ### Riichi dependent
 
 Ippatsu cannot occur without a call for riichi.
 
-- Ippatsu
+- [Ippatsu]({{< ref "/riichi/yaku/optional/ippatsu.md" >}})
 
 <!-- end list -->
 
@@ -199,7 +203,7 @@ Ippatsu cannot occur without a call for riichi.
 
 These yaku either require sequential tile groups.
 
-- Iipeikou
+- [Iipeikou]({{< ref "/riichi/yaku/iipeikou.md" >}})
 
 <!-- end list -->
 
@@ -209,7 +213,7 @@ These yaku either require sequential tile groups.
 
 <!-- end list -->
 
-- Ittsu
+- [Ittsu]({{< ref "/riichi/yaku/ikkitsuukan.md" >}})
 
 <!-- end list -->
 
@@ -219,7 +223,7 @@ These yaku either require sequential tile groups.
 
 <!-- end list -->
 
-- Pinfu
+- [Pinfu]({{< ref "/riichi/yaku/pinfu.md" >}})
 
 <!-- end list -->
 
@@ -229,7 +233,7 @@ These yaku either require sequential tile groups.
 
 <!-- end list -->
 
-- Ryanpeikou
+- [Ryanpeikou]({{< ref "/riichi/yaku/ryanpeikou.md" >}})
 
 <!-- end list -->
 
@@ -239,7 +243,7 @@ These yaku either require sequential tile groups.
 
 <!-- end list -->
 
-- Sanshoku
+- [Sanshoku]({{< ref "/riichi/yaku/sanshoku-doujun.md" >}})
 
 <!-- end list -->
 
@@ -249,9 +253,10 @@ These yaku either require sequential tile groups.
 
 ### Terminal based
 
-These yaku revolve around terminals, or complete lack thereof.
+These yaku revolve around [terminals]({{< ref "/riichi/yakuman/chinroutou.md" >}}), or complete lack
+thereof.
 
-- Chanta
+- [Chanta]({{< ref "/riichi/yaku/chanta.md" >}})
 
 <!-- end list -->
 
@@ -261,7 +266,7 @@ These yaku revolve around terminals, or complete lack thereof.
 
 <!-- end list -->
 
-- Honroutou
+- [Honroutou]({{< ref "/riichi/yaku/honroutou.md" >}})
 
 <!-- end list -->
 
@@ -271,7 +276,7 @@ These yaku revolve around terminals, or complete lack thereof.
 
 <!-- end list -->
 
-- Junchan
+- [Junchan]({{< ref "/riichi/yaku/junchantaiyaochuu.md" >}})
 
 <!-- end list -->
 
@@ -281,17 +286,17 @@ These yaku revolve around terminals, or complete lack thereof.
 
 <!-- end list -->
 
-- Nagashi mangan
+- [Nagashi mangan]({{< ref "/riichi/yaku/nagashi-mangan.md" >}})
 
 <!-- end list -->
 
 -
 
-    Every discarded tile is either a terminal or honor
+    Every discarded tile is either a [terminal]({{< ref "/riichi/yakuman/chinroutou.md" >}}) or [honor]({{< ref "/riichi/terminology/jihai.md" >}})
 
 <!-- end list -->
 
-- Tanyao
+- [Tanyao]({{< ref "/riichi/yaku/tanyao.md" >}})
 
 <!-- end list -->
 
@@ -303,7 +308,7 @@ These yaku revolve around terminals, or complete lack thereof.
 
 These yaku require at least one triplet in order to be valid.
 
-- Sanankou
+- [Sanankou]({{< ref "/riichi/yaku/sanankou.md" >}})
 
 <!-- end list -->
 
@@ -313,17 +318,17 @@ These yaku require at least one triplet in order to be valid.
 
 <!-- end list -->
 
-- Sankantsu
+- [Sankantsu]({{< ref "/riichi/yaku/sankantsu.md" >}})
 
 <!-- end list -->
 
 -
 
-    Requires three quads, which are considered as triplets plus one extra.
+    Requires three [quads]({{< ref "/riichi/rules/kan.md" >}}), which are considered as triplets plus one extra.
 
 <!-- end list -->
 
-- Sanshoku doukou
+- [Sanshoku doukou]({{< ref "/riichi/yaku/sanshoku-doukou.md" >}})
 
 <!-- end list -->
 
@@ -333,7 +338,7 @@ These yaku require at least one triplet in order to be valid.
 
 <!-- end list -->
 
-- Shousangen
+- [Shousangen]({{< ref "/riichi/yaku/shousangen.md" >}})
 
 <!-- end list -->
 
@@ -343,7 +348,7 @@ These yaku require at least one triplet in order to be valid.
 
 <!-- end list -->
 
-- Toitoi
+- [Toitoi]({{< ref "/riichi/yaku/toitoihou.md" >}})
 
 <!-- end list -->
 
@@ -353,17 +358,17 @@ These yaku require at least one triplet in order to be valid.
 
 <!-- end list -->
 
-- Yakuhai
+- [Yakuhai]({{< ref "/riichi/rules/yakuhai.md" >}})
 
 <!-- end list -->
 
 -
 
-    Counted when the hand contains a triplet of a valid honor tile, namely: any dragon triplet, appropriate seat wind, or the current round wind.
+    Counted when the hand contains a triplet of a valid honor tile, namely: any dragon triplet, appropriate [seat wind]({{< ref "/riichi/strategy/jikaze.md" >}}), or the current [round wind]({{< ref "/riichi/strategy/jikaze.md" >}}).
 
 ### Suit based
 
-- Honiisou
+- [Honiisou]({{< ref "/riichi/yaku/honiisou.md" >}})
 
 <!-- end list -->
 
@@ -373,7 +378,7 @@ These yaku require at least one triplet in order to be valid.
 
 <!-- end list -->
 
-- Chiniisou
+- [Chiniisou]({{< ref "/riichi/yaku/chiniisou.md" >}})
 
 <!-- end list -->
 
@@ -391,7 +396,8 @@ players may treat them as special.
 
 `main|Yaku compatability` Different yaku may be implemented into a single hand. By doing so, the
 values applied to the different yaku also combine. In short, they stack. This aspect of the game is
-key towards developing larger scoring hands. With dora, the stacking effect becomes even greater.
+key towards developing larger scoring hands. With [dora]({{< ref "/riichi/rules/dora.md" >}}), the
+stacking effect becomes even greater.
 
 ## Optional yaku
 
@@ -421,7 +427,7 @@ list.
 
 -
 
-    Lists all the yaku occurrences in Tenhou.net by percentages and by room
+    Lists all the yaku occurrences in [Tenhou.net]({{< ref "/riichi/" >}}) by percentages and by room
 
 <!-- end list -->
 

@@ -11,14 +11,16 @@ in the hand. So, the possession of dora is best considered as a bonus.
 At the beginning of every hand, fourteen tiles are set aside as the wanpai, or dead wall tiles. The
 dora is marked by the tile after the flipped tile. Additional dora may be revealed through the use
 of **uradora** and/or **kandora**. Finally, additional tiles underneath any revealed dora may also
-mark more dora as an added benefit for hands won with riichi.
+mark more dora as an added benefit for hands won with
+[riichi]({{< ref "/riichi/rules/riichi.md" >}}).
 
 ## Yaku
 
-`main|Yaku` In terms of value, dora are counted by measure of han. However, dora functions as a
-"bonus value", where the hand simply cannot just possess dora in order to qualify as a winning hand.
-The hand still requires **at least one yaku**. In other words, dora is not a replacement for the
-yaku requirement.
+`main|Yaku` In terms of value, dora are counted by measure of
+[han]({{< ref "/riichi/strategy/japanese-mahjong-scoring-rules.md" >}}). However, dora functions as
+a "bonus value", where the hand simply cannot just possess dora in order to qualify as a winning
+hand. The hand still requires **at least one yaku**. In other words, dora is not a replacement for
+the yaku requirement.
 
 ## Wanpai
 
@@ -46,9 +48,10 @@ order loops.
 
 {{< t 1234z >}} If the dora indicator is {{< t 4z >}}, then the dora is {{< t 1z >}}.
 
-The wind order follows the same order as the seat winds in the same counterclockwise direction as
-the normal turn order. Naturally, wind based dora are particularly advantageous to yakuhai. Yet,
-players seated off wind can still use this dora while implementing the appropriate yaku.
+The wind order follows the same order as the [seat winds]({{< ref "/riichi/strategy/jikaze.md" >}})
+in the same counterclockwise direction as the normal turn order. Naturally, wind based dora are
+particularly advantageous to [yakuhai]({{< ref "/riichi/rules/yakuhai.md" >}}). Yet, players seated
+off wind can still use this dora while implementing the appropriate yaku.
 
 ### Dragon order
 
@@ -94,23 +97,23 @@ some sets include red threes.
 
 ### Uradora
 
-**Uradora** {{< kana "裏ドラ" >}}, or **underneath dora** applies only to hands won using riichi.
-Thus, no open hand may ever have access to the uradora. In the event a riichi declared hand has won,
-the tiles underneath the dora indicator(s) are revealed. These newly revealed tiles serve as
-additional dora indicators. Potentially, such hands may potentially gain substantial value, just off
-of the uradora.
+**Uradora** {{< kana "裏ドラ" >}}, or **underneath dora** applies only to hands won using
+[riichi]({{< ref "/riichi/rules/riichi.md" >}}). Thus, no open hand may ever have access to the
+uradora. In the event a riichi declared hand has won, the tiles underneath the dora indicator(s) are
+revealed. These newly revealed tiles serve as additional dora indicators. Potentially, such hands
+may potentially gain substantial value, just off of the uradora.
 
 If there are multiple identical indicators, each indicated tile counts as multiple dora
 correspondingly.
 
 ### Kandora
 
-After a call for kan, additional dora indicators, called **kandora** {{< kana "カンドラ" >}}, are
-revealed. These are tiles next to the dora indicator counter clockwise on the dead wall. Depending
-on the rules and/or formality of the game, the timing for flipping the kandora during a kan
-procedure may vary. Casual games will simply flip the kan dora immediately after kan. More technical
-games will differentiate between the kan types, where the kan dora may be flipped after the player
-makes a discard.
+After a call for [kan]({{< ref "/riichi/rules/kan.md" >}}), additional dora indicators, called
+**kandora** {{< kana "カンドラ" >}}, are revealed. These are tiles next to the dora indicator
+counter clockwise on the dead wall. Depending on the rules and/or formality of the game, the timing
+for flipping the kandora during a kan procedure may vary. Casual games will simply flip the kan dora
+immediately after kan. More technical games will differentiate between the kan types, where the kan
+dora may be flipped after the player makes a discard.
 
 Likewise, in the event of riichi, the uradora underneath the kandora are also revealed, as
 **kanuradora** {{< kana "カン裏ドラ" >}}.

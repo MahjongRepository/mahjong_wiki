@@ -13,18 +13,18 @@ tags = ["Yaku"]
 5 han (open)
 |yakuSpeed = Slow
 |difficulty = Medium
-|yakuCombine = \* Riichi
+|yakuCombine = \* [Riichi]({{< ref "/riichi/rules/riichi.md" >}})
 
-  - Ippatsu
-  - Mentsumo
-  - Pinfu
-  - Tanyao
-  - Iipeiko
-  - Toi toi
-  - San ankou
-  - Ryanpeiko
-  - Chiitoitsu
-  - Junchan
+  - [Ippatsu]({{< ref "/riichi/yaku/optional/ippatsu.md" >}})
+  - [Mentsumo]({{< ref "/riichi/yaku/menzenchin-tsumohou.md" >}})
+  - [Pinfu]({{< ref "/riichi/yaku/pinfu.md" >}})
+  - [Tanyao]({{< ref "/riichi/yaku/tanyao.md" >}})
+  - [Iipeiko]({{< ref "/riichi/yaku/iipeikou.md" >}})
+  - [Toi toi]({{< ref "/riichi/yaku/toitoihou.md" >}})
+  - [San ankou]({{< ref "/riichi/yaku/sanankou.md" >}})
+  - [Ryanpeiko]({{< ref "/riichi/yaku/ryanpeikou.md" >}})
+  - [Chiitoitsu]({{< ref "/riichi/yaku/chiitoitsu.md" >}})
+  - [Junchan]({{< ref "/riichi/yaku/junchantaiyaochuu.md" >}})
 
 |gameExample = \* Menchinitsu (closed).
 
@@ -39,21 +39,21 @@ to as **chinitsu** or, occasionally, **chinichi**.
 
 ## Tile patterns
 
-**Using pinzu:**
+**Using [pinzu]({{< ref "/riichi/rules/mahjong-equipment.md" >}}):**
 
 ```machi
 |pattern = 1234455778899p
 |tilewaits = 45p
 ```
 
-**Using manzu:**
+**Using [manzu]({{< ref "/riichi/rules/mahjong-equipment.md" >}}):**
 
 ```machi
 |pattern = 2345566677899m
 |tilewaits = 1478m
 ```
 
-**Using souzu:**
+**Using [souzu]({{< ref "/riichi/rules/mahjong-equipment.md" >}}):**
 
 ```machi
 |pattern = 1233456667788s
@@ -80,23 +80,30 @@ complexity increases the difficulty in determining the winning tiles upon tenpai
 `Yaku compatibility table|CHN`
 
 Chinitsu requires a single suit, so that deems this yaku incompatible with other yaku that demand
-other tile types. That includes yakuhai, shousangen, as well as sanshoku and sanshoku doukou. Since
-chinitsu implies honitsu, the latter is not counted together. If combined with chanta, the hand is
-actually junchan, so that yaku is counted instead. Finally, chinitsu and honroutou would require a
-hand containing at most eight tiles (the 1s and 9s of one suit), which is impossible.
+other tile types. That includes [yakuhai]({{< ref "/riichi/rules/yakuhai.md" >}}),
+[shousangen]({{< ref "/riichi/yaku/shousangen.md" >}}), as well as
+[sanshoku]({{< ref "/riichi/yaku/sanshoku-doujun.md" >}}) and [sanshoku
+doukou]({{< ref "/riichi/yaku/sanshoku-doukou.md" >}}). Since chinitsu implies
+[honitsu]({{< ref "/riichi/yaku/honiisou.md" >}}), the latter is not counted together. If combined
+with [chanta]({{< ref "/riichi/yaku/chanta.md" >}}), the hand is actually
+[junchan]({{< ref "/riichi/yaku/junchantaiyaochuu.md" >}}), so that yaku is counted instead.
+Finally, chinitsu and [honroutou]({{< ref "/riichi/yaku/honroutou.md" >}}) would require a hand
+containing at most eight tiles (the 1s and 9s of one suit), which is impossible.
 
 ### Yakuman
 
-Due to the relatively high value of this yaku, chinitsu may be involved in the formation of kazoe
-yakuman. Especially when closed, the 6-han is enough to be almost half necessary to acquire 13-han.
-Naturally, other yaku and/or dora will have to compose the rest. Though, one particular pattern may
-form as the yakuman, chuuren poutou.
+Due to the relatively high value of this yaku, chinitsu may be involved in the formation of [kazoe
+yakuman]({{< ref "/riichi/yakuman/kazoe-yakuman.md" >}}). Especially when closed, the 6-han is
+enough to be almost half necessary to acquire 13-han. Naturally, other yaku and/or dora will have to
+compose the rest. Though, one particular pattern may form as the yakuman, [chuuren
+poutou]({{< ref "/riichi/yakuman/chuuren-poutou.md" >}}).
 
 ## Value
 
-As a standalone yaku, chinitsu is at least a mangan, even when open. To regain the lost han as an
-open hand, it simply takes just one dora, or a combination with another yaku, just to bring the hand
-up to its closed value of a haneman.
+As a standalone yaku, chinitsu is at least a
+[mangan]({{< ref "/riichi/strategy/scoring-table.md" >}}), even when open. To regain the lost han as
+an open hand, it simply takes just one dora, or a combination with another yaku, just to bring the
+hand up to its closed value of a haneman.
 
 ## External links
 
@@ -108,7 +115,7 @@ up to its closed value of a haneman.
 
 -
 
-    Game designed with sou tiles only to train reading chinitsu hands.
+    Game designed with [sou]({{< ref "/riichi/rules/japanese-mahjong.md" >}}) tiles only to train reading chinitsu hands.
 
 `Navbox yaku`
 

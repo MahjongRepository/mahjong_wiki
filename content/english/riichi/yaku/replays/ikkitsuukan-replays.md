@@ -5,7 +5,7 @@ updated = "2019-03-11T06:56:40Z"
 tags = ["Yaku replays"]
 +++
 
-These are games involving ittsuu.
+These are games involving [ittsuu]({{< ref "/riichi/yaku/ikkitsuukan.md" >}}).
 
 ## Open along 1 through 9
 

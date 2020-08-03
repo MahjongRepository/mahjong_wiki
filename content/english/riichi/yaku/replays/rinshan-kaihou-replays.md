@@ -5,7 +5,7 @@ updated = "2019-03-09T05:03:51Z"
 tags = ["Yaku replays"]
 +++
 
-These replays features hands with rinshan kaihou.
+These replays features hands with [rinshan kaihou]({{< ref "/riichi/yaku/rinshan-kaihou.md" >}}).
 
 ## Nomi
 
@@ -39,7 +39,7 @@ These replays features hands with rinshan kaihou.
 | hand = 6788m405556p80z33s0z
 | agari = 5m
 | url = <http://tenhou.net/0/?log=2016050112gm-0089-0000-3b554915&tw=2&ts=8>
-| comment = Ankan is called at the last possible moment to draw the winning tile and win the game with gyakuten. This opportunity was made possible by kamicha's pon immediately beforehand, which was perhaps called to prevent toimen from getting a final draw and thus possibly haitei and gyakuten.
+| comment = [Ankan]({{< ref "/riichi/rules/kan.md" >}}) is called at the last possible moment to draw the winning tile and win the game with [gyakuten]({{< ref "/riichi/terminology/gyakuten.md" >}}). This opportunity was made possible by kamicha's [pon]({{< ref "/riichi/rules/naki.md" >}}) immediately beforehand, which was perhaps called to prevent toimen from getting a final draw and thus possibly [haitei]({{< ref "/riichi/yaku/haitei-raoyue-and-houtei-raoyui.md" >}}) and gyakuten.
 ```
 
 ```Replay/Tenhou.net|

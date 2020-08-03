@@ -9,7 +9,7 @@ Japanese Mahjong can be played on various internet sites.
 
 ## Tenhou.net
 
-''Main article: Tenhou.net
+''Main article: [Tenhou.net]({{< ref "/riichi/" >}})
 
 [Tenhou.net](http://tenhou.net) is the most popular site to play with other people. It's all in
 Japanese, but there is extensive [English documentation on arcturus.su](http://arcturus.su/tenhou/).

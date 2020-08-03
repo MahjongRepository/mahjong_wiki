@@ -5,11 +5,13 @@ updated = "2019-09-30T09:12:19Z"
 tags = ["Strategy", "Scoring"]
 +++
 
-![Scoring_Table.png](Scoring_Table.png "Scoring_Table.png") Despite the size of the scoring table,
-it is possible to memorize the table, in a manner similar to memorizing a multiplication table.
-However, any attempt to learn the scoring table is fruitless without knowing particular
-prerequisites, like basic game procedures and the yaku with their han values. As a recommendation,
-scoring is among the last of the more basic concepts of the game for any newer player to learn.
+![Scoring_Table.png](Scoring_Table.png "Scoring_Table.png") Despite the size of the [scoring
+table]({{< ref "/riichi/strategy/scoring-table.md" >}}), it is possible to memorize the table, in a
+manner similar to memorizing a multiplication table. However, any attempt to learn the scoring table
+is fruitless without knowing particular prerequisites, like [basic game
+procedures]({{< ref "/riichi/rules/naki.md" >}}) and the [yaku]({{< ref "/riichi/yaku/yaku.md" >}})
+with their han values. As a recommendation, scoring is among the last of the more basic concepts of
+the game for any newer player to learn.
 
 ## Overview
 
@@ -38,8 +40,10 @@ counting off the applied han.
 
 To count fu, a player must understand how fu is generated. In essence, fu comes from the hand's
 composition and winning method. Yaku has no bearing on the fu count, aside from required tile
-compositions of specific yaku. The presence of triplets, kan calls, closed waits (kanchan), and/or
-pair waits should be enough to prompt a player to look at a hand more carefully to count fu.
+compositions of specific yaku. The presence of triplets, [kan]({{< ref "/riichi/rules/kan.md" >}})
+calls, [closed waits]({{< ref "/riichi/strategy/machi.md" >}}) (kanchan), and/or [pair
+waits]({{< ref "/riichi/terminology/waits/tanki.md" >}}) should be enough to prompt a player to look
+at a hand more carefully to count fu.
 
 The convenience of counting fu rests on rounding up. Even a fu count of 32 fu gets rounded up to 40
 fu. So, when counting fu, it is helpful to note when the count crosses a multiple of 10.
@@ -47,7 +51,7 @@ fu. So, when counting fu, it is helpful to note when the count crosses a multipl
 ## Impossible scores
 
 There are no scoring values assigned for 1 han and 20 fu, 1 han and 25 fu, and 2 han and 25 fu (via
-mentsumo).
+[mentsumo]({{< ref "/riichi/yaku/menzenchin-tsumohou.md" >}})).
 
 - **1 han and 20 fu** (tsumo)
 
@@ -65,7 +69,7 @@ mentsumo).
 
 -
 
-    Chiitoitsu is by default worth 2 han and 25 fu. No other yaku worth 1-han can be set at 25 fu.
+    [Chiitoitsu]({{< ref "/riichi/yaku/chiitoitsu.md" >}}) is by default worth 2 han and 25 fu. No other yaku worth 1-han can be set at 25 fu.
 
 <!-- end list -->
 
@@ -75,7 +79,7 @@ mentsumo).
 
 -
 
-    Chiitoitsu with mentsumo would be 3 han and 25 fu.
+    Chiitoitsu with [mentsumo]({{< ref "/riichi/yaku/menzenchin-tsumohou.md" >}}) would be 3 han and 25 fu.
 
 <!-- end list -->
 
@@ -93,8 +97,8 @@ Thankfully, the points arrange themselves into particular patterns.
 
 ### Point patterns for ron
 
-Overall, the majority of the points in the scoring table pertaining to ron can be learned with these
-patterned numbers:
+Overall, the majority of the points in the scoring table pertaining to
+[ron]({{< ref "/riichi/rules/naki.md" >}}) can be learned with these patterned numbers:
 
 1.  1000 -\> 2000 -\> 3900 -\> 7700
 2.  1300 -\> 2600 -\> 5200
@@ -102,7 +106,8 @@ patterned numbers:
 4.  1600 -\> 3200 -\> 6400
 5.  2400 -\> 4800 -\> 9600
 
-The sum of tsumo values are equal or almost equal to these particular numbers.
+The sum of [tsumo]({{< ref "/riichi/terminology/tsumo.md" >}}) values are equal or almost equal to
+these particular numbers.
 
 ### Tsumo values
 
@@ -220,10 +225,13 @@ non-dealer tsumo, it is 300/500 or 500/300, which may be referred as **gomii**.
 
 ### 25 fu
 
-The 25 fu column involves the yaku, chiitoitsu. This yaku is unique enough, such that it has its own
-fu column dedicated to it. The uniqueness stems from its own hand pattern, as it does not follow the
-typical "4 tile groups and a pair" pattern like most hands. Unlike the general rule to counting fu,
-the fu for chiitoitsu is not rounded. Instead, it remains at 25 fu. This is set by definition.
+The 25 fu column involves the yaku, [chiitoitsu]({{< ref "/riichi/yaku/chiitoitsu.md" >}}). This
+yaku is unique enough, such that it has its own fu column dedicated to it. The uniqueness stems from
+its own hand pattern, as it does not follow the typical "4 tile
+[groups]({{< ref "/riichi/terminology/mentsu.md" >}}) and a
+[pair]({{< ref "/riichi/terminology/jantou.md" >}})" pattern like most hands. Unlike the general
+rule to counting fu, the fu for chiitoitsu is not rounded. Instead, it remains at 25 fu. This is set
+by definition.
 
 {{< table >}}
 
@@ -252,9 +260,10 @@ equivalency.
 
 ### 20 fu and 40 fu
 
-Hands with 20 fu only applies to pinfu with mentsumo. This yaku is defined as a hand that does not
-earn fu. Although, it still earns the 10 fu with closed ron. Otherwise, the hand does not produce fu
-by any other means.
+Hands with 20 fu only applies to [pinfu]({{< ref "/riichi/yaku/pinfu.md" >}}) with
+[mentsumo]({{< ref "/riichi/yaku/menzenchin-tsumohou.md" >}}). This yaku is defined as a hand that
+does not earn fu. Although, it still earns the 10 fu with closed ron. Otherwise, the hand does not
+produce fu by any other means.
 
 {{< table >}}
 
@@ -295,10 +304,12 @@ Continuing the equivalences place the point values at mangan.
 ## 70 fu and more
 
 This portion of the scoring table is the least used. Hands scored at 70+ fu rarely occur; but they
-most certainly do occur. To score 70+ fu, the hand needs the large amount of fu generated by closed
-kan involving terminal or honor tiles. Otherwise, the hand may also involve any multiple kan calls.
-Furthermore, the 70+ fu scores only apply to 1 or 2 han hands. With 3 han or more, the value is
-already set to mangan.
+most certainly do occur. To score 70+ fu, the hand needs the large amount of fu generated by [closed
+kan]({{< ref "/riichi/rules/kan.md" >}}) involving
+[terminal]({{< ref "/riichi/yakuman/chinroutou.md" >}}) or [honor
+tiles]({{< ref "/riichi/terminology/jihai.md" >}}). Otherwise, the hand may also involve any
+multiple kan calls. Furthermore, the 70+ fu scores only apply to 1 or 2 han hands. With 3 han or
+more, the value is already set to mangan.
 
 {{< table >}}
 

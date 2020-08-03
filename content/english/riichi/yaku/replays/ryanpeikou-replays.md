@@ -5,7 +5,8 @@ updated = "2018-12-12T23:23:17Z"
 tags = ["Yaku replays"]
 +++
 
-This list features hands that produces ryanpeikou, listed by three different waiting patterns.
+This list features hands that produces [ryanpeikou]({{< ref "/riichi/yaku/ryanpeikou.md" >}}),
+listed by three different waiting patterns.
 
 ## Ryanmen
 

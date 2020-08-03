@@ -5,9 +5,12 @@ updated = "2015-11-25T08:02:20Z"
 tags = ["Yakuman"]
 +++
 
-This is a list of various iterations and permutations for the yakuman, chuuren poutou. Only the pure
-chuuren produces a multiple tile wait, where the result produces yakuman. For all others, a single
-tile type completes the yakuman, while any other waiting tiles results in chiniisou.
+This is a list of various iterations and permutations for the
+[yakuman]({{< ref "/riichi/yakuman/yakuman.md" >}}), [chuuren
+poutou]({{< ref "/riichi/yakuman/chuuren-poutou.md" >}}). Only the pure chuuren produces a multiple
+tile wait, where the result produces yakuman. For all others, a single tile type completes the
+yakuman, while any other waiting tiles results in
+[chiniisou]({{< ref "/riichi/yaku/chiniisou.md" >}}).
 
 ### Tenpai configurations
 

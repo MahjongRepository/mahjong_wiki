@@ -6,16 +6,20 @@ tags = ["Terminology", "Game rules"]
 +++
 
 ![Example hand featuring kans.](Saki_Yakuman.jpg "Example hand featuring kans.") **Kan**
-{{< kana "カン" >}} is a special tile call in the game. This call forms a tile grouping of four
-identical tiles, called **kantsu** {{< kana "槓子" >}}. Just like all tile calls, the call itself is
-optional; thus, an opportunity to call kan is not mandatory.
+{{< kana "カン" >}} is a special [tile call]({{< ref "/riichi/rules/naki.md" >}}) in the game. This
+call forms a [tile grouping]({{< ref "/riichi/terminology/mentsu.md" >}}) of four identical tiles,
+called **kantsu** {{< kana "槓子" >}}. Just like all tile calls, the call itself is optional; thus,
+an opportunity to call kan is not mandatory.
 
 While appearing as a four-of-a-kind, the tiles used to form kantsu actually function as a
 three-of-a-kind plus one extra tile. With that in mind, tiles called for kan still interpreted as
-"triplets" particularly for triplet-based yaku, such as toitoi and sanankou. For every kan
-declaration, players are required to take an extra tile draw from the dead wall. This drawn tile is
-called the **rinshanpai**, or **dead wall draw**. After the kan call and player's discard, then
-another dora indicator is revealed.
+"triplets" particularly for triplet-based yaku, such as
+[toitoi]({{< ref "/riichi/yaku/toitoihou.md" >}}) and
+[sanankou]({{< ref "/riichi/yaku/sanankou.md" >}}). For every kan declaration, players are required
+to take an extra tile draw from the [dead wall]({{< ref "/riichi/rules/wanpai.md" >}}). This drawn
+tile is called the **[rinshanpai]({{< ref "/riichi/yaku/rinshan-kaihou.md" >}})**, or **dead wall
+draw**. After the kan call and player's discard, then another [dora
+indicator]({{< ref "/riichi/rules/dora.md" >}}) is revealed.
 
 The call for kan is a discretionary play, with its own set of rules and restrictions. Under all
 circumstances, a player may call kan or decline when given the opportunity. The strength of kan play
@@ -34,32 +38,33 @@ then the player makes the kan call.
 
 1.  The player calls "kan".
 2.  The four identical tiles are shown and are set aside, like an open call. Together, the four
-    tiles now count as one tile group.
+    tiles now count as one [tile group]({{< ref "/riichi/terminology/mentsu.md" >}}).
 3.  Then, a replacement tile is drawn from the dead wall. This acts as the replacement tile to
     maintain the proper hand size for four groups and a pair.
-4.  If this tile draw completes the hand. then the player may declare a win and claim rinshan
-    kaihou.
+4.  If this tile draw completes the hand. then the player may declare a win and claim [rinshan
+    kaihou]({{< ref "/riichi/yaku/rinshan-kaihou.md" >}}).
 5.  Otherwise, the last tile from the wall is added to the dead wall, so that the dead wall contains
     14 tiles at all times.
 6.  If the hand has an additional opportunity to call kan, then the player may do so and invokes
     another kan process.
 7.  Otherwise, the turn may end by discarding normally.
 
-A special case may involve the yaku, chankan. If the kan call involves a shouminkan and the added
-tile is a winning tile for another player, then chankan may be applied upon the declaration of
-another player's winning hand. In this case, the hand ends before the player even gets to draw the
-extra tile from the dead wall. Thus, the process of calling kan gets interrupted in favor of another
-player's winning hand.
+A special case may involve the yaku, [chankan]({{< ref "/riichi/yaku/chankan.md" >}}). If the kan
+call involves a shouminkan and the added tile is a winning tile for another player, then chankan may
+be applied upon the declaration of another player's winning hand. In this case, the hand ends before
+the player even gets to draw the extra tile from the dead wall. Thus, the process of calling kan
+gets interrupted in favor of another player's winning hand.
 
 ### Kandora timing
 
-The call for kan reveals additional dora, in the form of kandora. The timing of this reveal is
-variable, depending on the rule set and/or game platform. The simplest rule invokes an immediate
-reveal upon the declaration; and so, this rule would immediately place the kan reveal after step 1.
-Others distinguish the timing between open and closed kans. Here, closed kans would be granted an
-immediate reveal; however, open kans would produce another kandora indicator after the discard, upon
-conclusion of the kan process at step 8. Regarding the timing of the kandora, players will need to
-consult organizational, tournament, and/or local rules.
+The call for kan reveals additional dora, in the form of
+[kandora]({{< ref "/riichi/rules/dora.md" >}}). The timing of this reveal is variable, depending on
+[the rule set and/or game platform]({{< ref "/riichi/rules/variations/dora-variations.md" >}}). The
+simplest rule invokes an immediate reveal upon the declaration; and so, this rule would immediately
+place the kan reveal after step 1. Others distinguish the timing between open and closed kans. Here,
+closed kans would be granted an immediate reveal; however, open kans would produce another kandora
+indicator after the discard, upon conclusion of the kan process at step 8. Regarding the timing of
+the kandora, players will need to consult organizational, tournament, and/or local rules.
 
 ## Kan types
 
@@ -87,9 +92,10 @@ is usually flipped after discarding, or upon another kan declaration on the same
 allow the kan dora indicator to be flipped immediately.
 
 A daiminkan may not be made with the last discard of the game, which invokes the follow up procedure
-to take a rinshanpai. Because all tiles from the regular wall are used, no replacement tile from the
-regular wall to the dead wall could be made in order to maintain the dead wall at 14 tiles. Taking a
-rinshanpai in this case would reduce the dead wall count to 13, which not acceptable.
+to take a [rinshanpai]({{< ref "/riichi/yaku/rinshan-kaihou.md" >}}). Because all tiles from the
+regular wall are used, no replacement tile from the regular wall to the dead wall could be made in
+order to maintain the dead wall at 14 tiles. Taking a rinshanpai in this case would reduce the dead
+wall count to 13, which not acceptable.
 
 Some rules invoke sekinin barai on a player discarding into the daiminkan.
 
@@ -113,10 +119,10 @@ drawing a tile from the wall or the dead wall, then the ability to declare kan i
 turn. The player would have to wait for the next tile draw instead. It is also forbidden to declare
 a kan while the wall is empty, because the dead wall cannot be replenished.
 
-This kan call is vulnerable to one specific yaku: chankan or robbing the kan. If another player is
-tenpai and the added tile completes his hand, that player may call _ron_ immediately after the
-_shominkan_ declaration. It ends the hand before the kan is completed; therefore no new kan dora
-indicator is flipped.
+This kan call is vulnerable to one specific yaku: [chankan]({{< ref "/riichi/yaku/chankan.md" >}})
+or robbing the kan. If another player is tenpai and the added tile completes his hand, that player
+may call _ron_ immediately after the _shominkan_ declaration. It ends the hand before the kan is
+completed; therefore no new kan dora indicator is flipped.
 
 ### Ankan
 
@@ -128,16 +134,18 @@ indicator is flipped.
 
 Also known as a "closed kan", a player may draw all four of a tile type. Unlike the other two kan
 types, **ankan** {{< kana "暗槓" >}} keeps the hand closed, unless the hand has been opened
-previously. Thus, even with an ankan call, the player may still have the option of declaring riichi
-even with such a kan call, calling kan during riichi barring restrictions, and/or winning the hand
-via mentsumo.
+previously. Thus, even with an ankan call, the player may still have the option of declaring
+[riichi]({{< ref "/riichi/rules/riichi.md" >}}) even with such a kan call, calling kan during riichi
+barring restrictions, and/or winning the hand via
+[mentsumo]({{< ref "/riichi/yaku/menzenchin-tsumohou.md" >}}).
 
 Per rule variation, the kandora indicator is flipped immediately with an ankan call, rather than
 waiting for the player's discard or the rinshan draw.
 
 Like a shominkan, an ankan may be declared during the player's turn. As such, the player holds all
 four tiles. The same restrictions as for the shominkan apply. An ankan may not be subject to
-chankan, except against a kokushi tenpai, if the rules allow.
+chankan, except against a [kokushi]({{< ref "/riichi/terminology/waits/kokushi-musou.md" >}})
+[tenpai]({{< ref "/riichi/strategy/tenpai.md" >}}), if the rules allow.
 
 ## Tile arrangements
 
@@ -158,9 +166,10 @@ turned to indicate the player it was called from. For daiminkan claims from toim
 across, it does not matter which "middle" tile is turned sideways, as long as it is one of the
 middle tiles.
 
-- {{< t -4444s >}} (from kamicha, left)
-- {{< t 9-999p >}} or {{< t 99-99m >}} (from toimen, across)
-- {{< t 666-6z >}} (from shimocha, right)
+- {{< t -4444s >}} (from [kamicha]({{< ref "/riichi/strategy/jikaze.md" >}}), left)
+- {{< t 9-999p >}} or {{< t 99-99m >}} (from [toimen]({{< ref "/riichi/strategy/jikaze.md" >}}),
+  across)
+- {{< t 666-6z >}} (from [shimocha]({{< ref "/riichi/strategy/jikaze.md" >}}), right)
 
 ### Added
 
@@ -202,15 +211,16 @@ composition. Under all of these cases, the call for a closed kan is used. The ot
 calls cannot occur, as riichi requires closed hand.
 
 When a riichi declarer holds three identical tiles and draws the fourth after the riichi
-announcement, the player may form an ankan from these tiles instead of discarding the fourth. The
-hand composition and the possible winning tiles may not change: it is not allowed to declare kan if,
-for some possible winning tile, any of the three identical tiles may be interpreted as part of a
-sequence or part of the pair.
+announcement, the player may form an [ankan]({{< ref "/riichi/rules/kan.md" >}}) from these tiles
+instead of discarding the fourth. The hand composition and the possible winning tiles may not
+change: it is not allowed to declare kan if, for some possible winning tile, any of the three
+identical tiles may be interpreted as part of a sequence or part of the pair.
 
-If a player does declare a kan illegally during riichi, and they call ron or the game goes to an
-exhaustive draw, then they will be penalized with a chombo penalty for breaking the rule. If a
-player is not required to reveal their hand, or if another player wins, they will normally not be
-penalized.
+If a player does declare a kan illegally during riichi, and they call
+[ron]({{< ref "/riichi/rules/naki.md" >}}) or the game goes to an [exhaustive
+draw]({{< ref "/riichi/rules/ryuukyoku.md" >}}), then they will be penalized with a
+[chombo]({{< ref "/riichi/rules/chombo.md" >}}) penalty for breaking the rule. If a player is not
+required to reveal their hand, or if another player wins, they will normally not be penalized.
 
 Of course, a player may outright decline the call for kan and discard the drawn tile. After all, the
 play invokes a risk pertaining to the kandora. During a riichi call, the player is defenseless
@@ -218,10 +228,12 @@ against the benefactors of the new dora.
 
 **Example 1:** {{< t 3444m778899s333z >}} Illegal kan: {{< t 4m >}} Legal kan: {{< t 3z >}}.
 
-It is not allowed to kan the fours. The manzu tiles may either be interpreted as a 3-4 ryanmen wait
-and a 4-4 pair, or as a 4-man ankou with a 3-man tanki wait. A kan call would alter the wait just
-for a 3-man tanki. For a legal kan declaration, the three identical tiles would have to be an ankou
-in any interpretation. Had the player drawn a west wind, he would have been allowed to kan it.
+It is not allowed to kan the fours. The manzu tiles may either be interpreted as a 3-4
+[ryanmen]({{< ref "/riichi/terminology/waits/ryanmen.md" >}}) wait and a 4-4 pair, or as a 4-man
+ankou with a 3-man [tanki]({{< ref "/riichi/terminology/waits/tanki.md" >}}) wait. A kan call would
+alter the wait just for a 3-man tanki. For a legal kan declaration, the three identical tiles would
+have to be an ankou in any interpretation. Had the player drawn a west wind, he would have been
+allowed to kan it.
 
 **Example 2:** {{< t 111m222333p5678s >}} Legal kan: {{< t 1m >}} {{< t 2p >}} or {{< t 3p >}}.
 
@@ -258,9 +270,10 @@ transferred to the dead wall. If this is not possible, then kan is not possible.
 
 ### Tile calls
 
-After taking a discarded tile, a player cannot call kan, even if a player has the tile(s) available
-in hand to do so. The next opportunity to call kan comes after the next tile draw. This does not
-apply when a daiminkan is called, as the kan causes a tile to be drawn immediately.
+After [taking a discarded tile]({{< ref "/riichi/rules/naki.md" >}}), a player cannot call kan, even
+if a player has the tile(s) available in hand to do so. The next opportunity to call kan comes after
+the next tile draw. This does not apply when a daiminkan is called, as the kan causes a tile to be
+drawn immediately.
 
 ## Suukaikan
 
@@ -270,27 +283,30 @@ This is an "abortive draw", regarding kan calls. From the dead wall, only four t
 the extra draw, or **rinshanpai**. The remaining tiles from the dead wall are used as dora
 indicators, or they are tile replacements from the regular wall. Neither of these two tile type can
 be used in play. As a result, the limit of kan calls for a hand session is set to four. After the
-fourth kan call, the kyoku (hand session) ends after the discard, barring that discard cannot be
-called for a win.
+fourth kan call, the [kyoku]({{< ref "/riichi/rules/hanchan.md" >}}) (hand session) ends after the
+discard, barring that discard cannot be called for a win.
 
-However, an exception is made for players with suukantsu tenpai. After the fourth kan call, the game
+However, an exception is made for players with
+[suukantsu]({{< ref "/riichi/yakuman/suukantsu.md" >}}) tenpai. After the fourth kan call, the game
 continues giving the player a chance to score the yakuman. Other than another player winning, this
-chance may be abruptly ended with a fifth call for a kan; and the hand ends immediately.\1\]
-Otherwise, the game may continue to [ryuukyoku.
+chance may be abruptly ended with a fifth call for a kan; and the hand ends immediately.\[1\]
+Otherwise, the game may continue to [ryuukyoku]({{< ref "/riichi/rules/ryuukyoku.md" >}}).
 
 ## Yaku
 
 In general, tiles called for kan are still applied as triplets. Any call for kan does not interfere
-with any yaku dependent on triplets, such as sanankou or yakuhai. Four yaku are centered around kan
-calls. One applies a win via the kan draw; and the other is applied to added kans. Then the last two
-are composed of kans.
+with any yaku dependent on triplets, such as [sanankou]({{< ref "/riichi/yaku/sanankou.md" >}}) or
+[yakuhai]({{< ref "/riichi/rules/yakuhai.md" >}}). Four
+[yaku]({{< ref "/riichi/yaku/list-of-yaku.md" >}}) are centered around kan calls. One applies a win
+via the kan draw; and the other is applied to added kans. Then the last two are composed of kans.
 
 ### Chankan
 
 `Main|Chankan`
 
 **Chankan** is a yaku applied on a shominkan (added kan) declaration. A hand in tenpai for a kan
-call on a tile added to a called pon may declare ron on that tile.
+call on a tile added to a called [pon]({{< ref "/riichi/rules/naki.md" >}}) may declare ron on that
+tile.
 
 ### Rinshan kaihou
 
@@ -305,8 +321,8 @@ declaration.
 
 Both **sankantsu** and **suukantsu** require kan calls in order to count. The first requires three
 calls, while the latter calls for four. Both are rather difficult due to this requirement. Sankantsu
-is not a yakuman, but some yakuman are actually easier to attain. Suukantsu is by far the most
-difficult and most rare yakuman to attain.
+is not a [yakuman]({{< ref "/riichi/yakuman/yakuman.md" >}}), but some yakuman are actually easier
+to attain. Suukantsu is by far the most difficult and most rare yakuman to attain.
 
 ## Kan risks
 
@@ -314,8 +330,8 @@ difficult and most rare yakuman to attain.
 
 !This hand was suddenly upgraded by 3-han with the call of the
 [haku kan. [1](http://tenhou.net/0/?log=2014072816gm-0089-0000-10a06ac7&tw=3&ts=7).](NewKan.png "This hand was suddenly upgraded by 3-han with the call of the haku kan. 1.")
-The nature of kan dora makes the call for kan a risky maneuver. With this in mind, some quick
-assessment is needed before making such a call.
+The nature of [kan dora]({{< ref "/riichi/rules/dora.md" >}}) makes the call for kan a risky
+maneuver. With this in mind, some quick assessment is needed before making such a call.
 
 ## References
 

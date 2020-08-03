@@ -5,8 +5,9 @@ updated = "2018-11-16T08:41:33Z"
 tags = ["Yaku replays"]
 +++
 
-Only a limited number of yakuman may combine to produce higher scoring hands than regular yakuman.
-This is only assuming the rules allow multiple yakuman in the first place.
+Only a limited number of [yakuman]({{< ref "/riichi/yakuman/yakuman.md" >}}) may combine to produce
+higher scoring hands than regular yakuman. This is only assuming the rules allow [multiple
+yakuman]({{< ref "/riichi/rules/variations/multiple-yakuman.md" >}}) in the first place.
 
 ## Double yakuman
 
@@ -55,7 +56,7 @@ This is only assuming the rules allow multiple yakuman in the first place.
 | off = Toimen
 | agari = 2z
 | url = <http://tenhou.net/0/?log=2014092416gm-00a9-0000-3263f602&tw=1&ts=4>
-| comment = A haipai with four honor pairs. The west became an ankou before any tile calls, which made it even easier to complete. Toimen discarded Nan as genbutsu against shimocha riichi.
+| comment = A [haipai]({{< ref "/riichi/terminology/haipai.md" >}}) with four honor pairs. The west became an [ankou]({{< ref "/riichi/terminology/mentsu.md" >}}) before any tile calls, which made it even easier to complete. Toimen discarded Nan as [genbutsu]({{< ref "/riichi/strategy/betaori.md" >}}) against shimocha riichi.
 ```
 
 ```Replay/Tenhou.net|
@@ -70,7 +71,7 @@ This is only assuming the rules allow multiple yakuman in the first place.
 | hand = 88s11222333444z
 | agari = 1z
 | url = <http://tenhou.net/0/?log=2015032213gm-0001-0000-7f1b80a1&tw=2&ts=1>
-| comment = Starting with only 4 winds, pushed quickly to a honitsu. Drew and kept many winds in the process so that, by the time all the pinzu and manzu were out, the hand had 8 winds. After toimen riichi, broke tenpai to hold onto the winds. Shortly after kamicha riichi, completed suuankou daisuushii.
+| comment = Starting with only 4 winds, pushed quickly to a [honitsu]({{< ref "/riichi/yaku/honiisou.md" >}}). Drew and kept many winds in the process so that, by the time all the pinzu and manzu were out, the hand had 8 winds. After toimen riichi, broke tenpai to hold onto the winds. Shortly after kamicha riichi, completed [suuankou]({{< ref "/riichi/yakuman/suuankou.md" >}}) [daisuushii]({{< ref "/riichi/yakuman/suushiihou.md" >}}).
 ```
 
 ```Replay/Tenhou.net|
@@ -168,7 +169,7 @@ This is only assuming the rules allow multiple yakuman in the first place.
 | off = tsumo
 | agari = 5z
 | url = <http://tenhou.net/0/?log=2013111023gm-0061-0000-87740a4c&tw=3&ts=5>
-| comment = Triple yakuman, where the hand was already tenpai for ryanmen for shousuushi. Then the hand was switched to suuankou tanki, when the east pair became a triplet. Toimen failed to prevent the yakuman by passing up winning tiles twice. Finally, a play was made to risk completion of the hand by going to a hell wait with two haku already discarded. The hand was finished anyways.
+| comment = Triple yakuman, where the hand was already tenpai for [ryanmen]({{< ref "/riichi/terminology/waits/ryanmen.md" >}}) for shousuushi. Then the hand was switched to suuankou tanki, when the east pair became a triplet. Toimen failed to prevent the yakuman by passing up winning tiles twice. Finally, a play was made to risk completion of the hand by going to a [hell wait]({{< ref "/riichi/strategy/jigoku.md" >}}) with two haku already discarded. The hand was finished anyways.
 ```
 
 ```Replay/Tenhou.net|
@@ -202,14 +203,14 @@ This is only assuming the rules allow multiple yakuman in the first place.
 | off = tsumo
 | agari = 9m
 | url = <http://tenhou.net/0/?log=2013020807gm-0009-7447-8494ff98&tw=3&ts=2>
-| comment = Chinroutou Suukantsu in a 7447 game. A number of scenarios could have prevented this combination:
+| comment = [Chinroutou]({{< ref "/riichi/yakuman/chinroutou.md" >}}) [Suukantsu]({{< ref "/riichi/yakuman/suukantsu.md" >}}) in a 7447 game. A number of scenarios could have prevented this combination:
 
-1.  The player could have declined any tile call, especially the calls for daiminkan.
-2.  The other players could have withheld the terminals.
+1.  The player could have declined any tile call, especially the calls for [daiminkan]({{< ref "/riichi/rules/kan.md" >}}).
+2.  The other players could have withheld the [terminals]({{< ref "/riichi/yakuman/chinroutou.md" >}}).
 3.  Any of the tile calls during the hand shifted the draw order.
-4.  Shimocha had a much faster tenpai and retained a shanpon wait instead of switching to ryanmen, which would have won.
+4.  [Shimocha]({{< ref "/riichi/strategy/jikaze.md" >}}) had a much faster tenpai and retained a [shanpon]({{< ref "/riichi/terminology/waits/shanpon.md" >}}) wait instead of switching to [ryanmen]({{< ref "/riichi/terminology/waits/ryanmen.md" >}}), which would have won.
 5.  Toimen had a winning hand during the 2-pin discard but was furiten. Though, toimen temporarily disconnected.
-6.  The 8-man discard could have been called for a "fifth kan", but the rules do not allow that.
+6.  The 8-man discard could have been called for a "fifth kan", but [the rules]({{< ref "/riichi/" >}}) do not allow that.
 7.  The hand won on the haitei draw.
 
 ```

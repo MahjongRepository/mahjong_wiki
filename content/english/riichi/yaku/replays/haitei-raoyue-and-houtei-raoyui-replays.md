@@ -5,7 +5,9 @@ updated = "2019-04-01T11:16:25Z"
 tags = ["Yaku replays"]
 +++
 
-The following are replays featuring haitei raoyue and houtei raoyui.
+The following are replays featuring [haitei
+raoyue]({{< ref "/riichi/yaku/haitei-raoyue-and-houtei-raoyui.md" >}}) and [houtei
+raoyui]({{< ref "/riichi/yaku/haitei-raoyue-and-houtei-raoyui.md" >}}).
 
 ## Haitei raoyue
 

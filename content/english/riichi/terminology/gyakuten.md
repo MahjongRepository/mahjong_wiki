@@ -8,9 +8,10 @@ tags = ["Terminology"]
 ![Discarded winning tile may not be enough for [gyakuten](http://tenhou.net/0/?log=2014073113gm-0089-0000-b078ae6a&tw=0).](Ron_question.png "Discarded winning tile may not be enough for gyakuten.")
 **Gyakuten** {{< kana "逆転" >}} is an instance, where a player had passed up the placement of
 another player during the last hand. Players can either "luck" their way for a last minute win (or
-improvement in placement); or, they can know the points table. The latter can produce an advantage
-by having a better idea on the needed tile composition as well as other key decision making options,
-especially riichi.
+improvement in placement); or, they can [know the points
+table]({{< ref "/riichi/strategy/score-table-memorization.md" >}}). The latter can produce an
+advantage by having a better idea on the needed tile composition as well as other key decision
+making options, especially [riichi]({{< ref "/riichi/strategy/riichi-strategy.md" >}}).
 
 ## Strategy for oorasu
 
@@ -25,13 +26,14 @@ the final hand or simply avoid losing points.
 
 With essentially the last hand of the game, players have one chance left to make a difference in the
 game. With that, awareness of point difference is key, which links directly to values from the
-scoring table. Here, minimal hand values are considered at the very least in order for players to
-surpass others higher in placement.
+[scoring table]({{< ref "/riichi/strategy/scoring-table.md" >}}). Here, minimal hand values are
+considered at the very least in order for players to surpass others higher in placement.
 
 ### Gyakuten table
 
-Using the values from the scoring table, point differences can tell players, which hand values are
-necessary to accomplish surpassing leading players.
+Using the values from the [scoring table]({{< ref "/riichi/strategy/scoring-table.md" >}}), point
+differences can tell players, which hand values are necessary to accomplish surpassing leading
+players.
 
 `Gyakuten/header`
 

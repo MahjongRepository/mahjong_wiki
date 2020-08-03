@@ -5,8 +5,9 @@ updated = "2020-07-21T08:23:08Z"
 tags = ["Optional yaku", "Game rules"]
 +++
 
-**Local Yakus** {{< kana "ローカル役" >}} are the yaku not used in the standard ruleset of Japanese
-mahjong. Some of them used to be in general ruleset, they are also known as **Ancient Yakus**
+**Local Yakus** {{< kana "ローカル役" >}} are the [yaku]({{< ref "/riichi/yaku/yaku.md" >}}) not
+used in the standard ruleset of [Japanese mahjong]({{< ref "/riichi/rules/japanese-mahjong.md" >}}).
+Some of them used to be in general ruleset, they are also known as **Ancient Yakus**
 {{< kana "古役（こやく）" >}}. The list is extensive. This page will only record some of them, which
 will remain incomplete.
 
@@ -21,7 +22,7 @@ will remain incomplete.
 ### Tsubame gaeshi
 
 **Tsubame gaeshi** {{< kana "燕返し" >}} (lit. _Swallow Reversal / Return_) is a yaku for claiming a
-winning hand on opponent's riichi declaration tile.
+winning hand on opponent's [riichi]({{< ref "/riichi/rules/riichi.md" >}}) declaration tile.
 
 - Value: 1 han
 - Example:
@@ -36,12 +37,15 @@ winning hand on opponent's riichi declaration tile.
 ### Shiiaru raotai
 
 **Shiiaru raotai** {{< kana "十二落抬" >}} (lit. _Twelve tiles falling down_) is a hand with 4
-melded sets waiting for a single tile (tanki). Also known as **Suufuuro
+[melded]({{< ref "/riichi/rules/naki.md" >}}) sets waiting for a single tile
+([tanki]({{< ref "/riichi/terminology/waits/tanki.md" >}})). Also known as **Suufuuro
 tanki**{{< kana "四副露単騎" >}} (lit. _Four-melded single-wait_).
 
-Usually restricted to ron-only, but sometimes tsumo is also allowed under some specific rulesets.
+Usually restricted to [ron]({{< ref "/riichi/rules/naki.md" >}})-only, but sometimes tsumo is also
+allowed under some specific rulesets.
 
-Depending on rulesets, variation exists between allowing ankan or not.
+Depending on rulesets, variation exists between allowing [ankan]({{< ref "/riichi/rules/kan.md" >}})
+or not.
 
 - Value: 1 han
 - Example: {{< t 6z >}} {{< t 9-99p >}} {{< t 2-22p >}} {{< t -406p >}} {{< t -123p >}}, Ron:
@@ -52,17 +56,18 @@ Depending on rulesets, variation exists between allowing ankan or not.
 **Kanburi** / **Kanfuri** {{< kana "槓振り" >}} is a yaku for claiming a winning hand on opponent's
 discarding tile right after they claimed a kan.
 
-The winning tile is not required to be the tile exactly drawn from rinshan; that being said, as long
-as an opponent does a kan and discards a deal-in tile immediately, the yaku is automatically
-achieved.
+The winning tile is not required to be the tile exactly drawn from
+[rinshan]({{< ref "/riichi/yaku/rinshan-kaihou.md" >}}); that being said, as long as an opponent
+does a kan and discards a deal-in tile immediately, the yaku is automatically achieved.
 
 - Value: 1 han
 
 ### Sangen chiitoitsu / Suushi chiitoitsu
 
 **Sangen chiitoitsu** {{< kana "三元七対子" >}} / **Suushi chiitoitsu** {{< kana "四喜七対子" >}} is
-a chiitoitsu hand containing all of three different pairs of sangenpai / four different pairs of
-kazehai correspondingly.
+a [chiitoitsu]({{< ref "/riichi/yaku/chiitoitsu.md" >}}) hand containing all of three different
+pairs of [sangenpai]({{< ref "/riichi/terminology/jihai.md" >}}) / four different pairs of
+[kazehai]({{< ref "/riichi/terminology/jihai.md" >}}) correspondingly.
 
 - Value: 1 han (actually worths 3 han based on chiitoitsu's 2 han)
 - Examples:
@@ -71,9 +76,10 @@ kazehai correspondingly.
 
 ### Uushin tsuukan
 
-**Uushin tsuukan** {{< kana "五心通貫" >}} is a specific ikkitsuukan hand with a kanchan wait of 5
-on its straight part. That being said, a hand containing an identical suit of 123-46-789 waiting
-for 5.
+**Uushin tsuukan** {{< kana "五心通貫" >}} is a specific
+[ikkitsuukan]({{< ref "/riichi/yaku/ikkitsuukan.md" >}}) hand with a
+[kanchan]({{< ref "/riichi/terminology/waits/kanchan.md" >}}) wait of 5 on its straight part. That
+being said, a hand containing an identical suit of 123-46-789 waiting for 5.
 
 - Value: Usually 1 additional han based on ittsuu.
 - Example: {{< t 66789p12346789s >}}, Ron: {{< t 0s >}} \[5\]
@@ -103,9 +109,11 @@ shuntsus of 123, 456 and 789 both in different suits. Also called **Sanshoku itt
 - Value: 2 han (1 han when opened)
 - Example: {{< t 56778m12344p456s >}}, Ron: {{< t 9m >}} \[6\]
 
-When their suits are identical, it becomes the standard yaku ikkitsuukan.
+When their suits are identical, it becomes the standard yaku
+[ikkitsuukan]({{< ref "/riichi/yaku/ikkitsuukan.md" >}}).
 
-A derived variation exists if it's a tanki wait with sanshoku-tsuukan's mentsus already included:
+A derived variation exists if it's a [tanki]({{< ref "/riichi/terminology/waits/tanki.md" >}}) wait
+with sanshoku-tsuukan's [mentsus]({{< ref "/riichi/terminology/mentsu.md" >}}) already included:
 **Tanron** {{< kana "単竜" >}}.
 
 - Value: Unknown (Closed-hand only. Supercedes shanshoku tsuukan.)
@@ -122,7 +130,8 @@ another sequence Y in suit A, and the sequence Y in suit B. No restriction on th
 - Value: 2 han (closed-hand only, or allowing opened-hand with 1 han)
 - Example: {{< t 55m234789p234789s >}}
 
-When their suits are identical, it becomes the standard ryanpeikou hand.
+When their suits are identical, it becomes the standard
+[ryanpeikou]({{< ref "/riichi/yaku/ryanpeikou.md" >}}) hand.
 
 ### Ryandoukou
 
@@ -131,10 +140,12 @@ groups of identical triplets (or quads) in two suits. Sometimes also known as **
 {{< kana "ダブルデート" >}} (lit. _Double-date_) or **Abekku toitoi** {{< kana "アベック対々" >}}
 (lit. _Avec-triplets_).
 
-- Value: 2 han (actually 4 han based on toitoihou's 2 han)
+- Value: 2 han (actually 4 han based on [toitoihou]({{< ref "/riichi/yaku/toitoihou.md" >}})'s 2
+  han)
 - Example: {{< t 222777m222s44z >}} {{< t 77-7s >}}
 - Trivia:
-  - This yaku works like a toitoi version of kyandonhou hand.
+  - This yaku works like a [toitoi]({{< ref "/riichi/yaku/toitoihou.md" >}}) version of kyandonhou
+    hand.
 
 ### Shoutate
 
@@ -147,8 +158,9 @@ a pair with a same number in three different suits.
   - {{< t 33399m77799p >}} {{< t 9-99s >}}, Ron: {{< t 9p >}} \[7\]
 - Trivia:
   - This local yaku is mainly used in Hokkaido region.
-  - This yaku works like a shousangen version of sanshoku doukou. Usually when shoutate is adopted,
-    sanshoku doukou will be upgraded to a 3-han yaku.
+  - This yaku works like a [shousangen]({{< ref "/riichi/yaku/shousangen.md" >}}) version of
+    [sanshoku doukou]({{< ref "/riichi/yaku/sanshoku-doukou.md" >}}). Usually when shoutate is
+    adopted, sanshoku doukou will be upgraded to a 3-han yaku.
 
 ### Choupaikou / Sujipaikou / Chousankou
 
@@ -176,7 +188,9 @@ chousankou** {{< kana "三色頂三刻" >}}.
 **Suuzuukou** {{< kana "四字刻" >}} (lit. _Four honor triplets_) is a hand containing four triplets
 (or quads) of honor tiles.
 
-- Value: 2 han (actually at least 7 han based on toitoi, honitsu and at least one yakuhai)
+- Value: 2 han (actually at least 7 han based on [toitoi]({{< ref "/riichi/yaku/toitoihou.md" >}}),
+  [honitsu]({{< ref "/riichi/yaku/honiisou.md" >}}) and at least one
+  [yakuhai]({{< ref "/riichi/rules/yakuhai.md" >}}))
 - Example: {{< t 8m >}} {{< t 77-7z >}} {{< t -222z >}} {{< t 6-66z >}} {{< t 44-4z >}}, Ron:
   {{< t 8m >}} \[10\]
 
@@ -186,12 +200,14 @@ chousankou** {{< kana "三色頂三刻" >}}.
 
 `main|Open riichi`
 
-**Open riichi** {{< kana "オープンリーチ、開立直" >}} is a riichi hand while the full hand is
-revealed to their opponents after declaration.
+**Open riichi** {{< kana "オープンリーチ、開立直" >}} is a
+[riichi]({{< ref "/riichi/rules/riichi.md" >}}) hand while the full hand is revealed to their
+opponents after declaration.
 
 - Value: 2 han (supersedes the normal riichi)
 
-A variation exist if the declaration is daburu riichi: **Open double riichi**
+A variation exist if the declaration is [daburu
+riichi]({{< ref "/riichi/yaku/daburu-riichi.md" >}}): **Open double riichi**
 {{< kana "オープンダブルリーチ、開両立直" >}}.
 
 - Value: 3 han (supersedes the normal daburu riichi)
@@ -207,7 +223,7 @@ hand built with three identical shuntsus, in both numbers and suit.
 - Value:
   - 2 or 3 han
   - Closed only, or allowing opened-hand with 1-han decreased
-  - Supercedes iipeikou
+  - Supercedes [iipeikou]({{< ref "/riichi/yaku/iipeikou.md" >}})
 - Example: {{< t 12m111222333s77z >}}, Agari: {{< t 3m >}}
 
 ### Sanpuukou / Otakaze sankou
@@ -230,7 +246,12 @@ player in South round, and so on.
 ### Uumensai
 
 **Uumensai** / **Uumenchi** {{< kana "五門斉" >}} (lit. _Five suits collected_) is a yaku of
-containing all of 5 different suits in a hand: manzu, souzu, pinzu, kazehai and sangenpai.
+containing all of 5 different suits in a hand:
+[manzu]({{< ref "/riichi/rules/mahjong-equipment.md" >}}),
+[souzu]({{< ref "/riichi/rules/mahjong-equipment.md" >}}),
+[pinzu]({{< ref "/riichi/rules/mahjong-equipment.md" >}}),
+[kazehai]({{< ref "/riichi/terminology/jihai.md" >}}) and
+[sangenpai]({{< ref "/riichi/terminology/jihai.md" >}}).
 
 - Value: 2 han; or 5 han / yakuman with more restrictions.
 - Example: {{< t 99s66z >}} {{< t 4-44z >}} {{< t 2-22m >}} {{< t -645p >}}, Tsumo: {{< t 9s >}}
@@ -241,16 +262,20 @@ Depending on platforms and rule details, Uumensai may have different values. Gen
 as:
 
 - May limited in closed-hand only.
-- May not allowed in chiitoitsu-form.
-- Restricted choices on the pair and sets, e.g. Jihai-pair only / Toitoi-form only, etc.
-- Cannot be stacked with kokushi musou if valued a yakuman.
+- May not allowed in [chiitoitsu]({{< ref "/riichi/yaku/chiitoitsu.md" >}})-form.
+- Restricted choices on the pair and [sets]({{< ref "/riichi/terminology/mentsu.md" >}}), e.g.
+  [Jihai]({{< ref "/riichi/terminology/jihai.md" >}})-pair only /
+  [Toitoi]({{< ref "/riichi/yaku/toitoihou.md" >}})-form only, etc.
+- Cannot be stacked with [kokushi musou]({{< ref "/riichi/terminology/waits/kokushi-musou.md" >}})
+  if valued a yakuman.
 
 ### Renkaihou
 
 **Renkaihou** {{< kana "連開花" >}} (lit. _Consecutive blossom_) is a yaku achieved by winning a
-hand with rinshan tile after two consecutive kans.
+hand with [rinshan]({{< ref "/riichi/yaku/rinshan-kaihou.md" >}}) tile after two consecutive
+[kans]({{< ref "/riichi/rules/kan.md" >}}).
 
-- Value: 2 han (supercedes rinshan kaihou)
+- Value: 2 han (supercedes [rinshan kaihou]({{< ref "/riichi/yaku/rinshan-kaihou.md" >}}))
 - Example:
   - {{< t 99p34s777m >}} {{< t 1-11s >}} {{< t 77-7z >}}  
       ↓ Declare daiminkan on kamicha's discard 7-man;
@@ -264,8 +289,9 @@ kans are happened.
 
 ### Mondeikou
 
-**Mondeikou** {{< kana "門泥公" >}} is a yaku used in 4-akadora mahjong rules. When a hand contains
-all four akadoras, Mondeikou is applied.
+**Mondeikou** {{< kana "門泥公" >}} is a yaku used in
+4-[akadora]({{< ref "/riichi/rules/dora.md" >}}) mahjong rules. When a hand contains all four
+akadoras, Mondeikou is applied.
 
 - Value:
   - 2 han (may decrease to 1 han when opened); or
@@ -277,14 +303,17 @@ all four akadoras, Mondeikou is applied.
 ### Ikkitsuukan chantaiyaochuu
 
 **Ikkitsuukan chantaiyaochuu** {{< kana "一気通貫全帯么九" >}} (_Pure straight with mixed
-outside-hand_), as its literal meaning, is a mixture hand of ikkitsuukan and chantaiyaochuu. More
-specifically, aside from the shuntsu of 456 in ittsuu part, the rest of hand should satisfy the
-condition of chanta. Also called **Ittsuu chanta** {{< kana "イッツーチャンタ" >}} in short.
+outside-hand_), as its literal meaning, is a mixture hand of
+[ikkitsuukan]({{< ref "/riichi/yaku/ikkitsuukan.md" >}}) and
+[chantaiyaochuu]({{< ref "/riichi/yaku/chanta.md" >}}). More specifically, aside from the shuntsu of
+456 in ittsuu part, the rest of hand should satisfy the condition of chanta. Also called **Ittsuu
+chanta** {{< kana "イッツーチャンタ" >}} in short.
 
 - Value: 3 han (2 han when opened, supercedes ittsuu)
 - Example: {{< t 123456789m999s33z >}}
 
-Similarly, if the rest of hand meets the condition of junchan, the hand will be upgraded to **Jun
+Similarly, if the rest of hand meets the condition of
+[junchan]({{< ref "/riichi/yaku/junchantaiyaochuu.md" >}}), the hand will be upgraded to **Jun
 ikkitsuukan chantaiyaochuu** {{< kana "純一気通貫全帯么九" >}} (_Pure straight with pure
 outside-hand_).
 
@@ -303,10 +332,10 @@ red</span>. That being said, only the following tiles are available:
 
     Pinzu of 2 / 4 / 8,
     Souzu of 2 / 3 / 4 / 6 / 8,
-    All kazehai tiles, and
-    Sangenpai of haku / hatsu.
+    All [kazehai]({{< ref "/riichi/terminology/jihai.md" >}}) tiles, and
+    [Sangenpai]({{< ref "/riichi/terminology/jihai.md" >}}) of haku / hatsu.
 
-Such hand is available in chiitoitsu form.
+Such hand is available in [chiitoitsu]({{< ref "/riichi/yaku/chiitoitsu.md" >}}) form.
 
 - Value: 3 han (2 han when opened)
 - Example: {{< t 444p23488s333z >}} {{< t -555z >}}
@@ -321,15 +350,16 @@ containing honor tiles, while the **Chintanfon** {{< kana "清断紅" >}} only b
 
 ### Chinpeikou
 
-**Chinpeikou** {{< kana "清盃口" >}} is a ryanpeikou hand with both two groups of shuntsus sharing
-the same numbers. Also called **Ryanpeikou doujun** {{< kana "二盃口同順" >}}.
+**Chinpeikou** {{< kana "清盃口" >}} is a [ryanpeikou]({{< ref "/riichi/yaku/ryanpeikou.md" >}})
+hand with both two groups of shuntsus sharing the same numbers. Also called **Ryanpeikou doujun**
+{{< kana "二盃口同順" >}}.
 
 - Value: 3 han (actually 6 han based on ryanpeikou's 3 han)
 - Example: {{< t 2334466m223344p >}}, Ron: {{< t 2m >}} \[14\]
 - Trivia:
   - The kanji prefix "chin" {{< kana "清" >}} in mahjong is generally used to indicate a yaku
-    variant which is built without containing honor tiles. However there's no such meaning in this
-    yaku, this hand can be actually built with jihai.
+    variant which is built without containing [honor]({{< ref "/riichi/terminology/jihai.md" >}})
+    tiles. However there's no such meaning in this yaku, this hand can be actually built with jihai.
 
 ## Mangan for actions taking on specific tiles
 
@@ -347,7 +377,8 @@ picked as the highest one.
 ### Kinkei dokuritsu
 
 **Kinkei dokuritsu** / **Chinchi dourii** {{< kana "金鶏独立" >}} (lit. _A golden rooster standing
-alone_) is a four-melded hand waiting for 1-sou's hadaka tanki. Ankans are admitted. Also called
+alone_) is a four-melded hand waiting for 1-sou's [hadaka
+tanki]({{< ref "/riichi/terminology/waits/tanki.md" >}}). Ankans are admitted. Also called
 **Chinchiihou** {{< kana "金鶏和" >}}.
 
 The pattern of 1-sou indicates the golden rooster, while the waiting pattern of hadaka-tanki refers
@@ -359,8 +390,9 @@ to aloneness.
 
 ### Touchao hanchanshue
 
-**Touchao hanchanshue** {{< kana "独釣寒江雪" >}} is a four-melded hand waiting for hadaka tanki of
-sangenpai haku. Ankans are admitted.
+**Touchao hanchanshue** {{< kana "独釣寒江雪" >}} is a four-melded hand waiting for [hadaka
+tanki]({{< ref "/riichi/terminology/waits/tanki.md" >}}) of
+[sangenpai]({{< ref "/riichi/terminology/jihai.md" >}}) haku. Ankans are admitted.
 
 The pattern of haku indicates the snow, while the waiting pattern of hadaka-tanki refers to
 aloneness.
@@ -374,8 +406,9 @@ aloneness.
 
 ### Uupin kaihou
 
-**Uupin kaihou** / **Uuton kaihou** {{< kana "五筒開花" >}} is a specific rinshan kaihou hand with
-the pinzu of 5 as rinshanpai.
+**Uupin kaihou** / **Uuton kaihou** {{< kana "五筒開花" >}} is a specific [rinshan
+kaihou]({{< ref "/riichi/yaku/rinshan-kaihou.md" >}}) hand with the pinzu of 5 as
+[rinshanpai]({{< ref "/riichi/yaku/rinshan-kaihou.md" >}}).
 
 The pattern of 5-pin indicates the blossom.
 
@@ -384,7 +417,8 @@ The pattern of 5-pin indicates the blossom.
 
 ### Ryanzou chankan
 
-**Ryanzou chankan** {{< kana "二索槍槓" >}} is a special chankan hand winning with souzu of 2.
+**Ryanzou chankan** {{< kana "二索槍槓" >}} is a special
+[chankan]({{< ref "/riichi/yaku/chankan.md" >}}) hand winning with souzu of 2.
 
 The pattern of 2-sou indicates the spear.
 
@@ -395,8 +429,10 @@ The pattern of 2-sou indicates the spear.
 
 ### Iipin mouyue
 
-**Iipin mouyue** / **Iiton mouyue** {{< kana "一筒摸月" >}} is a special haitei raoyue hand with the
-pinzu of 1 as haiteihai. Also written as **Iipin raoyue** {{< kana "一筒撈月" >}}.
+**Iipin mouyue** / **Iiton mouyue** {{< kana "一筒摸月" >}} is a special [haitei
+raoyue]({{< ref "/riichi/yaku/haitei-raoyue-and-houtei-raoyui.md" >}}) hand with the pinzu of 1 as
+[haiteihai]({{< ref "/riichi/yaku/haitei-raoyue-and-houtei-raoyui.md" >}}). Also written as **Iipin
+raoyue** {{< kana "一筒撈月" >}}.
 
 The pattern of 1-pin indicates the moon.
 
@@ -405,7 +441,8 @@ The pattern of 1-pin indicates the moon.
 
 ### Chuupin raoyui
 
-**Chuupin raoyui** {{< kana "九筒撈魚" >}} is a special houtei raoyui hand with the pinzu of 9 as
+**Chuupin raoyui** {{< kana "九筒撈魚" >}} is a special [houtei
+raoyui]({{< ref "/riichi/yaku/haitei-raoyue-and-houtei-raoyui.md" >}}) hand with the pinzu of 9 as
 houteihai.
 
 The pattern of 9-pin indicates a school of fish.
@@ -445,7 +482,7 @@ fourteen different tiles listed as follows:
 -
 
     Seven different tiles from 147 / 258 / 369 both in different suits;
-    All of seven different honor tiles (indicating the seven stars).
+    All of seven different [honor]({{< ref "/riichi/terminology/jihai.md" >}}) tiles (indicating the seven stars).
 
 Unlike shiisan / shiisuu puutaa, this yaku is not restricted to starting-hand only.
 
@@ -459,7 +496,8 @@ Unlike shiisan / shiisuu puutaa, this yaku is not restricted to starting-hand on
 `main|Renhou` **Renhou** {{< kana "人和" >}} (_Humanly hand_, _Hand of man_, _Blessing of human_) is
 a yaku achieved by a non-dealer player winning on a discard without self-drawing any tile.
 
-Similar to tenhou and chiihou, any calling actions will nullify the yaku.
+Similar to [tenhou and chiihou]({{< ref "/riichi/yakuman/tenhou-and-chiihou.md" >}}), any calling
+actions will nullify the yaku.
 
 - Value: Mangan / Baiman / Yakuman
 - Example: {{< t 45m456678p55s666z >}}, Ron: {{< t 3m >}} (Turn 0). \[19\]
@@ -473,8 +511,9 @@ Generally speaking, if a player has their discards identical to some opponent in
 (usually from 1st to 5th / 6th turn), maneman is applied and the opponent will lose a mangan to that
 player.
 
-Similar to nagashi mangan, the condition breaks if anybody melded some tiles required by the yaku,
-though it doesn't hurt if the melded tile is not related to the repeated part.
+Similar to [nagashi mangan]({{< ref "/riichi/yaku/nagashi-mangan.md" >}}), the condition breaks if
+anybody melded some tiles required by the yaku, though it doesn't hurt if the melded tile is not
+related to the repeated part.
 
 - Value: Mangan
 
@@ -489,10 +528,10 @@ Some variations may exist under different rulesets:
 ### Paarenchan
 
 **Paarenchan** {{< kana "八連荘" >}} (lit. _Eight consecutive dealership_) is a special winning
-state related to renchan. Roughly speaking, if a player successfully keeps his dealership for eight
-countinous rounds, or simply wins eight hands continuously, the hand he won at the last time will be
-automatically scored as a yakuman, as long as it is a valid winning hand, no matter how small is its
-actual value.
+state related to [renchan]({{< ref "/riichi/rules/renchan.md" >}}). Roughly speaking, if a player
+successfully keeps his dealership for eight countinous rounds, or simply wins eight hands
+continuously, the hand he won at the last time will be automatically scored as a yakuman, as long as
+it is a valid winning hand, no matter how small is its actual value.
 
 More specifically, there're three main variants to determine a paarenchan:
 
@@ -500,11 +539,11 @@ More specifically, there're three main variants to determine a paarenchan:
 
     **Definition 1**: Winning eight hands consecutively, no matter if the player is the dealer at that round.
     **Definition 2**: Winning eight hands continuously exactly in his own dealership (as how the yaku name strictly indicated).
-    **Definition 3**: Successfully accumulates eight honba points on his own. Usually a hand must be won at the last honba, while it doesn't matter for the previous ones.
+    **Definition 3**: Successfully accumulates eight [honba]({{< ref "/riichi/rules/honba.md" >}}) points on his own. Usually a hand must be won at the last honba, while it doesn't matter for the previous ones.
 
-Usually an optional restriction of ryanhan-shibari will be applied to the dealer after the fifth
-round. That being said, the dealer can only claim a winning hand with at least 2 han from yakus,
-otherwise the progress will halt.
+Usually an optional restriction of [ryanhan-shibari]({{< ref "/riichi/rules/ryanhan-shibari.md" >}})
+will be applied to the dealer after the fifth round. That being said, the dealer can only claim a
+winning hand with at least 2 han from yakus, otherwise the progress will halt.
 
 - Value: Yakuman
 
@@ -685,21 +724,23 @@ continue the next loop of paarenchan progress.
 
 ### Pouhoi paarenchan
 
-With the rule of paarenchan applied, if a non-dealer breaks opponent's dealership successfully at
-the round the dealer can achieve paarenchan, **Pouhoi paarenchan** {{< kana "破回八連荘" >}} (lit.
-_Destroyed eighth-dealership_) is achieved. The non-dealer winner will automatically scored a
-yakuman, no matter how much his hand actually values.
+With the rule of [paarenchan](#Paarenchan "wikilink") applied, if a non-dealer breaks opponent's
+dealership successfully at the round the dealer can achieve paarenchan, **Pouhoi paarenchan**
+{{< kana "破回八連荘" >}} (lit. _Destroyed eighth-dealership_) is achieved. The non-dealer winner
+will automatically scored a yakuman, no matter how much his hand actually values.
 
 - Value: Yakuman
 
-Unlike paarenchan, the ryanhan-shibari restriction is not applied to the non-dealers.
+Unlike paarenchan, the [ryanhan-shibari]({{< ref "/riichi/rules/ryanhan-shibari.md" >}}) restriction
+is not applied to the non-dealers.
 
 In some ruleset, the winning condition is limited to either tsumo, or ron from the dealer.
 
 ### Ishino uenimo sannen
 
 **Ishino uenimo sannen** {{< kana "石の上にも三年" >}} (lit. _Three years on a rock_) is a yaku
-achieved by winning a double-riichi hand with haitei raoyue / houtei raoyui.
+achieved by winning a [double-riichi]({{< ref "/riichi/yaku/daburu-riichi.md" >}}) hand with [haitei
+raoyue / houtei raoyui]({{< ref "/riichi/yaku/haitei-raoyue-and-houtei-raoyui.md" >}}).
 
 - Value: Yakuman
 - Example:
@@ -711,16 +752,17 @@ achieved by winning a double-riichi hand with haitei raoyue / houtei raoyui.
 
 ### Toukanhou
 
-**Toukanhou** {{< kana "頭槓和" >}} (lit. _First-kan win_) is a yaku achieved by claiming a kan in
-the first turn and win with rinshan kaihou immediately.
+**Toukanhou** {{< kana "頭槓和" >}} (lit. _First-kan win_) is a yaku achieved by claiming a
+[kan]({{< ref "/riichi/rules/kan.md" >}}) in the first turn and win with [rinshan
+kaihou]({{< ref "/riichi/yaku/rinshan-kaihou.md" >}}) immediately.
 
-Similarly to tenhou and chiihou, the yaku will be nullified with any preceding calling actions from
-the opponents.
+Similarly to [tenhou and chiihou]({{< ref "/riichi/yakuman/tenhou-and-chiihou.md" >}}), the yaku
+will be nullified with any preceding calling actions from the opponents.
 
 Due to the required action of kan, this yaku is not available to combine with tenhou and chiihou.
 
-Depending on rulesets, the type of kan may be limited to ankan-only, or can only be achieved by the
-dealer.
+Depending on rulesets, the type of kan may be limited to
+[ankan]({{< ref "/riichi/rules/kan.md" >}})-only, or can only be achieved by the dealer.
 
 - Value: Yakuman
 
@@ -728,7 +770,7 @@ dealer.
 
 **Shiisanpuutaa** / **Shiisanputou** {{< kana "十三不塔" >}} (lit. _Thirteen unconnected_) is a
 special starting hand with none of the two tiles (in thirteen different tiles) can be formed as a
-taatsu, aside from exactly one pair.
+[taatsu]({{< ref "/riichi/strategy/tile-efficiency.md" >}}), aside from exactly one pair.
 
 - Value: Yakuman
 - Example: {{< t 3669m47p48s123456z >}} \[21\]
@@ -740,8 +782,8 @@ Likewise, if all the fourteen different tiles are mutually exclusive, this start
 - Value: Yakuman
 - Example: {{< t 148s26p149m12567z >}} {{< t 3z >}}
 
-Similar to tenhou and chiihou, these yakus are only recognized in the first turn of each player, and
-any calling actions will nullify the yaku.
+Similar to [tenhou and chiihou]({{< ref "/riichi/yakuman/tenhou-and-chiihou.md" >}}), these yakus
+are only recognized in the first turn of each player, and any calling actions will nullify the yaku.
 
 ### Suurenkou
 
@@ -752,12 +794,14 @@ triplets (or quads) in one suit where their numbers are increased by 1.
 - Example: {{< t 2777888p >}} {{< t 66-6p >}} {{< t 99-9p >}}, Ron: {{< t 2p >}} \[22\]
 
 The following hand is also called **Junsei suurenkou** {{< kana "純正四連刻" >}} (lit. _Pure four
-consecutive triplets_): shanpon-machi with either waits ensures a suurenkou.
+consecutive triplets_): [shanpon]({{< ref "/riichi/terminology/waits/shanpon.md" >}})-machi with
+either waits ensures a suurenkou.
 
 - Example: {{< t 1155m >}} {{< t 22-2m >}} {{< t 33-3m >}} {{< t 4-44m >}}, Agari: {{< t 1m >}} /
   {{< t 5m >}}
 
-The rule of sekinin barai can be applied in this yakuman hand.
+The rule of [sekinin barai]({{< ref "/riichi/rules/sekinin-barai.md" >}}) can be applied in this
+yakuman hand.
 
 -
 
@@ -774,7 +818,8 @@ This yaku is a less common variant of suurenkou.
 - Value: Usually yakuman
 - Example: {{< t 222888p11m >}} {{< t 66-6p >}} {{< t -444p >}}
 
-The rule of sekinin barai can be applied in this yakuman hand.
+The rule of [sekinin barai]({{< ref "/riichi/rules/sekinin-barai.md" >}}) can be applied in this
+yakuman hand.
 
 -
 
@@ -784,9 +829,11 @@ The rule of sekinin barai can be applied in this yakuman hand.
 ### Daisharin / Daichikurin / Daisuurin
 
 `main|Daisharin` **Daisharin** {{< kana "大車輪" >}} (_Big wheels_) is a closed hand with a pattern
-of 22334455667788 in pinzu. Likewise, **Daichikurin** {{< kana "大竹林" >}} (_Bamboo forest_) and
-**Daisuurin** {{< kana "大数隣" >}} (_Numerous numbers_) is achieved by using the same pattern in
-souzu and manzu respectively.
+of 22334455667788 in [pinzu]({{< ref "/riichi/rules/mahjong-equipment.md" >}}). Likewise,
+**Daichikurin** {{< kana "大竹林" >}} (_Bamboo forest_) and **Daisuurin** {{< kana "大数隣" >}}
+(_Numerous numbers_) is achieved by using the same pattern in
+[souzu]({{< ref "/riichi/rules/mahjong-equipment.md" >}}) and
+[manzu]({{< ref "/riichi/rules/mahjong-equipment.md" >}}) respectively.
 
 - Value: Yakuman
 - Examples:
@@ -794,27 +841,34 @@ souzu and manzu respectively.
   - {{< t 2234405667788s >}}, Tsumo: {{< t 3s >}} (Daichikurin) \[24\]
   - {{< t 2233445566778m >}}, Ron: {{< t 8m >}} (Daisuurin) \[25\]
 - Trivia:
-  - When this yaku is not recognized, such hand scores at least a sanbaiman (11 han), with tanyao's
-    1 han + pinfu's 1 han + ryanpeikou's 3 han + chinitsu's 6 han.
+  - When this yaku is not recognized, such hand scores at least a sanbaiman (11 han), with
+    [tanyao]({{< ref "/riichi/yaku/tanyao.md" >}})'s 1 han +
+    [pinfu]({{< ref "/riichi/yaku/pinfu.md" >}})'s 1 han +
+    [ryanpeikou]({{< ref "/riichi/yaku/ryanpeikou.md" >}})'s 3 han +
+    [chinitsu]({{< ref "/riichi/yaku/chiniisou.md" >}})'s 6 han.
   - The concrete definition of daisharin may vary in each platform. Some is defined as ryanpeikou,
-    while some is defined by chiitoitsu. These definitions in fact generate an identical pattern of
-    a concealed hand, and it doesn't hurt under the general ruleset of japanese mahjong. However
-    this will influence the available stacking yakus under aotenjou rules, which finally brings a
-    different sum-up result.
+    while some is defined by [chiitoitsu]({{< ref "/riichi/yaku/chiitoitsu.md" >}}). These
+    definitions in fact generate an identical pattern of a concealed hand, and it doesn't hurt under
+    the general ruleset of japanese mahjong. However this will influence the available stacking
+    yakus under aotenjou rules, which finally brings a different sum-up result.
 
 ### Shousharin / Shouchikurin / Shousuurin
 
-**Shousharin** {{< kana "小車輪" >}} is a concealed hand with seven consecutive pinzu pairs from 1
-to 7, or from 3 to 9. Similarly, **Shouchikurin** {{< kana "小竹林" >}} and **Shousuurin**
-{{< kana "小数隣" >}} are the variants of souzu and manzu correspondingly.
+**Shousharin** {{< kana "小車輪" >}} is a concealed hand with seven consecutive
+[pinzu]({{< ref "/riichi/rules/mahjong-equipment.md" >}}) pairs from 1 to 7, or from 3 to 9.
+Similarly, **Shouchikurin** {{< kana "小竹林" >}} and **Shousuurin** {{< kana "小数隣" >}} are the
+variants of [souzu]({{< ref "/riichi/rules/mahjong-equipment.md" >}}) and
+[manzu]({{< ref "/riichi/rules/mahjong-equipment.md" >}}) correspondingly.
 
 - Value: Usually yakuman, sometimes sanbaiman or even lower
 - Examples:
   - {{< t 3344566778899p >}}, Tsumo: {{< t 5p >}} (Shousharin) \[26\]
   - {{< t 1122334056677s >}}, Tsumo: {{< t 4s >}} (Shouchikurin) \[27\]
 - Trivia:
-  - When the yaku is not recognized, such hand values at least a baiman (9 han), with chinitsu's 6
-    han + ryanpeikou's 3 han. Unlike daisharin, pinfu is not always guaranteed.
+  - When the yaku is not recognized, such hand values at least a baiman (9 han), with
+    [chinitsu]({{< ref "/riichi/yaku/chiniisou.md" >}})'s 6 han +
+    [ryanpeikou]({{< ref "/riichi/yaku/ryanpeikou.md" >}})'s 3 han. Unlike daisharin,
+    [pinfu]({{< ref "/riichi/yaku/pinfu.md" >}}) is not always guaranteed.
   - The usage of yaku is not as common as daisharin. Usually this yaku is defined accompanying with
     daisharin as a weaker version.
 
@@ -827,15 +881,16 @@ a hand containing four identical shuntsus in a same suit. Also knowned as **Suur
 The winning condition may vary between closed-hand only, or opened-hand allowed. Though even with an
 openable choice, this hand is still pretty rare, and really hard to accomplish. The difficulty comes
 from the process of collecting those twelve tiles with continuous numbers in one suit, while only
-the kamicha can help to feed the tiles. This is also why this yaku generally doesn't apply the
-kuisagari rule to downgrade the value of an opened hand, which is usually widely applied for
-shuntsu-based yakus.
+the [kamicha]({{< ref "/riichi/strategy/jikaze.md" >}}) can help to feed the tiles. This is also why
+this yaku generally doesn't apply the [kuisagari]({{< ref "/riichi/rules/naki.md" >}}) rule to
+downgrade the value of an opened hand, which is usually widely applied for shuntsu-based yakus.
 
 - Value: Yakuman
 - Example: {{< t 11m223344s >}} {{< t -234s >}} {{< t -423s >}}
 
-The rule of sekinin barai can be applied in this yakuman hand. Due to the limitation on claiming
-chii, only kamicha can be the target of responsibility.
+The rule of [sekinin barai]({{< ref "/riichi/rules/sekinin-barai.md" >}}) can be applied in this
+yakuman hand. Due to the limitation on claiming [chii]({{< ref "/riichi/rules/naki.md" >}}), only
+kamicha can be the target of responsibility.
 
 -
 
@@ -844,9 +899,11 @@ chii, only kamicha can be the target of responsibility.
 
 ### Hyakuman goku
 
-**Hyakuman goku** {{< kana "百万石" >}} (lit. _Million piculs_) is a chinitsu hand of manzu where
-all of their numbers can be summed up to over a hundred. As how the yaku name indicated, a million
-is achieved by multiplying 100 by ten thousands, the unit of manzu.
+**Hyakuman goku** {{< kana "百万石" >}} (lit. _Million piculs_) is a
+[chinitsu]({{< ref "/riichi/yaku/chiniisou.md" >}}) hand of
+[manzu]({{< ref "/riichi/rules/mahjong-equipment.md" >}}) where all of their numbers can be summed
+up to over a hundred. As how the yaku name indicated, a million is achieved by multiplying 100 by
+ten thousands, the unit of manzu.
 
 - Value: Yakuman
 - Examples:
@@ -862,7 +919,7 @@ is achieved by multiplying 100 by ten thousands, the unit of manzu.
   - Scores the exactly 100 cases as a double yakuman. Such hand is also called **Kaga hyakuman
     goku** {{< kana "加賀百万石" >}} / **Junsei hyakuman goku** {{< kana "純正百万石" >}} (lit.
     _Pure million piculs_).
-  - May allow summing up a hand for honitsu.
+  - May allow summing up a hand for [honitsu]({{< ref "/riichi/yaku/honiisou.md" >}}).
 - Trivia:
   - A picul (石, or 担) is an ancient unit of weight in Asia. The actual weight may be a bit off,
     but roughly it's defined by "as much as a man can carry on a shoulder-pole", at around 50 to 60
@@ -887,7 +944,7 @@ Hana (花), Tsuki (月) and:
 
 -
 
-    Yuki {{< kana "雪" >}} (*Snow*): Sangenpai haku
+    Yuki {{< kana "雪" >}} (*Snow*): [Sangenpai]({{< ref "/riichi/terminology/jihai.md" >}}) haku
 
 No further restriction on picking the pair.
 
@@ -903,9 +960,11 @@ No further restriction on picking the pair.
 
 ### Kouitten
 
-**Kouitten** {{< kana "紅一点" >}} (lit. _A little red_) is a hand similar to ryuuiisou by replacing
-the sangenpai hatsu to the <span style="color:red; font-weight:bold;">red</span> one: sangenpai
-chun. Also called **Ittenkou** {{< kana "一点紅" >}}.
+**Kouitten** {{< kana "紅一点" >}} (lit. _A little red_) is a hand similar to
+[ryuuiisou]({{< ref "/riichi/yaku/ryuuiisou.md" >}}) by replacing the
+[sangenpai]({{< ref "/riichi/terminology/jihai.md" >}}) hatsu to the
+<span style="color:red; font-weight:bold;">red</span> one: sangenpai chun. Also called **Ittenkou**
+{{< kana "一点紅" >}}.
 
 The sangenpai chun is required to complete the hand, similarly to the early restriction on
 ryuuiisou.
@@ -919,11 +978,13 @@ ryuuiisou.
 ### Benikujaku
 
 **Benikujaku** {{< kana "紅孔雀" >}} (lit. _Red peacock_) is a hand only built by the
-<span style="color:red; font-weight:bold;">red</span> souzu tiles (souzu of 1, 5, 7 and 9) and
+<span style="color:red; font-weight:bold;">red</span>
+[souzu]({{< ref "/riichi/rules/mahjong-equipment.md" >}}) tiles (souzu of 1, 5, 7 and 9) and
 sangenpai chun.
 
-This yaku is harder than ryuuiisou and chinroutou, as it only contains five kinds of available
-tiles, and they can't perform any shuntsu.
+This yaku is harder than [ryuuiisou]({{< ref "/riichi/yaku/ryuuiisou.md" >}}) and
+[chinroutou]({{< ref "/riichi/yakuman/chinroutou.md" >}}), as it only contains five kinds of
+available tiles, and they can't perform any [shuntsu]({{< ref "/riichi/terminology/mentsu.md" >}}).
 
 - Value: Yakuman
 - Example: {{< t 5777999s >}} {{< t 11-1s >}} {{< t 77-7z >}}, Agari: {{< t 0s >}} \[30\]
@@ -936,10 +997,12 @@ tiles, and they can't perform any shuntsu.
 ### Kokuiisou
 
 **Kokuiisou** / **Heiiisou** {{< kana "黒一色" >}} (lit. _All black_) is a hand built only by the
-<span style="color:darkblue; font-weight:bold;">black</span> tiles: the pinzu of 2 / 4 / 6 and four
-kinds of kazehai.
+<span style="color:darkblue; font-weight:bold;">black</span> tiles: the
+[pinzu]({{< ref "/riichi/rules/mahjong-equipment.md" >}}) of 2 / 4 / 6 and four kinds of
+[kazehai]({{< ref "/riichi/terminology/jihai.md" >}}).
 
-The hand is available in either toitoi or chiitoi form.
+The hand is available in either [toitoi]({{< ref "/riichi/yaku/toitoihou.md" >}}) or
+[chiitoi]({{< ref "/riichi/yaku/chiitoitsu.md" >}}) form.
 
 - Value: Yakuman (or sanbaiman in some rules)
 - Examples:
@@ -948,12 +1011,13 @@ The hand is available in either toitoi or chiitoi form.
 
 ### Ryuuiisourin / Kouittenrin
 
-**Ryuuiisourin** {{< kana "緑一色輪" >}} is a hand similar to ryuuiisou by replacing the pair with
-the souzu of 5. Likewise, we get **Kouittenrin** {{< kana "紅一点輪" >}} by replacing the pair based
-on a kouitten hand.
+**Ryuuiisourin** {{< kana "緑一色輪" >}} is a hand similar to
+[ryuuiisou]({{< ref "/riichi/yaku/ryuuiisou.md" >}}) by replacing the pair with the souzu of 5.
+Likewise, we get **Kouittenrin** {{< kana "紅一点輪" >}} by replacing the pair based on a kouitten
+hand.
 
-Such hands are available in chiitoitsu form, as they both contain seven kinds of available tiles to
-build a hand.
+Such hands are available in [chiitoitsu]({{< ref "/riichi/yaku/chiitoitsu.md" >}}) form, as they
+both contain seven kinds of available tiles to build a hand.
 
 - Value: Yakuman
 - Example:
@@ -977,7 +1041,7 @@ the bridge deck.
 Depending on rulesets, different restrictions may be applied, such as:
 
 - Closed-hand only
-- Restricted in chinitsu-form only
+- Restricted in [chinitsu]({{< ref "/riichi/yaku/chiniisou.md" >}})-form only
 - Head pair must be 5 in the same suit, which makes the hand even harder (may sometimes valued
   double yakuman in this case)
   - The stack of four 5-tiles indicates the structure of largest pier in the middle.
@@ -989,7 +1053,8 @@ of South and North, a set of "1861" in identical suit, and a set of "1865" in an
 
 - Restriction:
   - Menzenchin only.
-  - The triplet of South / North is usually not allowed to meld or claim as ankan.
+  - The triplet of South / North is usually not allowed to meld or claim as
+    [ankan]({{< ref "/riichi/rules/kan.md" >}}).
   - The two groups of years are usually not allowed in a same suit.
 - Value: Yakuman
 - Example: {{< t 1861p1865s222444z >}}
@@ -1003,7 +1068,7 @@ of South and North, a set of "1861" in identical suit, and a set of "1865" in an
 ### Tohoku Expressway
 
 **Touhoku jidoushadou** {{< kana "東北自動車道" >}} (_Tohoku Expressway_) is a hand only using pinzu
-of 2 / 4 / 6 and kazehai of East / North.
+of 2 / 4 / 6 and [kazehai]({{< ref "/riichi/terminology/jihai.md" >}}) of East / North.
 
 The pinzu of 2 / 4 / 6 represents two-wheelers (二輪車), ordinary cars (普通車), and large cars (大
 型車) correspondingly.
@@ -1017,8 +1082,9 @@ The pinzu of 2 / 4 / 6 represents two-wheelers (二輪車), ordinary cars (普�
 
 ### Tohoku Shinkansen
 
-**Touhoku Shinkansen** {{< kana "東北新幹線" >}} (_Tohoku Shinkansen_) is a hand built with kazehai
-East and North as the pair and a triplet, and an ikkitsuukan hand as the rest.
+**Touhoku Shinkansen** {{< kana "東北新幹線" >}} (_Tohoku Shinkansen_) is a hand built with
+[kazehai]({{< ref "/riichi/terminology/jihai.md" >}}) East and North as the pair and a triplet, and
+an [ikkitsuukan]({{< ref "/riichi/yaku/ikkitsuukan.md" >}}) hand as the rest.
 
 - Value: Yakuman (usually closed-hand only)
 - Example: {{< t 123456789s11144z >}}
@@ -1032,8 +1098,10 @@ East and North as the pair and a triplet, and an ikkitsuukan hand as the rest.
 
 ### Blue Tunnel
 
-**Aonodoumon** {{< kana "青ノ洞門" >}} (_Ao no Domon_, lit. _Blue Tunnel_) is a toitoi hand built
-with pinzu of 2 / 4 / 8, sangenpai hatsu, and one kind of arbitrary kazehai.
+**Aonodoumon** {{< kana "青ノ洞門" >}} (_Ao no Domon_, lit. _Blue Tunnel_) is a
+[toitoi]({{< ref "/riichi/yaku/toitoihou.md" >}}) hand built with pinzu of 2 / 4 / 8,
+[sangenpai]({{< ref "/riichi/terminology/jihai.md" >}}) hatsu, and one kind of arbitrary
+[kazehai]({{< ref "/riichi/terminology/jihai.md" >}}).
 
 - Value: Yakuman
 - Example: {{< t 22244488p >}} {{< t 33-3z >}} {{< t 6-66z >}}
@@ -1055,32 +1123,38 @@ of sangenpais.
 - Example: {{< t 6s >}} {{< t -978s >}} {{< t 6-6-66z >}} {{< t 5-5-55z >}} {{< t -7-777z >}}, Ron:
   {{< t 6s >}} \[32\]
 
-When chousangen is not recognized, such hand values single yakuman as daisangen.
+When chousangen is not recognized, such hand values single yakuman as
+[daisangen]({{< ref "/riichi/yakuman/daisangen.md" >}}).
 
 ### Daichisei
 
-`main|Daichisei` **Daichisei** {{< kana "大七星" >}} (lit. _Big seven stars_) is a chiitoitsu hand
-containing all the seven kinds of honor tiles. Also called **Jihai chiitoitsu**
+`main|Daichisei` **Daichisei** {{< kana "大七星" >}} (lit. _Big seven stars_) is a
+[chiitoitsu]({{< ref "/riichi/yaku/chiitoitsu.md" >}}) hand containing all the seven kinds of
+[honor]({{< ref "/riichi/terminology/jihai.md" >}}) tiles. Also called **Jihai chiitoitsu**
 {{< kana "字牌七対子" >}} (lit. _Seven pairs of honors_).
 
 - Value: Double yakuman
 - Example: {{< t 1122344556677z >}}, Ron: {{< t 3z >}} \[33\]
 
-When daichisei is not recognized, the hand values single yakuman as tsuuiisou.
+When daichisei is not recognized, the hand values single yakuman as
+[tsuuiisou]({{< ref "/riichi/yakuman/tsuuiisou.md" >}}).
 
 ### Junsei ryuuiisou
 
-**Junsei ryuuiisou** {{< kana "純正緑一色" >}} (lit. _Pure all green_) is an all-green hand built
-only with the souzu tile of 2, 3, 4, 6 and 8, which excludes hatsu.
+**Junsei ryuuiisou** {{< kana "純正緑一色" >}} (lit. _Pure all green_) is an
+[all-green]({{< ref "/riichi/yaku/ryuuiisou.md" >}}) hand built only with the
+[souzu]({{< ref "/riichi/rules/mahjong-equipment.md" >}}) tile of 2, 3, 4, 6 and 8, which excludes
+[hatsu]({{< ref "/riichi/terminology/jihai.md" >}}).
 
 - Value: Double yakuman
 - Example: {{< t 3466688s >}} {{< t -324s >}} {{< t -324s >}}, Ron: {{< t 2s >}} \[34\]
 
 When junsei ryuuiisou is not recognized, the hand may value:
 
-- Single yakuman as ryuuiisou
-- 6 / 7 han as tanyao chinitsu, or 5 / 6 han as chinitsu-only with kuitan-nashi, if the variation of
-  ryuuiisou requires hatsu must be contained in hand.
+- Single yakuman as [ryuuiisou]({{< ref "/riichi/yaku/ryuuiisou.md" >}})
+- 6 / 7 han as [tanyao]({{< ref "/riichi/yaku/tanyao.md" >}})
+  [chinitsu]({{< ref "/riichi/yaku/chiniisou.md" >}}), or 5 / 6 han as chinitsu-only with
+  kuitan-nashi, if the variation of ryuuiisou requires hatsu must be contained in hand.
 
 ### Chousuushi
 
@@ -1090,7 +1164,9 @@ kazehais.
 - Value: Triple or quadruple yakuman
 - Example: {{< t 66s >}} {{< t 0110z >}} {{< t -2-222z >}} {{< t 4-444z >}} {{< t 333-3z >}}
 
-When chousuushi is not recognized, such hand values double or triple yakuman as daisuushi suukantsu.
+When chousuushi is not recognized, such hand values double or triple yakuman as
+[daisuushi]({{< ref "/riichi/yakuman/suushiihou.md" >}})
+[suukantsu]({{< ref "/riichi/yakuman/suukantsu.md" >}}).
 
 ## References
 

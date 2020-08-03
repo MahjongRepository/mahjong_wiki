@@ -5,8 +5,8 @@ updated = "2019-05-21T05:20:05Z"
 tags = ["Books"]
 +++
 
-The following is a list of mahjong books written by various Japanese professional players and
-leagues.
+The following is a list of [mahjong]({{< ref "/riichi/rules/japanese-mahjong.md" >}}) books written
+by various Japanese professional players and leagues.
 
 ## Book list
 

@@ -5,9 +5,10 @@ updated = "2019-03-08T03:37:22Z"
 tags = ["Game rules"]
 +++
 
-Of course, the proper equipment is needed in order to play Japanese mahjong. Naturally, mahjong
-tiles are used. It is possible to play the game using printed cards; yet, it is actually cumbersome
-to do so. In practice, tiles have been the most effective way to play the game in person.
+Of course, the proper equipment is needed in order to play [Japanese
+mahjong]({{< ref "/riichi/rules/japanese-mahjong.md" >}}). Naturally, mahjong tiles are used. It is
+possible to play the game using printed cards; yet, it is actually cumbersome to do so. In practice,
+tiles have been the most effective way to play the game in person.
 
 The game is also available online, video games, and software.
 
@@ -19,19 +20,21 @@ these colors vary from one set to another. Some sets come with tiles whose front
 of the same color. Even then, a specialized set called a "Washizu set" features 3 out of 4 tiles
 using transparent acrylic material.
 
-For Japanese mahjong, 136 out of 144 tiles are used. The extra tiles are four red five dora tiles:
-one for manzu and souzu, and two for pinzu. To use these tiles, regular five tiles are switched with
-the red dora. The remaining four tiles are four flower tiles, which are not used at all. Typically,
-Japanese tiles are individually about the size 16 mm x 19 mm x 26 mm (WLH). Like most mahjong tile
-sets, these tiles are capable of standing on their own.
+For Japanese mahjong, 136 out of 144 tiles are used. The extra tiles are four red five
+[dora]({{< ref "/riichi/rules/dora.md" >}}) tiles: one for manzu and souzu, and two for pinzu. To
+use these tiles, regular five tiles are switched with the red dora. The remaining four tiles are
+four flower tiles, which are not used at all. Typically, Japanese tiles are individually about the
+size 16 mm x 19 mm x 26 mm (WLH). Like most mahjong tile sets, these tiles are capable of standing
+on their own.
 
 The tiles may be subgrouped in a couple different ways. The first distinction is the separation by
 suits and tile types. Three groups of tiles form the numbered suits, while another group form the
-honor tiles, which can be further subdivided as dragons and winds. Within the numbered suits, the
-tiles numbered 2 through 8 are composed of the simples, while the 1's and 9's are separated as the
-terminals.
+[honor tiles]({{< ref "/riichi/terminology/jihai.md" >}}), which can be further subdivided as
+dragons and winds. Within the numbered suits, the tiles numbered 2 through 8 are composed of the
+simples, while the 1's and 9's are separated as the
+[terminals]({{< ref "/riichi/yakuman/chinroutou.md" >}}).
 
-All tiles listed here follow the order used for dora.
+All tiles listed here follow the order used for [dora]({{< ref "/riichi/rules/dora.md" >}}).
 
 ![Standard Japanese mahjong tiles](Mahjong_Tiles.jpg "Standard Japanese mahjong tiles")
 
@@ -71,10 +74,11 @@ Ordered 1-9, it is special to note the 1-sou tile which is marked with a large b
 
 {{</ table >}}
 
-**Kazehai** {{< kana "風牌" >}} are the wind tiles. They are indicated as East, South, West, and
-North. The wind tiles correlate to the player seating, and so therefore, it is best to remember the
+**[Kazehai]({{< ref "/riichi/terminology/jihai.md" >}})** {{< kana "風牌" >}} are the wind tiles.
+They are indicated as East, South, West, and North. The wind tiles correlate to the [player
+seating]({{< ref "/riichi/strategy/jikaze.md" >}}), and so therefore, it is best to remember the
 wind tiles in the East, South, West, and North order, as they correspond to the seating order.
-Likewise, this is significant to note for yakuhai.
+Likewise, this is significant to note for [yakuhai]({{< ref "/riichi/rules/yakuhai.md" >}}).
 
 ### Sangenpai
 
@@ -87,8 +91,9 @@ Likewise, this is significant to note for yakuhai.
 
 {{</ table >}}
 
-**Sangenpai** {{< kana "三元牌" >}} are the dragon tiles. They are known as the dragons: white,
-green, and red. Just noting their color is sufficient enough here.
+**[Sangenpai]({{< ref "/riichi/terminology/jihai.md" >}})** {{< kana "三元牌" >}} are the dragon
+tiles. They are known as the dragons: white, green, and red. Just noting their color is sufficient
+enough here.
 
 ## Mats
 
@@ -117,7 +122,8 @@ games may actually tie these point sticks to money.
 A dealer marker is used throughout the game to either indicate the current dealer, or the initial
 dealer. In the case of the latter, the dice are used to indicate the current dealer, as it gets
 passed around from one dealer to the next. It is also used to indicate the current round, either the
-East Round or South Round.
+[East Round]({{< ref "/riichi/rules/hanchan.md" >}}) or [South
+Round]({{< ref "/riichi/rules/hanchan.md" >}}).
 
 ## Automatic tables
 

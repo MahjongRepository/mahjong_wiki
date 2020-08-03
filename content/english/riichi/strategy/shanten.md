@@ -5,14 +5,16 @@ updated = "2019-12-17T05:49:22Z"
 tags = ["Terminology", "Strategy"]
 +++
 
-**Shanten** {{< kana "向聴" >}} is the number of tiles needed for reaching tenpai. It can also be
-viewed as the minimum number of tile draws or tile calls required to attain tenpai.
+**Shanten** {{< kana "向聴" >}} is the number of tiles needed for reaching
+[tenpai]({{< ref "/riichi/strategy/tenpai.md" >}}). It can also be viewed as the minimum number of
+tile draws or [tile calls]({{< ref "/riichi/rules/naki.md" >}}) required to attain tenpai.
 
 ## Shanten counts
 
 The lower the shanten count, the closer the hand is to tenpai. Naturally, that is advantageous as
-far as tile efficiency is concerned. After all, the sooner the hand gets to tenpai, then the sooner
-can the hand win. For every shanten count, the hand needs any needed tile just to reduce that count.
+far as [tile efficiency]({{< ref "/riichi/strategy/tile-efficiency.md" >}}) is concerned. After all,
+the sooner the hand gets to tenpai, then the sooner can the hand win. For every shanten count, the
+hand needs any needed tile just to reduce that count.
 
 ### Iishanten
 

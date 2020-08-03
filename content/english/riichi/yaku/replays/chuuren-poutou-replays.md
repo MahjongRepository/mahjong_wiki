@@ -5,8 +5,10 @@ updated = "2019-03-06T23:20:04Z"
 tags = ["Yaku replays"]
 +++
 
-This is a collection of replays featuring chuuren poutou. The complicated wait patterns enable a
-wide variety of chuuren poutou tenpai configurations.
+This is a collection of replays featuring [chuuren
+poutou]({{< ref "/riichi/yakuman/chuuren-poutou.md" >}}). The complicated wait patterns enable a
+wide variety of chuuren poutou tenpai
+[configurations]({{< ref "/riichi/yakuman/list-of-chuuren-configurations.md" >}}).
 
 ## 1 tile wait
 

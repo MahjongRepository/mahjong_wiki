@@ -14,8 +14,8 @@ tags = ["Terminology", "Machi"]
 |gameExample = [Kanchan](http://tenhou.net/0/?log=2014012711gm-0029-0000-x45d0a9727337&tw=3&ts=4)
 ```
 
-**Kanchan** {{< kana "嵌張" >}} is a wait pattern that completes with the middle number of a
-sequence.
+**Kanchan** {{< kana "嵌張" >}} is a [wait pattern]({{< ref "/riichi/strategy/machi.md" >}}) that
+completes with the middle number of a sequence.
 
 ## Pattern
 
@@ -25,13 +25,14 @@ sequence.
 
 `main|Fu`
 
-Kanchan is awarded 2 fu upon winning. A closed hand winning by ron automatically becomes mangan, if
-it scores 4 han.
+Kanchan is awarded 2 fu upon winning. A closed hand winning by ron automatically becomes
+[mangan]({{< ref "/riichi/strategy/scoring-table.md" >}}), if it scores 4 han.
 
 ## Strategy
 
-Kanchan is similar to penchan, by which it waits on 4 tiles maximum for a single numbered tile type
-for completion. Likewise, this pattern can hide against suji. However, kanchan is more versatile as
+Kanchan is similar to [penchan]({{< ref "/riichi/terminology/waits/penchan.md" >}}), by which it
+waits on 4 tiles maximum for a single numbered tile type for completion. Likewise, this pattern can
+hide against [suji]({{< ref "/riichi/strategy/suji.md" >}}). However, kanchan is more versatile as
 it is able to use a greater range of tile types.
 
 ## External links

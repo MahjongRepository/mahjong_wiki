@@ -20,9 +20,11 @@ tags = ["Terminology", "Machi", "Strategy"]
 
 ```
 
-**Jigoku** {{< kana "地獄" >}} is a special case of tanki wait where two of the winning tiles are
-visible to all the players either in a discard pool or used as a dora indicator. This means that
-there is only one winning tile left.
+**Jigoku** {{< kana "地獄" >}} is a special case of
+[tanki]({{< ref "/riichi/terminology/waits/tanki.md" >}}) wait where two of the winning tiles are
+visible to all the players either in a discard pool or used as a
+[dora]({{< ref "/riichi/rules/dora.md" >}}) indicator. This means that there is only one winning
+tile left.
 
 ## Background
 
@@ -43,12 +45,16 @@ the other wait patterns are negated by suji and kabe.
 
 ![Riichi with [jigoku](http://tenhou.net/0/?log=2014081918gm-00a9-0000-ff46ec5f&ts=6).](Jigoku_riichi.png "Riichi with jigoku.")
 
-Aside from karaten, this is the weakest choice for a wait, because of the number of available tiles
-to win: one. However, the solitary tile may actually be strong, as players may view it as a safe
-tile; and therefore, one player may discard it. The wait would be better still with the addition of
-suji and/or kabe, or even with an honor tile with two already discarded. In essence, choosing this
-wait may come in the form of a trap, luring unsuspecting players. This wait is best used for
-emergency situations, such as being in last place at oorasu and other dire circumstances.
+Aside from [karaten]({{< ref "/riichi/terminology/karaten.md" >}}), this is the weakest choice for a
+wait, because of the number of available tiles to win: one. However, the solitary tile may actually
+be strong, as players may view it as a [safe tile]({{< ref "/riichi/strategy/defense.md" >}}); and
+therefore, one player may discard it. The wait would be better still with the addition of
+[suji]({{< ref "/riichi/strategy/suji.md" >}}) and/or
+[kabe]({{< ref "/riichi/strategy/kabe.md" >}}), or even with an [honor
+tile]({{< ref "/riichi/terminology/jihai.md" >}}) with two already discarded. In essence, choosing
+this wait may come in the form of a trap, luring unsuspecting players. This wait is best used for
+emergency situations, such as being in last place at
+[oorasu]({{< ref "/riichi/rules/end-game-scenarios.md" >}}) and other dire circumstances.
 
 ## External links
 

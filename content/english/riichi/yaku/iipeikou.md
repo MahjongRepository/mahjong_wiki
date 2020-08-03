@@ -17,10 +17,12 @@ Pure Double Chow
 |gameExample = \* Iipeikou
 ```
 
-**Iipeikou** {{< kana "一盃口" >}} is a standard yaku involving two identical sequences. Identical
-means that both shuntsu must be of the same numbers and suit. This yaku also requires the hand to be
-closed. A single open call invalidates the yaku, even if the pattern exists within the hand. If this
-pattern is found twice in one hand, an alternative yaku, ryanpeikou, is scored.
+**Iipeikou** {{< kana "一盃口" >}} is a standard [yaku]({{< ref "/riichi/yaku/yaku.md" >}})
+involving two identical sequences. Identical means that both
+[shuntsu]({{< ref "/riichi/terminology/mentsu.md" >}}) must be of the same numbers and suit. This
+yaku also requires the hand to be closed. A single [open call]({{< ref "/riichi/rules/naki.md" >}})
+invalidates the yaku, even if the pattern exists within the hand. If this pattern is found twice in
+one hand, an alternative yaku, [ryanpeikou]({{< ref "/riichi/yaku/ryanpeikou.md" >}}), is scored.
 
 ## Tile pattern
 
@@ -44,10 +46,17 @@ recognizable when five out of the six tiles are present in the hand.
 
 `Yaku compatibility table|IPK`
 
-Iipeikou requires two sequences, and as a result is incompatible with sanshoku doukou, toitoi,
-honroutou, chiitoitsu, sanankou, and sankantsu, all of which require either at least three
-koutsu/kantsu or a seven pair structure. The final incompatibility is with ryanpeikou, as ryanpeikou
-implies iipeikou and so iipeikou is not counted.
+Iipeikou requires two sequences, and as a result is incompatible with [sanshoku
+doukou]({{< ref "/riichi/yaku/sanshoku-doukou.md" >}}),
+[toitoi]({{< ref "/riichi/yaku/toitoihou.md" >}}),
+[honroutou]({{< ref "/riichi/yaku/honroutou.md" >}}),
+[chiitoitsu]({{< ref "/riichi/yaku/chiitoitsu.md" >}}),
+[sanankou]({{< ref "/riichi/yaku/sanankou.md" >}}), and
+[sankantsu]({{< ref "/riichi/yaku/sankantsu.md" >}}), all of which require either at least three
+[koutsu]({{< ref "/riichi/terminology/mentsu.md" >}})/[kantsu]({{< ref "/riichi/terminology/mentsu.md" >}})
+or a seven pair structure. The final incompatibility is with
+[ryanpeikou]({{< ref "/riichi/yaku/ryanpeikou.md" >}}), as ryanpeikou implies iipeikou and so
+iipeikou is not counted.
 
 ### Common combinations
 

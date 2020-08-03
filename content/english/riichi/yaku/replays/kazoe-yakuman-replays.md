@@ -5,8 +5,11 @@ updated = "2020-05-20T05:28:43Z"
 tags = ["Yaku replays"]
 +++
 
-This is a collection of replays showing kazoe yakuman. Different forms of kazoe are shown from the
-chiniisou, shousangen, and hands with large dora counts.
+This is a collection of replays showing [kazoe
+yakuman]({{< ref "/riichi/yakuman/kazoe-yakuman.md" >}}). Different forms of kazoe are shown from
+the [chiniisou]({{< ref "/riichi/yaku/chiniisou.md" >}}),
+[shousangen]({{< ref "/riichi/yaku/shousangen.md" >}}), and hands with large
+[dora]({{< ref "/riichi/rules/dora.md" >}}) counts.
 
 ## Dora
 

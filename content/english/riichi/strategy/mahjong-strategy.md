@@ -5,10 +5,10 @@ updated = "2017-01-06T11:04:49Z"
 tags = ["Strategy"]
 +++
 
-The game complexity of Japanese mahjong bears an equally complex set of tactics and strategies to
-consider. While luck is an element of the game, strategy is required to minimize the effects of
-luck. Ultimately, it is up to the player to pick and choose tiles to attain the best result
-possible.
+The game complexity of [Japanese mahjong]({{< ref "/riichi/rules/japanese-mahjong.md" >}}) bears an
+equally complex set of tactics and strategies to consider. While luck is an element of the game,
+strategy is required to minimize the effects of luck. Ultimately, it is up to the player to pick and
+choose tiles to attain the best result possible.
 
 ## Defense
 
@@ -31,14 +31,16 @@ categories: **digital** and **occult**.
 
 Often, players may find themselves utilizing riichi or abstaining from riichi. With riichi being a
 discretionary yaku, players must evaluate the risk-reward aspect of this play. This decision often
-rests on the point standings, the current hand and round, and the hand's value.
+rests on the point standings, the current hand and
+[round]({{< ref "/riichi/strategy/jikaze.md" >}}), and the hand's value.
 
 ## Starting hands
 
 `main|Haipai`
 
 With each hand, every player is dealt with a starting hand. Looking at the tiles, it is up to each
-player to determine the best choice of tiles to attain tenpai quickly.
+player to determine the best choice of tiles to attain
+[tenpai]({{< ref "/riichi/strategy/tenpai.md" >}}) quickly.
 
 ### Open vs closed
 
@@ -74,17 +76,19 @@ efficiently as possible.
 
 `main|Machi|Tenpai`
 
-Naturally, every player must be able to recognize a hand at tenpai. Likewise, waiting tiles must
-also be identified in order to not miss them, whenever they are drawn or discarded. Even so, players
-have an array of waiting patterns to choose from in order to accomplish a winning hand. Furthermore,
-players may find themselves choosing one waiting pattern or another.
+Naturally, every player must be able to recognize a hand at
+[tenpai]({{< ref "/riichi/strategy/tenpai.md" >}}). Likewise, waiting tiles must also be identified
+in order to not miss them, whenever they are drawn or discarded. Even so, players have an array of
+[waiting patterns]({{< ref "/riichi/strategy/machi.md" >}}) to choose from in order to accomplish a
+winning hand. Furthermore, players may find themselves choosing one waiting pattern or another.
 
 ### Atozuke
 
 `main|Atozuke`
 
-Atozuke is a special case of tenpai, where players are waiting on a specific tile just to satisfy
-the yaku requirement.
+[Atozuke]({{< ref "/riichi/strategy/atozuke.md" >}}) is a special case of tenpai, where players are
+waiting on a specific tile just to satisfy the [yaku]({{< ref "/riichi/yaku/yaku.md" >}})
+requirement.
 
 ## External links
 

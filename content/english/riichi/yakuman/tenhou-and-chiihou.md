@@ -14,7 +14,7 @@ Earthly hand
 |value = Yakuman
 |yakuSpeed = Instant
 |difficulty = Luck
-|yakuCombine = \* All other standard yakuman patterns, except Suu kantsu and chihou.
+|yakuCombine = \* All other standard yakuman patterns, except [Suu kantsu]({{< ref "/riichi/yakuman/suukantsu.md" >}}) and [chihou]({{< ref "/riichi/yakuman/tenhou-and-chiihou.md" >}}).
 |gameExample = \* Tenhou
 
   - [Chihou win](http://tenhou.net/0/?log=2014031516gm-00c1-0000-c0e23ee9&tw=1&ts=4)
@@ -26,13 +26,15 @@ Earthly hand
 **Tenhou** {{< kana "天和" >}} is a yakuman, which is attained by the dealer completing the hand on
 the first tile draw. In this case, no tile has been discarded; and the hand is already declared a
 winner, before any other action had taken place. By far, this is the fastest instance by which a
-player can win a hand. The only tile call that can interrupt this yakuman is a kan call made by the
-dealer. Naturally, this would be a very dubious play on the dealer's part.
+player can win a hand. The only [tile call]({{< ref "/riichi/rules/naki.md" >}}) that can interrupt
+this yakuman is a [kan]({{< ref "/riichi/rules/kan.md" >}}) call made by the dealer. Naturally, this
+would be a very dubious play on the dealer's part.
 
 **Chiihou** {{< kana "地和" >}} follows the same premise as tenhou, where the dealt hand is already
 tenpai and the initial tile draw results in a win. The initial hand may use any pattern, as long as
-13 tiles constitute a tenpai hand, and the 14th tile is the winning tile. Unlike tenhou, chiihou
-applies to the non-dealers. It can also be denied by any tile call made prior to the first draw.
+13 tiles constitute a [tenpai]({{< ref "/riichi/strategy/tenpai.md" >}}) hand, and the 14th tile is
+the winning tile. Unlike tenhou, chiihou applies to the non-dealers. It can also be denied by any
+tile call made prior to the first draw.
 
 Under normal circumstances for both yakuman, luck and recognition are the only factors contributing
 towards the hands' completion. By definition, either yakuman are scored by tsumo, or drawing the
@@ -44,25 +46,31 @@ For both tenhou and chiihou hands, no action is required from the player, other 
 a complete hand with the 14 dealt tiles and the declaration of a winning hand. Failure to do so may
 result in a lost opportunity to score this rare yakuman.
 
-Yet, unlike tenhou, chiihou may be interrupted by tile calls prior to the tile draw; and hence the
-opportunity to score this yakuman. If tile calls did occur prior to the draw, then the hand is
-limited to a mentsumo plus any other applied yaku and/or dora.
+Yet, unlike tenhou, chiihou may be interrupted by [tile]({{< ref "/riichi/rules/naki.md" >}}) calls
+prior to the tile draw; and hence the opportunity to score this yakuman. If tile calls did occur
+prior to the draw, then the hand is limited to a
+[mentsumo]({{< ref "/riichi/yaku/menzenchin-tsumohou.md" >}}) plus any other applied yaku and/or
+dora.
 
 To even have the opportunity for either yakuman, it all rests on pure luck. Player actions have no
-bearing on the composition of the start hand.
+bearing on the composition of the [start hand]({{< ref "/riichi/terminology/haipai.md" >}}).
 
 ### Double riichi furiten
 
-One pitfall of tenhou and chiihou may be the accidental call for riichi due to the failure of
-recognition.\1\] This is likely due to the temptation of calling [double riichi, before verifying
-the completeness of the hand. This puts the hand into furiten immediately for calling riichi on a
-winning tile. Therefore, it is necessary to check the hand before making such a dubious riichi call.
+One pitfall of tenhou and chiihou may be the accidental call for
+[riichi]({{< ref "/riichi/rules/riichi.md" >}}) due to the failure of recognition.\1\] This is
+likely due to the temptation of calling [double riichi, before verifying the completeness of the
+hand. This puts the hand into [furiten]({{< ref "/riichi/strategy/furiten.md" >}}) immediately for
+calling riichi on a winning tile. Therefore, it is necessary to check the hand before making such a
+dubious riichi call.
 
 ## Value
 
 Tenhou applies to dealer seats only, so therefore, it is always 48,000 points. Once again, chiihou
-applies to non-dealers valued at 32,000 points. Both must be won via tsumo. The ron variety would be
-called renhou, which has variable values and applications.
+applies to non-dealers valued at 32,000 points. Both must be won via
+[tsumo]({{< ref "/riichi/terminology/tsumo.md" >}}). The [ron]({{< ref "/riichi/rules/naki.md" >}})
+variety would be called [renhou]({{< ref "/riichi/yaku/optional/renhou.md" >}}), which has variable
+values and applications.
 
 ## References
 

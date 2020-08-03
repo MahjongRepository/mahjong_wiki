@@ -13,27 +13,31 @@ tags = ["Yaku"]
 2 han (open)
 |yakuSpeed = Slow
 |difficulty = Medium
-|yakuCombine = \* Riichi
+|yakuCombine = \* [Riichi]({{< ref "/riichi/rules/riichi.md" >}})
 
-  - Ippatsu
-  - Pinfu
-  - Iipeiko
-  - Ryanpeiko
-  - Sanshoku
-  - Sanshoku doukou
-  - Chinitsu
+  - [Ippatsu]({{< ref "/riichi/yaku/optional/ippatsu.md" >}})
+  - [Pinfu]({{< ref "/riichi/yaku/pinfu.md" >}})
+  - [Iipeiko]({{< ref "/riichi/yaku/iipeikou.md" >}})
+  - [Ryanpeiko]({{< ref "/riichi/yaku/ryanpeikou.md" >}})
+  - [Sanshoku]({{< ref "/riichi/yaku/sanshoku-doujun.md" >}})
+  - [Sanshoku doukou]({{< ref "/riichi/yaku/sanshoku-doukou.md" >}})
+  - [Chinitsu]({{< ref "/riichi/yaku/chiniisou.md" >}})
 
-|gameExample = \* Junchan
+|gameExample = \* [Junchan]({{< ref "/riichi/yaku/junchantaiyaochuu.md" >}})
 
-  - Junchan
+  - [Junchan]({{< ref "/riichi/yaku/junchantaiyaochuu.md" >}})
 
 ```
 
-**Junchantaiyaochuu** {{< kana "純全帯么九" >}} is a terminal based yaku. For this yaku, every tile
-group and the pair must contain at least one terminal. Additionally, at least one tile group must
-contain a non-terminal tile, or else chinroutou will be scored instead. Junchan is similar to
-chantaiyao, but chanta allows honours in addition to terminals. This yaku is more commonly referred
-to as **junchan** {{< kana "純全" >}} or occasionally **junchantaiyao** {{< kana "純全帯么" >}}.
+**Junchantaiyaochuu** {{< kana "純全帯么九" >}} is a terminal based
+[yaku]({{< ref "/riichi/yaku/yaku.md" >}}). For this yaku, every [tile
+group]({{< ref "/riichi/terminology/mentsu.md" >}}) and the
+[pair]({{< ref "/riichi/terminology/jantou.md" >}}) must contain at least one
+[terminal]({{< ref "/riichi/yakuman/chinroutou.md" >}}). Additionally, at least one tile group must
+contain a non-terminal tile, or else [chinroutou]({{< ref "/riichi/yakuman/chinroutou.md" >}}) will
+be scored instead. Junchan is similar to [chantaiyao]({{< ref "/riichi/yaku/chanta.md" >}}), but
+chanta allows honours in addition to terminals. This yaku is more commonly referred to as
+**junchan** {{< kana "純全" >}} or occasionally **junchantaiyao** {{< kana "純全帯么" >}}.
 
 ## Tile pattern
 
@@ -43,10 +47,11 @@ _Note_: Also waiting for {{< t 6s >}}, but the hand would not be counted as junc
 
 ## Formation
 
-All portions of the hand must contain a terminal, even the pair. At the very least, all tiles
-numbered 4, 5, and 6 must be discarded and also the honor tiles. This restriction may slow down the
-process of developing a junchan hand; and it is only viable and advisable to consider junchan, when
-the opening hand contains various terminals.
+All portions of the hand must contain a terminal, even the
+[pair]({{< ref "/riichi/terminology/jantou.md" >}}). At the very least, all tiles numbered 4, 5, and
+6 must be discarded and also the honor tiles. This restriction may slow down the process of
+developing a junchan hand; and it is only viable and advisable to consider junchan, when the
+[opening hand]({{< ref "/riichi/terminology/haipai.md" >}}) contains various terminals.
 
 ### Detection
 
@@ -61,16 +66,22 @@ open hands, in order to speed up tile development.
 
 `Yaku compatibility table|JUN`
 
-Junchan is compatible with a large number of yaku. Because it implies chantaiyao, both cannot be
-counted with a single hand. Because it requires that the hand have no honours or tiles 2-8, it is
-incompatible with tanyao, yakuhai, shousangen. A honitsu hand that has junchan would actually be
-chinitsu. Ittsu cannot be combined as it requires a 456 sequence, which does not include a terminal.
-Finally, as there are only six different types of terminal tiles, junchan cannot combine with
-chiitoitsu.
+Junchan is compatible with a large number of yaku. Because it implies
+[chantaiyao]({{< ref "/riichi/yaku/chanta.md" >}}), both cannot be counted with a single hand.
+Because it requires that the hand have no honours or tiles 2-8, it is incompatible with
+[tanyao]({{< ref "/riichi/yaku/tanyao.md" >}}), [yakuhai]({{< ref "/riichi/rules/yakuhai.md" >}}),
+[shousangen]({{< ref "/riichi/yaku/shousangen.md" >}}). A
+[honitsu]({{< ref "/riichi/yaku/honiisou.md" >}}) hand that has junchan would actually be
+[chinitsu]({{< ref "/riichi/yaku/chiniisou.md" >}}).
+[Ittsu]({{< ref "/riichi/yaku/ikkitsuukan.md" >}}) cannot be combined as it requires a 456 sequence,
+which does not include a terminal. Finally, as there are only six different types of terminal tiles,
+junchan cannot combine with [chiitoitsu]({{< ref "/riichi/yaku/chiitoitsu.md" >}}).
 
-If junchan is combined with toitoi, the hand must contain all terminals, and is thus the chinroutou
-yakuman. Because junchan is incompatible with chiitoitsu and honroutou must be combined with either
-toitoi or chiitoitsu, a junchan honroutou is necessarily scored as chinroutou as well.
+If junchan is combined with [toitoi]({{< ref "/riichi/yaku/toitoihou.md" >}}), the hand must contain
+all terminals, and is thus the [chinroutou]({{< ref "/riichi/yakuman/chinroutou.md" >}}) yakuman.
+Because junchan is incompatible with chiitoitsu and
+[honroutou]({{< ref "/riichi/yaku/honroutou.md" >}}) must be combined with either toitoi or
+chiitoitsu, a junchan honroutou is necessarily scored as chinroutou as well.
 
 ## External links
 

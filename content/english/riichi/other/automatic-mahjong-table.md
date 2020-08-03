@@ -5,10 +5,12 @@ updated = "2016-02-03T05:15:05Z"
 tags = ["Other"]
 +++
 
-**Automatic mahjong tables** are specifically designed to handle tile shuffling and wall building.
-Without an automatic table, players shuffle tiles and build walls manually. This process can be time
-consuming. Instead, with an automatic table, the tile shuffling and wall building process can be
-performed with the push of a button. Some are even able to keep score and produce starting hands.
+**Automatic [mahjong]({{< ref "/riichi/rules/japanese-mahjong.md" >}}) tables** are specifically
+designed to handle tile shuffling and wall building. Without an automatic table, players shuffle
+tiles and build walls manually. This process can be time consuming. Instead, with an automatic
+table, the tile shuffling and wall building process can be performed with the push of a button. Some
+are even able to keep score and produce [starting
+hands]({{< ref "/riichi/terminology/haipai.md" >}}).
 
 The tiles are shuffled in a bin underneath the playing surface. A series of motors, a rotational
 bin, and magnetic tiles performs the shuffling and wall building.

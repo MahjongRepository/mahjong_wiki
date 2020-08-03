@@ -5,25 +5,28 @@ updated = "2015-05-11T16:19:45Z"
 tags = ["Mentsu", "Terminology"]
 +++
 
-**Mentsu** {{< kana "面子" >}} are the tile groups used for the game. The groups follow a similar
-pattern to the regular card game, gin rummy, where the focus is on groups of three tiles and
-sometimes four. They are subdivided into four types: **shuntsu** (sequence), **koutsu**
-(three-of-a-kind), **kantsu** (four-of-a-kind), and **jantou** (pair). They are further categorized
-by their state being "open" or "closed". Forming these groups is a central part of developing a
-mahjong hand, because it is required for attaining tenpai and completing hands altogether. Two main
-factors go towards the formation of these tile groups: suit and number (or type).
+**Mentsu** {{< kana "面子" >}} are the tile groups used for the
+[game]({{< ref "/riichi/rules/japanese-mahjong.md" >}}). The groups follow a similar pattern to the
+regular card game, gin rummy, where the focus is on groups of three tiles and sometimes four. They
+are subdivided into four types: **shuntsu** (sequence), **koutsu** (three-of-a-kind), **kantsu**
+(four-of-a-kind), and **jantou** (pair). They are further categorized by their state being "open" or
+"closed". Forming these groups is a central part of [developing a mahjong
+hand]({{< ref "/riichi/strategy/tile-efficiency.md" >}}), because it is required for attaining
+[tenpai]({{< ref "/riichi/strategy/tenpai.md" >}}) and completing hands altogether. Two main factors
+go towards the formation of these tile groups: suit and number (or type).
 
 ## The tile groups
 
-Mahjong features four types of tiles in terms of suits: the numbered suits and honors. Every tile
-group must be single-suited; and thus, a tile group cannot be of mixed suit. It is improper to
-possess such a mix when declaring a win, as the hand would not be complete. Honor tiles take an even
-greater restriction, by which tile groups must be of particular tiles. Different honor tiles cannot
-be mixed with suited tiles or other honor tiles. Tiles among honor groups must be identical to each
-other. To complete these any of these tile groups, players must either self-draw from the wall or
-may call on discarded tiles, presuming that two out of three of a tile group are in possession.
-While the tile groups are subdivided into three categories, they are further subdivided into the
-state of being open or closed.
+Mahjong features four types of tiles in terms of suits: the numbered suits and
+[honors]({{< ref "/riichi/terminology/jihai.md" >}}). Every tile group must be single-suited; and
+thus, a tile group cannot be of mixed suit. It is [improper]({{< ref "/riichi/rules/chombo.md" >}})
+to possess such a mix when declaring a win, as the hand would not be complete. Honor tiles take an
+even greater restriction, by which tile groups must be of particular tiles. Different honor tiles
+cannot be mixed with suited tiles or other honor tiles. Tiles among honor groups must be identical
+to each other. To complete these any of these tile groups, players must either self-draw from the
+wall or may [call on discarded tiles]({{< ref "/riichi/rules/naki.md" >}}), presuming that two out
+of three of a tile group are in possession. While the tile groups are subdivided into three
+categories, they are further subdivided into the state of being open or closed.
 
 ### Shuntsu
 
@@ -40,10 +43,12 @@ state of being open or closed.
 Self-drawn sequences are called **anjun** {{< kana "暗順" >}}. The open variety are **minjun**
 {{< kana "明順" >}}.
 
-To form a **minjun**, players are limited to calling tiles from kamicha, or the player from the
-left. Discarded tiles from the other two players, that are needed to complete this meld cannot be
-called upon. Furthermore, an added restriction is applied by kuikae, which applies to calls off of
-previously completed sequences.
+To form a **minjun**, players are limited to calling tiles from
+[kamicha]({{< ref "/riichi/strategy/jikaze.md" >}}), or the player from the left. Discarded tiles
+from the other two players, that are needed to complete this meld cannot be called upon.
+Furthermore, an added restriction is applied by
+[kuikae]({{< ref "/riichi/terminology/kuikae.md" >}}), which applies to calls off of previously
+completed sequences.
 
 ### Koutsu
 
@@ -72,9 +77,10 @@ triplets) by calling on discarded tiles, while in possession of pairs.
 {{</ table >}}
 
 Tile groups involving four-of-a-kind take on a different nature than the other tile groups.
-**Kantsu** {{< kana "槓子" >}} must be declared by kan, to be useful. Kan is a special tile call in
-the game. This call forms a meld from four identical tiles. After the declaration of "kan", then a
-special set of rules are invoked.
+**Kantsu** {{< kana "槓子" >}} must be declared by [kan]({{< ref "/riichi/rules/kan.md" >}}), to be
+useful. Kan is a special [tile call]({{< ref "/riichi/rules/naki.md" >}}) in the game. This call
+forms a meld from four identical tiles. After the declaration of "kan", then a special set of rules
+are invoked.
 
 ### Jantou
 

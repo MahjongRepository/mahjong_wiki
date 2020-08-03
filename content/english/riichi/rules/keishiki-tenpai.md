@@ -5,21 +5,24 @@ updated = "2020-06-18T21:57:47Z"
 tags = ["Game rules", "Terminology"]
 +++
 
-**Keishiki tenpai** {{< kana "形式聴牌" >}}, or **shaped tenpai**, is otherwise known as a tenpai
-hand with no yaku. Some cases of tenpai also involve waiting for a so-called fifth tile, which is
-nonexistent. Strategically, players often push for late tenpai hands regardless of yaku state for
-ryuukyoku to gain small points rather than lose them. This term can be shortened to **keiten** for
-ease.
+**Keishiki tenpai** {{< kana "形式聴牌" >}}, or **shaped tenpai**, is otherwise known as a
+[tenpai]({{< ref "/riichi/strategy/tenpai.md" >}}) hand with no
+[yaku]({{< ref "/riichi/yaku/yaku.md" >}}). Some cases of tenpai also involve waiting for a
+so-called fifth tile, which is nonexistent. Strategically, players often push for late tenpai hands
+regardless of yaku state for [ryuukyoku]({{< ref "/riichi/rules/ryuukyoku.md" >}}) to gain small
+points rather than lose them. This term can be shortened to **keiten** for ease.
 
 ## Strategy
 
 Players do not necessarily aim for keishiki tenpai until late into the hand. Usually, consideration
 for such action begins on the third row of discards. Ryuukyoku imposes point gains or losses. Even
 if minimal, players may find themselves motivated to be on the positive end of the exchange rather
-than the negative. Plus, tenpai at ryuukyoku also provides a chance for either haitei or houtei to
-outright win the hand. Finally, players opting for this push for tenpai must also be wary of players
-already in tenpai, making defense considerations to be noted. With that said, it is preferable to
-lose points via noten rather than dealing into larger hands.
+than the negative. Plus, tenpai at ryuukyoku also provides a chance for either
+[haitei]({{< ref "/riichi/yaku/haitei-raoyue-and-houtei-raoyui.md" >}}) or
+[houtei]({{< ref "/riichi/yaku/haitei-raoyue-and-houtei-raoyui.md" >}}) to outright win the hand.
+Finally, players opting for this push for tenpai must also be wary of players already in tenpai,
+making [defense]({{< ref "/riichi/strategy/defense.md" >}}) considerations to be noted. With that
+said, it is preferable to lose points via noten rather than dealing into larger hands.
 
 ## Rule variation
 

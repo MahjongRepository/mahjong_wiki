@@ -14,26 +14,28 @@ Big four winds
 |value = Yakuman
 |yakuSpeed = Very slow
 |difficulty = Very hard
-|yakuCombine = \* Tenhou
+|yakuCombine = \* [Tenhou]({{< ref "/riichi/online/tenhou/tenhou.md" >}})
 
-  - Chihou
-  - Suu ankou
-  - Suu kantsu
-  - Tsuuiisou
+  - [Chihou]({{< ref "/riichi/yakuman/tenhou-and-chiihou.md" >}})
+  - [Suu ankou]({{< ref "/riichi/yakuman/suuankou.md" >}})
+  - [Suu kantsu]({{< ref "/riichi/yakuman/suukantsu.md" >}})
+  - [Tsuuiisou]({{< ref "/riichi/yakuman/tsuuiisou.md" >}})
 
 |gameExample = \* With
 
   - With
-  - Shousuushii
-  - daisuushii
+  - [Shousuushii]({{< ref "/riichi/yakuman/suushiihou.md" >}})
+  - [daisuushii]({{< ref "/riichi/yakuman/suushiihou.md" >}})
 
 ```
 
-**Suushiihou** {{< kana "四喜和" >}} are the two wind-based yakuman: **shousuushii**
-{{< kana "小四喜" >}} and **daisuushii** {{< kana "大四喜" >}}. Both involve all four wind tiles.
-Shousuushii requires three groups winds, and a pair of the last wind, while daisuushii requires
+**Suushiihou** {{< kana "四喜和" >}} are the two wind-based
+[yakuman]({{< ref "/riichi/yakuman/yakuman.md" >}}): **shousuushii** {{< kana "小四喜" >}} and
+**daisuushii** {{< kana "大四喜" >}}. Both involve all four wind tiles. Shousuushii requires three
+[groups]({{< ref "/riichi/terminology/mentsu.md" >}}) winds, and a
+[pair]({{< ref "/riichi/terminology/jantou.md" >}}) of the last wind, while daisuushii requires
 groups of all four. Both are worth yakuman, though daisuushii can be worth double yakuman if a
-ruleset allows it.
+[ruleset]({{< ref "/riichi/rules/variations/rule-variations.md" >}}) allows it.
 
 ## Tile diagram
 
@@ -65,22 +67,27 @@ ruleset allows it.
 |yasume = 7s
 ```
 
-In this case, the takame tile will give daisuushii, while the yasume will give shousuushii.
+In this case, the [takame]({{< ref "/riichi/strategy/takame-and-yasume.md" >}}) tile will give
+daisuushii, while the [yasume]({{< ref "/riichi/strategy/takame-and-yasume.md" >}}) will give
+shousuushii.
 
 ## Value
 
 Shousuushii is almost universally reckoned as a yakuman with a base value of 8000 points, meaning
 that a dealer wins 48000 while a non-dealer wins 32000 with the hand. As daisuushii is a rarer
-yakuman, some rules allow it as a double yakuman, in which case it scores twice as much. In other
-rulesets, however, especially competition rulesets, daisuushii is only scored as a single yakuman.
+yakuman, some rules allow it as a [double
+yakuman]({{< ref "/riichi/rules/variations/multiple-yakuman.md" >}}), in which case it scores twice
+as much. In other rulesets, however, especially competition rulesets, daisuushii is only scored as a
+single yakuman.
 
 ## Strategy
 
-Like daisangen, suushiihou are often developed by taking a hand with potential to develop with
-honitsu and pushing them to the extreme. As even shousuushii requires having eleven of the sixteen
-wind tiles, pushing directly for these hands is unlikely to be met with success. More often,
-suuhsiihou are developed by developing towards a hand that encourages holding onto spare honours,
-and then drawing enough winds to make a viable push for the hand.
+Like [daisangen]({{< ref "/riichi/yakuman/daisangen.md" >}}), suushiihou are often developed by
+taking a hand with potential to develop with [honitsu]({{< ref "/riichi/yaku/honiisou.md" >}}) and
+pushing them to the extreme. As even shousuushii requires having eleven of the sixteen wind tiles,
+pushing directly for these hands is unlikely to be met with success. More often, suuhsiihou are
+developed by developing towards a hand that encourages holding onto spare honours, and then drawing
+enough winds to make a viable push for the hand.
 
 ### Attempting
 
@@ -99,7 +106,8 @@ as quickly as possible once enough winds have been attained. This usually means 
 another group to accompany the winds, usually allowing for shousuushii.
 
 Because of its requirement to have four triplets, daisuushii hands will only have two possible
-waits: either a pair wait on a non-wind tile, or a triplet wait on the last wind and a non-wind
+waits: either a [pair wait]({{< ref "/riichi/terminology/waits/tanki.md" >}}) on a non-wind tile, or
+a [triplet wait]({{< ref "/riichi/terminology/waits/shanpon.md" >}}) on the last wind and a non-wind
 tile. In the shanpon case, getting the non-wind tile will always give shousuushii. An opportunity
 may arise to improve the wait to a sequence wait, at the cost of abandoning the chance at
 shosuushii. If this arises, it is generally a good idea to take it, especially if daisuushii is
@@ -113,29 +121,38 @@ opportunity to downgrade to a shousuushii sequence wait. The same considerations
 ### Fallbacks
 
 If an attempt at suushiihou is ruined by other players discarding three of the same wind (preventing
-a pair), then the hand will probably still have viable options to meet its yaku requirement. In most
-cases, it will already have obtained yakuhai from one of the winds, but honitsu, chanta, and toitoi
-remain as potential alternatives.
+a pair), then the hand will probably still have viable options to meet its
+[yaku]({{< ref "/riichi/yaku/yaku.md" >}}) requirement. In most cases, it will already have obtained
+[yakuhai]({{< ref "/riichi/rules/yakuhai.md" >}}) from one of the winds, but
+[honitsu]({{< ref "/riichi/yaku/honiisou.md" >}}), [chanta]({{< ref "/riichi/yaku/chanta.md" >}}),
+and [toitoi]({{< ref "/riichi/yaku/toitoihou.md" >}}) remain as potential alternatives.
 
 ## Sekinin Barai
 
 `main|sekinin barai`
 
-When sekinin barai is used, it is usually applicable to daisuushii. Under this rule, if a player has
-three visible melds of wind tiles, another player deals the fourth wind, and the first player calls
-that to form a group, then the second player becomes liable for the hand, and must pay its full
-value in the case of a tsumo or half its value in the case of a ron. This liability arises as a
-penalty for creating a guaranteed yakuman hand, and is applicable even though the upgrade does not
-increase its value from shousuushii.
+When [sekinin barai]({{< ref "/riichi/rules/sekinin-barai.md" >}}) is used, it is usually applicable
+to daisuushii. Under this rule, if a player has three visible melds of wind tiles, another player
+deals the fourth wind, and the first player calls that to form a group, then the second player
+becomes liable for the hand, and must pay its full value in the case of a
+[tsumo]({{< ref "/riichi/terminology/tsumo.md" >}}) or half its value in the case of a
+[ron]({{< ref "/riichi/rules/naki.md" >}}). This liability arises as a penalty for creating a
+guaranteed yakuman hand, and is applicable even though the upgrade does not increase its value from
+shousuushii.
 
 ## Combinations
 
 As yakuman, the suushiihou can only be combined with other yakuman. Both shousuushii are often
-combined with tsuuiisou, where the last triplet or the pair are formed from dragon tiles.
-Shousuushii and tsuuiisou is in fact the most common yakuman combination, even though daisangen is
-easier than shousuushii. Very rarely, these yakuman are combined with suuankou, and while they are
-in theory compatbile with tenhou, chiihou, renhou (if a yakuman), and suukantsu, the odds of any of
-these combinations occurring are astronomically small.
+combined with [tsuuiisou]({{< ref "/riichi/yakuman/tsuuiisou.md" >}}), where the last triplet or the
+pair are formed from dragon tiles. Shousuushii and tsuuiisou is in fact the most common yakuman
+combination, even though [daisangen]({{< ref "/riichi/yakuman/daisangen.md" >}}) is easier than
+shousuushii. Very rarely, these yakuman are combined with
+[suuankou]({{< ref "/riichi/yakuman/suuankou.md" >}}), and while they are in theory compatbile with
+[tenhou]({{< ref "/riichi/online/tenhou/tenhou.md" >}}),
+[chiihou]({{< ref "/riichi/yakuman/tenhou-and-chiihou.md" >}}),
+[renhou]({{< ref "/riichi/yaku/optional/renhou.md" >}}) (if a yakuman), and
+[suukantsu]({{< ref "/riichi/yakuman/suukantsu.md" >}}), the odds of any of these combinations
+occurring are astronomically small.
 
 ## External links
 

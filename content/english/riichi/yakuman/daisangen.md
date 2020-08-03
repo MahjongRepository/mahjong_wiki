@@ -12,25 +12,25 @@ tags = ["Yakuman"]
 |value = Yakuman
 |yakuSpeed = Slow
 |difficulty = Hard
-|yakuCombine = \* Tenhou
+|yakuCombine = \* [Tenhou]({{< ref "/riichi/online/tenhou/tenhou.md" >}})
 
-  - Chihou
-  - Suu ankou
-  - Tsuuiisou
-  - Suu kantsu
+  - [Chihou]({{< ref "/riichi/yakuman/tenhou-and-chiihou.md" >}})
+  - [Suu ankou]({{< ref "/riichi/yakuman/suuankou.md" >}})
+  - [Tsuuiisou]({{< ref "/riichi/yakuman/tsuuiisou.md" >}})
+  - [Suu kantsu]({{< ref "/riichi/yakuman/suukantsu.md" >}})
 
 |gameExample = \* [DSG closed](http://tenhou.net/0/?log=2014041218gm-000f-0000-511293e4&tw=0&ts=1)
 
-  - DSG
-  - DSG
-  - DSG
+  - [DSG]({{< ref "/riichi/yakuman/daisangen.md" >}})
+  - [DSG]({{< ref "/riichi/yakuman/daisangen.md" >}})
+  - [DSG]({{< ref "/riichi/yakuman/daisangen.md" >}})
 
 ```
 
 **Daisangen** {{< kana "大三元" >}} is a standard yakuman. For short, English speakers may shorten
-to "DSG". This yakuman involves the collection of all three tile groups of the sangenpai (dragon
-tiles). It is one of the three **yakuman gosanke** {{< kana "役満御三家" >}}, or "the three big
-families of yakuman".
+to "DSG". This yakuman involves the collection of all three tile groups of the
+[sangenpai]({{< ref "/riichi/terminology/jihai.md" >}}) (dragon tiles). It is one of the three
+**yakuman gosanke** {{< kana "役満御三家" >}}, or "the three big families of yakuman".
 
 ## Tile pattern
 
@@ -38,7 +38,7 @@ families of yakuman".
 
 -
 
-    *Note*: This hand is also winnable with {{< t 3p >}}, but this hand would be shousangen instead.
+    *Note*: This hand is also winnable with {{< t 3p >}}, but this hand would be [shousangen]({{< ref "/riichi/yaku/shousangen.md" >}}) instead.
 
 ## Development
 
@@ -52,9 +52,10 @@ is not available as a triplet, then this yakuman is no longer possible.
 
 Most instances of daisangen involve open calls for the dragon tiles. Therefore, one of the more
 reasonable hand states involve three pairs of the dragon tiles. That gives a player the opportunity
-to call on those tiles or at least have a shanpon tenpai involving one of the dragons. On occasion,
-a very lucky player could develop a completely closed hand with the yakuman embedded. This may leave
-players unsuspecting.
+to call on those tiles or at least have a
+[shanpon]({{< ref "/riichi/terminology/waits/shanpon.md" >}}) tenpai involving one of the dragons.
+On occasion, a very lucky player could develop a completely closed hand with the yakuman embedded.
+This may leave players unsuspecting.
 
 The chances for daisangen can be rendered impossible for a hand, if at least 2 out of 4 tiles of any
 dragon type is discarded or made unavailable.
@@ -63,11 +64,12 @@ dragon type is discarded or made unavailable.
 
 `main|Sekinin barai`
 
-The rule of sekinin barai applies to daisangen in the form of yakuman **pao**. This occurs when a
-player seeking to develop this yakuman already had made open calls (pon) with two out of the three
-possible dragon types. The rule is then invoked when the third type is discarded and called to
-complete the yakuman portion of the hand. So, the call upgrades the hand into a very obviously open
-daisangen. That third discarder becomes partially liable or fully liable for that play.
+The rule of [sekinin barai]({{< ref "/riichi/rules/sekinin-barai.md" >}}) applies to daisangen in
+the form of yakuman **pao**. This occurs when a player seeking to develop this yakuman already had
+made [open calls]({{< ref "/riichi/rules/naki.md" >}}) (pon) with two out of the three possible
+dragon types. The rule is then invoked when the third type is discarded and called to complete the
+yakuman portion of the hand. So, the call upgrades the hand into a very obviously open daisangen.
+That third discarder becomes partially liable or fully liable for that play.
 
 ## External links
 

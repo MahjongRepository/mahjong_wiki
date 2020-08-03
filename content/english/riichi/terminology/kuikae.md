@@ -5,11 +5,12 @@ updated = "2016-12-03T16:27:17Z"
 tags = ["Terminology", "Mentsu"]
 +++
 
-**Kuikae** {{< kana "喰い替え" >}} is a particular restriction applied to tile calls, especially
-involving chii. It is commonly referred to as "swap calling". Generally speaking, when swap calling
-is forbidden, when a player calls another player's discard, the following discard cannot be another
-copy of the tile they just called, nor can it be another tile that also completes the chii that the
-player just called for.
+**Kuikae** {{< kana "喰い替え" >}} is a particular restriction applied to [tile
+calls]({{< ref "/riichi/rules/naki.md" >}}), especially involving
+[chii]({{< ref "/riichi/rules/naki.md" >}}). It is commonly referred to as "swap calling". Generally
+speaking, when swap calling is forbidden, when a player calls another player's discard, the
+following discard cannot be another copy of the tile they just called, nor can it be another tile
+that also completes the chii that the player just called for.
 
 ## Examples
 

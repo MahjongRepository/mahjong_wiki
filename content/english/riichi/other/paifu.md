@@ -7,24 +7,26 @@ tags = ["Other"]
 
 !Sample paifu from the animated series,
 [Saki.](Saki_paifu.jpg "Sample paifu from the animated series, Saki.") **Paifu** {{< kana "牌譜" >}}
-is a mahjong game record. In printed form, it lists the deal number, the names of the players, the
-result, and for each player, it lists the initial hand, the tiles taken and discarded in order, and
-the final hand. In most electronic mahjong games, the play is automatically recorded and may be
-"replayed" in a convenient manner. This makes it possible to view game replays and examine player's
-decision making.
+is a [mahjong]({{< ref "/riichi/rules/japanese-mahjong.md" >}}) game record. In printed form, it
+lists the deal number, the names of the players, the result, and for each player, it lists the
+initial hand, the tiles taken and discarded in order, and the final hand. In most electronic mahjong
+games, the play is automatically recorded and may be "replayed" in a convenient manner. This makes
+it possible to view game replays and examine player's decision making.
 
 ## Reading paifu
 
-As a standard, paifu note the tiles in a hand during hand development. They are as follows:
+As a standard, paifu note the tiles in a hand during [hand
+development]({{< ref "/riichi/strategy/tile-efficiency.md" >}}). They are as follows:
 
-1.  Haipai. The players' opening hands are noted.
+1.  [Haipai]({{< ref "/riichi/terminology/haipai.md" >}}). The players' opening hands are noted.
 2.  Next are the players' tile draws. If a drawn tile is discarded, then a downward arrow is marked
     instead as the tile appears on the next line.
 3.  The third line shows discarded tiles.
 4.  Finally, the end result of the hand is noted. This can either be the winning hand, the hand at
     ryuukyoku, or the state of the hand during another player's win.
 
-Also, any other player actions are noted such as tile calls and calls for riichi.
+Also, any other player actions are noted such as [tile calls]({{< ref "/riichi/rules/naki.md" >}})
+and calls for [riichi]({{< ref "/riichi/rules/riichi.md" >}}).
 
 ## External links
 

@@ -6,7 +6,8 @@ tags = ["Other"]
 +++
 
 **Jansou** {{< kana "雀荘" >}} are referred to as "mahjong parlors". These are businesses catered to
-facilitate mahjong play. Customers may enter these parlors to play the game at a specific rate.
+facilitate [mahjong]({{< ref "/riichi/rules/japanese-mahjong.md" >}}) play. Customers may enter
+these parlors to play the game at a specific rate.
 
 ## External links
 

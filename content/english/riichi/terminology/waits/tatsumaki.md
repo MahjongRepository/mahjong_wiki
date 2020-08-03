@@ -18,10 +18,13 @@ tags = ["Terminology", "Machi"]
 
 ```
 
-**Tatsumaki** {{< kana "竜巻" >}} is a tile wait pattern that uses a combination of ryanmen,
-shanpon, and tanki waits to create a hand waiting on 5 consecutive tiles in the same suit. This is a
-particularly powerful waiting pattern as it relies on only seven tiles in the concealed portion of
-the hand, so even with two called tile groups, the hand can have a 5-sided wait.
+**Tatsumaki** {{< kana "竜巻" >}} is a [tile wait pattern]({{< ref "/riichi/strategy/machi.md" >}})
+that uses a combination of [ryanmen]({{< ref "/riichi/terminology/waits/ryanmen.md" >}}),
+[shanpon]({{< ref "/riichi/terminology/waits/shanpon.md" >}}), and
+[tanki]({{< ref "/riichi/terminology/waits/tanki.md" >}}) waits to create a hand waiting on 5
+consecutive tiles in the same suit. This is a particularly powerful waiting pattern as it relies on
+only seven tiles in the concealed portion of the hand, so even with two called [tile
+groups]({{< ref "/riichi/terminology/mentsu.md" >}}), the hand can have a 5-sided wait.
 
 ## Pattern
 
@@ -37,14 +40,15 @@ aiming for a 5-pin. The shanpon wait overlaps the ryanmen waits, as it goes for 
 The pattern is always composed of two sets of numbered triplets. The numbers of these triplets must
 be two away from each other, such as 4 and 6 from the example. The two sets of triplets are
 connected by a single numbered tile inbetween the two numbers. In this case, it is 5. If one of the
-triplets happen to consist of terminals, the pattern is still a tatsumaki. However, the number of
-possible waiting tiles is reduced.
+triplets happen to consist of [terminals]({{< ref "/riichi/yakuman/chinroutou.md" >}}), the pattern
+is still a tatsumaki. However, the number of possible waiting tiles is reduced.
 
 ## Fu
 
-This pattern generates 2fu for a tanki wait only if it is won with the middle tile. Winning with any
-of the four other tiles will not give any fu, as it will be interpreted as a ryanmen wait. If
-interpreted for shanpon, then fu is generated based on the tile composition.
+This pattern generates 2fu for a [tanki]({{< ref "/riichi/terminology/waits/tanki.md" >}}) wait only
+if it is won with the middle tile. Winning with any of the four other tiles will not give any fu, as
+it will be interpreted as a ryanmen wait. If interpreted for shanpon, then fu is generated based on
+the tile composition.
 
 ## External links
 

@@ -12,15 +12,15 @@ tags = ["Yaku"]
 |value = 1 han
 |yakuSpeed = Very fast
 |difficulty = Very easy
-|yakuCombine = \* Iipeiko
+|yakuCombine = \* [Iipeiko]({{< ref "/riichi/yaku/iipeikou.md" >}})
 
-  - San shoku
-  - San shoku doukou
-  - Toi toi
-  - San ankou
-  - Ryanpeikou
-  - Chiitoitsu
-  - Chinitsu
+  - [San shoku]({{< ref "/riichi/yaku/sanshoku-doujun.md" >}})
+  - [San shoku doukou]({{< ref "/riichi/yaku/sanshoku-doukou.md" >}})
+  - [Toi toi]({{< ref "/riichi/yaku/toitoihou.md" >}})
+  - [San ankou]({{< ref "/riichi/yaku/sanankou.md" >}})
+  - [Ryanpeikou]({{< ref "/riichi/yaku/ryanpeikou.md" >}})
+  - [Chiitoitsu]({{< ref "/riichi/yaku/chiitoitsu.md" >}})
+  - [Chinitsu]({{< ref "/riichi/yaku/chiniisou.md" >}})
 
 |gameExample = \* [Tanyao nomi](http://tenhou.net/0/?log=2013010416gm-0009-7447-x8de057189079&tw=0&ts=2)
 
@@ -28,12 +28,13 @@ tags = ["Yaku"]
 
 ```
 
-**Tanyao** {{< kana "断么九" >}} or {{< kana "断幺九" >}} is a yaku, consisting of tile groups using
-numbered tiles 2-8 from any of the three main suits. Any tile numbered 2-8 are classed as
-**chunchanhai** {{< kana "中張牌" >}}, or simples. Conversely, this yaku must lack the terminal
-tiles (1 and 9) as well as any honor tiles. Among the yaku, this is one of the more easier to
-attain; and it is also a cheap yaku. In addition, this yaku may be subject to rule variation of
-allowing or disallowing its count when opened.
+**Tanyao** {{< kana "断么九" >}} or {{< kana "断幺九" >}} is a
+[yaku]({{< ref "/riichi/yaku/yaku.md" >}}), consisting of tile groups using numbered tiles 2-8 from
+any of the three main suits. Any tile numbered 2-8 are classed as **chunchanhai**
+{{< kana "中張牌" >}}, or simples. Conversely, this yaku must lack the terminal tiles (1 and 9) as
+well as any [honor tiles]({{< ref "/riichi/terminology/jihai.md" >}}). Among the yaku, this is one
+of the more easier to attain; and it is also a cheap yaku. In addition, this yaku may be subject to
+rule variation of allowing or disallowing its count when opened.
 
 ## Tile pattern
 
@@ -41,7 +42,8 @@ allowing or disallowing its count when opened.
 
 {{< t 678m45s33366p >}} {{< t 2-22m >}} Agari: {{< t 3s >}} or {{< t 6s >}}
 
-As long as every tile is neither a terminal nor an honor tile, then the yaku is counted.
+As long as every tile is neither a [terminal]({{< ref "/riichi/yakuman/chinroutou.md" >}}) nor an
+[honor tile]({{< ref "/riichi/terminology/jihai.md" >}}), then the yaku is counted.
 
 ## Kuitan
 
@@ -70,8 +72,9 @@ groups.
 ### With dora
 
 Like any hand, a tanyao hand can be amplified with dora. Tanyao with dora is particularly used due
-to both the combined ease and speed of hand development. If the dora are closed within the hand,
-then there is the added deceptiveness of a cheap hand, that is in reality not the case.
+to both the combined ease and speed of [hand
+development]({{< ref "/riichi/strategy/tile-efficiency.md" >}}). If the dora are closed within the
+hand, then there is the added deceptiveness of a cheap hand, that is in reality not the case.
 
 ## Compatability
 
@@ -79,21 +82,25 @@ then there is the added deceptiveness of a cheap hand, that is in reality not th
 
 `Yaku compatibility table|TAN`
 
-Naturally, tanyao is compatible with any yaku that does not utilize yaochuuhai, which are the
-terminals (1's and 9's) or honor tiles. The six yaku incompatible with tanyao all require such tiles
-in some way or another.
+Naturally, tanyao is compatible with any yaku that does not utilize
+[yaochuuhai]({{< ref "/riichi/terminology/waits/kokushi-musou.md" >}}), which are the terminals (1's
+and 9's) or honor tiles. The six yaku incompatible with tanyao all require such tiles in some way or
+another.
 
 ### Mentanpin
 
-As a language short cut, any closed riichi, tanyao, pinfu hand is referred as **mentanpin**
-{{< kana "メンタンピン" >}}: "Men" for the menzen (closed, and by extension, in a riichi state, not
-to be confused with menzen tsumo); "tan" for tanyao; and "pin" for pinfu. If the hand wins by
-discard, then it is simply **tanpin** {{< kana "タンピン" >}}.
+As a language short cut, any closed riichi, tanyao, pinfu hand is referred as
+**[mentanpin]({{< ref "/riichi/terminology/mentanpin.md" >}})** {{< kana "メンタンピン" >}}: "Men"
+for the menzen (closed, and by extension, in a riichi state, not to be confused with [menzen
+tsumo]({{< ref "/riichi/yaku/menzenchin-tsumohou.md" >}})); "tan" for tanyao; and "pin" for
+[pinfu]({{< ref "/riichi/yaku/pinfu.md" >}}). If the hand wins by discard, then it is simply
+**tanpin** {{< kana "タンピン" >}}.
 
 ### With chinitsu and ryanpeikou
 
-Some special optional yakuman are considered when in combination with chinitsu and ryanpeikou
-simultaneously.
+Some special optional yakuman are considered when in combination with
+[chinitsu]({{< ref "/riichi/yaku/chiniisou.md" >}}) and
+[ryanpeikou]({{< ref "/riichi/yaku/ryanpeikou.md" >}}) simultaneously.
 
 - Pinzu (circles), dai sharin – {{< kana "大車輪" >}} or big wheels
 - Souzu (bamboo), dai chikurin – {{< kana "大竹林" >}} or bamboo forest
@@ -106,8 +113,9 @@ chinitsu, and ryanpeikou, but not for one of these yakuman.
 ## Value
 
 The speed of the hand's development justifies the value of the hand at 1-han. This speedy play is
-associated with cheap value. However, if red fives and other dora are incorporated, then a simple
-tanyao hand can easily become a very high-scoring one.
+associated with cheap value. However, if red fives and other
+[dora]({{< ref "/riichi/rules/dora.md" >}}) are incorporated, then a simple tanyao hand can easily
+become a very high-scoring one.
 
 ## External links
 

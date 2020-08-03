@@ -12,11 +12,11 @@ tags = ["Yaku"]
 |value = Yakuman
 |yakuSpeed = Very slow
 |difficulty = Very hard
-|yakuCombine = \* Tenhou
+|yakuCombine = \* [Tenhou]({{< ref "/riichi/online/tenhou/tenhou.md" >}})
 
-  - Chihou
-  - Suu ankou
-  - Suu kantsu
+  - [Chihou]({{< ref "/riichi/yakuman/tenhou-and-chiihou.md" >}})
+  - [Suu ankou]({{< ref "/riichi/yakuman/suuankou.md" >}})
+  - [Suu kantsu]({{< ref "/riichi/yakuman/suukantsu.md" >}})
 
 |gameExample = \* [Ryuuiisou](http://tenhou.net/0/?log=2013112316gm-0089-0000-f1fc96aa&tw=1)
 
@@ -27,9 +27,10 @@ tags = ["Yaku"]
 ```
 
 **Ryuuiisou** {{< kana "緑一色" >}} is one of the standard yakuman hands. This hand consists of any
-four tile groups and a pair that consists of only 2, 3, 4, 6, 8 of souzu and/or the green dragon
-tiles. Literally, this hand is composed of "all green" painted tiles. This hand may be open or
-closed.
+four [tile groups]({{< ref "/riichi/terminology/mentsu.md" >}}) and a
+[pair]({{< ref "/riichi/terminology/jantou.md" >}}) that consists of only 2, 3, 4, 6, 8 of souzu
+and/or the green dragon tiles. Literally, this hand is composed of "all green" painted tiles. This
+hand may be open or closed.
 
 ## Tile diagram
 
@@ -56,18 +57,20 @@ six tile types are available:
 
 With the four melds and a pair pattern, at least, five out of the six tile types are needed to
 complete this yakuman. It is possible to use all six tile types, when 2-3-4 were used as shuntsu.
-Given six tile types to work with, it is impossible to form a chiitoitsu type pattern. This aspect
-alone makes ryuuiisou a bit easier than chinroutou, which is limited to the same number of tile
-types but not able to form shuntsu.
+Given six tile types to work with, it is impossible to form a
+[chiitoitsu]({{< ref "/riichi/yaku/chiitoitsu.md" >}}) type pattern. This aspect alone makes
+ryuuiisou a bit easier than [chinroutou]({{< ref "/riichi/yakuman/chinroutou.md" >}}), which is
+limited to the same number of tile types but not able to form shuntsu.
 
 ### Furiten
 
 ![Choice or furiten.](Ryuuiisou_tenpai.png "Choice between jigoku or furiten.")
 {{< t 2344466688s666z >}} Waiting for: {{< t 1s >}} - {{< t 4s >}} or {{< t 8s >}}
 
-This hand may regularly be subject to furiten, especially around the range of 1, 2, 3, 4, and 5 sou.
-While it is necessary to discard 1 sou and 5 sou to build this yakuman, these discarded tiles may
-lead to a tenpai hand with furiten. That may be particularly true for above example.
+This hand may regularly be subject to [furiten]({{< ref "/riichi/strategy/furiten.md" >}}),
+especially around the range of 1, 2, 3, 4, and 5 sou. While it is necessary to discard 1 sou and 5
+sou to build this yakuman, these discarded tiles may lead to a tenpai hand with furiten. That may be
+particularly true for above example.
 
 ### Variation
 

@@ -12,10 +12,10 @@ tags = ["Yakuman"]
 |value = Yakuman
 |yakuSpeed = Very slow
 |difficulty = Very hard
-|yakuCombine = \* Tenhou
+|yakuCombine = \* [Tenhou]({{< ref "/riichi/online/tenhou/tenhou.md" >}})
 
-  - Chiihou
-  - Suuankou
+  - [Chiihou]({{< ref "/riichi/yakuman/tenhou-and-chiihou.md" >}})
+  - [Suuankou]({{< ref "/riichi/yakuman/suuankou.md" >}})
 
 |gameExample = \* Chinroutou
 
@@ -24,7 +24,8 @@ tags = ["Yakuman"]
 ```
 
 **Chinroutou** {{< kana "清老頭" >}} is a yakuman, where every tile is a terminal, or 1's or 9's. No
-other tile type are used: no simples (2-8) or honors. For short, it can be referred to as
+other tile type are used: no [simples]({{< ref "/riichi/yaku/tanyao.md" >}}) (2-8) or
+[honors]({{< ref "/riichi/terminology/jihai.md" >}}). For short, it can be referred to as
 **chinro**.
 
 ## Tile pattern
@@ -36,7 +37,7 @@ other tile type are used: no simples (2-8) or honors. For short, it can be refer
 **Routouhai** {{< kana "老頭牌" >}} are the tiles numbered 1 or 9, among the numbered suits. In
 English, they are denoted as **terminals**, because they are at the end of the 1 to 9 number scale
 as the numbered suits do not loop. So a tile group such as 9-1-2 does not count, when it comes to
-forming tile groups. The terminals are as follows:
+forming [tile groups]({{< ref "/riichi/terminology/mentsu.md" >}}). The terminals are as follows:
 
 {{< t 19s19p19m >}}
 
@@ -47,15 +48,16 @@ For this yakuman, there are only six types of terminals available: two from each
 suit (1 and 9). Simply, no other tile type can be used for this yakuman. Given the basic hand
 pattern of four melds and a pair, five out of the six types of terminals are needed to build this
 hand. Since there are only six tile types available for this hand, it is impossible to form a
-chiitoitsu variation.
+[chiitoitsu]({{< ref "/riichi/yaku/chiitoitsu.md" >}}) variation.
 
 ### Viability
 
 Aside from needing five out of the six terminal types, every tile group must be triplets. Any calls
 for kan are acceptable too. So, any attempt at this yakuman require the proper number of terminals
-as well as the ability to collect triplets. More often than not, players must make tile calls in
-order to do so. Only a rare number of times can this yakuman be completed while closed. On the other
-hand, the yakuman is rendered impossible if enough terminals are discarded or made unavailable.
+as well as the ability to collect triplets. More often than not, players must make [tile
+calls]({{< ref "/riichi/rules/naki.md" >}}) in order to do so. Only a rare number of times can this
+yakuman be completed while closed. On the other hand, the yakuman is rendered impossible if enough
+terminals are discarded or made unavailable.
 
 ## External links
 

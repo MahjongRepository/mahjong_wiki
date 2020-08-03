@@ -31,11 +31,11 @@ A number of guidelines point to specific aspects to the game.
 
 Point exchanges are best done efficiently and with proper display.
 
-When paying points, players may have the tendency to retain their larger point sticks in order to
-make their score appear larger. However, it makes no difference, as a player's score is the player's
-current score. A specific example is a deal in for 3900. Instead of giving away three 1000 sticks
-and 900 points, it is more efficient to give a 5000 point stick while receiving 1100 points in
-return.
+When paying points, players may have the tendency to retain their larger [point
+sticks]({{< ref "/riichi/terminology/tenbou.md" >}}) in order to make their score appear larger.
+However, it makes no difference, as a player's score is the player's current score. A specific
+example is a deal in for 3900. Instead of giving away three 1000 sticks and 900 points, it is more
+efficient to give a 5000 point stick while receiving 1100 points in return.
 
 To pay with point sticks, players should place the proper amounts on the play area. This allows all
 players on the table to see the point exchange, whether the amounts exchanged are the proper

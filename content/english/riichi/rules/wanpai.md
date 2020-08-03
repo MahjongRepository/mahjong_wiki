@@ -8,7 +8,8 @@ tags = ["Terminology", "Game rules"]
 **Wanpai** {{< kana "王牌" >}} are the tiles used to form the **dead wall**. Every mahjong hand
 session has 14 tiles, or 7 double-stacked tiles, set aside from the regular tile draw and discard
 processes. These tiles are considered to be out of play, hence the nomenclature "dead wall". Most of
-these tiles are used to indicate dora. The rest are used for kan draws and tile wall replacements.
+these tiles are used to indicate [dora]({{< ref "/riichi/rules/dora.md" >}}). The rest are used for
+[kan]({{< ref "/riichi/rules/kan.md" >}}) draws and tile wall replacements.
 
 ## Arrangement
 
@@ -18,20 +19,21 @@ wall are also included.
 
 {{< table >}}
 
-| Dead wall    |              | End of live wall |
-| ------------ | ------------ | ---------------- |
-| {{< t 0z >}} | {{< t 0z >}} | {{< t 2p >}}     |
-| 1st kan draw | 3rd kan draw | Dora indicator   |
-| {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}}     |
-| 2nd kan draw | 4th kan draw | 1st uradora      |
+| Dead wall    |              | End of live wall                                      |
+| ------------ | ------------ | ----------------------------------------------------- |
+| {{< t 0z >}} | {{< t 0z >}} | {{< t 2p >}}                                          |
+| 1st kan draw | 3rd kan draw | [Dora indicator]({{< ref "/riichi/rules/dora.md" >}}) |
+| {{< t 0z >}} | {{< t 0z >}} | {{< t 0z >}}                                          |
+| 2nd kan draw | 4th kan draw | 1st uradora                                           |
 
 {{</ table >}}
 
-For every hand, the dead wall always starts with the very same arrangement. The kan draws are always
-the four tiles clockwise to the dora indicator. These are the **rinshanpai** {{< kana "嶺上牌" >}},
-which are only accessible via calls for kan. Not necessary but recommended, the first kan draw can
-be placed to the side of the second kan draw, like in the image to the right. This is to prevent
-accidental revealing of that first tile, in case it gets knocked off.
+For every hand, the dead wall always starts with the very same arrangement. The
+[kan]({{< ref "/riichi/rules/kan.md" >}}) draws are always the four tiles clockwise to the dora
+indicator. These are the **rinshanpai** {{< kana "嶺上牌" >}}, which are only accessible via
+[calls]({{< ref "/riichi/rules/naki.md" >}}) for kan. Not necessary but recommended, the first kan
+draw can be placed to the side of the second kan draw, like in the image to the right. This is to
+prevent accidental revealing of that first tile, in case it gets knocked off.
 
 ### Dora
 
@@ -61,16 +63,18 @@ designated as this last tile.
 
 Calls for kan affect the dead wall in three ways:
 
-1.  The player calling kan is then required to draw from the dead wall via the rinshanpai.
+1.  The player calling kan is then required to draw from the dead wall via the
+    [rinshanpai]({{< ref "/riichi/yaku/rinshan-kaihou.md" >}}).
 2.  A tile from the back end of the wall, the haiteihai, is transferred to the dead wall.
 3.  The tile next to the dora is revealed.
 
 For every kan call, a player gains access to the dead wall and draws one rinshanpai. If the
-rinshanpai produces a winning tile, then this draw invokes the yaku, rinshan kaihou. Under most
-cases, players make a discard afterwards. After that discard, one tile from the end of the regular
-wall is added to the dead wall to the back end. This is to retain the count of 14-tiles. Unlike the
-original dead wall tiles, the added tiles can serve no function, other than as replacement tiles.
-Finally, an additional dora indicator is revealed.
+rinshanpai produces a winning tile, then this draw invokes the yaku, [rinshan
+kaihou]({{< ref "/riichi/yaku/rinshan-kaihou.md" >}}). Under most cases, players make a discard
+afterwards. After that discard, one tile from the end of the regular wall is added to the dead wall
+to the back end. This is to retain the count of 14-tiles. Unlike the original dead wall tiles, the
+added tiles can serve no function, other than as replacement tiles. Finally, an additional dora
+indicator is revealed.
 
 ## External links
 

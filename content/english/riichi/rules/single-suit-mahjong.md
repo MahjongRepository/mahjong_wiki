@@ -5,8 +5,10 @@ updated = "2015-08-20T04:51:20Z"
 tags = ["Game rules"]
 +++
 
-**Single suit mahjong** basically plays the game with just one suit. This variation is devised as
-practice working with chinitsu hands and its notorious ability to form complicated waiting patterns.
+**Single suit mahjong** basically plays [the game]({{< ref "/riichi/rules/japanese-mahjong.md" >}})
+with just one suit. This variation is devised as practice working with
+[chinitsu]({{< ref "/riichi/yaku/chiniisou.md" >}}) hands and its notorious ability to form
+complicated [waiting patterns]({{< ref "/riichi/strategy/machi.md" >}}).
 
 ## External links
 

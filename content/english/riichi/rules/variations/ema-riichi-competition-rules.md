@@ -6,7 +6,7 @@ tags = ["Rule variations"]
 +++
 
 The **Riichi Competition Rules** (RCR) of the European Mahjong Association (EMA) are used for many
-Japanese Mahjong tournaments throughout Europe.
+[Japanese Mahjong]({{< ref "/riichi/rules/japanese-mahjong.md" >}}) tournaments throughout Europe.
 
 ## Introduction
 
@@ -16,26 +16,31 @@ The EMA has used a ruleset over the course of its first 8 years of accepting rii
 organization that was unique compared to other competitive riichi rules. The main differences of the
 RCR to other common Japanese Mahjong rulesets are:
 
-- Kuitan nashi: Tanyao (all simples) was only awarded to closed hands only.
-- Kuikae ari: Any discard is legal after calling chii or pon, even a tile which would also have
-  completed the open meld.
-- Ryanhan shibari: With five or more table counters present, winning hands must have at least two
-  Han from Yaku.
-- Furiten treatment: Temporary furiten is treated like ippatsu, a call from any opponents can
-  nullify a temporary furiten state, unlike everywhere else requiring that the furiten player take
-  his own action before exiting the furiten state. Permanent and self-furiten are treated the same.
+- [Kuitan]({{< ref "/riichi/yaku/tanyao.md" >}}) nashi: Tanyao (all simples) was only awarded to
+  closed hands only.
+- [Kuikae]({{< ref "/riichi/terminology/kuikae.md" >}}) ari: Any discard is legal after calling chii
+  or pon, even a tile which would also have completed the open meld.
+- [Ryanhan shibari]({{< ref "/riichi/rules/ryanhan-shibari.md" >}}): With five or more table
+  counters present, winning hands must have at least two Han from Yaku.
+- [Furiten]({{< ref "/riichi/strategy/furiten.md" >}}) treatment: Temporary furiten is treated like
+  ippatsu, a call from any opponents can nullify a temporary furiten state, unlike everywhere else
+  requiring that the furiten player take his own action before exiting the furiten state. Permanent
+  and self-furiten are treated the same.
 
 ### Current (2016+)
 
 The most recent update to the EMA ruleset has made a number of changes, to resemble the standard set
 by the WRC rules. The remaining differences with the 2015 WRC ruleset are minimal
 
-- Changes from previous EMA rules (2012): no more red fives; open tanyao (kuitan) allowed; renhou is
-  now a strict mangan only; the maximum score is a single yakuman (Daisuushii no longer worth
-  double); 11-han hands and above are all scored as sanbaiman; the timing rule was changed; no more
-  swap-calling (kuikae); temporary furiten ends once the player can play their turn (draw or claim a
-  tile); the 2-han restriction (ryanhan shibari) with 5 or more repeats is gone; no more abortive
-  draws; no more nagashi mangan; rank bonus (uma) is now \[+15P, +5P, -5P, -15P\]; the chombo
+- Changes from previous EMA rules (2012): no more red fives; open tanyao
+  ([kuitan]({{< ref "/riichi/yaku/tanyao.md" >}})) allowed; renhou is now a strict mangan only; the
+  maximum score is a single yakuman (Daisuushii no longer worth double); 11-han hands and above are
+  all scored as sanbaiman; the timing rule was changed; no more swap-calling
+  ([kuikae]({{< ref "/riichi/terminology/kuikae.md" >}})); temporary furiten ends once the player
+  can play their turn (draw or claim a tile); the 2-han restriction ([ryanhan
+  shibari]({{< ref "/riichi/rules/ryanhan-shibari.md" >}})) with 5 or more repeats is gone; no more
+  abortive draws; no more nagashi mangan; rank bonus
+  ([uma]({{< ref "/riichi/rules/oka-and-uma.md" >}})) is now \[+15P, +5P, -5P, -15P\]; the chombo
   penalty in a tournament is now -20P (after rank bonus); penalties are generally less harsh.
 - Differences with WRC rules (2015):
   - Multiple winners are allowed
@@ -45,8 +50,9 @@ by the WRC rules. The remaining differences with the 2015 WRC ruleset are minima
 
 ## Detailed rules
 
-The reader is assumed to be familiar with the general rules of Japanese Mahjong. This section
-describes possible differences to other common rulesets.
+The reader is assumed to be familiar with the [general rules of Japanese
+Mahjong]({{< ref "/riichi/rules/rules-overview.md" >}}). This section describes possible differences
+to other common rulesets.
 
 This description tries to cover many possible questions, thus enabling a player to participate in an
 EMA tournament, but it also strives to be concise. For the most elaborate rules, see the official
@@ -81,19 +87,25 @@ Karaten counts as noten.
 
 Open tanyao is allowed.
 
-Nagashi mangan counts as a win, rendering noten penalties and noten riichi chombo void. Multiple
-players may win with Nagashi Mangan simultaneously, payments occur as with separate mangan Tsumos.
-Table counters affect the hand score normally. Hand progression or hand repeat depends on whether
-East was a nagashi mangan winner or not, because tenpai hands are not revealed.
+[Nagashi mangan]({{< ref "/riichi/yaku/nagashi-mangan.md" >}}) counts as a win, rendering [noten
+penalties]({{< ref "/riichi/rules/ryuukyoku.md" >}}) and noten riichi
+[chombo]({{< ref "/riichi/rules/chombo.md" >}}) void. Multiple players may win with Nagashi Mangan
+simultaneously, payments occur as with separate mangan Tsumos. Table counters affect the hand score
+normally. Hand progression or hand repeat depends on whether East was a nagashi mangan winner or
+not, because tenpai hands are not revealed.
 
-Rinshan kaihou combines with Haitei when a kan is declared with exactly one tile in the live wall
-and the declarer wins on the subsequent dead wall draw. This is not possible in most other rulesets.
+[Rinshan kaihou]({{< ref "/riichi/yaku/rinshan-kaihou.md" >}}) combines with
+[Haitei]({{< ref "/riichi/yaku/haitei-raoyue-and-houtei-raoyui.md" >}}) when a kan is declared with
+exactly one tile in the live wall and the declarer wins on the subsequent dead wall draw. This is
+not possible in most other rulesets.
 
-Renhou is a mangan. This is awarded to any player winning by Ron within the first uninterrupted set
-of turns, before the player has made his first draw from the wall. The winner does not need to have
-another yaku, Renhou by itself is the yaku.
+[Renhou]({{< ref "/riichi/yaku/optional/renhou.md" >}}) is a mangan. This is awarded to any player
+winning by Ron within the first uninterrupted set of turns, before the player has made his first
+draw from the wall. The winner does not need to have another yaku, Renhou by itself is the yaku.
 
-Sekinin barai, or pao, is in effect for daisangen and daisuushii.
+[Sekinin barai]({{< ref "/riichi/rules/sekinin-barai.md" >}}), or pao, is in effect for
+[daisangen]({{< ref "/riichi/yakuman/daisangen.md" >}}) and
+[daisuushii]({{< ref "/riichi/yakuman/suushiihou.md" >}}).
 
 Yakuman are not cumulative. Daisuushii is the only possible double yakuman.
 
@@ -113,11 +125,12 @@ repetition of the hand with the same number of table counters.
 When five or more table counters are present, winning hands must have at least two han, coming from
 yaku.
 
-After each Hanchan, players receive a relatively large uma of 5-15, i.e., the second player receives
-5,000 points from the third, and the first player receives 15,000 points from last place. When
-player scores tie, the tying players share their Uma; ties are not resolved by player seating order.
-Players tying for first share any leftover Riichi sticks. There is no oka. Scores are _not_ rounded
-to the nearest thousand.
+After each Hanchan, players receive a relatively large
+[uma]({{< ref "/riichi/rules/oka-and-uma.md" >}}) of 5-15, i.e., the second player receives 5,000
+points from the third, and the first player receives 15,000 points from last place. When player
+scores tie, the tying players share their Uma; ties are not resolved by player seating order.
+Players tying for first share any leftover Riichi sticks. There is no
+[oka]({{< ref "/riichi/rules/oka-and-uma.md" >}}). Scores are _not_ rounded to the nearest thousand.
 
 ### Time limit
 

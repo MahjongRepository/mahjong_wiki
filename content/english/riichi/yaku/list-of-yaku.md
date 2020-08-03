@@ -6,28 +6,33 @@ tags = ["Yaku", "Scoring"]
 +++
 
 ![[Example hand](http://tenhou.net/0/?log=2008121721gm-00c1-0000-fcadb0d7&tw=3&ts=5), containing many yaku.](YakuListed.png "Example hand, containing many yaku.")
-A **yaku** {{< kana "役" >}} is a certain pattern in a mahjong hand, or a special condition under
-which a win is declared. Many yaku are pattern-based yaku comparable to "poker hands". Unlike poker,
-yaku types do not supercede each other. Instead, they are the main factor to determine hand values.
-Players must finish hands before others do; and each yaku has specific values attached to them to
-determine payment amounts.
+A **[yaku]({{< ref "/riichi/yaku/yaku.md" >}})** {{< kana "役" >}} is a certain pattern in a mahjong
+hand, or a special condition under which a win is declared. Many yaku are pattern-based yaku
+comparable to "poker hands". Unlike poker, yaku types do not supercede each other. Instead, they are
+the main factor to determine hand values. Players must finish hands before others do; and each yaku
+has specific values attached to them to determine [payment
+amounts]({{< ref "/riichi/strategy/scoring-table.md" >}}).
 
-The yaku and their values are essential for scoring. The game rules define lots of different yaku,
-worth a different amount of **han** {{< kana "飜" >}} based on their difficulty or pre-assigned
-value. A player can incorporate several different yaku in the same hand and accumulate their han
-values for high-scoring hands. For additional scoring, the game also features dora. However,
-possession of dora are not considered as yaku, even though they provide han.
+The yaku and their values are essential for
+[scoring]({{< ref "/riichi/strategy/japanese-mahjong-scoring-rules.md" >}}). The game rules define
+lots of different yaku, worth a different amount of
+**[han]({{< ref "/riichi/strategy/japanese-mahjong-scoring-rules.md" >}})** {{< kana "飜" >}} based
+on their difficulty or pre-assigned value. A player can incorporate [several different yaku in the
+same hand]({{< ref "/riichi/strategy/yaku-compatibility.md" >}}) and accumulate their han values for
+high-scoring hands. For additional scoring, the game also features
+[dora]({{< ref "/riichi/rules/dora.md" >}}). However, possession of dora are not considered as yaku,
+even though they provide han.
 
 **In order to win any hand in this game, a player requires at least one yaku.** A hand having no
 yaku may not win, even if it has multiple dora. Declaring a win on a yakuless hand may result in
-chombo. So, as an early part of the game's learning process, it is essential to learn the different
-yaku listed here and eventually their han values.
+[chombo]({{< ref "/riichi/rules/chombo.md" >}}). So, as an early part of the game's learning
+process, it is essential to learn the different yaku listed here and eventually their han values.
 
-The most important yaku to learn is riichi, since it is very common and a very easy yaku to achieve.
-A new player may find it easiest to avoid opening their hand and simply aim for riichi every time;
-no other yaku is required to win the hand. However, this strategy is far too simple for serious play
-and an experienced player should generally aim for a high-scoring yaku or combination of yaku from
-the beginning of the hand.
+The most important yaku to learn is [riichi]({{< ref "/riichi/rules/riichi.md" >}}), since it is
+very common and a very easy yaku to achieve. A new player may find it easiest to avoid opening their
+hand and simply aim for riichi every time; no other yaku is required to win the hand. However, this
+strategy is far too simple for serious play and an experienced player should generally aim for a
+high-scoring yaku or combination of yaku from the beginning of the hand.
 
 ## One han closed only
 
@@ -128,7 +133,7 @@ the beginning of the hand.
 | kanji = 全帯幺九
 | closeopen = May be open (Loses 1 han)
 | tilepattern =  11m789p123s22z   2'13p  Agari:  1m  or  2z
-| description = All tile groups contain at least 1 terminal or honor.
+| description = All tile groups contain at least 1 [terminal]({{< ref "/riichi/yakuman/chinroutou.md" >}}) or [honor]({{< ref "/riichi/terminology/jihai.md" >}}).
 ```
 
 ```yaku list
@@ -229,7 +234,7 @@ the beginning of the hand.
 | kanji = 二盃口
 | closeopen = Closed only
 | tilepattern =  445566m66788p22s  Agari:  7p
-| description =This hand has two sets of "iipeikou". This hand does not combine with chii toitsu, even though the hand can be interpreted as one.
+| description =This hand has two sets of "[iipeikou]({{< ref "/riichi/yaku/iipeikou.md" >}})". This hand does not combine with chii toitsu, even though the hand can be interpreted as one.
 ```
 
 ## Six han
@@ -248,7 +253,7 @@ the beginning of the hand.
 | yakuname = Kazoe yakuman
 | kanji = 数え役満
 | closeopen = May be open
-| description = This is a special class of yakuman, where a hand is composed of 13+ han based on the combination of above regular yaku and/or dora.
+| description = This is a special class of yakuman, where a hand is composed of 13+ han based on the combination of above regular yaku and/or [dora]({{< ref "/riichi/rules/dora.md" >}}).
 ```
 
 ```yaku list
@@ -264,7 +269,7 @@ the beginning of the hand.
 | kanji = 四暗刻 or 四暗刻単騎
 | closeopen = Closed only
 | tilepattern =  222m444p888m7722z  Tsumo:  7z  or  2z
-| description = This hand is composed of four groups of closed triplets. When this hand has a shanpon pattern and the win is via ron, then it would not be counted as such; only as the lesser toitoi with sanankou.
+| description = This hand is composed of four groups of closed triplets. When this hand has a [shanpon]({{< ref "/riichi/terminology/waits/shanpon.md" >}}) pattern and the win is via ron, then it would not be counted as such; only as the lesser [toitoi]({{< ref "/riichi/yaku/toitoihou.md" >}}) with [sanankou]({{< ref "/riichi/yaku/sanankou.md" >}}).
 ```
 
 ```yaku list
@@ -365,8 +370,9 @@ addition, the hand may or may not be at tenpai upon scoring. By default, this ha
 `main|Optional yaku`
 
 The above list is generally considered as the "standard yaku", including the yakuman. However, the
-game offers an even larger array of tile patterns. Various house rules may opt to use some of these
-yaku on their own.
+game offers an even larger array of tile patterns. Various [house
+rules]({{< ref "/riichi/rules/variations/rule-variations.md" >}}) may opt to use some of these yaku
+on their own.
 
 ## External links
 
@@ -378,7 +384,7 @@ yaku on their own.
 
 -
 
-    Lists all the yaku occurrences in Tenhou.net by percentages and by room
+    Lists all the yaku occurrences in [Tenhou.net]({{< ref "/riichi/" >}}) by percentages and by room
 
 <!-- end list -->
 

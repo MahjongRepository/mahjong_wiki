@@ -22,7 +22,8 @@ tags = ["Yaku"]
 **Sanshoku doujun** {{< kana "三色同順" >}} is a standard yaku. It can also be referred as
 **sanshiki** {{< kana "さんしき" >}}. This yaku involves sequences of the same numbered tiles across
 the three numbered suits. The short hand **sanshoku** more commonly refers to this yaku, rather than
-the significantly more difficult to achieve sanshoku doukou yaku. This yaku simply happens more
+the significantly more difficult to achieve [sanshoku
+doukou]({{< ref "/riichi/yaku/sanshoku-doukou.md" >}}) yaku. This yaku simply happens more
 frequently.
 
 ## Tile pattern
@@ -49,19 +50,31 @@ valued 1 han.
 
 `Yaku compatibility table|SDJ`
 
-Sanshoku requires three sequence groups, and thus is incompatible with toitoi, sanshoku doukou,
-sanankou, sankantsu, shousangen, honroutou, and chiitoitsu. It is incompatible with honroutou
-because honroutou requires either toitoi or chiitoi. Since it requires three suits, it is also
-incompatible with honitsu and chinitsu. Finally, while ryanpeikou and ittsu do each require
-sequences, their constraints on the sequences are incompatible with those for sanshoku.
+Sanshoku requires three sequence groups, and thus is incompatible with
+[toitoi]({{< ref "/riichi/yaku/toitoihou.md" >}}), [sanshoku
+doukou]({{< ref "/riichi/yaku/sanshoku-doukou.md" >}}),
+[sanankou]({{< ref "/riichi/yaku/sanankou.md" >}}),
+[sankantsu]({{< ref "/riichi/yaku/sankantsu.md" >}}),
+[shousangen]({{< ref "/riichi/yaku/shousangen.md" >}}),
+[honroutou]({{< ref "/riichi/yaku/honroutou.md" >}}), and
+[chiitoitsu]({{< ref "/riichi/yaku/chiitoitsu.md" >}}). It is incompatible with
+[honroutou]({{< ref "/riichi/yaku/honroutou.md" >}}) because honroutou requires either toitoi or
+chiitoi. Since it requires three suits, it is also incompatible with
+[honitsu]({{< ref "/riichi/yaku/honiisou.md" >}}) and
+[chinitsu]({{< ref "/riichi/yaku/chiniisou.md" >}}). Finally, while
+[ryanpeikou]({{< ref "/riichi/yaku/ryanpeikou.md" >}}) and
+[ittsu]({{< ref "/riichi/yaku/ikkitsuukan.md" >}}) do each require sequences, their constraints on
+the sequences are incompatible with those for sanshoku.
 
 ### Takame and yasume
 
 `main|Takame and yasume`
 
-Sanshoku is particularly affected by takame and yasume. At times, the tile wait involves a ryanmen
-looking for two tile types for the third tile grouping needed for this yaku. In this case, one may
-result in sanshoku, while the other does not; and the difference here may involve 1 or 2 han.
+Sanshoku is particularly affected by [takame and
+yasume]({{< ref "/riichi/strategy/takame-and-yasume.md" >}}). At times, the tile wait involves a
+ryanmen looking for two tile types for the third tile grouping needed for this yaku. In this case,
+one may result in sanshoku, while the other does not; and the difference here may involve 1 or 2
+han.
 
 {{< t 456m456s45p22266z >}} Agari: {{< t 3p >}} or {{< t 6p >}}
 

@@ -14,11 +14,13 @@ wind rotation or outright end the game.
 ## Usage
 
 To use this strategy, a player must either have a sizable lead, a marginal point lead vs the next
-player in placement, and/or familiarity with the scoring table. Furthermore, the player must defend
-against particular players; or else the strategy is rendered moot by not accomplishing its goal. For
+player in placement, and/or familiarity with the [scoring
+table]({{< ref "/riichi/strategy/scoring-table.md" >}}). Furthermore, the player must defend against
+particular players; or else the strategy is rendered moot by not accomplishing its goal. For
 example, for the last hand of the game, players should defend against the last dealer in order to
-prevent additional hands; and otherwise, the last dealer has a chance to win the game by winning
-enough consecutive and/or large enough hands as the last dealer.
+prevent [additional hands]({{< ref "/riichi/rules/renchan.md" >}}); and otherwise, the last dealer
+has a chance to win the game by winning enough consecutive and/or large enough hands as the last
+dealer.
 
 ## External links
 

@@ -10,24 +10,28 @@ minor and correctable, like accidentally drawing the wrong tile from the wall. R
 subject to chombo are harsh enough to abort the hand and impose a point loss on the offender.
 
 In all instances of chombo, the current hand is then aborted and repeated. Players who have declared
-riichi during the aborted hand get their riichi bet back. Most rules leave the honba count unchanged
-for the repeat, while some rules may handle this like any other abortive draw.
+[riichi]({{< ref "/riichi/rules/riichi.md" >}}) during the aborted hand get their riichi bet back.
+Most rules leave the [honba]({{< ref "/riichi/rules/honba.md" >}}) count unchanged for the repeat,
+while some rules may handle this like any other [abortive
+draw]({{< ref "/riichi/rules/tochuu-ryuukyoku.md" >}}).
 
 ## Application
 
 A player penalized with chombo must pay a specified point penalty, depending on the setting. The
 most common is a mangan-sized penalty. To each other player, the offender must pay what the offender
-would have received on a mangan tsumo without honba. In other words, the offender pays a "reverse
-mangan tsumo". An offending dealer must pay 4,000 to everyone, and offending non-dealers must pay
-2,000 to each non-dealer and 4,000 to the dealer. In some instances, the points specified may
-directly affect the uma, or the +/- end scores. As a time saver, chombo penalties may be applied
-post-game, especially when a time limit is imposed. Casual settings may simply ignore and bypass
-chombo altogether.
+would have received on a mangan tsumo without [honba]({{< ref "/riichi/rules/honba.md" >}}). In
+other words, the offender pays a "reverse mangan tsumo". An offending dealer must pay 4,000 to
+everyone, and offending non-dealers must pay 2,000 to each non-dealer and 4,000 to the dealer. In
+some instances, the points specified may directly affect the
+[uma]({{< ref "/riichi/rules/oka-and-uma.md" >}}), or the +/- end scores. As a time saver, chombo
+penalties may be applied post-game, especially when a time limit is imposed. Casual settings may
+simply ignore and bypass chombo altogether.
 
 Another application of chombo penalizes the player post-game. After the end score calculation with
-oka and uma, a point penalty is applied. This format is relevant in tournament formats, where
-accumulated points play a role to overall standings. The deducted points is at the discretion of the
-tournament organizer.
+[oka]({{< ref "/riichi/rules/oka-and-uma.md" >}}) and
+[uma]({{< ref "/riichi/rules/oka-and-uma.md" >}}), a point penalty is applied. This format is
+relevant in tournament formats, where accumulated points play a role to overall standings. The
+deducted points is at the discretion of the tournament organizer.
 
 ## Infraction cases
 
@@ -51,10 +55,11 @@ cheater.
 Players cannot declare a win with an incomplete hand or on an incorrect waiting tile. The following
 conditions are deemed as invalid win:
 
-- **The hand must have at least one yaku minimum to win**. Therefore, declaring a win on a hand
-  without yaku is penalized.
-- A player in furiten cannot win by ron. Instead, by the rule of furiten, a player is limited to
-  winning via tsumo. Declaring ron while furiten is penalized.
+- **The hand must have at least one [yaku]({{< ref "/riichi/yaku/yaku.md" >}}) minimum to win**.
+  Therefore, declaring a win on a hand without yaku is penalized.
+- A player in [furiten]({{< ref "/riichi/strategy/furiten.md" >}}) cannot win by ron. Instead, by
+  the rule of furiten, a player is limited to winning via tsumo. Declaring ron while furiten is
+  penalized.
 - Declaring a win with a noten hand is definitely subject to chombo.
 
 ### Invalid call
@@ -71,25 +76,28 @@ and the resulting meld is illegal, then chombo applies.
 
 ### Noten riichi
 
-Riichi may only be declared with a tenpai hand. Declaring riichi with a noten hand is not detected
-by the other players immediately. It goes unpunished if another player wins the hand or on an
-abortive draw. The noten riichi is punished with chombo if the player declares a win, or when the
-hand must be revealed at ryuukyoku.
+Riichi may only be declared with a [tenpai]({{< ref "/riichi/strategy/tenpai.md" >}}) hand.
+Declaring riichi with a noten hand is not detected by the other players immediately. It goes
+unpunished if another player wins the hand or on an [abortive
+draw]({{< ref "/riichi/rules/tochuu-ryuukyoku.md" >}}). The noten riichi is punished with chombo if
+the player declares a win, or when the hand must be revealed at
+[ryuukyoku]({{< ref "/riichi/rules/ryuukyoku.md" >}}).
 
 ### Unrevealed riichi
 
-If the hand ends in ryuukyoku, riichi declarers must show their hands as proof of being in tenpai.
-Depending on the specific rules, a player may refuse to show the hand and instead take the penalty,
-even when tenpai.
+If the hand ends in [ryuukyoku]({{< ref "/riichi/rules/ryuukyoku.md" >}}), riichi declarers must
+show their hands as proof of being in tenpai. Depending on the specific rules, a player may refuse
+to show the hand and instead take the penalty, even when tenpai.
 
 ### Invalid ankan
 
 `main|Kan\#Kan during riichi`
 
-During riichi, a player may call kan with an ankan, or closed kan. However, this is invalid when the
-player's wait changes. Typically, this occurs when, the four concealed tiles are connected to
-another tile grouping. Other players cannot detect this rules violation immediately, and it is
-punished at the same time as a noten riichi.
+During riichi, a player may call [kan]({{< ref "/riichi/rules/kan.md" >}}) with an ankan, or closed
+kan. However, this is invalid when the player's [wait]({{< ref "/riichi/strategy/machi.md" >}})
+changes. Typically, this occurs when, the four concealed tiles are connected to another [tile
+grouping]({{< ref "/riichi/terminology/mentsu.md" >}}). Other players cannot detect this rules
+violation immediately, and it is punished at the same time as a noten riichi.
 
 **Example:** _Riichi is declared._ {{< t 22234p777m345s33z >}}
 

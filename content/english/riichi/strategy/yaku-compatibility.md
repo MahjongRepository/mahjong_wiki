@@ -7,13 +7,17 @@ tags = ["Yaku", "Strategy"]
 
 ![A single hand composed of six yaku to produce a baiman hand.](Junchan_sanshoku_baiman.jpg "A single hand composed of six yaku to produce a baiman hand.")
 
-This is a table showing the compatibilities of the different yaku with each other. While yaku may be
-combined in one hand, some yaku simply cannot combine with each other due to tile counts and
-patterns. In other cases, one yaku would always imply another. For instance, a junchan hand has a
-terminal or honour in every group (since it has a terminal in every group), and so it would qualify
-for chanta. By rule, two yaku cannot be combined if one always implies the other. There is a partial
-exception to this as shousangen always implies at least two yakuhai for sets of dragons, but they
-are not necessarily the same two yakuhai so they are counted in addition.
+This is a table showing the compatibilities of the different
+[yaku]({{< ref "/riichi/yaku/yaku.md" >}}) with each other. While yaku may be combined in one hand,
+some yaku simply cannot combine with each other due to tile counts and patterns. In other cases, one
+yaku would always imply another. For instance, a
+[junchan]({{< ref "/riichi/yaku/junchantaiyaochuu.md" >}}) hand has a terminal or honour in every
+group (since it has a terminal in every group), and so it would qualify for
+[chanta]({{< ref "/riichi/yaku/chanta.md" >}}). By rule, two yaku cannot be combined if one always
+implies the other. There is a partial exception to this as
+[shousangen]({{< ref "/riichi/yaku/shousangen.md" >}}) always implies at least two
+[yakuhai]({{< ref "/riichi/rules/yakuhai.md" >}}) for sets of dragons, but they are not necessarily
+the same two yakuhai so they are counted in addition.
 
 ## Yaku
 
@@ -81,7 +85,8 @@ hand without honours, while qualifying for chanta, would never score it. Most of
 with the exception of toitoi + mentsumo, are based on the assumption that the yaku are defined using
 the second method.
 
-Nagashi mangan is excluded, because it is incompatible with anything, even riichi.
+[Nagashi mangan]({{< ref "/riichi/yaku/nagashi-mangan.md" >}}) is excluded, because it is
+incompatible with anything, even riichi.
 
 ### Compatibility
 
@@ -100,21 +105,21 @@ or chiihou. With this in mind, the options for combining different yakuman are l
 
 {{< table >}}
 
-|                |     |       |       |       |       |       |       |       |       |       |       |       |
-| -------------- | --- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-|                | KMU | DSG   | SUA   | SSS   | DSS   | TSU   | RYU   | CHR   | CHU   | SUK   | TEN   | CHH   |
-| Kokushi musou  | KMU |       | `no`  | `no`  | `no`  | `no`  | `no`  | `no`  | `no`  | `no`  | `no`  | `yes` |
-| Daisangen      | DSG | `no`  |       | `yes` | `no`  | `no`  | `yes` | `no`  | `no`  | `no`  | `yes` | `yes` |
-| Suuankou       | SUA | `no`  | `yes` |       | `yes` | `yes` | `yes` | `yes` | `yes` | `no`  | `yes` | `yes` |
-| Shousuushii    | SSS | `no`  | `no`  | `yes` |       |       | `yes` | `no`  | `no`  | `no`  | `yes` | `yes` |
-| Daisuushii     | DSS | `no`  | `no`  | `yes` |       |       | `yes` | `no`  | `no`  | `no`  | `yes` | `yes` |
-| Tsuuiisou      | TSU | `no`  | `yes` | `yes` | `yes` | `yes` |       | `no`  | `no`  | `no`  | `yes` | `yes` |
-| Ryuuiisou      | RYU | `no`  | `no`  | `yes` | `no`  | `no`  | `no`  |       | `no`  | `no`  | `yes` | `yes` |
-| Chinroutou     | CHR | `no`  | `no`  | `yes` | `no`  | `no`  | `no`  | `no`  |       | `no`  | `yes` | `yes` |
-| Chuuren poutou | CHU | `no`  | `no`  | `no`  | `no`  | `no`  | `no`  | `no`  | `no`  |       | `no`  | `yes` |
-| Suukantsu      | SUK | `no`  | `yes` | `yes` | `yes` | `yes` | `yes` | `yes` | `yes` | `no`  |       | `no`  |
-| Tenhou         | TEN | `yes` | `yes` | `yes` | `yes` | `yes` | `yes` | `yes` | `yes` | `yes` | `no`  |       |
-| Chiihou        | CHH | `yes` | `yes` | `yes` | `yes` | `yes` | `yes` | `yes` | `yes` | `yes` | `no`  |       |
+|                                                                           |     |       |       |       |       |       |       |       |       |       |       |       |
+| ------------------------------------------------------------------------- | --- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+|                                                                           | KMU | DSG   | SUA   | SSS   | DSS   | TSU   | RYU   | CHR   | CHU   | SUK   | TEN   | CHH   |
+| [Kokushi musou]({{< ref "/riichi/terminology/waits/kokushi-musou.md" >}}) | KMU |       | `no`  | `no`  | `no`  | `no`  | `no`  | `no`  | `no`  | `no`  | `no`  | `yes` |
+| [Daisangen]({{< ref "/riichi/yakuman/daisangen.md" >}})                   | DSG | `no`  |       | `yes` | `no`  | `no`  | `yes` | `no`  | `no`  | `no`  | `yes` | `yes` |
+| [Suuankou]({{< ref "/riichi/yakuman/suuankou.md" >}})                     | SUA | `no`  | `yes` |       | `yes` | `yes` | `yes` | `yes` | `yes` | `no`  | `yes` | `yes` |
+| [Shousuushii]({{< ref "/riichi/yakuman/suushiihou.md" >}})                | SSS | `no`  | `no`  | `yes` |       |       | `yes` | `no`  | `no`  | `no`  | `yes` | `yes` |
+| [Daisuushii]({{< ref "/riichi/yakuman/suushiihou.md" >}})                 | DSS | `no`  | `no`  | `yes` |       |       | `yes` | `no`  | `no`  | `no`  | `yes` | `yes` |
+| [Tsuuiisou]({{< ref "/riichi/yakuman/tsuuiisou.md" >}})                   | TSU | `no`  | `yes` | `yes` | `yes` | `yes` |       | `no`  | `no`  | `no`  | `yes` | `yes` |
+| [Ryuuiisou]({{< ref "/riichi/yaku/ryuuiisou.md" >}})                      | RYU | `no`  | `no`  | `yes` | `no`  | `no`  | `no`  |       | `no`  | `no`  | `yes` | `yes` |
+| [Chinroutou]({{< ref "/riichi/yakuman/chinroutou.md" >}})                 | CHR | `no`  | `no`  | `yes` | `no`  | `no`  | `no`  | `no`  |       | `no`  | `yes` | `yes` |
+| [Chuuren poutou]({{< ref "/riichi/yakuman/chuuren-poutou.md" >}})         | CHU | `no`  | `no`  | `no`  | `no`  | `no`  | `no`  | `no`  | `no`  |       | `no`  | `yes` |
+| [Suukantsu]({{< ref "/riichi/yakuman/suukantsu.md" >}})                   | SUK | `no`  | `yes` | `yes` | `yes` | `yes` | `yes` | `yes` | `yes` | `no`  |       | `no`  |
+| [Tenhou]({{< ref "/riichi/yakuman/tenhou-and-chiihou.md" >}})             | TEN | `yes` | `yes` | `yes` | `yes` | `yes` | `yes` | `yes` | `yes` | `yes` | `no`  |       |
+| [Chiihou]({{< ref "/riichi/yakuman/tenhou-and-chiihou.md" >}})            | CHH | `yes` | `yes` | `yes` | `yes` | `yes` | `yes` | `yes` | `yes` | `yes` | `no`  |       |
 
 {{</ table >}}
 

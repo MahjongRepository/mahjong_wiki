@@ -15,10 +15,13 @@ tags = ["Machi"]
 |gameExample =
 ```
 
-**Aryanmen** {{< kana "亜両面" >}} is a variation on the ryanmen waiting pattern, where the two
-tiles completing the sequence are next to a pair of one of the waiting tiles. As a result, the hand
-also has a pair wait on that tile. It is generally a weaker wait, however, as the pair uses up two
-of the eight possible waiting tiles, leaving only six possible tiles to win off of.
+**Aryanmen** {{< kana "亜両面" >}} is a variation on the
+[ryanmen]({{< ref "/riichi/terminology/waits/ryanmen.md" >}}) [waiting
+pattern]({{< ref "/riichi/strategy/machi.md" >}}), where the two tiles completing the sequence are
+next to a [pair]({{< ref "/riichi/terminology/toitsu.md" >}}) of one of the waiting tiles. As a
+result, the hand also has a [pair wait]({{< ref "/riichi/terminology/waits/tanki.md" >}}) on that
+tile. It is generally a weaker wait, however, as the pair uses up two of the eight possible waiting
+tiles, leaving only six possible tiles to win off of.
 
 ## Tile pattern
 
@@ -37,8 +40,9 @@ interpreted as a ryanmen wait, and it will score 0 fu.
 
 When aryanmen is won with the waiting tile already present in hand, it can be interpreted as either
 a tanki or ryanmen wait. In this case, the highest-scoring option must be chosen. Normally, this
-will be the 2 fu for a tanki wait, but if the hand qualifies for the pinfu yaku, that will be scored
-instead.
+will be the 2 fu for a tanki wait, but if the hand qualifies for the
+[pinfu]({{< ref "/riichi/yaku/pinfu.md" >}}) [yaku]({{< ref "/riichi/yaku/yaku.md" >}}), that will
+be scored instead.
 
 ## External Links
 

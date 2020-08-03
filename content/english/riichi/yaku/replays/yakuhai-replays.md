@@ -5,7 +5,7 @@ updated = "2018-06-20T21:30:17Z"
 tags = ["Yaku replays"]
 +++
 
-This is a collection of replays featuring yakuhai.
+This is a collection of replays featuring [yakuhai]({{< ref "/riichi/rules/yakuhai.md" >}}).
 
 ## Kaze
 

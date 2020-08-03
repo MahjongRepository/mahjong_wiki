@@ -16,7 +16,8 @@ During the course of the game, the dealer position rotates among the four player
 two ways:
 
 1.  A player other than the dealer wins a hand.
-2.  The dealer fails to attain tenpai at ryuukyoku (exhaustive draw).
+2.  The dealer fails to attain tenpai at [ryuukyoku]({{< ref "/riichi/rules/ryuukyoku.md" >}})
+    (exhaustive draw).
 
 Seldom, a game can end without the dealer position ever changing. Notably, this scenario can occur
 if a player's points fall below zero beforehand. Of course, some rules allow continuance of the
@@ -27,7 +28,9 @@ game, despite the scores.
 The dealer seat has some benefits:
 
 - If the dealer wins the hand, the wind seating does not rotate.
-- If the dealer is tenpai at ryuukyoku (exhaustive draw), the wind seating does not rotate.
+- If the dealer is [tenpai]({{< ref "/riichi/strategy/tenpai.md" >}}) at
+  [ryuukyoku]({{< ref "/riichi/rules/ryuukyoku.md" >}}) (exhaustive draw), the wind seating does not
+  rotate.
 - The dealer's hand value is worth exactly or approximately 50% more than that of non-dealer hands.
 - The dealer is always the first to grab four dealt tiles.
 - The dealer always draws first and begins the hand.
@@ -46,8 +49,10 @@ setting may require the dealer to win the hand, instead of merely achieving tenp
 This is to increase the pressure on the dealer to win hands. This also prevents the dealer from
 elongating the game by attaining additional hands by being tenpai at ryuukyoku.
 
-The dealer is only disadvantaged when non-dealer players win by tsumo. In this case, the dealer
-plays approximately twice as much as the other players. This is significant during close games or on
-big hands, where the point differences may be adequate enough for a place change.
+The dealer is only disadvantaged when non-dealer players win by
+[tsumo]({{< ref "/riichi/terminology/tsumo.md" >}}). In this case, the dealer plays approximately
+twice as much as the other players. This is significant during close games or on big hands, where
+the point differences may be adequate enough for a [place
+change]({{< ref "/riichi/terminology/gyakuten.md" >}}).
 
 - [Source of this page [arcturus wiki]](http://arcturus.su/wiki/Oya)

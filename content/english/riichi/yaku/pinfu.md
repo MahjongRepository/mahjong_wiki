@@ -12,7 +12,7 @@ tags = ["Yaku"]
 |value = 1 han
 |yakuSpeed = Very fast
 |difficulty = Very easy
-|yakuCombine = All yaku except Chiitoitsu and koutsu based yaku.
+|yakuCombine = All yaku except [Chiitoitsu]({{< ref "/riichi/yaku/chiitoitsu.md" >}}) and koutsu based yaku.
 |gameExample = \* Pinfu
 
   - Pinfu
@@ -21,7 +21,9 @@ tags = ["Yaku"]
 
 **Pinfu** {{< kana "平和" >}} is a standard yaku. This yaku is defined by having 0 fu aside from the
 base 20 fu, or 30 fu in the case of a closed ron. It is worth 1 han and closed only. Under all
-cases, a tenpai for pinfu requires the wait pattern of ryanmen (open wait).
+cases, a [tenpai]({{< ref "/riichi/strategy/tenpai.md" >}}) for pinfu requires the [wait
+pattern]({{< ref "/riichi/strategy/machi.md" >}}) of
+[ryanmen]({{< ref "/riichi/terminology/waits/ryanmen.md" >}}) (open wait).
 
 ## Tile diagram
 
@@ -43,19 +45,19 @@ The following examples are all "all sequence hands"; but they are not pinfu.
 
 {{< table >}}
 
-|                                                                             |                                                                                                                                                                                                                                                                  |
-| --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `machi|pattern = 456m345p78p55s8z5'67s|tilewaits = 69p|wait status = Agari` | Every tile group is a sequence, but this hand is open.                                                                                                                                                                                                           |
-|                                                                             |                                                                                                                                                                                                                                                                  |
-| `machi|pattern = 23m123p678s345m11z|tilewaits = 14m|wait status = Agari`    | The pair of east winds disqualifies the hand as pinfu for the dealer or for any player in the east round.                                                                                                                                                        |
-|                                                                             |                                                                                                                                                                                                                                                                  |
-| `machi|pattern = 123456p789m567s3m|tilewaits = 3m|wait status = Agari`      | The pair wait disqualifies this hand as pinfu.                                                                                                                                                                                                                   |
-|                                                                             |                                                                                                                                                                                                                                                                  |
-| `machi|pattern = 23m123p678s345m55z|tilewaits = 14m|wait status = Agari`    | The dragon pair does not qualify this hand as pinfu.                                                                                                                                                                                                             |
-|                                                                             |                                                                                                                                                                                                                                                                  |
-| `machi|pattern = 123m234s79s22567p|tilewaits = 8s|wait status = Agari`      | The middle wait does not qualify this hand as pinfu.                                                                                                                                                                                                             |
-|                                                                             |                                                                                                                                                                                                                                                                  |
-| `machi|pattern = 456m123s3456678p|tilewaits = 369p|wait status = Agari`     | This hand qualifies for pinfu using either 6-pin or 9-pin. However, the first tile, 3-pin, functions as tanki. Coupled with the 6-pin, it is on a 3-6 nobetan. Nevertheless, 6-pin still qualifies for pinfu, because the han increase takes precedence over fu. |
+|                                                                             |                                                                                                                                                                                                                                                                                                                        |
+| --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `machi|pattern = 456m345p78p55s8z5'67s|tilewaits = 69p|wait status = Agari` | Every tile group is a sequence, but this hand is [open]({{< ref "/riichi/rules/naki.md" >}}).                                                                                                                                                                                                                          |
+|                                                                             |                                                                                                                                                                                                                                                                                                                        |
+| `machi|pattern = 23m123p678s345m11z|tilewaits = 14m|wait status = Agari`    | The pair of east winds disqualifies the hand as pinfu for the dealer or for any player in the [east round]({{< ref "/riichi/rules/hanchan.md" >}}).                                                                                                                                                                    |
+|                                                                             |                                                                                                                                                                                                                                                                                                                        |
+| `machi|pattern = 123456p789m567s3m|tilewaits = 3m|wait status = Agari`      | The [pair wait]({{< ref "/riichi/terminology/waits/tanki.md" >}}) disqualifies this hand as pinfu.                                                                                                                                                                                                                     |
+|                                                                             |                                                                                                                                                                                                                                                                                                                        |
+| `machi|pattern = 23m123p678s345m55z|tilewaits = 14m|wait status = Agari`    | The dragon pair does not qualify this hand as pinfu.                                                                                                                                                                                                                                                                   |
+|                                                                             |                                                                                                                                                                                                                                                                                                                        |
+| `machi|pattern = 123m234s79s22567p|tilewaits = 8s|wait status = Agari`      | The [middle wait]({{< ref "/riichi/terminology/waits/kanchan.md" >}}) does not qualify this hand as pinfu.                                                                                                                                                                                                             |
+|                                                                             |                                                                                                                                                                                                                                                                                                                        |
+| `machi|pattern = 456m123s3456678p|tilewaits = 369p|wait status = Agari`     | This hand qualifies for pinfu using either 6-pin or 9-pin. However, the first tile, 3-pin, functions as tanki. Coupled with the 6-pin, it is on a 3-6 [nobetan]({{< ref "/riichi/terminology/waits/nobetan.md" >}}). Nevertheless, 6-pin still qualifies for pinfu, because the han increase takes precedence over fu. |
 
 {{</ table >}}
 
@@ -71,17 +73,23 @@ winning with a closed ron.
 Therefore, pinfu must avoid these patterns:
 
 - Any koutsu or kantsu is worth at least 2 fu. A pinfu hand must have four shuntsu.
-- Winning from a tanki, kanchan, or penchan wait is worth 2 fu.
-- A pair of yakuhai, i.e., dragons, the round wind, or the seat wind, is worth 2 fu. A pinfu hand
-  must have a valueless pair.
+- Winning from a [tanki]({{< ref "/riichi/terminology/waits/tanki.md" >}}),
+  [kanchan]({{< ref "/riichi/terminology/waits/kanchan.md" >}}), or
+  [penchan]({{< ref "/riichi/terminology/waits/penchan.md" >}}) wait is worth 2 fu.
+- A pair of [yakuhai]({{< ref "/riichi/rules/yakuhai.md" >}}), i.e., dragons, the round wind, or the
+  seat wind, is worth 2 fu. A pinfu hand must have a valueless pair.
 - An open hand worth 20 fu is counted as 30 fu. Pinfu may only be awarded to a closed hand.
 
-In the end, a pinfu hand must win from a ryanmen or ryanmenten wait. In other words, the winning
-tile must complete an open shuntsu (sequence).
+In the end, a pinfu hand must win from a
+[ryanmen]({{< ref "/riichi/terminology/waits/ryanmen.md" >}}) or
+[ryanmenten]({{< ref "/riichi/terminology/waits/sanmenchan.md" >}}) wait. In other words, the
+winning tile must complete an open [shuntsu]({{< ref "/riichi/terminology/mentsu.md" >}})
+(sequence).
 
-As an exception, pinfu with mentsumo gains 0 fu from tsumo, or winning by self-draw. Normally, a
-winning tile drawn from the wall is worth 2 fu. In turn, the hand qualifies as pinfu, and these 2 fu
-are waived. The hand is then scored at 20 fu; and at least 2 han for menzen tsumo and pinfu. Some
+As an exception, pinfu with [mentsumo]({{< ref "/riichi/yaku/menzenchin-tsumohou.md" >}}) gains 0 fu
+from tsumo, or winning by self-draw. Normally, a winning tile drawn from the wall is worth 2 fu. In
+turn, the hand qualifies as pinfu, and these 2 fu are waived. The hand is then scored at 20 fu; and
+at least 2 han for [menzen tsumo]({{< ref "/riichi/yaku/menzenchin-tsumohou.md" >}}) and pinfu. Some
 rule variations may not allow waiving these fu, and score such a hand as 30 fu, tsumo, without
 pinfu. Such variations are rare.
 
@@ -91,10 +99,12 @@ pinfu. Such variations are rare.
 
 `Yaku compatibility table|PFU`
 
-Essentially, pinfu is incompatible with any yaku that employs triplets, including rinshan. It is
-similarly incompatible with chiitoitsu, which does not use mentsu at all. On the other hand, pinfu
-works any sequential based yaku. As long as the hand is closed, the pair does not produce "fu", and
-the wait is open, then pinfu may be applied.
+Essentially, pinfu is incompatible with any yaku that employs triplets, including
+[rinshan]({{< ref "/riichi/yaku/rinshan-kaihou.md" >}}). It is similarly incompatible with
+[chiitoitsu]({{< ref "/riichi/yaku/chiitoitsu.md" >}}), which does not use
+[mentsu]({{< ref "/riichi/terminology/mentsu.md" >}}) at all. On the other hand, pinfu works any
+sequential based yaku. As long as the hand is closed, the pair does not produce "fu", and the wait
+is [open]({{< ref "/riichi/terminology/waits/ryanmen.md" >}}), then pinfu may be applied.
 
 ## Usage
 

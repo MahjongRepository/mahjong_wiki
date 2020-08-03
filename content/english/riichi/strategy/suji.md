@@ -8,19 +8,27 @@ tags = ["Terminology", "Strategy"]
 `Mahjong intervals|caption=Read the numbers across.`
 
 **Suji** {{< kana "筋" >}} is the principle of utilizing the "mahjong intervals". This applies to
-the numbered suits: souzu, pinzu, and manzu. While these three suits are numbered 1 through 9, the
-numbers may be arranged in a square fashion to determine the "intervals". The purpose is to deduce
-and/or determine tiles waiting via open waits. The intervals themselves are based on the three-tile
-sequential groupings. Tiles along the intervals mark needed tiles to complete particular sequences.
-Reading the numbers to the right across, the three main intervals are 1-4-7, 2-5-8, and 3-6-9.
-Naturally, numbers within each interval can be paired such as 1-4 and 2-5.
+the numbered suits: [souzu]({{< ref "/riichi/rules/mahjong-equipment.md" >}}),
+[pinzu]({{< ref "/riichi/rules/mahjong-equipment.md" >}}), and
+[manzu]({{< ref "/riichi/rules/mahjong-equipment.md" >}}). While these three suits are numbered 1
+through 9, the numbers may be arranged in a square fashion to determine the "intervals". The purpose
+is to deduce and/or determine tiles waiting via
+[open]({{< ref "/riichi/terminology/waits/ryanmen.md" >}})
+[waits]({{< ref "/riichi/strategy/machi.md" >}}). The intervals themselves are based on the
+three-tile sequential groupings. Tiles along the intervals mark needed tiles to complete particular
+sequences. Reading the numbers to the right across, the three main intervals are 1-4-7, 2-5-8, and
+3-6-9. Naturally, numbers within each interval can be paired such as 1-4 and 2-5.
 
 ## Intervals
 
 The intervals for suji apply to any of the numbered suits. Nine types of intervals are available.
 For these examples, each of the three suits are used; but they apply to all of them. Four tile
-patterns particularly utilize these intervals: ryanmen, ryanmenten, nobetan, and sanmentan. In the
-following table, only the first two are examined.
+patterns particularly utilize these intervals:
+[ryanmen]({{< ref "/riichi/terminology/waits/ryanmen.md" >}}),
+[ryanmenten]({{< ref "/riichi/terminology/waits/sanmenchan.md" >}}),
+[nobetan]({{< ref "/riichi/terminology/waits/nobetan.md" >}}), and
+[sanmentan]({{< ref "/riichi/terminology/waits/sanmen-nobetan.md" >}}). In the following table, only
+the first two are examined.
 
 {{< table >}}
 
@@ -124,11 +132,12 @@ OR<br />
 {{</ table >}}
 
 The left column shows tiles that may appear in a player's hand, while the middle tiles show the
-tiles needed in order to complete a needed tile group. The recognition makes it helpful to identify
-waiting tiles by association. In the case of these waiting patterns, if a hand is waiting for one
-tile, it is likely waiting for another tile in the interval. Even if these take on Japanese names,
-they are simply the numbers. Finally, the end result shows the the waiting tiles as the completed
-tile grouping(s).
+tiles needed in order to complete a needed [tile
+group]({{< ref "/riichi/terminology/mentsu.md" >}}). The recognition makes it helpful to identify
+waiting tiles by association. In the case of these [waiting
+patterns]({{< ref "/riichi/strategy/machi.md" >}}), if a hand is waiting for one tile, it is likely
+waiting for another tile in the interval. Even if these take on Japanese names, they are simply the
+numbers. Finally, the end result shows the the waiting tiles as the completed tile grouping(s).
 
 ### Nakasuji
 
@@ -138,9 +147,13 @@ different intervals, they are the middle numbers of 4, 5, and 6.
 ## Defense
 
 Defending using suji essentially presumes a player to be utilizing either the wait pattern of
-ryanmen, ryanmenten, nobetan, sanmentan, or some other variation. Under the rule of furiten, if a
-player discarded a waiting tile, then the player's ability to call "ron" is disabled. Therefore,
-certain tile discards may rule out certain mahjong intervals.
+[ryanmen]({{< ref "/riichi/terminology/waits/ryanmen.md" >}}),
+[ryanmenten]({{< ref "/riichi/terminology/waits/sanmenchan.md" >}}),
+[nobetan]({{< ref "/riichi/terminology/waits/nobetan.md" >}}),
+[sanmentan]({{< ref "/riichi/terminology/waits/sanmen-nobetan.md" >}}), or some other variation.
+Under the rule of [furiten]({{< ref "/riichi/strategy/furiten.md" >}}), if a player discarded a
+waiting tile, then the player's ability to call "ron" is disabled. Therefore, certain tile discards
+may rule out certain mahjong intervals.
 
 For example, take the 1-4-7 interval. If a 4 is discarded, this makes 1 and 7 safer, since if the
 opponent has a 23 or 56 as their final shape, they would be furiten on the 4. Note that a 7 being
@@ -149,13 +162,18 @@ need to be present in order for 4 to be safer. In such a situation, the 4 is ref
 nakasuji. The same applies to the other intervals.
 
 Of course, one should not be necessarily dependent on these intervals alone, as some waiting
-patterns are immune to suji, such as a kanchan or shanpon. A toitoi hand is immune to suji.
+patterns are immune to suji, such as a [kanchan]({{< ref "/riichi/terminology/waits/kanchan.md" >}})
+or [shanpon]({{< ref "/riichi/terminology/waits/shanpon.md" >}}). A
+[toitoi]({{< ref "/riichi/yaku/toitoihou.md" >}}) hand is immune to suji.
 
 Because of this, not all suji tiles are equally safe. Suji terminals (1 and 9) are the safest, as
-the only shapes that can be waiting on them are a tanki or shanpon. Nakasuji (4, 5, and 6) are the
-next safest, as they add the possibility of a kanchan. Suji 2 and 8 are roughly equivalent to
-nakasuji. Finally, suji 3 and 7 are the most dangerous (though still reasonably safe), as they add
-the chance of a penchan wait.
+the only shapes that can be waiting on them are a
+[tanki]({{< ref "/riichi/terminology/waits/tanki.md" >}}) or
+[shanpon]({{< ref "/riichi/terminology/waits/shanpon.md" >}}). Nakasuji (4, 5, and 6) are the next
+safest, as they add the possibility of a
+[kanchan]({{< ref "/riichi/terminology/waits/kanchan.md" >}}). Suji 2 and 8 are roughly equivalent
+to nakasuji. Finally, suji 3 and 7 are the most dangerous (though still reasonably safe), as they
+add the chance of a [penchan]({{< ref "/riichi/terminology/waits/penchan.md" >}}) wait.
 
 This doesn't apply to the riichi tile. The suji of the riichi tile is generally agreed to be
 dangerous, thanks to the strength of ryankan shapes. See the Offense section for more information.
@@ -175,9 +193,9 @@ However, in a game with red fives, the player has an incentive to keep the red f
 dangerous in this ruleset, especially if you can't see the red five in the suit of your 2 or 8. As a
 side note, this is why the suji of a red five is seen as especially safe.
 
-The dora itself can also change things. If the 1 or 2 is dora, the player would generally want to
-keep the 13 shape for the value, while if the 4 or 5 is dora, they would want to keep the 35 shape.
-This applies to the other suji shapes as well.
+The [dora]({{< ref "/riichi/rules/dora.md" >}}) itself can also change things. If the 1 or 2 is
+dora, the player would generally want to keep the 13 shape for the value, while if the 4 or 5 is
+dora, they would want to keep the 35 shape. This applies to the other suji shapes as well.
 
 ### Checklist
 

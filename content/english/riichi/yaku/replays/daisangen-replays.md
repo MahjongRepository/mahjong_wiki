@@ -5,7 +5,7 @@ updated = "2019-08-29T21:37:24Z"
 tags = ["Yaku replays"]
 +++
 
-This is a collection of replays involving daisangen.
+This is a collection of replays involving [daisangen]({{< ref "/riichi/yakuman/daisangen.md" >}}).
 
 ## Open
 
@@ -43,7 +43,8 @@ This is a collection of replays involving daisangen.
 
 ## Takame from shousangen tenpai
 
-Hands may be tenpai with shousangen, by which the takame tile produces the yakuman.
+Hands may be tenpai with [shousangen]({{< ref "/riichi/yaku/shousangen.md" >}}), by which the
+[takame]({{< ref "/riichi/strategy/takame-and-yasume.md" >}}) tile produces the yakuman.
 
 ```Replay/Tenhou.net|
 | player = ペンギンナイト

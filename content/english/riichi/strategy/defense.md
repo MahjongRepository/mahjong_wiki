@@ -5,52 +5,58 @@ updated = "2019-06-14T03:50:39Z"
 tags = ["Strategy"]
 +++
 
-Defense in Japanese mahjong focuses on one important concept: **avoiding other players' hands, by
-not discarding winning tiles**. Other concepts rests on not giving other players any tiles needed to
-call. This aspect of the game is greatly emphasized during other player(s)' riichi declarations
-and/or threat of high scoring hands. Regardless, it is in the best interest for players to avoid
-losing points directly to other players, as much as possible. Players with low "deal in rates" have
-higher chances of winning, than those who do.
+Defense in [Japanese mahjong]({{< ref "/riichi/rules/japanese-mahjong.md" >}}) focuses on one
+important concept: **avoiding other players' hands, by not discarding winning tiles**. Other
+concepts rests on not giving other players any tiles needed to call. This aspect of the game is
+greatly emphasized during other player(s)' [riichi]({{< ref "/riichi/rules/riichi.md" >}})
+declarations and/or threat of high scoring hands. Regardless, it is in the best interest for players
+to avoid losing points directly to other players, as much as possible. Players with low "deal in
+rates" have higher chances of winning, than those who do.
 
 ## General overview
 
 Defense is part of the game's learning curve. Typically, beginner players may not be aware of
 defensive play, due to greater focus devoted towards general hand development and memorization of
-yaku. In the early stages of the learning curve, players may consider the prospect of generating
-points from developing hands as a means of procuring winning games. In many game situations, this
-pretense is true. Despite the need to play defensively, players must still at least win a hand or
-two in order to finish first. However, it is not necessary to win every hand in most games.
+[yaku]({{< ref "/riichi/yaku/yaku.md" >}}). In the early stages of the learning curve, players may
+consider the prospect of generating points from developing hands as a means of procuring winning
+games. In many game situations, this pretense is true. Despite the need to play defensively, players
+must still at least win a hand or two in order to finish first. However, it is not necessary to win
+every hand in most games.
 
 Eventually, players learn the importance of minimizing point losses, especially via ron. Point
-losses via tsumo or ryuukyoku are minimal, and they're easily reclaimed with relatively easy winning
-hands. Especially in the case of tsumo, point losses are shared among all the players, rather than
-one bearing the brunt of the entire opposing hand's point value. In many instances, points lost
-rather than points gained during the game determines the outcome for a player. Of course, a player
-still has to produce hands in order to maintain contention. A game ending in yakitori is likely not
-a winning game.
+losses via [tsumo]({{< ref "/riichi/terminology/tsumo.md" >}}) or
+[ryuukyoku]({{< ref "/riichi/rules/ryuukyoku.md" >}}) are minimal, and they're easily reclaimed with
+relatively easy winning hands. Especially in the case of tsumo, point losses are shared among all
+the players, rather than one bearing the brunt of the entire opposing hand's point value. In many
+instances, points lost rather than points gained during the game determines the outcome for a
+player. Of course, a player still has to produce hands in order to maintain contention. A game
+ending in [yakitori]({{< ref "/riichi/rules/yakitori.md" >}}) is likely not a winning game.
 
 ## Safe tiles
 
 ![[Choosing the proper discard](http://tenhou.net/0/?log=2014082412gm-0089-0000-5b20755a&tw=2&ts=9) (or the wrong one) may determine the result of many games.](Last_discard.png "Choosing the proper discard (or the wrong one) may determine the result of many games.")
 Japanese mahjong offers players the ability to determine, deduce, and infer safe tiles. This is all
 with the help of the discard piles of all players; but in particular, other players may show
-threats, like riichi declarations or open hands showing some kind of large hand.
+threats, like [riichi]({{< ref "/riichi/rules/riichi.md" >}}) declarations or open hands showing
+some kind of large hand.
 
 ### Anpai
 
 Defense focuses on **anpai** {{< kana "安牌" >}}, or safe tiles. Safe tiles are discarded tiles,
 that cannot be called for ron. So to effectively employ defensive tactics, players must take into
-account of all four discard piles and the furiten rule. All tile that are visible to a player are
-those in one's own hand, the discard pile, any called tiles, and dora indicators.
+account of all four discard piles and the [furiten]({{< ref "/riichi/strategy/furiten.md" >}}) rule.
+All tile that are visible to a player are those in one's own hand, the discard pile, any called
+tiles, and [dora]({{< ref "/riichi/rules/dora.md" >}}) indicators.
 
 ### Furiten and genbutsu
 
-`main|Furiten|Genbutsu` The most important defense technique. Genbutsu involves tiles deemed 100%
-safe per the rules applied. Here, the furiten rule can be exploited. Any tile that an opponent has
-discarded is 100% safe against them. The temporary furiten rule makes tiles discarded on the current
-go-around 100% safe against players who haven't had their turn after the discard. Furiten involving
-riichi marks the tiles after the riichi as 100% against the riichi caller, for any tiles unclaimed
-tiles by the same player.
+`main|Furiten|Genbutsu` The most important defense technique.
+[Genbutsu]({{< ref "/riichi/strategy/betaori.md" >}}) involves tiles deemed 100% safe per the rules
+applied. Here, the [furiten rule]({{< ref "/riichi/strategy/furiten.md" >}}) can be exploited. Any
+tile that an opponent has discarded is 100% safe against them. The temporary furiten rule makes
+tiles discarded on the current go-around 100% safe against players who haven't had their turn after
+the discard. Furiten involving riichi marks the tiles after the riichi as 100% against the riichi
+caller, for any tiles unclaimed tiles by the same player.
 
 ### Sakigiri
 
@@ -66,13 +72,15 @@ the discards, dora indicator, and the player's own hand.
 
 ### Genbutsu
 
-The most important technique involves identifying safe tiles, particularly the guaranteed ones. Due
-to the furiten rule, any tile that an opponent has discarded is 100% safe against that particular
-opponent. The most effective safe tile are the ones 100% safe against all of them. The temporary
-furiten rule makes tiles discarded on the current go-around 100% safe against players who haven't
-had their turn after the discard. With this, a tiles from kamicha (player to the left) are
-temporarily safe, if not claimed for a win. Discarding the same tiles as other players for defense,
-that technique is called **awaseuchi** {{< kana "合わせ打ち" >}}.
+The most important technique involves identifying [safe
+tiles]({{< ref "/riichi/strategy/betaori.md" >}}), particularly the guaranteed ones. Due to the
+[furiten]({{< ref "/riichi/strategy/furiten.md" >}}) rule, any tile that an opponent has discarded
+is 100% safe against that particular opponent. The most effective safe tile are the ones 100% safe
+against all of them. The temporary furiten rule makes tiles discarded on the current go-around 100%
+safe against players who haven't had their turn after the discard. With this, a tiles from
+[kamicha]({{< ref "/riichi/strategy/jikaze.md" >}}) (player to the left) are temporarily safe, if
+not claimed for a win. Discarding the same tiles as other players for defense, that technique is
+called **awaseuchi** {{< kana "合わせ打ち" >}}.
 
 ### Honors
 
@@ -80,7 +88,7 @@ Honor tiles are generally safe, since they are hard to wait on. Tiles that have 
 much safer than live ones. Guest wind tiles are both safer and less damaging than yakuhai tiles.
 Live yakuhai should be considered fairly dangerous. When three of one type is discarded, then the
 fourth is guaranteed safe, because it is no longer usable in anyone's hand unless it is tenpai for
-Kokushi Musou.
+[Kokushi Musou]({{< ref "/riichi/terminology/waits/kokushi-musou.md" >}}).
 
 ### Suji
 

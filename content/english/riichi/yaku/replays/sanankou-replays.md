@@ -5,7 +5,7 @@ updated = "2018-09-10T06:28:59Z"
 tags = ["Yaku replays"]
 +++
 
-This is a collection of replays including sanankou.
+This is a collection of replays including [sanankou]({{< ref "/riichi/yaku/sanankou.md" >}}).
 
 ## Open as guaranteed sanankou
 

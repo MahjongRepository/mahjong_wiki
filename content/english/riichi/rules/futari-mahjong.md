@@ -5,13 +5,14 @@ updated = "2015-08-08T23:42:16Z"
 tags = ["Game rules"]
 +++
 
-**Futari mahjong** {{< kana "二人麻雀" >}} may be a number of two-player variants to Japanese
-mahjong. At this point, there is no established ruleset governing this mode of game play. However,
-some variations do exist, either in modified games or media, like TV shows.
+**Futari mahjong** {{< kana "二人麻雀" >}} may be a number of two-player variants to [Japanese
+mahjong]({{< ref "/riichi/rules/japanese-mahjong.md" >}}). At this point, there is no established
+ruleset governing this mode of game play. However, some variations do exist, either in modified
+games or media, like TV shows.
 
-- Minefield
-- Single suit
-- Single suit modified
+- [Minefield]({{< ref "/riichi/rules/variations/minefield-mahjong.md" >}})
+- [Single suit]({{< ref "/riichi/rules/single-suit-mahjong.md" >}})
+- [Single suit modified]({{< ref "/riichi/rules/single-suit-modified.md" >}})
 
 ## External links
 

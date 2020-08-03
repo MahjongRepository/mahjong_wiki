@@ -5,18 +5,18 @@ updated = "2015-10-22T21:44:16Z"
 tags = ["Game rules"]
 +++
 
-The game of Japanese mahjong is played with a set of 136 tiles. Of these 136 tiles, there are 34
-different tiles with 4 of each kind. Aside from online, the live game is played on a square table,
-with the mahjong tiles places onto a mahjong mat. While the mat is not necessary, it is useful to
-use the mat in order to protect the tile surfaces.
+The game of [Japanese mahjong]({{< ref "/riichi/rules/japanese-mahjong.md" >}}) is played with a set
+of 136 tiles. Of these 136 tiles, there are 34 different tiles with 4 of each kind. Aside from
+online, the live game is played on a square table, with the mahjong tiles places onto a mahjong mat.
+While the mat is not necessary, it is useful to use the mat in order to protect the tile surfaces.
 
 ## Dealer order
 
-At the beginning of the game, the first dealer is determined. Upon doing so, the dealer order
-throughout the game is also determined. Different processes may be implemented. A number may involve
-dice rolling, separating out four wind tiles for wind draws, and/or pre-determined seating orders.
-Different organizations and tournaments have their own systems. Once the first dealer is set, then
-the game may commence.
+At the beginning of the game, the first dealer is determined. Upon doing so, the [dealer
+order]({{< ref "/riichi/strategy/jikaze.md" >}}) throughout the game is also determined. Different
+processes may be implemented. A number may involve dice rolling, separating out four wind tiles for
+wind draws, and/or pre-determined seating orders. Different organizations and tournaments have their
+own systems. Once the first dealer is set, then the game may commence.
 
 ## Building walls
 
@@ -44,7 +44,7 @@ Then the dead-wall must be set. From the point of the initial wall break, player
 the right of the initial break; and the wall is broken again. There should be a total of 14-tiles
 (7-tiles double stacked) in this group. This is the dead wall, which consists of tiles set aside and
 not used in the regular draw. Finally, the third tile closest to the inital break is flipped over
-and used as a _dora_ indicator.
+and used as a _[dora]({{< ref "/riichi/rules/dora.md" >}})_ indicator.
 
 ## Dealing the tiles
 
@@ -75,9 +75,10 @@ push tiles into the mixer below. With another push of the red button, four 17x2 
 tiles rise up from below. Automatic tables are real and not that uncommon. However, they are rather
 expensive, with the cheapest tables priced around ¥2000, or roughly \$2000 or so.
 
-Some automatic tables are capable of keeping score, based on point sticks stored in four pull out
-compartments. In the event of riichi, the central island has four slots where 1000-point stick rīchi
-bets can be placed. In front of each player, an display shows the player's current score.
+Some automatic tables are capable of keeping score, based on [point
+sticks]({{< ref "/riichi/terminology/tenbou.md" >}}) stored in four pull out compartments. In the
+event of riichi, the central island has four slots where 1000-point stick rīchi bets can be placed.
+In front of each player, an display shows the player's current score.
 
 ## External links
 

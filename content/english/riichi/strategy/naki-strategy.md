@@ -5,9 +5,9 @@ updated = "2020-04-04T20:57:45Z"
 tags = ["Strategy"]
 +++
 
-The option to call tiles is a discretionary play. It warrants some bits of observation and
-evaluation. With any given hand, a player must decide to call tiles or not. Like any decision in the
-game, some advantages and disadvantages are noted.
+The option to [call tiles]({{< ref "/riichi/rules/naki.md" >}}) is a discretionary play. It warrants
+some bits of observation and evaluation. With any given hand, a player must decide to call tiles or
+not. Like any decision in the game, some advantages and disadvantages are noted.
 
 ## Advantages
 

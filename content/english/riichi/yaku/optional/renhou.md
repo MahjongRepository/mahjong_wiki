@@ -18,11 +18,16 @@ tags = ["Yaku", "Optional yaku"]
 
 ```
 
-**Renhou** {{< kana "人和" >}} is an optional yaku. It is defined by a player declaring ron with a
-starting hand before the dealer gets a second turn or before any called tile. This premise is
-similar to the chiihou, except the hand wins by discard (ron). In some instances, it may be
-considered as a yakuman, mangan, or not used at all. Only non-dealers may invoke renhou, as the
-first discard always comes from the dealer (except when the dealer wins by tenhou).
+**Renhou** {{< kana "人和" >}} is an [optional
+yaku]({{< ref "/riichi/yaku/optional/local-yaku.md" >}}). It is defined by a player declaring
+[ron]({{< ref "/riichi/rules/naki.md" >}}) with a starting hand before the dealer gets a second turn
+or before any [ called tile]({{< ref "/riichi/rules/naki.md" >}}). This premise is similar to the
+[chiihou]({{< ref "/riichi/yakuman/tenhou-and-chiihou.md" >}}), except the hand wins by discard
+(ron). In some instances, it may be considered as a
+[yakuman]({{< ref "/riichi/yakuman/yakuman.md" >}}),
+[mangan]({{< ref "/riichi/strategy/scoring-table.md" >}}), or not used at all. Only non-dealers may
+invoke renhou, as the first discard always comes from the dealer (except when the dealer wins by
+[tenhou]({{< ref "/riichi/online/tenhou/tenhou.md" >}})).
 
 ## Variations
 
@@ -30,7 +35,7 @@ first discard always comes from the dealer (except when the dealer wins by tenho
 
 Because of number of variations and interpretations to renhou, it is viewed as optional.
 
-- **Mangan**
+- **[Mangan]({{< ref "/riichi/strategy/scoring-table.md" >}})**
 
 <!-- end list -->
 
@@ -40,7 +45,7 @@ Because of number of variations and interpretations to renhou, it is viewed as o
 
 <!-- end list -->
 
-- **Yakuman**
+- **[Yakuman]({{< ref "/riichi/yakuman/yakuman.md" >}})**
 
 <!-- end list -->
 
@@ -50,7 +55,7 @@ Because of number of variations and interpretations to renhou, it is viewed as o
 
 <!-- end list -->
 
-- **Baiman**
+- **[Baiman]({{< ref "/riichi/strategy/scoring-table.md" >}})**
 
 <!-- end list -->
 
@@ -60,13 +65,13 @@ Because of number of variations and interpretations to renhou, it is viewed as o
 
 <!-- end list -->
 
-- **Yaku**
+- **[Yaku]({{< ref "/riichi/yaku/yaku.md" >}})**
 
 <!-- end list -->
 
 -
 
-    Renhou may be considered as a yaku, to be cumulative with other yaku, with a variable han value. It is frequently set at 4 han, so that the hand is always worth mangan minimum if it has any other yaku.
+    Renhou may be considered as a yaku, to be [cumulative with other yaku]({{< ref "/riichi/strategy/yaku-compatibility.md" >}}), with a variable han value. It is frequently set at 4 han, so that the hand is always worth mangan minimum if it has any other yaku.
 
 <!-- end list -->
 

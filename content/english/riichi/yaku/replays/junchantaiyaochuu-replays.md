@@ -5,7 +5,8 @@ updated = "2019-05-08T00:07:09Z"
 tags = ["Yaku replays"]
 +++
 
-This is a collection of replays featuring junchan.
+This is a collection of replays featuring
+[junchan]({{< ref "/riichi/yaku/junchantaiyaochuu.md" >}}).
 
 ## Open
 

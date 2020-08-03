@@ -120,12 +120,12 @@ the last column are naturally different, as the uma values are different.
 ## Tie-breaker
 
 ![End game results with two players with the [same raw scores](http://tenhou.net/0/?log=2014011412gm-0009-7447-f4a2bbb5&tw=1).](Tiedscores.png "End game results with two players with the same raw scores.")
-In the event of tied scores at the end of a game, then the tie-breaker based on the initial wind
-seating (or the first hand) may applied. The player closest to the dealer position takes the higher
-position. Afterwards, the final score procedure takes into effect. Even with tied scores, the player
-in the lower position will receive a lower uma score. Alternately, any oka and uma may be split
-evenly between the tied players, resulting in a shared placing. The specific ruleset in use
-determines how this is handled.
+In the event of tied scores at the end of a game, then the tie-breaker based on the initial [wind
+seating]({{< ref "/riichi/strategy/jikaze.md" >}}) (or the first hand) may applied. The player
+closest to the dealer position takes the higher position. Afterwards, the final score procedure
+takes into effect. Even with tied scores, the player in the lower position will receive a lower uma
+score. Alternately, any oka and uma may be split evenly between the tied players, resulting in a
+shared placing. The specific ruleset in use determines how this is handled.
 
 ## External links
 

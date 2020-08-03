@@ -10,8 +10,9 @@ tags = ["Terminology"]
 words, these tiles compose the **start hand**. In the case for the dealer, this would be fourteen as
 the dealer is required to take the first draw before discarding. To speed up the process, the dealer
 is allowed to take the initial draw as the tiles are dealt. Given these tiles, players are given the
-task to best manage the hand either by attempting to bring the hand to tenpai and/or defending the
-hand by avoiding dealing into another player's hand (ron).
+task to best manage the hand either by attempting to bring the hand to
+[tenpai]({{< ref "/riichi/strategy/tenpai.md" >}}) and/or defending the hand by avoiding dealing
+into another player's hand ([ron]({{< ref "/riichi/rules/naki.md" >}})).
 
 ## Assessing a haipai
 
@@ -23,9 +24,11 @@ ability to perform this task with a jumbled hand.
 Upon receiving the haipai, players must consider various things:
 
 - Is tenpai reasonably attainable?
-- If so, what is the best and most efficient way to attain tenpai?
-- Is the hand already in tenpai (or, for the dealer, is the hand already complete)?
-- Which yaku are the most viable?
+- If so, what is the best and [most efficient]({{< ref "/riichi/strategy/tile-efficiency.md" >}})
+  way to attain tenpai?
+- Is the hand already in [tenpai]({{< ref "/riichi/strategy/tenpai.md" >}}) (or, for the dealer, is
+  the hand [already complete]({{< ref "/riichi/yakuman/tenhou-and-chiihou.md" >}}))?
+- Which [yaku]({{< ref "/riichi/yaku/yaku.md" >}}) are the most viable?
 - Should the hand remain closed, or is open play the best option?
 - What is the current round and score?
 

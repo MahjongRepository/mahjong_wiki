@@ -13,9 +13,9 @@ tags = ["Yakuman", "Machi"]
 |value = Yakuman (closed only)
 |yakuSpeed = Slow
 |difficulty = Hard
-|yakuCombine = \* Tenhou
+|yakuCombine = \* [Tenhou]({{< ref "/riichi/online/tenhou/tenhou.md" >}})
 
-  - Chihou
+  - [Chihou]({{< ref "/riichi/yakuman/tenhou-and-chiihou.md" >}})
 
 |gameExample = \* [Single wait](http://tenhou.net/0/?log=2012070911gm-0009-7447-xe9631863dab1&tw=2&ts=1)
 
@@ -26,18 +26,21 @@ tags = ["Yakuman", "Machi"]
 **Kokushi musou** {{< kana "国士無双" >}}, also simply known as **kokushi** or in English as
 **thirteen orphans**, is one of the standard yakuman hands. It is one of the three **yakuman
 gosanke** {{< kana "役満御三家" >}}, or "the three big families of yakuman". This hand is one of the
-two exceptions of the "four tile groups and one pair" requirement for tenpai hands, where the other
-exception is chiitoitsu.
+two exceptions of the "[four tile groups and one pair]({{< ref "/riichi/terminology/mentsu.md" >}})"
+requirement for [tenpai]({{< ref "/riichi/strategy/tenpai.md" >}}) hands, where the other exception
+is [chiitoitsu]({{< ref "/riichi/yaku/chiitoitsu.md" >}}).
 
 ## Composition
 
-This yakuman is unique, as it requires of one of each terminal tile from each suit and one of each
-of the honor tiles. The 14th tile must be a duplicate of any terminal or honor tile. These tiles are
-classed as **yaochuuhai** {{< kana "幺九牌" >}}. As the hand requires specific individual tiles,
-this hand remains closed to qualify, due to the general inability to call tiles in order to complete
-it. If a player draws the thirteen different tile types before pairing any of them, then the hand is
-called **kokushi musou juusan menmachi** {{< kana "国士無双１３面待ち" >}}, or the kokushi musou 13
-closed wait.
+This yakuman is unique, as it requires of one of each
+[terminal]({{< ref "/riichi/yakuman/chinroutou.md" >}}) tile from each suit and one of each of the
+[honor tiles]({{< ref "/riichi/terminology/jihai.md" >}}). The 14th tile must be a duplicate of any
+terminal or honor tile. These tiles are classed as **yaochuuhai** {{< kana "幺九牌" >}}. As the hand
+requires specific individual tiles, this hand remains closed to qualify, due to the general
+inability to call tiles in order to complete it. If a player draws the thirteen different tile types
+before pairing any of them, then the hand is called **kokushi musou juusan menmachi**
+{{< kana "国士無双１３面待ち" >}}, or the [kokushi musou 13 closed
+wait]({{< ref "/riichi/strategy/machi.md" >}}).
 
 ## Tile diagram
 
@@ -51,7 +54,8 @@ The hand requires nothing but yaochuuhai.
 
 {{< t 19m19p19s1234567z >}} Winning tile: Any one of the tiles shown here
 
-- Winning from this wait may be worth two yakuman in some rules.
+- Winning from this wait may be worth [two
+  yakuman]({{< ref "/riichi/rules/variations/multiple-yakuman.md" >}}) in some rules.
 
 ## Meaning and usage
 
@@ -62,14 +66,16 @@ This is an incorrect spelling.
 ## Development
 
 Restricted as closed only, this hand must draw at least 12 of the 13 tile types, among the honors
-and terminals. If a pair exists within the hand upon tenpai, then naturally, the hand is waiting on
-the last remaining tile type not yet in the hand. In turn, this hand will be deemed impossible for
-completion, when all 4 of any of the tile types are no longer available. Yet, if a player manages to
-develop the 13 wait variety, then this hand greatly increases its chances of completion, needing to
-simply pair any of the 13 types.
+and terminals. If a pair exists within the hand upon
+[tenpai]({{< ref "/riichi/strategy/tenpai.md" >}}), then naturally, the hand is waiting on the last
+remaining tile type not yet in the hand. In turn, this hand will be deemed [impossible for
+completion]({{< ref "/riichi/terminology/karaten.md" >}}), when all 4 of any of the tile types are
+no longer available. Yet, if a player manages to develop the 13 wait variety, then this hand greatly
+increases its chances of completion, needing to simply pair any of the 13 types.
 
 Reasonable development of this hand begins with a dealt set of tiles that gives a player the option
-to call kyuushu kyuuhai. Declining this option puts the hand on the path to form this yakuman.
+to call [kyuushu kyuuhai]({{< ref "/riichi/rules/tochuu-ryuukyoku.md" >}}). Declining this option
+puts the hand on the path to form this yakuman.
 
 ### Attempting kokushi
 
@@ -89,17 +95,20 @@ to call kyuushu kyuuhai. Declining this option puts the hand on the path to form
 
 {{</ table >}}
 
-Any player attempting kokushi musou makes the decision at the beginning of the hand. This decision
-stems on a couple conditions, by which the primary decision rests on the number of unique yaochuhai
-at the start. The points and the current hand also influences the decision. Sometimes, players need
-yakuman in order to win or improve point standing.
+Any player attempting kokushi musou makes the decision at the
+[beginning]({{< ref "/riichi/terminology/haipai.md" >}}) of the hand. This decision stems on a
+couple conditions, by which the primary decision rests on the number of unique yaochuhai at the
+start. The points and the current hand also influences the decision. Sometimes, players need yakuman
+in order to win or [improve point standing]({{< ref "/riichi/terminology/gyakuten.md" >}}).
 
-On average, a hand ending in exhaustive draw ends with roughly 16-19 tiles discarded per player,
-pending any tile calls. Therefore, every player has that many tile draws to work with. For example,
-if a hand starts with 9 tiles for the yakuman, then it requires 4 tile draws searching for specific
-tiles. Usually, barring unusual circumstances, those tile draws are nonconsecutive. If anything, a
-number of tile draws will be required to even attain tenpai. With that said, the decision to form a
-kokushi musou must be a decisive one at the very beginning of the hand.
+On average, a hand ending in [exhaustive draw]({{< ref "/riichi/rules/ryuukyoku.md" >}}) ends with
+roughly 16-19 tiles discarded per player, pending any tile calls. Therefore, every player has that
+many tile draws to work with. For example, if a hand starts with 9 tiles for the yakuman, then it
+requires 4 [tile draws]({{< ref "/riichi/strategy/shanten.md" >}}) searching for specific tiles.
+Usually, barring unusual circumstances, those tile draws are nonconsecutive. If anything, a number
+of tile draws will be required to even attain tenpai. With that said, the decision to form a kokushi
+musou must be a decisive one at the [very beginning of the
+hand]({{< ref "/riichi/terminology/haipai.md" >}}).
 
 ### Kyuushu kyuuhai
 
@@ -116,12 +125,11 @@ scores 32,000. Some rules may apply double yakuman for the 13-wait variety.
 
 ## Chankan rule variation
 
-!Case where a
-[closed kan was declared during a [kokushi tenpai](http://tenhou.net/0/?log=2013121107gm-0019-0000-b01e54cd&tw=1&ts=7).](Kokushi_Denied.png "Case where a closed kan was declared during a kokushi tenpai.")
-Under some rules, a kokushi tenpai hand may win via chankan off a closed kan made with the winning
-tile. When allowed, this is an exception to the usual rule that ron may be called off of the tile
-used to form an added kan, but not a closed kan. This rule, although not universal, is fairly
-common.
+![Case where a [closed kan]({{< ref "/riichi/rules/kan.md" >}}) was declared during a [kokushi tenpai](http://tenhou.net/0/?log=2013121107gm-0019-0000-b01e54cd&tw=1&ts=7).](Kokushi_Denied.png "Case where a closed kan was declared during a kokushi tenpai.")
+Under some rules, a kokushi tenpai hand may win via [chankan]({{< ref "/riichi/yaku/chankan.md" >}})
+off a closed kan made with the winning tile. When allowed, this is an exception to the usual rule
+that [ron]({{< ref "/riichi/rules/naki.md" >}}) may be called off of the tile used to form an added
+kan, but not a closed kan. This rule, although not universal, is fairly common.
 
 ## External links
 

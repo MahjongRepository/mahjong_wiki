@@ -5,8 +5,9 @@ updated = "2015-12-30T07:33:01Z"
 tags = ["Rule variations"]
 +++
 
-Given the complexity to the rules of Japanese mahjong, the rules are even made more complicated by
-the existence of rule variations enforced among different groups and organizations.
+Given the complexity to the rules of [Japanese
+mahjong]({{< ref "/riichi/rules/japanese-mahjong.md" >}}), the rules are even made more complicated
+by the existence of rule variations enforced among different groups and organizations.
 
 ## Overview
 
@@ -23,7 +24,8 @@ A set of variations dictate how hands produce winning hands.
 `main|Agariyame`
 
 Allow the dealer to end the hanchan prematurely, while in possession of the lead in the round South
-4 or in the West round after one hand has been played.
+4 or in the [West round]({{< ref "/riichi/rules/end-game-scenarios.md" >}}) after one hand has been
+played.
 
 - Lead – Allow the dealer to end the hanchan prematurely, with the last dealer is in the lead.
 - End – The dealer may end the game after one hand in the final round, regardless of point standing.
@@ -46,9 +48,10 @@ Score two winning declarations at the same time.
 - Ari – Discarder of the winning tile must pay both hands separately. Riichi sticks are collected by
   the first winner to the right. Some rules entitle the other winner to one of these riichi sticks
   if he has declared riichi during this hand.
-- Check – Like ari, but the fourth player must reveal a non-winning hand, so that a triple ron can
-  be avoided.
-- Close – Atamahane, or head bump. Only the first win closest to the discarder is recognized.
+- Check – Like ari, but the fourth player must reveal a non-winning hand, so that a [triple
+  ron]({{< ref "/riichi/rules/tochuu-ryuukyoku.md" >}}) can be avoided.
+- Close – [Atamahane]({{< ref "/riichi/rules/atamahane.md" >}}), or head bump. Only the first win
+  closest to the discarder is recognized.
 - Far – Applying the head bump rule in reverse, where the player farther from the discarder
   overrides the closer player.
 
@@ -77,7 +80,8 @@ Score three winning declarations at the same time.
 
 - Ari – The discarder of the winning tile must pay all three hands separately. See double ron ari
   for distribution of riichi sticks.
-- Atama – Atamahane, or head bump. Only the first win to the discarder's right is recognized.
+- Atama – [Atamahane]({{< ref "/riichi/rules/atamahane.md" >}}), or head bump. Only the first win to
+  the discarder's right is recognized.
 - Abort – No hands are scored, and instead, the hand is aborted.
 
 ## Chombo
@@ -123,10 +127,11 @@ A penalty may be applied to toppling tiles of off the live wall.
 
 `main|Dora|Dora variations`
 
-Variations on dora involves a few implementations; and they all affect the number of dora used. The
-most common variation involves the **akadora** (red five) regarding its inclusion or exclusion.
-Other variations places options on the kandora and even the uradora. Lesser variations may include
-additional **dorahyouji** (dora indicators) at the beginning of each hand.
+Variations on [dora]({{< ref "/riichi/rules/dora.md" >}}) involves a few implementations; and they
+all affect the number of dora used. The most common variation involves the **akadora** (red five)
+regarding its inclusion or exclusion. Other variations places options on the kandora and even the
+uradora. Lesser variations may include additional **dorahyouji** (dora indicators) at the beginning
+of each hand.
 
 ## Furiten
 
@@ -137,8 +142,9 @@ apply as to when this status wears off.
 
 - Turn – The player's next own discard ends temporary furiten. If the turn is skipped due to other
   players' pon calls, temporarily furiten is retained.
-- Call – The players next own discard ends temporary furiten, but also any player's call of chii,
-  pon, or kan, even for a concealed kantsu, ends temporary furiten.
+- Call – The players next own discard ends temporary furiten, but also any player's call of [chii,
+  pon, or kan]({{< ref "/riichi/rules/naki.md" >}}), even for a concealed
+  [kantsu]({{< ref "/riichi/terminology/mentsu.md" >}}), ends temporary furiten.
 
 ## Kuikae
 

@@ -6,8 +6,9 @@ tags = ["Terminology"]
 +++
 
 **Toitsu** {{< kana "対子" >}} are generic tile pairs. They may occur at any time during the
-development of a hand. Regardless, every hand requires at least one pair for completion, even
-kokushi musou.
+development of a hand. Regardless, every hand requires at least [one
+pair]({{< ref "/riichi/terminology/jantou.md" >}}) for completion, even [kokushi
+musou]({{< ref "/riichi/terminology/waits/kokushi-musou.md" >}}).
 
 ## Fu
 

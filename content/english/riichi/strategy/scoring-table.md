@@ -7,14 +7,16 @@ tags = ["Strategy"]
 
 The score table is generated using the **Basic points** and the **Payment multipliers**. Similar to
 a multiplication table, the awarded points are arranged in accordance to **Han** and **Fu** values.
-With known **Han** and **Fu** values, the appropriate point values can simply be read straight off
-the table. This brings convenience towards memorizing the score table, especially when the numbers
+With known **[Han]({{< ref "/riichi/strategy/japanese-mahjong-scoring-rules.md" >}})** and
+**[Fu]({{< ref "/riichi/yaku/fu.md" >}})** values, the appropriate point values can simply be read
+straight off the table. This brings convenience towards [memorizing the score
+table]({{< ref "/riichi/strategy/score-table-memorization.md" >}}), especially when the numbers
 arrange themselves into patterns.
 
 ## Mangan
 
-!Hand scoring a mangan via [tsumo.](Mangan_tsumo.png "Hand scoring a mangan via tsumo.") For
-**mangan** {{< kana "満貫" >}} and beyond, a point cap is applied such that counting the exact
+![Hand scoring a mangan via [tsumo]({{< ref "/riichi/terminology/tsumo.md" >}}).](Mangan_tsumo.png "Hand scoring a mangan via tsumo.")
+For **mangan** {{< kana "満貫" >}} and beyond, a point cap is applied such that counting the exact
 amount of fu may not be necessary for scoring purposes. Mangan begins with hands valued at 3 han and
 70 fu, 4 han and 40 fu, or 5 han. For each, if the fu count is greater, total points stay at mangan.
 
@@ -35,9 +37,10 @@ to be classed as a regular mangan. So, under this rule, these values are recount
 ## Dealer
 
 - The upper value to each scoring pair are the points awarded for **tsumo**. All nondealer players
-  pay this amount to the dealer.
-- The lower value to each scoring pair are the points awarded for **ron**. The ron values are
-  approximately or exactly three times the amount of the "tsumo" values.
+  pay this amount to the [dealer]({{< ref "/riichi/strategy/jikaze.md" >}}).
+- The lower value to each scoring pair are the points awarded for
+  **[ron]({{< ref "/riichi/rules/naki.md" >}})**. The ron values are approximately or exactly three
+  times the amount of the "tsumo" values.
 
 ```Score table horizontal
 |1and30tsumo=500
@@ -112,9 +115,10 @@ to be classed as a regular mangan. So, under this rule, these values are recount
 
 - The upper value to each scoring pair are the points awarded for **tsumo**. These points are
   arranged in pairs because of non-dealers and the dealer. All nondealer players pay the smaller
-  amount, while the dealer pays the larger amount.
-- The lower value to each scoring pair are the points awarded for **ron**. The ron values are
-  approximately or exactly the same as the dealer points plus two times the non-dealer points.
+  amount, while the [dealer]({{< ref "/riichi/strategy/jikaze.md" >}}) pays the larger amount.
+- The lower value to each scoring pair are the points awarded for
+  **[ron]({{< ref "/riichi/rules/naki.md" >}})**. The ron values are approximately or exactly the
+  same as the dealer points plus two times the non-dealer points.
 
 ```Score table horizontal
 |1and30tsumo=300/500
@@ -191,7 +195,7 @@ The following is a short list of terms, related to scoring. They are generally s
 different point values from the scoring table.
 
 ```Term list
-| Romaji = Goumii
+| Romaji = [Goumii]({{< ref "/riichi/strategy/japanese-mahjong-scoring-rules.md" >}})
 | Kanji = ゴーミー
 | English = 1100 pts
 | Explanation = The cheapest tsumo value, of 500 points from the dealer and 300 points from the non-dealers.

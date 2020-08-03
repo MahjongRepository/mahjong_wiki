@@ -5,15 +5,18 @@ updated = "2015-08-21T22:23:24Z"
 tags = ["Strategy"]
 +++
 
-![Scoring_Table.png](Scoring_Table.png "Scoring_Table.png") Japanese mahjong features a very complex
-scoring system. Nearly every mahjong hand has a value in terms of **han** and **fu**, the two
-scoring factors. The han and fu are plugged into an equation to derive the value of the hand.
-Certain yaku are instead given a value of yakuman (or sometimes double yakuman), the highest scoring
-hands.
+![Scoring_Table.png](Scoring_Table.png "Scoring_Table.png") [Japanese
+mahjong]({{< ref "/riichi/rules/japanese-mahjong.md" >}}) features a very complex scoring system.
+Nearly every mahjong hand has a value in terms of **han** and **fu**, the two scoring factors. The
+han and fu are plugged into an equation to derive the value of the hand. Certain
+[yaku]({{< ref "/riichi/yaku/yaku.md" >}}) are instead given a value of
+[yakuman]({{< ref "/riichi/yakuman/yakuman.md" >}}) (or sometimes [double
+yakuman]({{< ref "/riichi/rules/variations/multiple-yakuman.md" >}})), the highest scoring hands.
 
 Under usual rules, above 4 han, the score is capped. Fu become irrelevant and the hand is scored
 based solely on the han value. Since there are not a large number of possible hand values below 5
-han, a scoring table is usually used, rather than calculating the values directly.
+han, a [scoring table]({{< ref "/riichi/strategy/scoring-table.md" >}}) is usually used, rather than
+calculating the values directly.
 
 By default, most games start players at 25,000 points, with the goal of scoring at least 30,000 to
 declare victory for the points leader. Both of these values are easily varied, and tournament play
@@ -26,32 +29,36 @@ and han, regardless of value. This can result in absurdly high hand values.
 
 ### Han
 
-**Han** {{< kana "飜" >}} is the main portion of scoring, as each yaku is assigned a value in terms
-of han. Most of the yaku are valued at either 1 or 2, but the values, not counting yakuman hands, go
-as high as 6 han for a closed chinitsu. Some yaku are worth one fewer han when open, and some cannot
-be scored with an open hand, but many yaku are not scored the same regardless of whether the hand is
-open or closed.
+**Han** {{< kana "飜" >}} is the main portion of scoring, as each
+[yaku]({{< ref "/riichi/yaku/yaku.md" >}}) is assigned a value in terms of han. Most of the yaku are
+valued at either 1 or 2, but the values, not counting yakuman hands, go as high as 6 han for a
+closed [chinitsu]({{< ref "/riichi/yaku/chiniisou.md" >}}). Some yaku are worth one fewer han when
+open, and some cannot be scored with an open hand, but many yaku are not scored the same regardless
+of whether the hand is open or closed.
 
 A hand's han value is calculated by summing together the han values of its yaku, plus the han for
-each dora tile in the hand. Dora are ordinarily worth 1 han each, but a tile that is dora multiple
-times is worth correspondingly more han.
+each [dora]({{< ref "/riichi/rules/dora.md" >}}) tile in the hand. Dora are ordinarily worth 1 han
+each, but a tile that is dora multiple times is worth correspondingly more han.
 
-In addition to knowing the yaku, players are encouraged to know their han values. This gives them
-greater awareness on potential point values of the hand. This knowledge may help aiding in various
-game decisions, particularly when calling riichi or abandoning the hand.
+In addition [to knowing the yaku]({{< ref "/riichi/yaku/list-of-yaku.md" >}}), players are
+encouraged to know their han values. This gives them greater awareness on potential point values of
+the hand. This knowledge may help aiding in various game decisions, particularly when [calling
+riichi]({{< ref "/riichi/strategy/riichi-strategy.md" >}}) or [abandoning the
+hand]({{< ref "/riichi/strategy/betaori.md" >}}).
 
 ### Fu
 
 `main|Fu`
 
 **Fu** {{< kana "符" >}} (_pronounced as foo_) takes the hand composition into consideration in
-terms of tile melds, wait patterns and/or win method. Every hand begins with a default start value
-of 20 fu. To determine the final number of fu, the sources of fu are added up along with the base
-number and then rounded up to the next multiple of 10. The exception is the chiitoitsu yaku, which
-is fixed to 25 fu and is not rounded. While fu may be counted for hands worth 5 han or greater, it
-is not necessary. At 5 han and above, the hand value is dependent only on the han count, and the fu
-count is ignored. When playing with the uncommon aotenjou rule, however, the fu count is used for
-hands of any han value.
+terms of [tile melds]({{< ref "/riichi/terminology/mentsu.md" >}}), [wait
+patterns]({{< ref "/riichi/strategy/machi.md" >}}) and/or win method. Every hand begins with a
+default start value of 20 fu. To determine the final number of fu, the sources of fu are added up
+along with the base number and then rounded up to the next multiple of 10. The exception is the
+[chiitoitsu]({{< ref "/riichi/yaku/chiitoitsu.md" >}}) yaku, which is fixed to 25 fu and is not
+rounded. While fu may be counted for hands worth 5 han or greater, it is not necessary. At 5 han and
+above, the hand value is dependent only on the han count, and the fu count is ignored. When playing
+with the uncommon aotenjou rule, however, the fu count is used for hands of any han value.
 
 ### Yakuman
 
@@ -70,12 +77,15 @@ double yakuman as a 26-han yaku.
 
 To determine the point value of a hand, the following procedure is used:
 
-1.  If the hand is a yakuman, then hand scores 8,000 basic points.
+1.  If the hand is a [yakuman]({{< ref "/riichi/yaku/list-of-yaku.md" >}}), then hand scores 8,000
+    basic points.
     1.  If double yakuman are used, a double yakuman scores 16,000 points.
     2.  If multiple yakuman are used, and multiple single and/or double yakuman are completed, their
         values are added together.
-2.  Otherwise, determine the hand's valid yaku. Be sure not to count invalid combinations such as
-    chanta + junchan.
+2.  Otherwise, determine the hand's valid [yaku]({{< ref "/riichi/yaku/yaku.md" >}}). Be sure not to
+    count [invalid combinations]({{< ref "/riichi/strategy/yaku-compatibility.md" >}}) such as
+    [chanta]({{< ref "/riichi/yaku/chanta.md" >}}) +
+    [junchan]({{< ref "/riichi/yaku/junchantaiyaochuu.md" >}}).
 3.  Count the han based on the yaku.
 4.  Count any number of dora to the han count.
 5.  If the han count is 5 or more, then counting fu is no longer necessary. Score the hand according
@@ -85,10 +95,12 @@ To determine the point value of a hand, the following procedure is used:
     3.  8-10 han: baiman hand worth 4,000 base points.
     4.  11-12 han: sanbaiman hand worth 6,000 base points.
 6.  If the han count is 4 or less, then count fu.
-    1.  If the hand is not seven pairs, round the fu up to the nearest 10.
+    1.  If the hand is not [seven pairs]({{< ref "/riichi/yaku/chiitoitsu.md" >}}), round the fu up
+        to the nearest 10.
 7.  To get the base points, multiply the fu value by four, and then double it for each han (**fu ×
     2<sup>(2 + han)</sup>**).
-8.  If playing with kiriage mangan, round a 1,920-point hand up to a 2,000-point mangan.
+8.  If playing with [kiriage mangan]({{< ref "/riichi/strategy/scoring-table.md" >}}), round a
+    1,920-point hand up to a 2,000-point mangan.
 9.  In any case, if the base points value would be above 2,000 for a hand with 4 or fewer han, it is
     instead a 2,000-point mangan.
 
@@ -114,7 +126,8 @@ win by tsumo is worth a few hundred more points than a win by ron.
 `main|Honba`
 
 In addition to the points for the hand, the winner is paid a small sum of points based on the number
-of honba counters on the table. Thus, as a hand is repeated, its value goes up slowly.
+of honba counters on the table. Thus, as a hand is
+[repeated]({{< ref "/riichi/rules/renchan.md" >}}), its value goes up slowly.
 
 ## End game score
 

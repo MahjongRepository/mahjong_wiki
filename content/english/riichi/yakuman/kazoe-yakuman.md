@@ -21,9 +21,11 @@ tags = ["Yakuman"]
 
 ```
 
-**Kazoe yakuman** {{< kana "数え役満" >}} is a special class of yakuman, where hands are composed of
-regular yaku. Yakuman in this fashion is achieved with the accumulation of 13 han or more via a
-mixed combination of regular yaku and/or dora. Unlike the other yakuman patterns, the name "kazoe
+**Kazoe yakuman** {{< kana "数え役満" >}} is a special class of
+[yakuman]({{< ref "/riichi/yakuman/yakuman.md" >}}), where hands are composed of regular
+[yaku]({{< ref "/riichi/yaku/yaku.md" >}}). Yakuman in this fashion is achieved with the
+accumulation of 13 han or more via a mixed combination of regular yaku and/or
+[dora]({{< ref "/riichi/rules/dora.md" >}}). Unlike the other yakuman patterns, the name "kazoe
 yakuman" is a generic name. Thus, different formations of kazoe yakuman are differentiated by their
 composition, just like any other hand.
 
@@ -42,13 +44,16 @@ han.
 
 ### Chinitsu based
 
-With chinitsu already at 6 han while closed, this hand is already almost half-way to the needed 13
-han for kazoe yakuman. Naturally, other yaku and/or dora are necessary in order to increase the han
-count to 13. Nevertheless, chinitsu is a common yaku for this combination.
+With [chinitsu]({{< ref "/riichi/yaku/chiniisou.md" >}}) already at 6 han while closed, this hand is
+already almost half-way to the needed 13 han for kazoe yakuman. Naturally, other yaku and/or dora
+are necessary in order to increase the han count to 13. Nevertheless, chinitsu is a common yaku for
+this combination.
 
 **Example:**
 
-- Chinitsu with san ankou, riichi, tsumo, and some dora.
+- Chinitsu with [san ankou]({{< ref "/riichi/yaku/sanankou.md" >}}),
+  [riichi]({{< ref "/riichi/rules/riichi.md" >}}),
+  [tsumo]({{< ref "/riichi/terminology/tsumo.md" >}}), and some dora.
 
 <!-- end list -->
 
@@ -77,7 +82,9 @@ A few possible kazoe yakuman combinations do not require dora to achieve 13 han.
 
 **Examples:**
 
-- Chinitsu with ryanpeiko, tanyao, pinfu, riichi, and tsumo.
+- Chinitsu with [ryanpeiko]({{< ref "/riichi/yaku/ryanpeikou.md" >}}),
+  [tanyao]({{< ref "/riichi/yaku/tanyao.md" >}}), [pinfu]({{< ref "/riichi/yaku/pinfu.md" >}}),
+  riichi, and tsumo.
 
 <!-- end list -->
 
@@ -87,7 +94,14 @@ A few possible kazoe yakuman combinations do not require dora to achieve 13 han.
 
 <!-- end list -->
 
-- Shousangen with haku, hatsu, toitoi, san ankou, honroutou, honitsu, and san kantsu
+- [Shousangen]({{< ref "/riichi/yaku/shousangen.md" >}}) with
+  [haku]({{< ref "/riichi/rules/yakuhai.md" >}}),
+  [hatsu]({{< ref "/riichi/terminology/jihai.md" >}}),
+  [toitoi]({{< ref "/riichi/yaku/toitoihou.md" >}}), [san
+  ankou]({{< ref "/riichi/yaku/sanankou.md" >}}),
+  [honroutou]({{< ref "/riichi/yaku/honroutou.md" >}}),
+  [honitsu]({{< ref "/riichi/yaku/honiisou.md" >}}), and [san
+  kantsu]({{< ref "/riichi/yaku/sankantsu.md" >}})
 
 <!-- end list -->
 
@@ -97,7 +111,12 @@ A few possible kazoe yakuman combinations do not require dora to achieve 13 han.
 
 <!-- end list -->
 
-- Shousangen with haku, chun, double ton, toitoi, san kantsu, rinshan kaihou, honitsu
+- Shousangen with [haku]({{< ref "/riichi/rules/yakuhai.md" >}}),
+  [chun]({{< ref "/riichi/rules/yakuhai.md" >}}), [double
+  ton]({{< ref "/riichi/rules/yakuhai.md" >}}), [toitoi]({{< ref "/riichi/yaku/toitoihou.md" >}}),
+  [san kantsu]({{< ref "/riichi/yaku/sankantsu.md" >}}), [rinshan
+  kaihou]({{< ref "/riichi/yaku/rinshan-kaihou.md" >}}),
+  [honitsu]({{< ref "/riichi/yaku/honiisou.md" >}})
 
 <!-- end list -->
 

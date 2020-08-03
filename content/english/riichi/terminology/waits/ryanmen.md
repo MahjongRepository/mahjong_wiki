@@ -15,25 +15,30 @@ tags = ["Terminology", "Machi"]
 |gameExample = [Using riichi](http://tenhou.net/0/?log=2013122121gm-0089-0000-x9faca343bf4e&tw=2)
 ```
 
-**Ryanmen** {{< kana "両面" >}} is the most commonly occurring wait pattern in the game. Commonly
-referred as the "open wait", this pattern involves two consecutively numbered tiles, waiting on the
-"outside" number. For example, a 3-4 needs either a 2 or a 5 in order to form tile groups of either
-2-3-4 or 3-4-5. By far, this is the most efficient wait pattern, as it uses just two tiles while
-waiting on a maximum of eight possible tiles.
+**Ryanmen** {{< kana "両面" >}} is the most commonly occurring [wait
+pattern]({{< ref "/riichi/strategy/machi.md" >}}) in the game. Commonly referred as the "open wait",
+this pattern involves two consecutively numbered tiles, waiting on the "outside" number. For
+example, a 3-4 needs either a 2 or a 5 in order to form [tile
+groups]({{< ref "/riichi/terminology/mentsu.md" >}}) of either 2-3-4 or 3-4-5. By far, this is the
+most efficient wait pattern, as it uses just two tiles while waiting on a maximum of eight possible
+tiles.
 
 ## Pattern
 
 {{< t 000000z45s00000z >}} Waiting for: {{< t 3s >}} or {{< t 6s >}}
 
 Always, ryanmen wait for two tiles. In addition, two ryanmen patterns may combine to form a
-ryanmenten, which waits for 3 tiles instead of two.
+[ryanmenten]({{< ref "/riichi/terminology/waits/sanmenchan.md" >}}), which waits for 3 tiles instead
+of two.
 
 ## Fu
 
 Due to its relatively ease, the ryanmen pattern is not awarded any fu. The inability to gain fu
-based on ryanmen makes it an essential component to the yaku, pinfu. The yaku, pinfu, requires
-ryanmen, because the waiting pattern does not produce fu. Ryanmenten is also allowed, as nested
-ryanmen do not produce fu either.
+based on ryanmen makes it an essential component to the yaku,
+[pinfu]({{< ref "/riichi/yaku/pinfu.md" >}}). The yaku,
+[pinfu]({{< ref "/riichi/yaku/pinfu.md" >}}), requires ryanmen, because the waiting pattern does not
+produce fu. [Ryanmenten]({{< ref "/riichi/terminology/waits/sanmenchan.md" >}}) is also allowed, as
+nested ryanmen do not produce fu either.
 
 ## Usage
 
@@ -43,8 +48,9 @@ Ryanmen is the most common wait pattern, due to both convenience and probability
 
 `mahjong intervals` `main|Suji`
 
-Ryanmen is directly related to suji, or the **mahjong intervals**. At any time, ryanmen waits on a
-pair based on the three intervals of: 1-4-7, 2-5-8, and 3-6-9.
+Ryanmen is directly related to [suji]({{< ref "/riichi/strategy/suji.md" >}}), or the **mahjong
+intervals**. At any time, ryanmen waits on a pair based on the three intervals of: 1-4-7, 2-5-8, and
+3-6-9.
 
 {{< t 000000z23p00000z >}} Waiting for: {{< t 1p >}} or {{< t 4p >}}
 

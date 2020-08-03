@@ -5,13 +5,14 @@ updated = "2020-05-19T21:47:41Z"
 tags = ["Terminology"]
 +++
 
-**Iishanten** is the state of the hand, where one tile is needed to achieve tenpai. This is the
-closest state of a hand to tenpai.
+**Iishanten** is the state of the hand, where one tile is needed to achieve
+[tenpai]({{< ref "/riichi/strategy/tenpai.md" >}}). This is the [closest state of a
+hand]({{< ref "/riichi/strategy/shanten.md" >}}) to tenpai.
 
 ## Four types
 
-The four types are based on the possible configurations regarding complete and incomplete tile
-groups.
+The four types are based on the possible configurations regarding complete and incomplete [tile
+groups]({{< ref "/riichi/terminology/mentsu.md" >}}).
 
 ### Yojouhai
 

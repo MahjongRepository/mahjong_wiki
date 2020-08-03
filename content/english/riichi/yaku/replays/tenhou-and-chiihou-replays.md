@@ -5,7 +5,8 @@ updated = "2017-12-25T11:35:55Z"
 tags = ["Yaku replays"]
 +++
 
-These are replays featuring tenhou and chiihou.
+These are replays featuring [tenhou]({{< ref "/riichi/online/tenhou/tenhou.md" >}}) and
+[chiihou]({{< ref "/riichi/yakuman/tenhou-and-chiihou.md" >}}).
 
 ## Tenhou
 

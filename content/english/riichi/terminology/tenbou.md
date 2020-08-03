@@ -42,9 +42,10 @@ separate color can be used to denote a 500 point stick to replace five 100 point
 
 ## Point exchanges
 
-Given the scores on the score table, certain amounts can be exchanged efficiently via larger score
-payments while receiving change. Naturally, various score amounts can also be paid exactly while via
-efficient exchanges. The following are some specific examples:
+Given the scores on the [score table]({{< ref "/riichi/strategy/scoring-table.md" >}}), certain
+amounts can be exchanged efficiently via larger score payments while receiving change. Naturally,
+various score amounts can also be paid exactly while via efficient exchanges. The following are some
+specific examples:
 
 {{< table >}}
 

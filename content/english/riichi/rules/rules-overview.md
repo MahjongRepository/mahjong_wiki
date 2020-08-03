@@ -7,8 +7,8 @@ tags = ["Game rules"]
 
 Japanese mahjong is quite complex with its many rules and special cases. This article is a brief and
 quick layout to the most basic rules of the game, just to get new players started. For more detailed
-documentation on the rules, see Japanese mahjong, as well as other articles covering various game
-topics.
+documentation on the rules, see [Japanese mahjong]({{< ref "/riichi/rules/japanese-mahjong.md" >}}),
+as well as other articles covering various game topics.
 
 ## Tiles and suits
 
@@ -23,12 +23,12 @@ topics.
 
 {{< table >}}
 
-|                    |                              |
-| ------------------ | ---------------------------- |
-| `\#mjt:123456789m` | 36 tiles in the **man** suit |
-| `\#mjt:123456789p` | 36 tiles in the **pin** suit |
-| `\#mjt:123456789s` | 36 tiles in the **sou** suit |
-| `\#mjt:1234567z`   | 28 honor tiles               |
+|                    |                                                                                 |
+| ------------------ | ------------------------------------------------------------------------------- |
+| `\#mjt:123456789m` | 36 tiles in the **[man]({{< ref "/riichi/rules/japanese-mahjong.md" >}})** suit |
+| `\#mjt:123456789p` | 36 tiles in the **[pin]({{< ref "/riichi/rules/japanese-mahjong.md" >}})** suit |
+| `\#mjt:123456789s` | 36 tiles in the **[sou]({{< ref "/riichi/rules/japanese-mahjong.md" >}})** suit |
+| `\#mjt:1234567z`   | 28 [honor tiles]({{< ref "/riichi/terminology/jihai.md" >}})                    |
 
 {{</ table >}}
 
@@ -64,8 +64,10 @@ thumb|right|350px|Mahjong tiles at the initial setup before tiles are dealt.
 ## Objective
 
 - Players take turns to draw and discard tiles to build complete hands (if possible)
-- Develop ready hands and hopefully complete them by draw or discard
-- Avoid playing into other player's hands, or else lose points
+- Develop [ready hands]({{< ref "/riichi/strategy/tenpai.md" >}}) and hopefully complete them by
+  draw or discard
+- [Avoid playing into other player's hands]({{< ref "/riichi/strategy/defense.md" >}}), or else lose
+  points
 
 <!-- end list -->
 
@@ -74,7 +76,8 @@ thumb|right|350px|Mahjong tiles at the initial setup before tiles are dealt.
 
 ## Hands and yaku
 
-- Winning hands of 14 tiles contain four melds, plus a pair
+- Winning hands of 14 tiles contain four [melds]({{< ref "/riichi/terminology/mentsu.md" >}}), plus
+  a pair
 
 :\* Melds are specific groups of 3 tiles:
 
@@ -82,7 +85,9 @@ thumb|right|350px|Mahjong tiles at the initial setup before tiles are dealt.
 
 :\* Melds and pairs cannot be of mixed suits
 
-- Two exceptions to this pattern: kokushi musou and Chii toitsu
+- Two exceptions to this pattern: [kokushi
+  musou]({{< ref "/riichi/terminology/waits/kokushi-musou.md" >}}) and [Chii
+  toitsu]({{< ref "/riichi/yaku/chiitoitsu.md" >}})
 
 A complete hand example:
 
@@ -92,7 +97,8 @@ A complete hand example:
 
 `main|List of yaku`
 
-- A winning hand must have at least one yaku (see the list for pattern examples)
+- A winning hand must have at least one [yaku]({{< ref "/riichi/yaku/list-of-yaku.md" >}}) (see [the
+  list]({{< ref "/riichi/yaku/list-of-yaku.md" >}}) for pattern examples)
 - A yaku is a special condition under which the win occurs, or a distinguished pattern within the
   hand's tiles
 - These patterns may be viewed like poker hands
@@ -105,15 +111,15 @@ A complete hand example:
 
 - A wide variety of strategies are employed, regarding building winning hands and avoiding other
   player's hands
-- Memorization of the yaku is key
+- Memorization of the [yaku]({{< ref "/riichi/yaku/list-of-yaku.md" >}}) is key
 - Yet, players may continue to play the game simply building hands, without or with limited
   knowledge of the yaku
 
 ## See also
 
-- Japanese mahjong
-- Tenhou.net rules
-- EMA rules
+- [Japanese mahjong]({{< ref "/riichi/rules/japanese-mahjong.md" >}})
+- [Tenhou.net rules]({{< ref "/riichi/" >}})
+- [EMA rules]({{< ref "/riichi/rules/variations/ema-riichi-competition-rules.md" >}})
 
 ## External links
 
@@ -125,7 +131,7 @@ A complete hand example:
 
 -
 
-    Select choice for English speakers (Tenhou.net rules)
+    Select choice for English speakers ([Tenhou.net rules]({{< ref "/riichi/" >}}))
 
 <!-- end list -->
 

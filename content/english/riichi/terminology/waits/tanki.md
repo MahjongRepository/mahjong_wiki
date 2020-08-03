@@ -19,10 +19,12 @@ tags = ["Terminology", "Machi"]
 
 ```
 
-**Tanki** {{< kana "単騎" >}} is a common type of wait pattern. Most mahjong hands form to complete
-the fourth meld. However, a handful of mahjong hands can be formed with four complete melds, while
-needing to finish the pair. That makes this pattern referred to as the "pair wait". Unlike the other
-basic patterns, there are a few types of pair waits to consider.
+**Tanki** {{< kana "単騎" >}} is a common type of [wait
+pattern]({{< ref "/riichi/strategy/machi.md" >}}). Most mahjong hands form to complete the fourth
+[meld]({{< ref "/riichi/terminology/mentsu.md" >}}). However, a handful of mahjong hands can be
+formed with four complete melds, while needing to finish the
+[pair]({{< ref "/riichi/terminology/jantou.md" >}}). That makes this pattern referred to as the
+"pair wait". Unlike the other basic patterns, there are a few types of pair waits to consider.
 
 ## Pattern
 
@@ -36,14 +38,16 @@ The wait pattern involves waiting for a single tile.
 {{< t 4p >}} {{< t -000-000-000-000z >}}
 
 **Hadaka tanki** {{< kana "裸単騎" >}} is a special type of pair wait pattern. A hand in this state
-has called for discarded tiles four times. Upon doing so, only one tile is left closed in the hand.
-The yakuman suukantsu always ends up as hadaka tanki at tenpai.
+has [called for discarded tiles]({{< ref "/riichi/rules/naki.md" >}}) four times. Upon doing so,
+only one tile is left closed in the hand. The yakuman
+[suukantsu]({{< ref "/riichi/yakuman/suukantsu.md" >}}) always ends up as hadaka tanki at tenpai.
 
-Of all the hand possibilities, hadaka tanki is the weakest position in terms of defending. Only one
-tile can be exchanged by the draw-discard process. This is due to the static nature of tiles in open
-calls. The worst case scenario for a hand in hadaka tanki involves both the waiting tile and the
-drawn tile as winning tiles for another player. In this case, a player has no choice but to play
-into another player's hand.
+Of all the hand possibilities, hadaka tanki is the weakest position in terms of
+[defending]({{< ref "/riichi/strategy/defense.md" >}}). Only one tile can be exchanged by the
+draw-discard process. This is due to the static nature of tiles in open calls. The worst case
+scenario for a hand in hadaka tanki involves both the waiting tile and the drawn tile as winning
+tiles for another player. In this case, a player has no choice but to play into another player's
+hand.
 
 ### Jigoku
 
@@ -72,10 +76,12 @@ completion.
 Tanki, or single tile, is best used when seeking to win off of a player's discard. While the number
 of waiting tiles is limited to a maximum of three, the pattern has its uses. It's greatest strength
 stems from its ability to select any tile as a waiting tile, barring any tile limitations applied by
-certain yaku. Often enough, this pattern may confuse players; and even traps, like suji traps, may
-be employed. Not even kabe may be applicable. Waits involving honor tiles, especially when one is
-discarded, is actually powerful, because players may believe those tiles are actually safe tiles.
-All-in-all, this pattern is best used to counter or bait players, who are looking to defend.
+certain yaku. Often enough, this pattern may confuse players; and even traps, like
+[suji]({{< ref "/riichi/strategy/suji.md" >}}) traps, may be employed. Not even
+[kabe]({{< ref "/riichi/strategy/kabe.md" >}}) may be applicable. Waits involving honor tiles,
+especially when one is discarded, is actually powerful, because players may believe those tiles are
+actually [safe tiles]({{< ref "/riichi/strategy/betaori.md" >}}). All-in-all, this pattern is best
+used to counter or bait players, who are looking to defend.
 
 ## External links
 

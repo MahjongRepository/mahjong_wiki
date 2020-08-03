@@ -5,7 +5,7 @@ updated = "2019-04-01T11:27:05Z"
 tags = ["Yaku replays"]
 +++
 
-This is a list of games featuring sanshoku doujun.
+This is a list of games featuring [sanshoku doujun]({{< ref "/riichi/yaku/sanshoku-doujun.md" >}}).
 
 ## Open
 

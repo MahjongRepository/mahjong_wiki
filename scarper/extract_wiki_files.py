@@ -163,13 +163,14 @@ def main():
         u"Professional League Game Rules",
     ]
     pages = []
+    redirects = {}
     with open(xml_file, "r") as f:
         root = etree.fromstring(f.read())
 
         for page_tag in root.findall("page", namespaces=root.nsmap):
-            # skip system pages with redirects
+            redirect_title = None
             if page_tag.find("redirect", namespaces=root.nsmap) is not None:
-                continue
+                redirect_title = page_tag.find("redirect", namespaces=root.nsmap).attrib["title"]
 
             page = {}
             for child in page_tag:
@@ -192,7 +193,16 @@ def main():
             if any([page["title"].startswith(x) for x in skip_titles_start_with]):
                 continue
 
-            pages.append(page)
+            if redirect_title:
+                if redirect_title in skip_pages:
+                    continue
+
+                if any([redirect_title.startswith(x) for x in skip_titles_start_with]):
+                    continue
+
+                redirects[page["title"].lower()] = redirect_title.lower().replace(" ", "_")
+            else:
+                pages.append(page)
 
     pages = sorted(pages, key=lambda x: x["title"])
     print("pages", len(pages))
@@ -213,6 +223,8 @@ def main():
         pages_meta_data[file_name]["title"] = page["title"]
         pages_meta_data[file_name]["id"] = page["id"]
         pages_meta_data[file_name]["updated"] = page["timestamp"]
+
+    pages_meta_data["_redirects"] = redirects
 
     with open(os.path.join(export_dir, "_meta.json"), "w") as f:
         f.write(json.dumps(pages_meta_data, indent=2, sort_keys=True))

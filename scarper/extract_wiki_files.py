@@ -200,9 +200,14 @@ def main():
     with open(os.path.join(export_dir, "_meta.json"), "r") as f:
         pages_meta_data = json.loads(f.read())
 
+    for x in pages_meta_data.keys():
+        new_key = x.lower()
+        pages_meta_data[new_key] = pages_meta_data[x]
+        del pages_meta_data[x]
+
     for page in pages:
         title = page["title"]
-        file_name = title.replace(" ", "_").replace("/", "__")
+        file_name = title.replace(" ", "_").replace("/", "__").lower()
 
         with open(os.path.join(export_dir, "%s.wiki" % file_name), "w") as f:
             f.write(page["text"].encode("utf-8"))
@@ -213,7 +218,7 @@ def main():
         pages_meta_data[file_name]["title"] = page["title"]
         pages_meta_data[file_name]["id"] = page["id"]
         pages_meta_data[file_name]["updated"] = page["timestamp"]
-
+    #
     with open(os.path.join(export_dir, "_meta.json"), "w") as f:
         f.write(json.dumps(pages_meta_data, indent=2, sort_keys=True))
 
